@@ -5,6 +5,16 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>WEATHER ACTION</title>
+      <link>/wx.htm</link>
+      <description>&lt;b&gt;&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>QUAKE SHEET</title>
+      <link>/quake.htm</link>
+      <description>&lt;b&gt;&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
       <title>SEARCH DRUDGE</title>
       <link>http://www.drudgereportArchives.com/</link>
       <description>&lt;b&gt;www.drudgereportArchives.com&lt;/b&gt;&lt;br&gt;</description>
