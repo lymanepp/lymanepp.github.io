@@ -5,6 +5,11 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>Video...</title>
+      <link>https://www.youtube.com/watch?v=VnSoFxIYWSg</link>
+      <description>&lt;b&gt;www.youtube.com&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
       <title>PEPPER GOES TO PARLIAMENT: MPS TO QUIZ ROBOT...</title>
       <link>https://www.bbc.com/news/uk-politics-45824589</link>
       <description>&lt;b&gt;www.bbc.com&lt;/b&gt;&lt;br&gt;</description>
@@ -453,16 +458,6 @@
       <title>Moroder announces first ever live tour -- at 78!</title>
       <link>https://www.theguardian.com/music/2018/oct/10/giorgio-moroder-announces-first-ever-live-tour-at-78</link>
       <description>&lt;b&gt;www.theguardian.com&lt;/b&gt;&lt;br&gt;</description>
-    </item>
-    <item>
-      <title>UPDATE: Giant mosquitoes wreak havoc in NCarolina...</title>
-      <link>https://www.cnn.com/2018/10/09/health/giant-mosquitoes-north-carolina-hurricane-bn/index.html</link>
-      <description>&lt;b&gt;www.cnn.com&lt;/b&gt;&lt;br&gt;</description>
-    </item>
-    <item>
-      <title>Gas Prices Continue to Rise...</title>
-      <link>http://coosavalleynews.com/2018/10/gas-prices-continue-to-rise/</link>
-      <description>&lt;b&gt;coosavalleynews.com&lt;/b&gt;&lt;br&gt;</description>
     </item>
   </channel>
 </rss>
