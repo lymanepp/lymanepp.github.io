@@ -5,6 +5,16 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>EXODUS: 156 Residents Leave Chicago Daily...</title>
+      <link>https://www.bloombergquint.com/business/chicago-exodus-sees-city-shrink-by-156-daily-demographic-trends</link>
+      <description>&lt;b&gt;www.bloombergquint.com&lt;/b&gt;&lt;br&gt;Nearly 156 People Leave Chicago Daily: Demographic TrendsÂ</description>
+    </item>
+    <item>
+      <title>FACEBOOK bug exposed millions users' unposted photos...</title>
+      <link>https://techcrunch.com/2018/12/14/facebook-photo-bug/</link>
+      <description>&lt;b&gt;techcrunch.com&lt;/b&gt;&lt;br&gt;Reset the “days since the last Facebook privacy scandal” counter, as a Facebook has just revealed a Photo API bug gave app developers too much access to the photos of up to 5.6 million users. The bug allowed apps users had approved to pull their timeline photos to also receive their Fac…</description>
+    </item>
+    <item>
       <title>Diverse nature of life across globe revealed in stunning photos...</title>
       <link>https://www.thesun.co.uk/travel/7975836/diverse-nature-of-life-across-the-globe-revealed-in-stunning-travel-photos/</link>
       <description>&lt;b&gt;www.thesun.co.uk&lt;/b&gt;&lt;br&gt;MESMERISING photographs that act as a portal into a variety of cultures from all over the world have been revealed as part of a competition. Travel Photographer of the Year 2018 is a collection of …</description>
@@ -448,11 +458,6 @@
       <title>Hunter Shoots Largest Buck Ever?</title>
       <link>https://chicago.cbslocal.com/2018/12/13/record-buck-illinois-hunting/</link>
       <description>&lt;b&gt;chicago.cbslocal.com&lt;/b&gt;&lt;br&gt;A hunter in Williamson County may have shot the largest buck ever in the United States.</description>
-    </item>
-    <item>
-      <title>Russian nuke bombers fly over Caribbean Sea...</title>
-      <link>https://abcnews.go.com/International/wireStory/russian-nuclear-capable-bombers-fly-caribbean-sea-59782330</link>
-      <description>&lt;b&gt;abcnews.go.com&lt;/b&gt;&lt;br&gt;The Russian military says two of its nuclear-capable strategic bombers have flown over the Caribbean Sea during a 10-hour training mission. A pair of Tu-160 bombers arrived at Maiquetia airport outside Caracas Monday. The Russian Defense Ministry said they were escorted by Venezuelan...</description>
     </item>
   </channel>
 </rss>
