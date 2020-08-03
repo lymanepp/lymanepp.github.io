@@ -5,6 +5,16 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>SATELLITE...</title>
+      <link>https://www.weathernerds.org/satellite/?initsatsrc=On&amp;initsatname=GOES16&amp;initsattype=ir&amp;initcscheme=ir1&amp;initimdimx=1050&amp;initimdimy=764&amp;initrange=32.750000000000:-86.750000000000:24.250000000000:-72.750000000000&amp;initloop=True&amp;initnframes=20&amp;initlightning16=On&amp;initlightning17=Off&amp;initltngfed=Off&amp;initltngtoe=Off&amp;initinterstates=On&amp;initwarnings=On&amp;initlatlon=On&amp;initascata=Off&amp;initascatb=Off&amp;initascatc=Off&amp;initascatamba=Off&amp;initascatambb=Off&amp;initascatambc=Off&amp;initsst=Off</link>
+      <description>&lt;b&gt;www.weathernerds.org&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>RADAR...</title>
+      <link>https://apps.sfwmd.gov/sfwmd/common/images/weather/noaaport/radar_flanim.gif</link>
+      <description>&lt;b&gt;apps.sfwmd.gov&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
       <title>VIDEO UPDATE...</title>
       <link>https://www.youtube.com/watch?v=yxkLe_86-rU</link>
       <description>&lt;b&gt;www.youtube.com&lt;/b&gt;&lt;br&gt;Website: https://www.tropicaltidbits.com/ Support Tropical Tidbits on Patreon: https://www.patreon.com/bePatron?c=651594 Please note that these posts do NOT ...</description>
@@ -213,11 +223,6 @@
       <title>NYC has more shootings so far in 2020 than all last year...</title>
       <link>https://nypost.com/2020/08/02/there-have-now-been-more-nyc-shootings-this-year-than-in-all-of-2019/</link>
       <description>&lt;b&gt;nypost.com&lt;/b&gt;&lt;br&gt;A man who walked bleeding into Lincoln Hospital in the Bronx Saturday pushed NYC’s total number of shootings this year to 777 — topping the 776 recorded in all of last year, NYPD data c…</description>
-    </item>
-    <item>
-      <title>MEDIA BANNED...</title>
-      <link>https://www.the-sun.com/news/1240556/trump-vote-nomination-republican-national-convention-private-coronavirus/</link>
-      <description>&lt;b&gt;www.the-sun.com&lt;/b&gt;&lt;br&gt;THE Republican vote to nominate President Donald Trump for president will take place later this month — without the press. A spokesperson for the Republican National Convention told The Associated …</description>
     </item>
   </channel>
 </rss>
