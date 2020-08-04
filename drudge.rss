@@ -364,15 +364,5 @@
       <link>https://dnyuz.com/2020/08/03/the-benefits-of-talking-to-strangers/</link>
       <description>&lt;b&gt;dnyuz.com&lt;/b&gt;&lt;br&gt;I’m a lifelong extrovert who readily establishes and relishes casual contacts with people I encounter during daily life: while walking</description>
     </item>
-    <item>
-      <title>SATELLITE...</title>
-      <link>https://www.weathernerds.org/satellite/?initsatsrc=On&amp;initsatname=GOES16&amp;initsattype=ir&amp;initcscheme=ir1&amp;initimdimx=1050&amp;initimdimy=764&amp;initrange=32.750000000000:-86.750000000000:24.250000000000:-72.750000000000&amp;initloop=True&amp;initnframes=20&amp;initlightning16=On&amp;initlightning17=Off&amp;initltngfed=Off&amp;initltngtoe=Off&amp;initinterstates=On&amp;initwarnings=On&amp;initlatlon=On&amp;initascata=Off&amp;initascatb=Off&amp;initascatc=Off&amp;initascatamba=Off&amp;initascatambb=Off&amp;initascatambc=Off&amp;initsst=Off</link>
-      <description>&lt;b&gt;www.weathernerds.org&lt;/b&gt;&lt;br&gt;</description>
-    </item>
-    <item>
-      <title>RADAR...</title>
-      <link>https://apps.sfwmd.gov/sfwmd/common/images/weather/noaaport/radar_flanim.gif</link>
-      <description>&lt;b&gt;apps.sfwmd.gov&lt;/b&gt;&lt;br&gt;</description>
-    </item>
   </channel>
 </rss>
