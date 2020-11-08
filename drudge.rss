@@ -5,6 +5,16 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>RADAR...</title>
+      <link>https://weather.com/weather/radar/interactive/l/09a84a2ff314d34b1ef1d74b04d61ca1a06a20aa8c8e81e0adc0fdfc0cad11d6</link>
+      <description>&lt;b&gt;weather.com&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>SATELLITE...</title>
+      <link>https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL292020/13/GOES16-AL292020-13-1000x1000.gif?hash=37262</link>
+      <description>&lt;b&gt;cdn.star.nesdis.noaa.gov&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
       <title>VIDEO...</title>
       <link>https://www.youtube.com/watch?v=452iQ8ttIcc&amp;feature=youtu.be&amp;t=3269</link>
       <description>&lt;b&gt;www.youtube.com&lt;/b&gt;&lt;br&gt;</description>
