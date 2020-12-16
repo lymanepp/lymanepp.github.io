@@ -5,6 +5,11 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>12 INCHES NYC?</title>
+      <link>https://forecast.weather.gov/showsigwx.php?warnzone=NYZ072&amp;warncounty=NYC061&amp;firewxzone=NYZ072&amp;local_place1=New%20York%20NY&amp;product1=Winter+Storm+Warning&amp;lat=40.7198&amp;lon=-73.993#.X9lyPNhKhhE</link>
+      <description>&lt;b&gt;forecast.weather.gov&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
       <title>AMAZON Reality Show Condemned After Footage Leaks of Dogs in Jeopardy...</title>
       <link>https://www.thewrap.com/amazon-the-pack-condemned-peta-rappelling-challenge-video/</link>
       <description>&lt;b&gt;www.thewrap.com&lt;/b&gt;&lt;br&gt;</description>
@@ -328,11 +333,6 @@
       <title>Virus fatigue winning at worst possible moment...</title>
       <link>https://www.fastcompany.com/90585232/i-cant-handle-it-anymore-covid-fatigue-is-setting-in-at-the-worst-possible-moment</link>
       <description>&lt;b&gt;www.fastcompany.com&lt;/b&gt;&lt;br&gt;</description>
-    </item>
-    <item>
-      <title>Farrakhan warns against 'toxic waste' vaccine...</title>
-      <link>https://dailycaller.com/2020/12/14/louis-farrakhan-coronavirus-vaccine-skeptic/</link>
-      <description>&lt;b&gt;dailycaller.com&lt;/b&gt;&lt;br&gt;</description>
     </item>
   </channel>
 </rss>
