@@ -70,11 +70,6 @@
       <description>&lt;b&gt;www.thedailybeast.com&lt;/b&gt;&lt;br&gt;</description>
     </item>
     <item>
-      <title>52-Foot Trailer of Death...</title>
-      <link>https://www.thedailybeast.com/los-angeles-covid-19-crisis-revealed-by-52-foot-trailer-of-death-at-funeral-home</link>
-      <description>&lt;b&gt;www.thedailybeast.com&lt;/b&gt;&lt;br&gt;</description>
-    </item>
-    <item>
       <title>REPORTS:  Donald 'hates' Melania's Mar-a-Lago renovations, orders new décor ripped up...</title>
       <link>https://www.the-sun.com/news/2048794/trump-hates-melanias-mar-a-lago-renovations/</link>
       <description>&lt;b&gt;www.the-sun.com&lt;/b&gt;&lt;br&gt;</description>
@@ -125,11 +120,6 @@
       <description>&lt;b&gt;www.nytimes.com&lt;/b&gt;&lt;br&gt;</description>
     </item>
     <item>
-      <title>Lost year: Pandemic left many 'stuck in time'...</title>
-      <link>https://www.nbcnews.com/news/us-news/lost-year-how-covid-19-left-many-americans-stuck-time-n1252152</link>
-      <description>&lt;b&gt;www.nbcnews.com&lt;/b&gt;&lt;br&gt;</description>
-    </item>
-    <item>
       <title>Georgia's Twin Runoffs Will Likely Drag Out Results for Days...</title>
       <link>https://www.msn.com/en-us/news/politics/georgias-twin-runoffs-are-likely-to-drag-out-results-for-days/ar-BB1cl1lW</link>
       <description>&lt;b&gt;www.msn.com&lt;/b&gt;&lt;br&gt;</description>
@@ -158,6 +148,11 @@
       <title>Park Service investigates video showing ranger Tasering Native American man walking dog off-trail...</title>
       <link>https://www.lmtonline.com/news/article/National-Park-Service-investigates-video-showing-15835711.php</link>
       <description>&lt;b&gt;www.lmtonline.com&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Coffin manufacturer running out of wood...</title>
+      <link>https://www.independent.co.uk/news/world/americas/coffin-deaths-los-angeles-covid-b1780336.html</link>
+      <description>&lt;b&gt;www.independent.co.uk&lt;/b&gt;&lt;br&gt;</description>
     </item>
     <item>
       <title>Trump big policy win: Stronger showers, faster dishwashers. Something no one asked for...</title>
@@ -190,6 +185,16 @@
       <description>&lt;b&gt;www.dailystar.co.uk&lt;/b&gt;&lt;br&gt;</description>
     </item>
     <item>
+      <title>Flood of 60,000 deep fakes 'threaten democracy', scientist warns...</title>
+      <link>https://www.dailystar.co.uk/news/latest-news/flood-60000-deep-fakes-unleashed-23238275</link>
+      <description>&lt;b&gt;www.dailystar.co.uk&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Alexander Wang Accused of Molesting Male, Trans Models...</title>
+      <link>https://www.dailymail.co.uk/news/article-9097667/Alexander-Wang-accused-sexual-assault-victims.html</link>
+      <description>&lt;b&gt;www.dailymail.co.uk&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
       <title>Atlanta mayor admits doesn't know how to stop crime wave...</title>
       <link>https://www.dailymail.co.uk/news/article-9094477/Atlanta-mayor-asks-help-solving-alarming-crime-wave.html</link>
       <description>&lt;b&gt;www.dailymail.co.uk&lt;/b&gt;&lt;br&gt;</description>
@@ -203,16 +208,6 @@
       <title>AMERICA DAILY DEATH RECORD...</title>
       <link>https://www.cnn.com/2020/12/30/health/us-coronavirus-wednesday/index.html</link>
       <description>&lt;b&gt;www.cnn.com&lt;/b&gt;&lt;br&gt;</description>
-    </item>
-    <item>
-      <title>Oxygen supply issues force 'disaster' declaration...</title>
-      <link>https://www.cnn.com/2020/12/29/us/california-hospital-oxygen-covid/index.html</link>
-      <description>&lt;b&gt;www.cnn.com&lt;/b&gt;&lt;br&gt;</description>
-    </item>
-    <item>
-      <title>Fashion out of this world!</title>
-      <link>https://www.cnbc.com/2020/12/29/pierre-cardin-ground-breaking-fashion-designer-dies.html</link>
-      <description>&lt;b&gt;www.cnbc.com&lt;/b&gt;&lt;br&gt;</description>
     </item>
     <item>
       <title>Massachusetts GOP leader says got infected at White House Hanukkah party: 'I'm paying price'...</title>
@@ -350,14 +345,19 @@
       <description>&lt;b&gt;news.yahoo.com&lt;/b&gt;&lt;br&gt;</description>
     </item>
     <item>
-      <title>L.A. hospitals turn away ambulances...</title>
-      <link>https://news.yahoo.com/l-county-hospitals-breaking-point-130050230.html</link>
-      <description>&lt;b&gt;news.yahoo.com&lt;/b&gt;&lt;br&gt;</description>
-    </item>
-    <item>
       <title>Foreigners shake up Egypt's belly dancing scene...</title>
       <link>https://news.yahoo.com/foreigners-shake-egypts-belly-dancing-022329904.html</link>
       <description>&lt;b&gt;news.yahoo.com&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>L.A. 'superspreader' event feared as Christian singer defies health order for concerts...</title>
+      <link>https://news.yahoo.com/covid-19-superspreader-event-feared-130058832.html</link>
+      <description>&lt;b&gt;news.yahoo.com&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Nuns arrested as Beijing turns up heat on Church...</title>
+      <link>https://news.trust.org/item/20201230112216-yaegr</link>
+      <description>&lt;b&gt;news.trust.org&lt;/b&gt;&lt;br&gt;</description>
     </item>
     <item>
       <title>Vaccinated nurse -- gets sick week later...</title>
@@ -425,7 +425,7 @@
       <description>&lt;b&gt;dnyuz.com&lt;/b&gt;&lt;br&gt;</description>
     </item>
     <item>
-      <title>Stay-at-home extended indefinitely...</title>
+      <title>CA stay-at-home extended indefinitely...</title>
       <link>https://deadline.com/2020/12/coronavirus-california-lockdown-extended-hospitals-overwhelmed-gavin-newsom-1234662437/</link>
       <description>&lt;b&gt;deadline.com&lt;/b&gt;&lt;br&gt;</description>
     </item>
