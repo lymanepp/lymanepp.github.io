@@ -80,6 +80,11 @@
       <description>&lt;b&gt;www.sfgate.com&lt;/b&gt;&lt;br&gt;</description>
     </item>
     <item>
+      <title>British PM Johnson's father applying for French citizenship...</title>
+      <link>https://www.reuters.com/article/us-britain-eu-johnson-father-idUSKBN2950VB</link>
+      <description>&lt;b&gt;www.reuters.com&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
       <title>Elizabeth Warren's next chapter...</title>
       <link>https://www.politico.com/news/2020/12/31/elizabeth-warrens-next-chapter-452300</link>
       <description>&lt;b&gt;www.politico.com&lt;/b&gt;&lt;br&gt;</description>
@@ -113,6 +118,11 @@
       <title>Visionary, peerlessly steered clients through hard times...</title>
       <link>https://www.nydailynews.com/new-york/ny-howard-rubenstein-obituary-20201230-bvqgqdnmyfdcfm3ljlzfshh2aq-story.html</link>
       <description>&lt;b&gt;www.nydailynews.com&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>SUPER-STRAIN IN SOCAL</title>
+      <link>https://www.nbclosangeles.com/news/local/california-governor-says-covid-19-variant-was-detected-in-southern-california/2495856/</link>
+      <description>&lt;b&gt;www.nbclosangeles.com&lt;/b&gt;&lt;br&gt;</description>
     </item>
     <item>
       <title>DRAMA:  Georgia Twin Runoffs Will Likely Drag Out Results for Days...</title>
@@ -360,11 +370,6 @@
       <description>&lt;b&gt;losangeles.cbslocal.com&lt;/b&gt;&lt;br&gt;</description>
     </item>
     <item>
-      <title>Can 4 SECONDS of Exercise Make Difference?</title>
-      <link>https://lightlynews.com/2020/12/30/health/can-four-seconds-of-exercise-make-a-difference/</link>
-      <description>&lt;b&gt;lightlynews.com&lt;/b&gt;&lt;br&gt;</description>
-    </item>
-    <item>
       <title>INTERCEPT</title>
       <link>https://firstlook.org/theintercept/</link>
       <description>&lt;b&gt;firstlook.org&lt;/b&gt;&lt;br&gt;</description>
@@ -382,11 +387,6 @@
     <item>
       <title>Small Colorado Town Shrugged Off Pandemic. Then Came Variant...</title>
       <link>https://dnyuz.com/2020/12/30/the-small-colorado-town-shrugged-off-the-pandemic-then-came-the-coronavirus-variant/</link>
-      <description>&lt;b&gt;dnyuz.com&lt;/b&gt;&lt;br&gt;</description>
-    </item>
-    <item>
-      <title>He Was Hospitalized for Covid. Then Again. And Again...</title>
-      <link>https://dnyuz.com/2020/12/30/he-was-hospitalized-for-covid-19-then-hospitalized-again-and-again/</link>
       <description>&lt;b&gt;dnyuz.com&lt;/b&gt;&lt;br&gt;</description>
     </item>
     <item>
@@ -415,8 +415,23 @@
       <description>&lt;b&gt;apnews.com&lt;/b&gt;&lt;br&gt;</description>
     </item>
     <item>
-      <title>China clamps down in hidden hunt for virus origins...</title>
-      <link>https://apnews.com/article/united-nations-coronavirus-pandemic-china-only-on-ap-bats-24fbadc58cee3a40bca2ddf7a14d2955</link>
+      <title>NYPD unusual mandate: Preventing crowds in Times Square...</title>
+      <link>https://apnews.com/article/us-news-new-york-new-years-eve-coronavirus-pandemic-new-york-city-1a0c247148e36a1fd0c20e06b651c8fc</link>
+      <description>&lt;b&gt;apnews.com&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>They were experts in viruses, and now in pitfalls of fame...</title>
+      <link>https://apnews.com/article/pandemics-public-health-media-social-media-coronavirus-pandemic-878549db9eb8f2d26eb26a54c2d8c8b2</link>
+      <description>&lt;b&gt;apnews.com&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>President returns to White House early from vacation...</title>
+      <link>https://apnews.com/article/election-2020-joe-biden-donald-trump-josh-hawley-florida-8dbd7a2d46e78d720499c2c6854391aa</link>
+      <description>&lt;b&gt;apnews.com&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>In new playground Dubai, Israelis find parties, Jewish rites...</title>
+      <link>https://apnews.com/article/dubai-united-arab-emirates-weddings-coronavirus-pandemic-israel-4c0262bfd384ef9f7bbd52dd1d447392</link>
       <description>&lt;b&gt;apnews.com&lt;/b&gt;&lt;br&gt;</description>
     </item>
     <item>
