@@ -5,6 +5,26 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>SATELLITE...</title>
+      <link>https://www.weathernerds.org/satellite/?initsatsrc=On&amp;initsatname=GOES16&amp;initsattype=ir&amp;initcscheme=ir1&amp;initimdimx=1050&amp;initimdimy=764&amp;initrange=40.500:-78.500:32.000:-64.500&amp;initloop=True&amp;initnframes=20&amp;initlightning16=On&amp;initlightning17=Off&amp;initltngfed=Off&amp;initltngtoe=Off&amp;initinterstates=On&amp;initwarnings=On&amp;initlatlon=On&amp;initascata=Off&amp;initascatb=Off&amp;initascatc=Off&amp;initascatamba=Off&amp;initascatambb=Off&amp;initascatambc=Off&amp;initsst=Off</link>
+      <description>&lt;b&gt;www.weathernerds.org&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Northeasterners scramble to hunker down...</title>
+      <link>https://www.msn.com/en-us/weather/topstories/northeasterners-scramble-to-hunker-down-as-hurricane-henri-takes-aim/ar-AANAcYe?ocid=uxbndlbing</link>
+      <description>&lt;b&gt;www.msn.com&lt;/b&gt;&lt;br&gt;People across coastal New England and Long Island made last-minute preparations ahead of Henri's anticipated landfall Sunday.</description>
+    </item>
+    <item>
+      <title>Four weeks in July: Inside Biden struggle to contain delta surge...</title>
+      <link>https://www.msn.com/en-us/news/politics/four-weeks-in-july-inside-the-biden-administration-e2-80-99s-struggle-to-contain-the-delta-surge/ar-AANA8py?ocid=uxbndlbing</link>
+      <description>&lt;b&gt;www.msn.com&lt;/b&gt;&lt;br&gt;After declaring ‘independence from a deadly virus’ on July Fourth, Biden and his team were caught flat-footed as the delta crisis spiraled out of control.</description>
+    </item>
+    <item>
+      <title>The vaccinated are worried and scientists don't have answers.</title>
+      <link>https://www.msn.com/en-us/money/other/the-vaccinated-are-worried-and-scientists-don-t-have-answers/ar-AANzgN7?ocid=uxbndlbing</link>
+      <description>&lt;b&gt;www.msn.com&lt;/b&gt;&lt;br&gt;(Bloomberg) -- Anecdotes tell us what the data can’t: Vaccinated people appear to be getting the coronavirus at a surprisingly high rate. But exactly how often isn’t clear, nor is it certain how likely they are to spread the virus to others. And now, there’s growing concern that vaccinated people may be more vulnerable to serious illness than previously thought. There’s a dearth of scientific studies with concrete answers, leaving public policy...</description>
+    </item>
+    <item>
       <title>Some people ingesting livestock dewormer after FOXNEWS push...</title>
       <link>https://www.rollingstone.com/politics/politics-news/fda-horse-dewormer-covid-fox-news-1215168/</link>
       <description>&lt;b&gt;www.rollingstone.com&lt;/b&gt;&lt;br&gt;“You are not a horse. You are not a cow,” the Food and Drug Administration said about using the drug that hosts on Fox News have been pushing</description>
@@ -213,21 +233,6 @@
       <title>WEEKEND:  HENRI NEW ENGLAND...</title>
       <link>?https://www.accuweather.com/en/hurricane/henri-long-island-new-england-northeast-landfall-hurricane/1003672</link>
       <description>&lt;b&gt;&lt;/b&gt;&lt;br&gt;</description>
-    </item>
-    <item>
-      <title>Full FDA approval of PFIZER as early as Monday...</title>
-      <link>https://www.politico.com/news/2021/08/20/fda-approval-pfizer-covid-shot-506472</link>
-      <description>&lt;b&gt;www.politico.com&lt;/b&gt;&lt;br&gt;The decision would apply to people 16 and older. Officials hope it will convince some vaccine holdouts to get inoculated.</description>
-    </item>
-    <item>
-      <title>THE HILL Bought by TV Giant for $130 Million...</title>
-      <link>https://variety.com/2021/digital/news/the-hill-acquired-nexstar-media-1235045896/</link>
-      <description>&lt;b&gt;variety.com&lt;/b&gt;&lt;br&gt;Political digital media company The Hill has been acquired by Nexstar Media, a broadcast TV and internet media company, for $130 million. Nexstar, which operates TV stations in 116 markets and 120 …</description>
-    </item>
-    <item>
-      <title>4 arrested in student's killing at Denver Jewish school...</title>
-      <link>https://kdvr.com/news/local/4-people-arrested-in-killing-of-student-outside-denver-jewish-school/</link>
-      <description>&lt;b&gt;kdvr.com&lt;/b&gt;&lt;br&gt;Police investigating a crime spree that stretched along Colfax and included the shooting death of a student outside Yeshiva Toras Chaim have arrested for four suspects, FOX31 News has learned.</description>
     </item>
   </channel>
 </rss>
