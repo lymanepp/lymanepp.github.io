@@ -5,6 +5,11 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>WEEKEND:  HENRI NEW ENGLAND...</title>
+      <link>https://www.accuweather.com/en/hurricane/henri-long-island-new-england-northeast-landfall-hurricane/1003672</link>
+      <description>&lt;b&gt;www.accuweather.com&lt;/b&gt;&lt;br&gt;It's been nearly 36 years since a hurricane has made landfall on Long Island. Plus, New York City was under a tropical storm warning as Henri picked up speed on Saturday.</description>
+    </item>
+    <item>
       <title>SATELLITE...</title>
       <link>https://www.weathernerds.org/satellite/?initsatsrc=On&amp;initsatname=GOES16&amp;initsattype=wv&amp;initcscheme=ir1&amp;initimdimx=1050&amp;initimdimy=764&amp;initrange=37.750:-79.750:29.250:-65.750&amp;initloop=True&amp;initnframes=20&amp;initlightning16=On&amp;initlightning17=Off&amp;initltngfed=Off&amp;initltngtoe=Off&amp;initinterstates=On&amp;initwarnings=On&amp;initlatlon=On&amp;initascata=Off&amp;initascatb=Off&amp;initascatc=Off&amp;initascatamba=Off&amp;initascatambb=Off&amp;initascatambc=Off&amp;initsst=Off</link>
       <description>&lt;b&gt;www.weathernerds.org&lt;/b&gt;&lt;br&gt;</description>
@@ -248,11 +253,6 @@
       <title>NATO calls Kabul situation unpredictable...</title>
       <link>https://news.trust.org/item/20210820132953-24qc7</link>
       <description>&lt;b&gt;news.trust.org&lt;/b&gt;&lt;br&gt;AFGHANISTAN-CONFLICT/NATO:NATO calls Kabul situation unpredictable as foreign ministers hold crisis talks</description>
-    </item>
-    <item>
-      <title>London police warn of two weeks of disruption from climate protests...</title>
-      <link>https://news.trust.org/item/20210820120016-vc1e5</link>
-      <description>&lt;b&gt;news.trust.org&lt;/b&gt;&lt;br&gt;CLIMATE-CHANGE/BRITAIN-POLICE:London police warn of two weeks of disruption from climate protests</description>
     </item>
   </channel>
 </rss>
