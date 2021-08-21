@@ -5,6 +5,31 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>SATELLITE...</title>
+      <link>https://www.weathernerds.org/satellite/?initsatsrc=On&amp;initsatname=GOES16&amp;initsattype=wv&amp;initcscheme=ir1&amp;initimdimx=1050&amp;initimdimy=764&amp;initrange=37.750:-79.750:29.250:-65.750&amp;initloop=True&amp;initnframes=20&amp;initlightning16=On&amp;initlightning17=Off&amp;initltngfed=Off&amp;initltngtoe=Off&amp;initinterstates=On&amp;initwarnings=On&amp;initlatlon=On&amp;initascata=Off&amp;initascatb=Off&amp;initascatc=Off&amp;initascatamba=Off&amp;initascatambb=Off&amp;initascatambc=Off&amp;initsst=Off</link>
+      <description>&lt;b&gt;www.weathernerds.org&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>FIRST HIT IN 30 YEARS?</title>
+      <link>https://www.ny1.com/nyc/all-boroughs/weather/2021/08/20/live-blog-henri-new-york-city</link>
+      <description>&lt;b&gt;www.ny1.com&lt;/b&gt;&lt;br&gt;The latest updates as the storm heads north.</description>
+    </item>
+    <item>
+      <title>ADVISORY...</title>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/211148.shtml</link>
+      <description>&lt;b&gt;www.nhc.noaa.gov&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>'Extremely worrisome'...</title>
+      <link>https://apnews.com/article/environment-and-nature-hurricanes-9c64eb1be8ccdf184861a53161e4d5f4</link>
+      <description>&lt;b&gt;apnews.com&lt;/b&gt;&lt;br&gt;PLYMOUTH, Mass. (AP) — Parts of the Northeast could begin to feel the effects of Tropical Storm Henri as soon as late Saturday, as the system that is expected to become a hurricane by the end of the day barrels toward the region.</description>
+    </item>
+    <item>
+      <title>WEEKEND:  HENRI NEW ENGLAND...</title>
+      <link>?https://www.accuweather.com/en/hurricane/henri-long-island-new-england-northeast-landfall-hurricane/1003672</link>
+      <description>&lt;b&gt;&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
       <title>Full FDA approval of PFIZER as early as Monday...</title>
       <link>https://www.politico.com/news/2021/08/20/fda-approval-pfizer-covid-shot-506472</link>
       <description>&lt;b&gt;www.politico.com&lt;/b&gt;&lt;br&gt;The decision would apply to people 16 and older. Officials hope it will convince some vaccine holdouts to get inoculated.</description>
@@ -228,11 +253,6 @@
       <title>London police warn of two weeks of disruption from climate protests...</title>
       <link>https://news.trust.org/item/20210820120016-vc1e5</link>
       <description>&lt;b&gt;news.trust.org&lt;/b&gt;&lt;br&gt;CLIMATE-CHANGE/BRITAIN-POLICE:London police warn of two weeks of disruption from climate protests</description>
-    </item>
-    <item>
-      <title>MAJORITY FAVOR MANDATES</title>
-      <link>https://apnews.com/article/lifestyle-business-health-travel-coronavirus-pandemic-27bf20514cd3da917c54bf71a41f2e8e</link>
-      <description>&lt;b&gt;apnews.com&lt;/b&gt;&lt;br&gt;DENVER (AP) — Anxiety in the United States over COVID-19 is at its highest level since winter, a new poll shows, as the delta variant rages, more states and school districts adopt mask and vaccination requirements and the nation’s hospitals once again fill to capacity.</description>
     </item>
   </channel>
 </rss>
