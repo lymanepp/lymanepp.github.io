@@ -3,5 +3,5 @@ logo: /assets/img/logo.png
 description: Playground (for now)
 show_downloads: false
 #google_analytics:
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 exclude: drudge.rss
