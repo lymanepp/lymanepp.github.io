@@ -5,3 +5,4 @@ show_downloads: false
 #google_analytics:
 #theme: jekyll-theme-minimal
 exclude: drudge.rss
+noindex: true
