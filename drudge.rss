@@ -5,6 +5,11 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>SATELLITE...</title>
+      <link>https://www.weathernerds.org/satellite/?initsatsrc=On&amp;initsatname=GOES16&amp;initsattype=ir&amp;initcscheme=ir1&amp;initimdimx=1050&amp;initimdimy=765&amp;initrange=29.750:-93.500:21.250:-79.500&amp;initloop=True&amp;initnframes=20&amp;initlightning16=On&amp;initlightning17=Off&amp;initltngfed=Off&amp;initltngtoe=Off&amp;initinterstates=On&amp;initwarnings=On&amp;initlatlon=On&amp;initascata=Off&amp;initascatb=Off&amp;initascatc=Off&amp;initascatamba=Off&amp;initascatambb=Off&amp;initascatambc=Off&amp;initsst=Off</link>
+      <description>&lt;b&gt;www.weathernerds.org&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
       <title>DeSantis statements about COVID death rate get renewed scrutiny...</title>
       <link>https://www.msn.com/en-us/news/us/gov-ron-desantis-statements-about-florida-s-covid-death-rate-get-renewed-scrutiny/ar-AANQCMp?ocid=uxbndlbing</link>
       <description>&lt;b&gt;www.msn.com&lt;/b&gt;&lt;br&gt;FORT LAUDERDALE, Fla. — Multiple times during the COVID-19 pandemic, Gov. Ron DeSantis has pointed to a positive, but still tragic, metric: Florida’s death rate, which was long better than the national average. It was part of a message that the state under his leadership was faring better than most. Now, the delta-fueled surge in COVID cases has significantly increased Florida’s death rate. ...</description>
@@ -318,11 +323,6 @@
       <title>HOUSE OF FILTH: Nearly 100 Cats Removed From Feces-Covered Home...</title>
       <link>https://pittsburgh.cbslocal.com/2021/08/26/mather-greene-county-cats-rescued/</link>
       <description>&lt;b&gt;pittsburgh.cbslocal.com&lt;/b&gt;&lt;br&gt;Dozens of cats were removed from a home in Greene County Thursday.</description>
-    </item>
-    <item>
-      <title>T. Rex Was 'Foodie,' Scientists Find...</title>
-      <link>https://www.vice.com/en/article/4avmap/scientists-find-t-rex-was-a-foodie</link>
-      <description>&lt;b&gt;www.vice.com&lt;/b&gt;&lt;br&gt;The dinosaur had “a delicate side like other animals. It’s not a monster.”</description>
     </item>
   </channel>
 </rss>
