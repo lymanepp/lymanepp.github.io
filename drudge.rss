@@ -5,6 +5,11 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>Landfall with 150mph winds and 185mph gusts...</title>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/291752.shtml</link>
+      <description>&lt;b&gt;www.nhc.noaa.gov&lt;/b&gt;&lt;br&gt;</description>
+    </item>
+    <item>
       <title>APT BUILDING FIRE IN MILAN... DEVELOPING......</title>
       <link>https://www.dailystar.co.uk/news/world-news/breaking-milan-fire-huge-blaze-24864639</link>
       <description>&lt;b&gt;www.dailystar.co.uk&lt;/b&gt;&lt;br&gt;The massive apartment block home to at least 70 families in the northern Italian city has been completely engulfed in flames. Reports say the blaze broke out on the building's 15th floor</description>
@@ -178,11 +183,6 @@
       <title>ALERT FOR MORE ATTACKS</title>
       <link>https://www.nbcnews.com/politics/white-house/biden-new-attack-against-u-s-forces-kabul-highly-likely-n1277860</link>
       <description>&lt;b&gt;www.nbcnews.com&lt;/b&gt;&lt;br&gt;U.S. retaliatory strike "was not the last," president says. "We will continue to hunt down any person involved in that heinous attack and make them pay."</description>
-    </item>
-    <item>
-      <title>SATELLITE...</title>
-      <link>https://www.weathernerds.org/satellite/?initsatsrc=On&amp;initsatname=GOES16&amp;initsattype=ir&amp;initcscheme=ir1&amp;initimdimx=1050&amp;initimdimy=765&amp;initrange=29.750:-93.500:21.250:-79.500&amp;initloop=True&amp;initnframes=20&amp;initlightning16=On&amp;initlightning17=Off&amp;initltngfed=Off&amp;initltngtoe=Off&amp;initinterstates=On&amp;initwarnings=On&amp;initlatlon=On&amp;initascata=Off&amp;initascatb=Off&amp;initascatc=Off&amp;initascatamba=Off&amp;initascatambb=Off&amp;initascatambc=Off&amp;initsst=Off</link>
-      <description>&lt;b&gt;www.weathernerds.org&lt;/b&gt;&lt;br&gt;</description>
     </item>
   </channel>
 </rss>
