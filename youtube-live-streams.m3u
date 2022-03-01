@@ -15,5 +15,8 @@ http://localhost:8383/_/https://www.youtube.com/watch?v=Q6Fg9pkztZc
 #EXTINF:-1 channel-id="FMB" tvg-chno="1005" tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://piersidegrill.com/wp-content/themes/pierside/_/img/fav.png" tvg-country="US" tvc-guide-title="Fort Myers Beach" tvc-guide-description="Florida Live Beach Cam on Fort Myers Beach Pier at Pierside Bar and Grill" group-title="Nature",FMB
 http://localhost:8383/_/https://www.youtube.com/watch?v=Ar-_QCGoKh8
 
-#EXTINF:-1 channel-id="CAPETV" tvg-chno="1006" tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvc-guide-title="CAPETV" tvc-guide-description="City of Cape Coral's government information channel" group-title="News",CAPETV
+#EXTINF:-1 channel-id="CAPETV" tvg-chno="1006" tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wixstatic.com/media/3ff7a0_0108ce923a3d44008192418a2fbe4daa.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/3ff7a0_0108ce923a3d44008192418a2fbe4daa.png" tvg-country="US" tvc-guide-title="CAPETV" tvc-guide-description="City of Cape Coral's government information channel" group-title="News",CAPETV
 http://localhost:8383/_/https://www.youtube.com/watch?v=AF_p5y_nTb0
+
+#EXTINF:-1 channel-id="SKYNEWS" tvg-chno="1101" tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://news.sky.com/favicon.ico" tvg-country="US" tvc-guide-title="Sky News International" tvc-guide-description="" group-title="News",SKYNEWS
+http://localhost:8383/_/https://www.youtube.com/watch?v=9Auq9mYxFEE
