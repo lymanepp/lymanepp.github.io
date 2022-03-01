@@ -14,3 +14,6 @@ http://localhost:8383/_/https://www.youtube.com/watch?v=Q6Fg9pkztZc
 
 #EXTINF:-1 channel-id="FMB" tvg-chno="1005" tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://piersidegrill.com/wp-content/themes/pierside/_/img/fav.png" tvg-country="US" tvc-guide-title="Fort Myers Beach" tvc-guide-description="Florida Live Beach Cam on Fort Myers Beach Pier at Pierside Bar and Grill" group-title="Nature",FMB
 http://localhost:8383/_/https://www.youtube.com/watch?v=Ar-_QCGoKh8
+
+#EXTINF:-1 channel-id="CAPETV" tvg-chno="1006" tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvc-guide-title="CAPETV" tvc-guide-description="City of Cape Coral's government information channel" group-title="News",CAPETV
+http://localhost:8383/_/https://www.youtube.com/watch?v=AF_p5y_nTb0
