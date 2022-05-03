@@ -1,7 +1,0 @@
-title: '@lymanepp'
-show_downloads: false
-include:
-  - robots.txt
-  - '*.md'
-  - '*.rss'
-  - 'assets/img/*.jpg'

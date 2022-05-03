@@ -12,7 +12,7 @@ import requests
 from bs4 import BeautifulSoup, element
 
 DRUDGE_BASE_URL = "http://www.drudgereport.com"
-RSS_FILE_NAME = "pages/drudge.rss"
+RSS_FILE_NAME = "docs/drudge.rss"
 JSON_FILE_NAME = "work/drudge.json"
 PAY_WALL_LIST = ["www.wsj.com"]
 RETENTION_PERIOD = timedelta(days=1)
