@@ -3,7 +3,8 @@
     - cron: '*/15 * * * *'
   push:
     paths:
-      - 'scripts/drudge_rss.py'
+      - scripts/drudge_rss.py
+      - github/workflows/drudge.yaml
 jobs:
   build:
     runs-on: ubuntu-latest
