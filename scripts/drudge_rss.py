@@ -1,6 +1,5 @@
 """Scrape drudgereport.com into RSS feed."""
 import json
-import re
 import sys
 import xml.etree.ElementTree as etree
 from datetime import datetime, timedelta, timezone
@@ -65,8 +64,10 @@ def _read_live_links() -> LiveLinksType | None:
         )
         return None
 
-    pattern = '<A [^>]*HREF="([^"]+)"[^>]*>([^<]+)</A>'
-    return re.findall(pattern, response.content.decode("latin-1"))
+    html = response.content.decode("latin-1")
+    soup = BeautifulSoup(html, 'html.parser')
+
+    return [(tag.attrs["href"], tag.text) for tag in soup.find_all("a")]
 
 
 def _build_current(
