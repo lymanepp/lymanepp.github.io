@@ -130,8 +130,7 @@ for link, dict in list(current.items()):
     if (now - added) < 86400:
         index.append((added, link, dict))
 
-index.sort()
-index.reverse()
+index = sorted(index, reverse=True)
 
 # Build RSS file
 rss = etree.Element("rss")
