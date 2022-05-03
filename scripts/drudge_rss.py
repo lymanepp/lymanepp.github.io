@@ -23,7 +23,6 @@ LiveLinksType = list[tuple[str, str]]
 DataModelType = dict[str, dict[str, Any]]
 
 
-
 def main() -> int:
     """Generate RSS feed for drudgereport.com"""
     print("Started at:", datetime.now().strftime("%d/%m/%Y %H:%M:%S"), flush=True)

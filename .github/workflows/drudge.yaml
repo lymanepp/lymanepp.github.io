@@ -26,6 +26,4 @@ jobs:
           message: GitHub Actions
           committer_name: GitHub Actions
           committer_email: actions@github.com
-          add:
-            - work/drudge.json
-            - docs/drudge.rss
+          add: '**/drudge.*'
