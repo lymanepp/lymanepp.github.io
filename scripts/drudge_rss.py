@@ -1,6 +1,5 @@
 #!/usr/bin/python
 import json
-import os
 import re
 import sys
 import time
@@ -53,9 +52,9 @@ def get_description(link):
                     .replace("\n", " ")
                     .replace("  ", " ")
                 )
-    except:
-        # print(link)
-        # print(sys.exc_info())
+    except Exception as exc:
+        print("Except in get_description: %s", exc)
+        print("Link = %s", link)
         pass
     return ""
 
@@ -82,7 +81,7 @@ if not results:
 try:
     with open(jsonFileName) as jsonFile:
         last = json.load(jsonFile)
-except:
+except FileNotFoundError:
     last = {}
 
 current = {}
@@ -117,11 +116,8 @@ for link, dict in list(last.items()):
     if link not in current and (now - dict["added"]) < 86400:
         current[link] = dict
 
-try:
-    with open(jsonFileName, "w") as jsonFile:
-        json.dump(current, jsonFile, indent=4)
-except:
-    pass
+with open(jsonFileName, "w") as jsonFile:
+    json.dump(current, jsonFile, indent=4)
 
 # Create index sorted by date
 index = []
