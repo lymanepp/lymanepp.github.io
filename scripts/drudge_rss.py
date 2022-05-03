@@ -2,9 +2,8 @@
 import json
 import re
 import sys
-import time
 import xml.etree.ElementTree as etree
-from datetime import datetime
+from datetime import datetime, timezone
 from http import HTTPStatus
 from typing import Any, Mapping, Sequence, Tuple, Type
 from urllib.parse import urlparse
@@ -18,8 +17,9 @@ JSON_FILE_NAME = "drudge.json"
 PAY_WALL_LIST = ["www.wsj.com"]
 
 JSON = Mapping[str, Any] | Sequence[Any] | str | float | Type[None]
-LIVE_LINKS = Sequence[Tuple[str, str]]
-DATA_MODEL = Mapping[str, Mapping[str, Any]]
+
+LiveLinksType = Sequence[Tuple[str, str]]
+DataModelType = Mapping[str, Mapping[str, Any]]
 
 
 def main() -> int:
@@ -29,9 +29,10 @@ def main() -> int:
     if not (live_links := _read_live_links()):
         return 1
 
-    now = time.time()
+    now = datetime.now(tz=timezone.utc)
     prior = _read_json(JSON_FILE_NAME, default={})
     assert isinstance(prior, Mapping)
+    _convert_timestamps(prior)
     current = _build_current(live_links, prior, now)
     _write_json(JSON_FILE_NAME, current)
 
@@ -56,7 +57,7 @@ def _write_json(file_name: str, obj: JSON) -> None:
         json.dump(obj, json_file, indent=4)
 
 
-def _read_live_links() -> LIVE_LINKS | None:
+def _read_live_links() -> LiveLinksType | None:
     response = requests.get(DRUDGE_BASE_URL, timeout=10)
     if response.status_code != HTTPStatus.OK:
         print(
@@ -68,9 +69,18 @@ def _read_live_links() -> LIVE_LINKS | None:
     return re.findall(pattern, response.content.decode("latin-1"))
 
 
+def _convert_timestamps(prior):
+    for meta in prior.values():
+        added = meta["added"]
+        if isinstance(added, float):
+            meta["added"] = (
+                datetime.fromtimestamp(added).astimezone(tz=timezone.utc).isoformat()
+            )
+
+
 def _build_current(
-    current_links: LIVE_LINKS, prior: DATA_MODEL, time_added: float
-) -> DATA_MODEL:
+    current_links: LiveLinksType, prior: DataModelType, now: datetime
+) -> DataModelType:
 
     current: dict[str, Mapping[str, Any]] = {}
 
@@ -86,7 +96,7 @@ def _build_current(
 
         current[link] = prior.get(link) or {
             "title": title,
-            "added": time_added,
+            "added": now.isoformat(),
             "description": _get_description(link),
         }
 
@@ -95,10 +105,17 @@ def _build_current(
 
     # Add missing items that are less than 24 hours old
     for link, meta in prior.items():
-        if link not in current and (time_added - meta["added"]) < 86400:
+        if (
+            link not in current
+            and (now - datetime.fromisoformat(meta["added"])).total_seconds() < 86400
+        ):
             current[link] = meta
 
-    return dict(sorted(current.items(), key=lambda item: (item[1]["added"], item[0]), reverse=True))
+    return dict(
+        sorted(
+            current.items(), key=lambda item: (item[1]["added"], item[0]), reverse=True
+        )
+    )
 
 
 def _is_pay_wall(link: str) -> bool:
@@ -135,7 +152,7 @@ def _get_description(link: str) -> str:
     return ""
 
 
-def _build_rss_tree(current: DATA_MODEL, now: float) -> etree.ElementTree:
+def _build_rss_tree(current: DataModelType, now: datetime) -> etree.ElementTree:
     rss = etree.Element("rss")
     rss.set("version", "2.0")
 
@@ -150,8 +167,8 @@ def _build_rss_tree(current: DATA_MODEL, now: float) -> etree.ElementTree:
     etree.SubElement(channel, "description")
 
     for link, meta in current.items():
-        added = meta["added"]
-        if (now - added) > 86400:
+        added = datetime.fromisoformat(meta["added"])
+        if (now - added).total_seconds() > 86400:
             continue
 
         base_url = urlparse(link).netloc
