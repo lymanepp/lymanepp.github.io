@@ -5,7 +5,7 @@ import sys
 import xml.etree.ElementTree as etree
 from datetime import datetime, timezone
 from http import HTTPStatus
-from typing import Any, Mapping, Sequence, Tuple, Type
+from typing import Any, Type
 from urllib.parse import urlparse
 
 import requests
@@ -16,10 +16,10 @@ RSS_FILE_NAME = "drudge.rss"
 JSON_FILE_NAME = "drudge.json"
 PAY_WALL_LIST = ["www.wsj.com"]
 
-JSON = Mapping[str, Any] | Sequence[Any] | str | float | Type[None]
+JSON = dict[str, Any] | list[Any] | str | float | Type[None]
 
-LiveLinksType = Sequence[Tuple[str, str]]
-DataModelType = Mapping[str, Mapping[str, Any]]
+LiveLinksType = list[tuple[str, str]]
+DataModelType = dict[str, dict[str, Any]]
 
 
 def main() -> int:
@@ -31,8 +31,7 @@ def main() -> int:
 
     now = datetime.now(tz=timezone.utc)
     prior = _read_json(JSON_FILE_NAME, default={})
-    assert isinstance(prior, Mapping)
-    _convert_timestamps(prior)
+    assert isinstance(prior, dict)
     current = _build_current(live_links, prior, now)
     _write_json(JSON_FILE_NAME, current)
 
@@ -69,26 +68,17 @@ def _read_live_links() -> LiveLinksType | None:
     return re.findall(pattern, response.content.decode("latin-1"))
 
 
-def _convert_timestamps(prior):
-    for meta in prior.values():
-        added = meta["added"]
-        if isinstance(added, float):
-            meta["added"] = (
-                datetime.fromtimestamp(added).astimezone(tz=timezone.utc).isoformat()
-            )
-
-
 def _build_current(
     current_links: LiveLinksType, prior: DataModelType, now: datetime
 ) -> DataModelType:
 
-    current: dict[str, Mapping[str, Any]] = {}
+    current: DataModelType = {}
 
     for link, title in current_links:
         if _is_pay_wall(link):
             continue
 
-        link = link.replace("\n", "").replace("\r", "")
+        link = link.replace("\n", "").replace("\r", "").replace(" ", "")
         title = title.strip()
 
         if "://" not in link:
