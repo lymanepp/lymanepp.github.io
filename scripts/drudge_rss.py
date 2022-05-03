@@ -16,7 +16,7 @@ RSS_FILE_NAME = "drudge.rss"
 JSON_FILE_NAME = "drudge.json"
 PAY_WALL_LIST = ["www.wsj.com"]
 
-JSON = dict[str, Any] | list[Any] | str | float | Type[None]
+JsonType = dict[str, Any] | list[Any] | str | float | Type[None]
 
 LiveLinksType = list[tuple[str, str]]
 DataModelType = dict[str, dict[str, Any]]
@@ -42,18 +42,18 @@ def main() -> int:
     return 0
 
 
-def _read_json(file_name: str, default=None) -> JSON:
+def _read_json(file_name: str, default=None) -> JsonType:
     try:
-        with open(file_name, "r", encoding="utf8") as json_file:
-            obj = json.load(json_file)
+        with open(file_name, "r", encoding="utf8") as file:
+            obj = json.load(file)
     except FileNotFoundError:
         obj = default
     return obj
 
 
-def _write_json(file_name: str, obj: JSON) -> None:
-    with open(file_name, "w", encoding="utf8") as json_file:
-        json.dump(obj, json_file, indent=4)
+def _write_json(file_name: str, obj: JsonType) -> None:
+    with open(file_name, "w", encoding="utf8") as file:
+        json.dump(obj, file, indent=4)
 
 
 def _read_live_links() -> LiveLinksType | None:
