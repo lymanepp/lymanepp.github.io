@@ -1,4 +1,24 @@
 {
+    "https://www.thedailybeast.com/politico-on-heightened-alert-after-publishing-leaked-scotus-draft": {
+        "title": "POLITICO on Heightened Alert...",
+        "added": "2022-05-03T20:30:06.789009+00:00",
+        "description": "A source familiar with the matter told The Daily Beast that new security measures are proactive in nature and not in response to any specific threat."
+    },
+    "https://www.mediaite.com/politics/barack-michelle-obama-call-for-protests-over-roe-v-wade-overturning-puts-women-at-mercy-of-politicians-and-ideologues/": {
+        "title": "Obamas Call for Protests...",
+        "added": "2022-05-03T20:30:06.789009+00:00",
+        "description": "The Obamas called for protests Tuesday, a day after a controversial leak from inside the Supreme Court appeared to show it is poised to overturn Roe v. Wade."
+    },
+    "https://www.france24.com/en/live-news/20220503-death-shadow-dinosaur-unearthed-in-argentina": {
+        "title": "'Death shadow' dinosaur unearthed...",
+        "added": "2022-05-03T20:30:06.789009+00:00",
+        "description": "Argentine paleontologists have announced the discovery of an apex-predator dinosaur that measured three stories from nose to tail and eviscerated its prey with sharp, curved claws."
+    },
+    "https://www.accuweather.com/en/winter-weather/snow-makes-nebraska-look-like-middle-of-winter-in-may/1181510": {
+        "title": "WINTER IN MAY!  15 inches of snow coats Nebraska...",
+        "added": "2022-05-03T20:30:06.789009+00:00",
+        "description": "Portions of interstates were shut down and numerous traffic accidents were reported amid a blast of winter weather on the second day of May in the Nebraska Panhandle."
+    },
     "https://www.the-sun.com/news/5255630/bodies-russian-soldiers-z-ukraine-kharkiv/": {
         "title": "Bodies of Russian soldiers laid out in Z shape...",
         "added": "2022-05-03T20:08:12.541603+00:00",
@@ -713,11 +733,6 @@
         "title": "Woman investigating dog attack  -- killed by pack of dogs...",
         "added": "2022-05-02T16:01:23.706080+00:00",
         "description": "Police arrested an Alabama dog owner after a pack of dogs attacked and killed a state employee investigating an earlier attack by the same dogs."
-    },
-    "https://metro.co.uk/2022/05/02/dead-woman-bangs-on-coffin-to-say-shes-alive-during-funeral-in-peru-16571399/": {
-        "title": "'Dead' woman bangs on coffin to say she's alive during funeral!",
-        "added": "2022-05-02T16:01:23.706080+00:00",
-        "description": "Warning: You may find the content of this story distressing."
     },
     "https://metro.co.uk/": {
         "title": "[UK] METRO",
