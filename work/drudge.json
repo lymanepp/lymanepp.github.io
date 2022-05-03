@@ -1,4 +1,459 @@
 {
+    "https://www.washingtonpost.com/syndication/columnists/george-f-will/": {
+        "title": "GEORGE WILL",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "https://www.washingtonexaminer.com/policy/courts/watch-reporter-speaks-about-breaking-story-on-supreme-court-leak-on-abortion-rights": {
+        "title": "Reporter speaks about breaking story of a lifetime...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "The reporter who broke the story about a majority draft opinion signaling that the Supreme Court is ready to overturn abortion rights enshrined in the Constitution since Roe v. Wade appeared within minutes on TV to discuss the monumental leak Monday night."
+    },
+    "https://www.washingtonexaminer.com/news/white-house/biden-says-radical-supreme-court-decision-on-abortion-endangers-gay-marriage": {
+        "title": "GAY MARRIAGE U-TURN NEXT?",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "President Joe Biden told reporters Tuesday that the leaked Supreme Court opinion on overturning Roe v. Wade could pave the way for decisions undermining various other policies, including same-sex marriage."
+    },
+    "https://www.vice.com/en/article/m7vzjb/location-data-abortion-clinics-safegraph-planned-parenthood": {
+        "title": "Broker Selling Location Data of People Who Visit Abortion Clinics...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "It costs just over $160 to get a week's worth of data on where people who visited Planned Parenthood came from, and where they went afterwards."
+    },
+    "https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473": {
+        "title": "END OF THE ROE",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "\u201cWe hold that Roe and Casey must be overruled,\u201d Justice Alito writes in an initial majority draft circulated inside the court."
+    },
+    "https://www.npr.org/2022/05/03/1096097236/roe-wade-original-ruling-leak": {
+        "title": "The original Roe v. Wade ruling was leaked, too!",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Leaks of any kind are rare at the Supreme Court, but in 1973, the original Roe decision was leaked to the press before the court formally announced it. The chief justice was furious."
+    },
+    "https://www.nbcnews.com/data-graphics/map-23-states-ban-abortion-post-roe-america-rcna27081": {
+        "title": "The 26 places where will be illegal...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Abortion rights would be up to the states if the Supreme Court overturns Roe v. Wade. Two-dozen states and territories would ban it immediately, and 13 have \u201ctrigger laws\u201d waiting for the ruling."
+    },
+    "https://www.msn.com/en-us/news/politics/vice-president-harris-expected-to-lean-hard-into-abortion-fight/ar-AAWSSe4": {
+        "title": "Harris to lean hard into fight...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "https://www.msn.com/en-us/news/politics/politico-on-heightened-alert-after-publishing-leaked-scotus-draft/ar-AAWSb29": {
+        "title": "POLITICO on Heightened Alert...\n\n\nEND OF THE ROE\nOPINION LEAKS!\nHUNT FOR SOURCE\nBREACH FROM THE BENCH\nGAY MARRIAGE U-TURN NEXT?",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "https://www.msn.com/en-us/news/politics/pelosi-schumer-slam-supreme-court-justices-for-writing-one-of-the-worst-decisions-in-history-amid-reported-leak-of-draft-opinion-to-overturn-abortion-rights/ar-AAWRf8v?li=BBnb7Kz": {
+        "title": "Pelosi and Schumer slam 'one of the worst' decisions in history...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "https://www.msn.com/en-us/news/politics/gop-sen-murkowski-says-her-confidence-in-supreme-court-has-been-rocked-after-justices-she-voted-for-appear-set-to-overturn-roe-v-wade/ar-AAWSP9l": {
+        "title": "Murkowski says 'confidence' has been 'rocked'...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "https://www.msn.com/en-us/news/politics/collins-gorsuch-and-kavanaugh-misled-on-roe-during-confirmation-hearings/ar-AAWSaQu": {
+        "title": "Collins: Gorsuch, Kavanaugh misled during confirmation hearings...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "https://www.msn.com/en-us/news/politics/abortion-rights-to-reshape-election-with-roe-precedent-at-risk/ar-AAWRm9d": {
+        "title": "COULD RESHAPE MIDTERMS...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "https://www.msn.com/en-us/news/politics/a-supreme-court-in-disarray-after-an-extraordinary-breach/ar-AAWSvoj": {
+        "title": "Supreme Court in Disarray After Extraordinary Breach...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "https://www.msn.com/en-us/money/other/supreme-court-set-to-strike-down-abortion-rights-politico-says/ar-AAWR4Us?ocid=uxbndlbing": {
+        "title": "Decision will allow EACH STATE to decide whether to restrict or ban abortions...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "https://www.mediaite.com/politics/trump-backed-ga-gov-candidate-david-perdue-getting-creamed-by-more-than-35-points-new-poll-shows/": {
+        "title": "The Don's Candidate Getting Creamed by 35 Points...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "A new poll shows Trump-backed former Sen. David Perdue trailing incumbent Brian Kemp in the GOP primary for Georgia governor by almost 38 percentage points."
+    },
+    "https://www.mediaite.com/news/police-swiftly-put-barricades-around-supreme-court-after-reported-leak-of-draft-opinion-overturning-roe-v-wade/": {
+        "title": "Police Rush Up Barriers Around Supremes...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Police set up security barricades around the United States Supreme Court building after a draft opinion reportedly overturning Roe vs. Wade was leaked."
+    },
+    "https://www.gertzfile.com": {
+        "title": "BILL GERTZ",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "https://www.eagletribune.com/region/simply-become-too-much-how-will-cawthorn-s-controversies-affect-his-reelection-chances/article_816bd853-8244-587b-9fb5-043e6dee0ef1.html": {
+        "title": "'Simply become too much'...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Rep. Madison Cawthorn\u2019s penchant for confrontational politicking has landed him national name recognition, campaign dollars and a competitive primary at home."
+    },
+    "https://www.drudgereport.com": {
+        "title": "",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "https://www.dailymail.co.uk/news/article-10778639/Supreme-Court-Biden-calls-abortion-rights-fundamental-leak-Roe-v-Wade-draft-opinion.html": {
+        "title": "Biden Vows to Fix...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Biden vowed the White House would be 'ready when any ruling is issued' and urged voters to 'elect more pro-choice senators' in perhaps a veiled shot at moderates in his party."
+    },
+    "https://www.cnn.com/2022/05/02/politics/roe-v-wade-supreme-court/index.html": {
+        "title": "ROBERTS DOES NOT WANT TO COMPLETELY OVERTURN?",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "In a stunning breach of Supreme Court confidentiality and secrecy, Politico has obtained what it calls a draft of a majority opinion written by Justice Samuel Alito that would strike down Roe v. Wade."
+    },
+    "https://www.cnbc.com/2022/05/03/paul-tudor-jones-says-he-cant-think-of-a-worse-financial-environment-for-stocks-or-bonds-right-now.html": {
+        "title": "Tudor Jones says he can't think of worse financial environment...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Paul Tudor Jones said the environment for investors is worse than ever as the Fed is raising rates when financial conditions have become increasingly tight."
+    },
+    "https://www.cnbc.com/2022/05/02/50percent-of-market-is-in-a-bubble-dan-suzuki-warns-as-fed-gets-ready-to-meet.html": {
+        "title": "'Bubble' hitting 50% of market, top investor warns...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Despite Monday's market comeback, Dan Suzuki, Richard Bernstein Advisors' deputy CIO, delivers growth stocks are in the early innings of a dramatic decline."
+    },
+    "https://www.axios.com/roe-v-wade-supreme-court-leak-stuns-nation-7488063e-69e5-4de7-b371-6c472e7c4e9d.html": {
+        "title": "Leak stuns nation on three fronts...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Everything about the leaked draft of a Supreme Court ruling overturning Roe v. Wade is staggering."
+    },
+    "https://www.axios.com/justice-roberts-abortion-leak-da48f1b2-087f-4a43-b037-068be226ce2c.html": {
+        "title": "BREACH FROM THE BENCH",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "The draft does not represent the court's final decision, per the statement from Chief Justice Roberts."
+    },
+    "https://thehill.com/policy/healthcare/3474997-protests-erupt-at-supreme-court-after-report-of-draft-overturning-roe-v-wade/": {
+        "title": "Protests erupt...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Anti-abortion and abortion rights protesters gathered outside the Supreme Court on Monday night after a report was published showing a draft of Justice Samuel Alito\u2019s majority opinion overturning R\u2026"
+    },
+    "https://slate.com/news-and-politics/2022/05/supreme-court-alito-abortion-opinion-leaker-identity-theory.html": {
+        "title": "Who revealed it? And why?",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Four theories emerge."
+    },
+    "https://rollcall.com/2022/05/03/leaked-draft-abortion-decision-recasts-2022-political-realm/": {
+        "title": "Recasts political realm...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "The leaked draft Supreme Court decision overturning Roe v. Wade quickly recast the politics of the 2022 midterms."
+    },
+    "https://reason.org/": {
+        "title": "REASON",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Local governments need to make changes to zoning laws, building-approval processes, and height limits that prevent more housing from hitting the market."
+    },
+    "https://pbs.twimg.com/media/FRzvXkVUcAUnTD0?format=jpg&name=small": {
+        "title": "",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "https://news.yahoo.com/u-supreme-court-launches-probe-153004798.html": {
+        "title": "HUNT FOR SOURCE",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "(Reuters) -U.S. Chief Justice John Roberts on Tuesday said the Supreme Court will investigate the leak of a draft decision indicating that a majority of the nine justices are set to overturn the constitutional right to abortion, a breach of the court's trust that he called a \"betrayal.\" Underscoring the seriousness of the leak, Roberts said, \"This was a singular and egregious breach of that trust that is an affront to the court and the community of public servants who work here.\""
+    },
+    "https://english.kyodonews.net/": {
+        "title": "KYODO",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Kyodo News Plus is an online publication delivering the latest news from Japan together with those stories from around the globe in which Japan plays a key role. Centering on content provided by Kyodo News, Japan\u2019s leading news agency, our publication keeps readers abreast of the developments coming out of Japan that interest and influence, here and abroad. Start with the breaking story and then go further. Kyodo News Plus takes readers past the front page to provide a deeper look at modern Japanese culture, lifestyles, and events, in order to bring to light those stories, and those people, that shape them. Adding this content to the latest news, readers can be better informed about, and more rewardingly engaged with, Japan the country, its culture and its people."
+    },
+    "https://deadline.com/2022/05/don-lemon-sexual-assault-lawsuit-dropped-dustin-hice-cnn-1235014837/": {
+        "title": "Don Lemon Sex Assault Case Dropped By Accuser...\nBlames 'faulty memory'...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Almost three years after CNN anchor Don Lemon was accused of assaulting a man in a Sag Harbor, NY, bar in 2018, the incendiary lawsuit has ended in a whimper. \u201cAfter a lot of inner reflection\u2026"
+    },
+    "https://apnews.com/article/roe-wade-supreme-court-leaked-draft-opinion-c6a923f6e370672f4a5ccfd3be325786": {
+        "title": "OPINION LEAKS!",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "WASHINGTON (AP) \u2014 The Supreme Court keeps secrets. Year after year, in major case after major case, there's little beyond what the justices say during oral arguments that suggests how they will rule until they actually do."
+    },
+    "https://apnews.com/article/2022-met-gala-live-updates-084f719d371e251fc545fd1ad49300d3": {
+        "title": "Kardashian dons $5M Marilyn dress...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "NEW YORK (AP) \u2014 Kim Kardashian shut down the Met Gala red carpet Monday in one of Marilyn Monroe's most iconic dresses, a gold-beaded body hugger Monroe wore when she sexily sang happy birthday to President John F."
+    },
+    "http://www.washingtontimes.com": {
+        "title": "WASH TIMES",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.washingtonpost.com/": {
+        "title": "WASH POST",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Breaking news and analysis on politics, business, world national news, entertainment more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more."
+    },
+    "http://www.variety.com/": {
+        "title": "VARIETY",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.usnews.com/usnews/home.htm": {
+        "title": "US NEWS",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education."
+    },
+    "http://www.usatoday.com/": {
+        "title": "USA TODAY",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "USA TODAY delivers current local and national news, sports, entertainment, finance, technology, and more through award-winning journalism, photos, videos and VR."
+    },
+    "http://www.thesun.co.uk": {
+        "title": "[UK] SUN",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "The Best for News, Sport, Showbiz, Celebrities"
+    },
+    "http://www.thenewrepublic.com/": {
+        "title": "NEW REPUBLIC",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Founded in 1914, The New Republic is a media organization dedicated to addressing today\u2019s most critical issues."
+    },
+    "http://www.telegraph.co.uk/": {
+        "title": "[UK] TELEGRAPH",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Latest news, business, sport, comment, lifestyle and culture from the Daily Telegraph and Sunday Telegraph newspapers and video from Telegraph TV."
+    },
+    "http://www.suntimes.com/": {
+        "title": "CHICAGO SUN-TIMES",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.slate.com": {
+        "title": "SLATE",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Online magazine of news, politics, technology, and culture. Combines humor and insight in thoughtful analyses of current events and political news."
+    },
+    "http://www.rollcall.com/": {
+        "title": "ROLL CALL",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Covering Capitol Hill Since 1955"
+    },
+    "http://www.reuters.com/news/archive/worldNews?date=today": {
+        "title": "REUTERS WORLD",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Get the latest breaking news and top news headlines at Reuters.com"
+    },
+    "http://www.reuters.com/news/archive/politicsNews?date=today": {
+        "title": "REUTERS POLITICS",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Get the latest breaking news and top news headlines at Reuters.com"
+    },
+    "http://www.politico.com/": {
+        "title": "POLITICO",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Nobody knows politics like POLITICO."
+    },
+    "http://www.people.com": {
+        "title": "PEOPLE",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "People.com | Celebrity News, Exclusives, Photos and Videos"
+    },
+    "http://www.observer.com/author/rex-reed": {
+        "title": "REX REED",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Rex Reed, one of the most renowned film critics in American history, has been reviewing movies for the Observer for nearly the entirety of the paper's existence. Before coming to the Observer, Reed wrote for Vogue, GQ, The New York Times, the Daily News and the New York Post. He is the author of eight books, including the best seller 'Do You Sleep in the Nude?' and his profile of the aging Ava Gardner was included in Tom Wolfe's classic anthology, 'The New Journalism.' He is also an actor and the former co-host of the syndicated television show \"At the Movies.\""
+    },
+    "http://www.nytimes.com": {
+        "title": "NY TIMES",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Live news, investigations, opinion, photos and video by the journalists of The New York Times from more than 150 countries around the world. Subscribe for coverage of U.S. and international news, politics, business, technology, science, health, arts, sports and more."
+    },
+    "http://www.nypost.com/": {
+        "title": "NY POST",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."
+    },
+    "http://www.nydailynews.com/": {
+        "title": "NY DAILY NEWS",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Find breaking US news, local New York news coverage, sports, entertainment news, celebrity gossip, autos, videos and photos at nydailynews.com."
+    },
+    "http://www.nationalreview.com/author/897": {
+        "title": "JONAH GOLDBERG",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.nationalreview.com/author/56473": {
+        "title": "RICH LOWRY",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.nationalreview.com": {
+        "title": "NATIONAL REVIEW",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.mirror.co.uk": {
+        "title": "[UK] DAILY MIRROR",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Get the latest news, sport, celebrity gossip, TV, politics and lifestyle from The Mirror. Big stories with a big heart, always with you in mind."
+    },
+    "http://www.latimes.com": {
+        "title": "LA TIMES",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.jewishworldreview.com/cols/thomas1.asp": {
+        "title": "CAL THOMAS",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.independent.co.uk/": {
+        "title": "[UK] INDEPENDENT",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Latest news, comment and features from The Independent US"
+    },
+    "http://www.hollywoodreporter.com": {
+        "title": "H'WOOD REPORTER",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.guardian.co.uk/world": {
+        "title": "[UK] GUARDIAN",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Latest World news news, comment and analysis from the Guardian, the world's leading liberal voice"
+    },
+    "http://www.france24.com/en/timeline/global/": {
+        "title": "AGENCE FRANCE-PRESSE",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Today's news, livenews and breaking top stories on France 24"
+    },
+    "http://www.foxnews.com/category/media-buzz": {
+        "title": "HOWIE KURTZ",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Media Buzz"
+    },
+    "http://www.foxnews.com": {
+        "title": "FOXNEWS",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "America is Watching."
+    },
+    "http://www.forbes.com/": {
+        "title": "FORBES",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Forbes is a global media company, focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle."
+    },
+    "http://www.express.co.uk": {
+        "title": "[UK] EXPRESS",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.ew.com/ew/": {
+        "title": "ENT WEEKLY",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Entertainment Weekly brings you the latest TV, movie, music, and book news daily."
+    },
+    "http://www.eonline.com/index.jsp": {
+        "title": "E!",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Your source for entertainment news, celebrities, celeb news, and celebrity gossip. Check out the hottest fashion, photos, movies and TV shows!"
+    },
+    "http://www.drudgereportarchives.com/dsp/timeline_html.htm": {
+        "title": "RECENT HEADLINES...",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.drudgereport.commailto:drudge@drudgereport.com": {
+        "title": "EMAIL: DRUDGE@DRUDGEREPORT.COM",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.drudgereport.com/privacy/opt-out/": {
+        "title": "DO NOT SELL MY INFO",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.drudgereport.com/privacy/california/": {
+        "title": "CALIFORNIA NOTICE",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.drudgereport.com/privacy/": {
+        "title": "PRIVACY POLICY",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.csmonitor.com/": {
+        "title": "CHRISTIAN SCIENCE",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "The Christian Science Monitor is an international news organization that delivers thoughtful, global coverage via its website, weekly magazine, online daily edition, and email newsletters."
+    },
+    "http://www.cnn.com": {
+        "title": "CNN",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "View the latest news and breaking news today for U.S., world, weather, entertainment, politics and health at CNN.com."
+    },
+    "http://www.chicagotribune.com": {
+        "title": "CHICAGO TRIB",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Chicago Tribune: Your source for Chicago breaking news, sports, business, entertainment, weather and traffic"
+    },
+    "http://www.c-span.org": {
+        "title": "C-SPAN",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.bloomberg.com/?pid=20601087&sid=a0giIbmAzkss&pos=7": {
+        "title": "BLOOMBERG",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.billboard.com": {
+        "title": "BILLBOARD",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Music Charts, News, Photos & Video"
+    },
+    "http://www.anncoulter.com": {
+        "title": "ANN COULTER",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": ""
+    },
+    "http://www.abcnews.com/": {
+        "title": "ABCNEWS",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com"
+    },
+    "http://www.TheNation.com": {
+        "title": "NATION",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "The Nation is the oldest continuously published weekly magazine in the United States, covering progressive political and cultural news, opinion, and analysis."
+    },
+    "http://thehill.com": {
+        "title": "HILL",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Unbiased Politics News"
+    },
+    "http://player.streamguys.com/apnews/sgplayer/player.php": {
+        "title": "AP RADIO",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "I listened to this on AP News Radio Player!"
+    },
+    "http://pagesix.com/": {
+        "title": "PAGE SIX",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Your source for celebrity news, gossip, entertainment, pop culture, photos, video and more."
+    },
+    "http://news.sky.com/": {
+        "title": "SKY NEWS",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Sky News delivers breaking news, headlines and top stories from business, politics, entertainment and more in the UK and worldwide."
+    },
+    "http://news.bbc.co.uk/default.stm": {
+        "title": "BBC",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news."
+    },
+    "http://buchanan.org/blog/columns": {
+        "title": "PAT BUCHANAN",
+        "added": "2022-05-03T19:19:16.303374+00:00",
+        "description": "This is our collection of Pat Buchanan\u2019s syndicated columns, speeches and interviews \u2013 Plus many of Pat\u2019s television and radio broadcasts."
+    },
     "https://www.dailymail.co.uk/news/article-10778701/Amber-Heards-personal-nurse-testifies-actress-deeply-jealous-Johnny-Depps-fame.html": {
         "title": "Heard's nurse testifies 'cocaine, liquor-addicted' actress had outbursts of rage...",
         "added": "2022-05-03T19:06:19.615244+00:00",
