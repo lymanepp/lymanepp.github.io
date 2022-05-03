@@ -1,7 +1,9 @@
 'on':
-  workflow_dispatch: null
   schedule:
     - cron: '*/15 * * * *'
+  push:
+    paths:
+      - 'scripts/drudge_rss.py'
 jobs:
   build:
     runs-on: ubuntu-latest
