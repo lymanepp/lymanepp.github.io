@@ -159,5 +159,5 @@ tree = etree.ElementTree(rss)
 tree.write(rssFileName, xml_declaration=True, encoding="utf-8", method="xml")
 
 print("Ended at:", datetime.now().strftime("%d/%m/%Y %H:%M:%S"), flush=True)
-print(json.dumps(current, index=4))
+print(json.dumps(current, indent=4))
 sys.exit(0)
