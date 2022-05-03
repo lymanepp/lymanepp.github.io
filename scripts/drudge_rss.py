@@ -1,6 +1,4 @@
-#!/usr/bin/python
 """Scrape drudgereport.com into RSS feed."""
-
 import json
 import re
 import sys
@@ -8,7 +6,7 @@ import time
 import xml.etree.ElementTree as etree
 from datetime import datetime
 from http import HTTPStatus
-from typing import Any, Mapping, Sequence, Tuple
+from typing import Any, Mapping, Sequence, Tuple, Type
 from urllib.parse import urlparse
 
 import requests
@@ -17,7 +15,11 @@ from bs4 import BeautifulSoup, element
 DRUDGE_BASE_URL = "http://www.drudgereport.com"
 RSS_FILE_NAME = "drudge.rss"
 JSON_FILE_NAME = "drudge.json"
-SKIP_LIST = ["www.wsj.com"]
+PAY_WALL_LIST = ["www.wsj.com"]
+
+JSON = Mapping[str, Any] | Sequence[Any] | str | float | Type[None]
+LIVE_LINKS = Sequence[Tuple[str, str]]
+DATA_MODEL = Mapping[str, Mapping[str, Any]]
 
 
 def main() -> int:
@@ -28,9 +30,10 @@ def main() -> int:
         return 1
 
     now = time.time()
-    prior = _read_prior()
+    prior = _read_json(JSON_FILE_NAME, default={})
+    assert isinstance(prior, Mapping)
     current = _build_current(live_links, prior, now)
-    _write_prior(current)
+    _write_json(JSON_FILE_NAME, current)
 
     rss_tree = _build_rss_tree(current, now)
     _write_rss_file(rss_tree)
@@ -39,21 +42,21 @@ def main() -> int:
     return 0
 
 
-def _read_prior() -> Mapping[str, Mapping[str, Any]]:
+def _read_json(file_name: str, default=None) -> JSON:
     try:
-        with open(JSON_FILE_NAME, "r", encoding="utf8") as json_file:
-            last = json.load(json_file)
+        with open(file_name, "r", encoding="utf8") as json_file:
+            obj = json.load(json_file)
     except FileNotFoundError:
-        last = {}
-    return last
+        obj = default
+    return obj
 
 
-def _write_prior(current: Mapping[str, Any]) -> None:
-    with open(JSON_FILE_NAME, "w", encoding="utf8") as json_file:
-        json.dump(current, json_file, indent=4)
+def _write_json(file_name: str, obj: JSON) -> None:
+    with open(file_name, "w", encoding="utf8") as json_file:
+        json.dump(obj, json_file, indent=4)
 
 
-def _read_live_links() -> Sequence[Tuple[str, str]] | None:
+def _read_live_links() -> LIVE_LINKS | None:
     response = requests.get(DRUDGE_BASE_URL, timeout=10)
     if response.status_code != HTTPStatus.OK:
         print(
@@ -66,15 +69,13 @@ def _read_live_links() -> Sequence[Tuple[str, str]] | None:
 
 
 def _build_current(
-    current_links: Sequence[Tuple[str, str]],
-    prior: Mapping[str, Mapping[str, Any]],
-    time_added: float,
-) -> Mapping[str, Mapping[str, Any]]:
+    current_links: LIVE_LINKS, prior: DATA_MODEL, time_added: float
+) -> DATA_MODEL:
 
     current: dict[str, Mapping[str, Any]] = {}
 
     for link, title in current_links:
-        if _is_skipped(link):
+        if _is_pay_wall(link):
             continue
 
         link = link.replace("\n", "").replace("\r", "")
@@ -97,13 +98,15 @@ def _build_current(
         if link not in current and (time_added - meta["added"]) < 86400:
             current[link] = meta
 
-    return current
+    return sorted(
+        current.items(), key=lambda item: (item[1]["added"], item[0]), reverse=True
+    )
 
 
-def _is_skipped(link: str) -> bool:
+def _is_pay_wall(link: str) -> bool:
     """Is URL skipped."""
     url = urlparse(link)
-    return url.netloc in SKIP_LIST
+    return url.netloc in PAY_WALL_LIST
 
 
 def _get_description(link: str) -> str:
@@ -134,9 +137,7 @@ def _get_description(link: str) -> str:
     return ""
 
 
-def _build_rss_tree(
-    current: Mapping[str, Mapping[str, Any]], now: float
-) -> etree.ElementTree:
+def _build_rss_tree(current: DATA_MODEL, now: float) -> etree.ElementTree:
     rss = etree.Element("rss")
     rss.set("version", "2.0")
 
@@ -150,11 +151,7 @@ def _build_rss_tree(
 
     etree.SubElement(channel, "description")
 
-    sorted_dict = sorted(
-        current.items(), key=lambda item: (item[1]["added"], item[0]), reverse=True
-    )
-
-    for link, meta in sorted_dict:
+    for link, meta in current:
         added = meta["added"]
         if (now - added) > 86400:
             continue
