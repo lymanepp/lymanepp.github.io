@@ -3,7 +3,7 @@ import json
 import re
 import sys
 import xml.etree.ElementTree as etree
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from http import HTTPStatus
 from typing import Any, Type
 from urllib.parse import urlparse
@@ -15,6 +15,7 @@ DRUDGE_BASE_URL = "http://www.drudgereport.com"
 RSS_FILE_NAME = "drudge.rss"
 JSON_FILE_NAME = "drudge.json"
 PAY_WALL_LIST = ["www.wsj.com"]
+RETENTION_PERIOD = timedelta(days=1)
 
 JsonType = dict[str, Any] | list[Any] | str | float | Type[None]
 
@@ -95,10 +96,8 @@ def _build_current(
 
     # Add missing items that are less than 24 hours old
     for link, meta in prior.items():
-        if (
-            link not in current
-            and (now - datetime.fromisoformat(meta["added"])).total_seconds() < 86400
-        ):
+        added = datetime.fromisoformat(meta["added"])
+        if link not in current and (now - added) < RETENTION_PERIOD:
             current[link] = meta
 
     return dict(
@@ -158,7 +157,7 @@ def _build_rss_tree(current: DataModelType, now: datetime) -> etree.ElementTree:
 
     for link, meta in current.items():
         added = datetime.fromisoformat(meta["added"])
-        if (now - added).total_seconds() > 86400:
+        if (now - added) > RETENTION_PERIOD:
             continue
 
         base_url = urlparse(link).netloc
