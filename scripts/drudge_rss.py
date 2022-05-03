@@ -162,4 +162,6 @@ for added, link, dict in index:
 indent(rss)
 tree = etree.ElementTree(rss)
 tree.write(rssFileName, xml_declaration=True, encoding="utf-8", method="xml")
+
+print("Ended at:", datetime.now().strftime("%d/%m/%Y %H:%M:%S"), flush=True)
 sys.exit(0)
