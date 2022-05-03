@@ -1,4 +1,6 @@
 #!/usr/bin/python
+"""Scrape drudgereport.com into RSS feed."""
+
 import json
 import re
 import sys
@@ -7,7 +9,7 @@ import xml.etree.ElementTree as etree
 from datetime import datetime
 from urllib.parse import urlparse
 
-import html5lib
+#import html5lib
 import requests
 from bs4 import BeautifulSoup
 
@@ -16,15 +18,16 @@ JSON_FILE_NAME = "drudge.json"
 SKIP_LIST = ["www.wsj.com"]
 
 
-def indent(elem, level=0):
+def indent_xml(elem, level=0):
+    """Indent XML elements."""
     i = "\n" + level * "  "
     if len(elem):
         if not elem.text or not elem.text.strip():
             elem.text = i + "  "
         if not elem.tail or not elem.tail.strip():
             elem.tail = i
-        for elem in elem:
-            indent(elem, level + 1)
+        for child in elem:
+            indent_xml(child, level + 1)
         if not elem.tail or not elem.tail.strip():
             elem.tail = i
     else:
@@ -33,6 +36,7 @@ def indent(elem, level=0):
 
 
 def get_description(link):
+    """Get meta description for URL."""
     try:
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0"
@@ -58,6 +62,7 @@ def get_description(link):
 
 
 def is_skipped(link):
+    """Is URL skipped."""
     url = urlparse(link)
     return url.netloc in SKIP_LIST
 
@@ -97,7 +102,6 @@ def main():
             meta = last[link]
         elif link.startswith("http://www.mcclatchydc.com"):
             meta = {"title": title, "added": now, "description": "CRAP"}
-            pass
         else:
             meta = {"title": title, "added": now, "description": get_description(link)}
 
@@ -149,12 +153,12 @@ def main():
             "<b>" + urlparse(link).netloc + "</b><br>" + meta["description"]
         ).strip()
 
-    indent(rss)
+    indent_xml(rss)
     tree = etree.ElementTree(rss)
     tree.write(RSS_FILE_NAME, xml_declaration=True, encoding="utf-8", method="xml")
 
     print("Ended at:", datetime.now().strftime("%d/%m/%Y %H:%M:%S"), flush=True)
-    print(json.dumps(current, indent=4))
+    #print(json.dumps(current, indent=4))
     return 0
 
 
