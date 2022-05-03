@@ -98,9 +98,7 @@ def _build_current(
         if link not in current and (time_added - meta["added"]) < 86400:
             current[link] = meta
 
-    return sorted(
-        current.items(), key=lambda item: (item[1]["added"], item[0]), reverse=True
-    )
+    return dict(sorted(current.items(), key=lambda item: (item[1]["added"], item[0]), reverse=True))
 
 
 def _is_pay_wall(link: str) -> bool:
@@ -151,7 +149,7 @@ def _build_rss_tree(current: DATA_MODEL, now: float) -> etree.ElementTree:
 
     etree.SubElement(channel, "description")
 
-    for link, meta in current:
+    for link, meta in current.items():
         added = meta["added"]
         if (now - added) > 86400:
             continue
