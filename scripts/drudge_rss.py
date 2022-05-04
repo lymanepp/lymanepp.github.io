@@ -198,7 +198,7 @@ def _build_rss_tree(current: DataModelType, now: datetime) -> etree.ElementTree:
         item_link.text = link
 
         item_desc = etree.SubElement(item, "description")
-        item_desc.text = f"{base_url} ► {description}" if description else base_url
+        item_desc.text = f"{base_url} ⮞ {description}" if description else base_url
 
     return etree.ElementTree(rss)
 
