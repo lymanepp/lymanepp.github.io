@@ -88,13 +88,12 @@ def _build_current(
             continue
 
         link = link.replace("\n", "").replace("\r", "").replace(" ", "")
-        title = title.strip()
 
         if "://" not in link:
             link = DRUDGE_BASE_URL + link
 
         current[link] = prior.get(link) or {
-            "title": title,
+            "title": title.split("\n")[0].strip(),
             "added": now.isoformat(),
             "description": _get_description(link),
         }
