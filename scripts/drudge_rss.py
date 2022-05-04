@@ -6,6 +6,7 @@ from datetime import datetime, timedelta, timezone
 from http import HTTPStatus
 from typing import Any, Type
 from urllib.parse import urlparse
+from yarl import URL
 
 import requests
 from bs4 import BeautifulSoup, element
@@ -32,6 +33,12 @@ def main() -> int:
     now = datetime.now(tz=timezone.utc)
     prior = _read_json(JSON_FILE_NAME, default={})
     assert isinstance(prior, dict)
+
+    for link, meta in prior.items():
+        if not meta["description"]:
+            desc = _get_msn_description(link)
+            meta["description"] = desc
+
     current = _build_current(live_links, prior, now)
     _write_json(JSON_FILE_NAME, current)
 
@@ -125,9 +132,7 @@ def _get_description(link: str) -> str:
         response = requests.get(link, headers=headers, timeout=5)
         if response.status_code == HTTPStatus.OK:
             soup = BeautifulSoup(response.content, "html5lib")
-            description = soup.find("meta", property="og:description") or soup.find(
-                "meta", property="description"
-            )
+            description = soup.find("meta", property="og:description") or soup.find("meta", property="description")
             if isinstance(description, element.Tag):
                 return (
                     description.attrs["content"]
@@ -136,10 +141,27 @@ def _get_description(link: str) -> str:
                     .replace("\n", " ")
                     .replace("  ", " ")
                 )
+            return _get_msn_description(link)
     except Exception as exc:
         print("Except in get_description: %s", exc)
         print("Link = %s", link)
     return ""
+
+
+def _get_msn_description(link: str) -> str:
+    # https://assets.msn.com/content/view/v2/Detail/en-us/AAWPSy9
+    url = URL(link)
+    if url.host != "www.msn.com" or not url.name.startswith("ar-"):
+        return ""
+    meta_url = URL("https://assets.msn.com/content/view/v2/Detail/en-us") / url.name[3:]
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0"
+    }
+    json_resp = requests.get(meta_url, headers=headers, timeout=5)
+    if json_resp.status_code != HTTPStatus.OK:
+        return ""
+    meta = json.loads(json_resp.content)
+    return meta.get("title")
 
 
 def _build_rss_tree(current: DataModelType, now: datetime) -> etree.ElementTree:
