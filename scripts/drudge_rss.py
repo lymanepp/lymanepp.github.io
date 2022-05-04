@@ -1,26 +1,30 @@
 """Scrape drudgereport.com into RSS feed."""
-import json
-import sys
-import xml.etree.ElementTree as etree
 from datetime import datetime, timedelta, timezone
 from http import HTTPStatus
-from typing import Any, Type
+import json
+import sys
+from typing import Any, Final
 from urllib.parse import urlparse
+import xml.etree.ElementTree as etree
+
+from bs4 import BeautifulSoup, element
+import requests
 from yarl import URL
 
-import requests
-from bs4 import BeautifulSoup, element
+DRUDGE_BASE_URL: Final = "http://www.drudgereport.com"
+MSN_BASE_URL = "https://assets.msn.com/content/view/v2/Detail/en-us"
+RSS_FILE_NAME: Final = "docs/drudge.rss"
+JSON_FILE_NAME: Final = "work/drudge.json"
+PAY_WALL_LIST: Final = ["www.wsj.com"]
+RETENTION_PERIOD: Final = timedelta(days=1)
 
-DRUDGE_BASE_URL = "http://www.drudgereport.com"
-RSS_FILE_NAME = "docs/drudge.rss"
-JSON_FILE_NAME = "work/drudge.json"
-PAY_WALL_LIST = ["www.wsj.com"]
-RETENTION_PERIOD = timedelta(days=1)
-
-JsonType = dict[str, Any] | list[Any] | str | float | Type[None]
-
+JsonType = dict[str, Any]
 LiveLinksType = list[tuple[str, str]]
 DataModelType = dict[str, dict[str, Any]]
+
+HTTP_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0"
+}
 
 
 def main() -> int:
@@ -33,12 +37,6 @@ def main() -> int:
     now = datetime.now(tz=timezone.utc)
     prior = _read_json(JSON_FILE_NAME, default={})
     assert isinstance(prior, dict)
-
-#    for link, meta in prior.items():
-#        if not meta["description"]:
-#            desc = _get_description(link)
-#            meta["description"] = desc
-
     current = _build_current(live_links, prior, now)
     _write_json(JSON_FILE_NAME, current)
 
@@ -49,13 +47,14 @@ def main() -> int:
     return 0
 
 
-def _read_json(file_name: str, default=None) -> JsonType:
+def _read_json(file_name: str, default: JsonType) -> JsonType:
     try:
         with open(file_name, "r", encoding="utf8") as file:
-            obj = json.load(file)
-    except FileNotFoundError:
-        obj = default
-    return obj
+            data = json.load(file)
+            assert isinstance(data, dict)
+            return data
+    except OSError:
+        return default
 
 
 def _write_json(file_name: str, obj: JsonType) -> None:
@@ -64,15 +63,13 @@ def _write_json(file_name: str, obj: JsonType) -> None:
 
 
 def _read_live_links() -> LiveLinksType | None:
-    response = requests.get(DRUDGE_BASE_URL, timeout=10)
+    response = requests.get(DRUDGE_BASE_URL, headers=HTTP_HEADERS, timeout=10)
     if response.status_code != HTTPStatus.OK:
-        print(
-            f"Received HTTP status {response.status_code} reading from {DRUDGE_BASE_URL}"
-        )
+        print(f"Received HTTP status {response.status_code} reading from {DRUDGE_BASE_URL}")
         return None
 
     html = response.content.decode("latin-1")
-    soup = BeautifulSoup(html, 'html.parser')
+    soup = BeautifulSoup(html, "html.parser")
 
     return [(tag.attrs["href"], tag.text) for tag in soup.find_all("a")]
 
@@ -87,10 +84,11 @@ def _build_current(
         if _is_pay_wall(link):
             continue
 
-        link = link.replace("\n", "").replace("\r", "").replace(" ", "")
-
-        if "://" not in link:
+        url = URL(link)
+        if not url.scheme:
             link = DRUDGE_BASE_URL + link
+        elif url.scheme not in ("http", "https"):
+            continue
 
         current[link] = prior.get(link) or {
             "title": title.split("\n")[0].strip(),
@@ -102,16 +100,13 @@ def _build_current(
             print("New link:", link, flush=True)
 
     # Add missing items that are less than 24 hours old
+    keep_if_newer = now - RETENTION_PERIOD
     for link, meta in prior.items():
         added = datetime.fromisoformat(meta["added"])
-        if link not in current and (now - added) < RETENTION_PERIOD:
+        if link not in current and added > keep_if_newer:
             current[link] = meta
 
-    return dict(
-        sorted(
-            current.items(), key=lambda item: (item[1]["added"], item[0]), reverse=True
-        )
-    )
+    return dict(sorted(current.items(), key=lambda item: (item[1]["added"], item[0]), reverse=True))
 
 
 def _is_pay_wall(link: str) -> bool:
@@ -122,16 +117,17 @@ def _is_pay_wall(link: str) -> bool:
 
 def _get_description(link: str) -> str:
     """Get meta description for URL."""
-    if link.startswith("http://www.mcclatchydc.com"):
-        return "CRAP"
     try:
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0"
-        }
-        response = requests.get(link, headers=headers, timeout=5)
+        response = requests.get(link, headers=HTTP_HEADERS, timeout=5)
         if response.status_code == HTTPStatus.OK:
             soup = BeautifulSoup(response.content, "html5lib")
-            description = soup.find("meta", property="og:description") or soup.find("meta", property="description") or soup.find("meta", {"name": "description"})
+            description = (
+                soup.find("meta", property="og:title")
+                or soup.find("meta", property="title")
+                or soup.find("meta", property="og:description")
+                or soup.find("meta", property="description")
+                or soup.find("meta", {"name": "description"})
+            )
             if isinstance(description, element.Tag):
                 return (
                     description.attrs["content"]
@@ -152,15 +148,13 @@ def _get_msn_description(link: str) -> str:
     url = URL(link)
     if url.host != "www.msn.com" or not url.name.startswith("ar-"):
         return ""
-    meta_url = URL("https://assets.msn.com/content/view/v2/Detail/en-us") / url.name[3:]
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0"
-    }
-    json_resp = requests.get(meta_url, headers=headers, timeout=5)
+    meta_url = URL(MSN_BASE_URL) / url.name[3:]
+    json_resp = requests.get(str(meta_url), headers=HTTP_HEADERS, timeout=5)
     if json_resp.status_code != HTTPStatus.OK:
         return ""
-    meta = json.loads(json_resp.content)
-    return meta.get("title")
+    meta: JsonType = json.loads(json_resp.content)
+    assert isinstance(meta, dict)
+    return meta.get("title", "")
 
 
 def _build_rss_tree(current: DataModelType, now: datetime) -> etree.ElementTree:
