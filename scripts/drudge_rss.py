@@ -34,10 +34,10 @@ def main() -> int:
     prior = _read_json(JSON_FILE_NAME, default={})
     assert isinstance(prior, dict)
 
-    for link, meta in prior.items():
-        if not meta["description"]:
-            desc = _get_msn_description(link)
-            meta["description"] = desc
+#    for link, meta in prior.items():
+#        if not meta["description"]:
+#            desc = _get_description(link)
+#            meta["description"] = desc
 
     current = _build_current(live_links, prior, now)
     _write_json(JSON_FILE_NAME, current)
@@ -132,7 +132,7 @@ def _get_description(link: str) -> str:
         response = requests.get(link, headers=headers, timeout=5)
         if response.status_code == HTTPStatus.OK:
             soup = BeautifulSoup(response.content, "html5lib")
-            description = soup.find("meta", property="og:description") or soup.find("meta", property="description")
+            description = soup.find("meta", property="og:description") or soup.find("meta", property="description") or soup.find("meta", {"name": "description"})
             if isinstance(description, element.Tag):
                 return (
                     description.attrs["content"]
@@ -143,8 +143,8 @@ def _get_description(link: str) -> str:
                 )
             return _get_msn_description(link)
     except Exception as exc:
-        print("Except in get_description: %s", exc)
-        print("Link = %s", link)
+        print(f"Except in get_description: {exc}")
+        print(f"Link = {link}")
     return ""
 
 
