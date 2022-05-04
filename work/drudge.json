@@ -1,4 +1,24 @@
 {
+    "https://www.nbcnews.com/politics/donald-trump/donald-trump-jr-testifies-panel-probing-jan-6-riot-rcna27381": {
+        "title": "Don Jr. testifies before House panel...",
+        "added": "2022-05-04T22:07:39.884397+00:00",
+        "description": "Donald Trump Jr. testifies before House panel probing Jan. 6 riot"
+    },
+    "https://www.cnn.com/2022/05/04/politics/mccarthy-audio-25th-amendment-biden/index.html": {
+        "title": "Wanted to reach out to Biden after Jan 6 attack...",
+        "added": "2022-05-04T22:07:39.884397+00:00",
+        "description": "New audio: McCarthy said 25th Amendment 'takes too long'"
+    },
+    "https://apnews.com/article/cryptocurrency-biden-technology-business-california-0586164898c33eeaefa0afa835fd7b50": {
+        "title": "CA moves to embrace crypto -- and regulate it...",
+        "added": "2022-05-04T22:07:39.884397+00:00",
+        "description": "California moves to embrace cryptocurrency and regulate it"
+    },
+    "https://abcnews.go.com/US/dr-ozs-vote-2018-turkish-election-renews-criticism/story?id=84326742": {
+        "title": "Dr. Oz's vote in '18 Turkish election renews criticism...",
+        "added": "2022-05-04T22:07:39.884397+00:00",
+        "description": "Dr. Oz's vote in 2018 Turkish election renews criticism"
+    },
     "https://www.cnbc.com/2022/05/04/facebook-plans-to-reduce-hiring-as-revenue-growth-slows-.html": {
         "title": "FACEBOOK plans to reduce hiring...",
         "added": "2022-05-04T21:38:20.144978+00:00",
@@ -369,11 +389,6 @@
         "added": "2022-05-03T19:19:16.303374+00:00",
         "description": "Licensing and Syndication is a division of the The Washington Post"
     },
-    "https://www.vice.com/en/article/m7vzjb/location-data-abortion-clinics-safegraph-planned-parenthood": {
-        "title": "Broker Selling Location Data of People Who Visit Abortion Clinics...",
-        "added": "2022-05-03T19:19:16.303374+00:00",
-        "description": "It costs just over $160 to get a week's worth of data on where people who visited Planned Parenthood came from, and where they went afterwards."
-    },
     "https://www.gertzfile.com": {
         "title": "BILL GERTZ",
         "added": "2022-05-03T19:19:16.303374+00:00",
@@ -388,11 +403,6 @@
         "title": "REASON",
         "added": "2022-05-03T19:19:16.303374+00:00",
         "description": "Local governments need to make changes to zoning laws, building-approval processes, and height limits that prevent more housing from hitting the market."
-    },
-    "https://news.yahoo.com/u-supreme-court-launches-probe-153004798.html": {
-        "title": "HUNT FOR SOURCE",
-        "added": "2022-05-03T19:19:16.303374+00:00",
-        "description": "(Reuters) -U.S. Chief Justice John Roberts on Tuesday said the Supreme Court will investigate the leak of a draft decision indicating that a majority of the nine justices are set to overturn the constitutional right to abortion, a breach of the court's trust that he called a \"betrayal.\" Underscoring the seriousness of the leak, Roberts said, \"This was a singular and egregious breach of that trust that is an affront to the court and the community of public servants who work here.\""
     },
     "https://english.kyodonews.net/": {
         "title": "KYODO",
@@ -668,11 +678,6 @@
         "title": "PAT BUCHANAN",
         "added": "2022-05-03T19:19:16.303374+00:00",
         "description": "This is our collection of Pat Buchanan\u2019s syndicated columns, speeches and interviews \u2013 Plus many of Pat\u2019s television and radio broadcasts."
-    },
-    "https://www.vice.com/en/article/m7vymn/cdc-tracked-phones-location-data-curfews": {
-        "title": "CDC Tracked Millions of Phones to See If Americans Followed Lockdown Orders...",
-        "added": "2022-05-03T16:21:02.632096+00:00",
-        "description": "Newly released documents showed the CDC planned to use phone location data to monitor schools and churches, and wanted to use the data for many non-COVID-19 purposes too."
     },
     "https://unherd.com/thepost/study-into-mrna/": {
         "title": "Study into mRNA vaccine death rates sends 'danger signals'...",
