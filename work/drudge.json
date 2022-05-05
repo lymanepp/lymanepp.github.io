@@ -1,4 +1,14 @@
 {
+    "https://www.jpost.com/breaking-news/article-705998": {
+        "title": "3 dead, 4 injured in suspected terror in central Israel...",
+        "added": "2022-05-05T19:23:41.293659+00:00",
+        "description": "3 dead, 4 injured in terror attack in Elad in central Israel"
+    },
+    "https://finance.yahoo.com/quote/%5EDJI?p=%5EDJI": {
+        "title": "DOW -1300",
+        "added": "2022-05-05T19:23:41.293659+00:00",
+        "description": "Dow Jones Industrial Average (^DJI) Charts, Data & News - Yahoo Finance"
+    },
     "https://nypost.com/2022/05/05/shocking-moments-from-amber-heards-johnny-depp-testimony/": {
         "title": "Harrowing moments: Threats, beatings, cavity searches...",
         "added": "2022-05-05T19:06:30.874818+00:00",
@@ -373,11 +383,6 @@
         "title": "Army officer convicted in first known virus court-martial...",
         "added": "2022-05-04T19:23:54.232751+00:00",
         "description": "Army officer convicted in first known COVID court-martial"
-    },
-    "https://au.news.yahoo.com/lapd-police-clash-abortion-protest-supreme-court-175537208.html": {
-        "title": "Police clash with protesters at abortion rally in LA...",
-        "added": "2022-05-04T19:06:37.172513+00:00",
-        "description": "Police clash with protesters at abortion rights rally in Los Angeles"
     },
     "https://www.cnbc.com/2022/05/04/fed-raises-rates-by-half-a-percentage-point-the-biggest-hike-in-two-decades-to-fight-inflation.html": {
         "title": "Fed raises rates by half point -- biggest hike in decades...",
