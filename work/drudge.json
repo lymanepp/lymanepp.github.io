@@ -1,4 +1,9 @@
 {
+    "https://news.yahoo.com/record-number-wealthy-americans-buying-113000971.html": {
+        "title": "ESCAPE FROM USA",
+        "added": "2022-05-07T14:46:40.700019+00:00",
+        "description": "Wealthy Americans are buying second passports as a 'plan B' for their families, citing the pandemic, climate change, and political turmoil"
+    },
     "https://www.thewrap.com/fred-savage-fired-wonder-years-reboot-i-conduct/": {
         "title": "Fred Savage Fired From 'WONDER YEARS' After Inappropriate Conduct Allegations...",
         "added": "2022-05-07T14:25:40.206655+00:00",
@@ -393,11 +398,6 @@
         "title": "'WE ARE NOWHERE NEAR BOTTOM'",
         "added": "2022-05-06T10:49:26.004334+00:00",
         "description": "'We are nowhere near the bottom,' top economist says as global markets crater"
-    },
-    "https://www.cnbc.com/2022/05/05/stock-market-futures-open-to-close-news.html": {
-        "title": "STOCKS STRUGGLE",
-        "added": "2022-05-06T10:49:26.004334+00:00",
-        "description": "Stock futures fall after Dow's worst day since 2020, jobs report looms"
     },
     "https://www.washingtonpost.com/syndication/columnists/george-f-will/": {
         "title": "GEORGE WILL",
