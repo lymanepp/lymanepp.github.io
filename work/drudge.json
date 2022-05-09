@@ -1,4 +1,49 @@
 {
+    "https://www.spectator.co.uk/article/crypto-is-dead": {
+        "title": "Crypto Fad Fades...",
+        "added": "2022-05-09T15:52:20.052266+00:00",
+        "description": "Crypto is dead | The Spectator"
+    },
+    "https://www.cnbc.com/quotes/uber": {
+        "title": "UBER -40%",
+        "added": "2022-05-09T15:52:20.052266+00:00",
+        "description": "Check out Uber Technologies's stock price (UBER) in real time"
+    },
+    "https://www.cnbc.com/quotes/snap": {
+        "title": "SNAP -50%",
+        "added": "2022-05-09T15:52:20.052266+00:00",
+        "description": "Check out Snap's stock price (SNAP) in real time"
+    },
+    "https://www.cnbc.com/quotes/googl": {
+        "title": "GOOGLE -22%",
+        "added": "2022-05-09T15:52:20.052266+00:00",
+        "description": "Check out Alphabet Class A's stock price (GOOGL) in real time"
+    },
+    "https://www.cnbc.com/quotes/TSLA": {
+        "title": "TESLA -25%",
+        "added": "2022-05-09T15:52:20.052266+00:00",
+        "description": "Check out Tesla's stock price (TSLA) in real time"
+    },
+    "https://www.cnbc.com/quotes/NFLX": {
+        "title": "NETFLIX -71% YEAR TO DATE...",
+        "added": "2022-05-09T15:52:20.052266+00:00",
+        "description": "Check out Netflix's stock price (NFLX) in real time"
+    },
+    "https://www.cnbc.com/quotes/FB": {
+        "title": "FACEBOOK -41%",
+        "added": "2022-05-09T15:52:20.052266+00:00",
+        "description": "Check out Meta Platforms's stock price (FB) in real time"
+    },
+    "https://www.cnbc.com/quotes/DIS": {
+        "title": "DISNEY -30%",
+        "added": "2022-05-09T15:52:20.052266+00:00",
+        "description": "Check out Walt Disney's stock price (DIS) in real time"
+    },
+    "https://www.cnbc.com/quotes/AMZN": {
+        "title": "AMAZON -34%",
+        "added": "2022-05-09T15:52:20.052266+00:00",
+        "description": "Check out Amazon.com's stock price (AMZN) in real time"
+    },
     "https://www.nbcnewyork.com/news/coronavirus/covid-positivity-tops-20-in-hot-nyc-neighborhood-as-5th-wave-grows/3678355/": {
         "title": "Covid 5TH WAVE keeps growing in NYC... Developing...",
         "added": "2022-05-09T15:33:03.142716+00:00",
