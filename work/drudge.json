@@ -1,4 +1,14 @@
 {
+    "https://www.washingtonpost.com/dc-md-va/2022/05/15/fairfax-streets-confederate-civil-war/": {
+        "title": "A civil war among neighbors over Confederate-themed streets...",
+        "added": "2022-05-15T17:49:02.063587+00:00",
+        "description": "A civil war among neighbors over Confederate-themed streets"
+    },
+    "https://www.cnn.com/2022/05/13/economy/gas-prices-consumer-spending-jp-morgan/index.html": {
+        "title": "Americans feeling more pain at pump...",
+        "added": "2022-05-15T17:49:02.063587+00:00",
+        "description": "First on CNN: Record-high gas prices slash US spending by $9 billion a month"
+    },
     "https://nypost.com/2022/05/15/witness-recalls-buffalo-mass-shooting-from-birds-eye-view/": {
         "title": "Witness recalls shooter's 'blank' expression...",
         "added": "2022-05-15T14:06:48.312357+00:00",
@@ -174,11 +184,6 @@
         "added": "2022-05-14T16:44:59.555059+00:00",
         "description": "\u2018Let Someone Whack You\u2019: Russian Troops Are Now Deliberately Wounding Themselves to Get Out of Putin\u2019s War"
     },
-    "https://www.deccanherald.com/international/world-news-politics/wolves-witches-and-rapping-ukrainians-compete-for-eurovision-title-1109185.html": {
-        "title": "Wolves, witches and rapping Ukrainians compete for Eurovision title...",
-        "added": "2022-05-14T16:44:59.555059+00:00",
-        "description": "Wolves, witches and rapping Ukrainians compete for Eurovision title"
-    },
     "https://www.dailymail.co.uk/news/article-10815981/New-battery-powered-sub-room-120-revellers-party-24-hours-waves.html": {
         "title": "Rave underwater! Battery-powered sub has room for 120 revellers...",
         "added": "2022-05-14T16:44:59.555059+00:00",
@@ -209,11 +214,6 @@
         "added": "2022-05-14T14:26:50.983336+00:00",
         "description": "Coup to oust Putin underway & he'll be removed by year's end, says spy chief"
     },
-    "https://www.the-sun.com/health/5335626/chocolate-slashes-risk-of-dying-young/": {
-        "title": "Eating chocolate slashes risk of dying young?",
-        "added": "2022-05-14T14:26:50.983336+00:00",
-        "description": "Eating chocolate SLASHES risk of dying young by 12 per cent, major study reveals"
-    },
     "https://www.scmp.com/news/world/united-states-canada/article/3177760/amazons-bezos-spars-biden-twitter-about-inflation": {
         "title": "Bezos spars with Biden on TWITTER about inflation...",
         "added": "2022-05-14T14:26:50.983336+00:00",
@@ -223,11 +223,6 @@
         "title": "McConnell makes surprise trip to meet Zelenskyy in Ukraine...",
         "added": "2022-05-14T14:26:50.983336+00:00",
         "description": "McConnell makes surprise trip to meet Zelenskyy in Ukraine"
-    },
-    "https://www.bnnbloomberg.ca/the-world-s-first-flying-taxi-hub-takes-shape-in-the-english-midlands-1.1765881": {
-        "title": "World's First Flying Taxi Hub Takes Shape in English Midlands...",
-        "added": "2022-05-14T14:26:50.983336+00:00",
-        "description": "The World\u2019s First Flying Taxi Hub Takes Shape in the English Midlands - BNN Bloomberg"
     },
     "https://dnyuz.com/2022/05/14/how-just-a-dude-in-shorts-became-a-senate-front-runner/": {
         "title": "How 'Just a Dude' in Shorts Became Senate Front-Runner...",
@@ -254,35 +249,15 @@
         "added": "2022-05-14T13:34:33.104457+00:00",
         "description": "Show of support for abortion rights expected at US rallies"
     },
-    "https://www.msn.com/en-us/news/us/ky-christian-school-asks-middle-schoolers-to-write-warning-against-homosexuality/ar-AAXfzo5": {
-        "title": "School asks middle schoolers to write warning against homosexuality...",
-        "added": "2022-05-14T12:58:36.196644+00:00",
-        "description": "Ky. Christian school asks middle schoolers to write warning against homosexuality"
-    },
     "https://www.msn.com/en-us/news/politics/kansas-gov-laura-kelly-vetoes-gop-bill-aimed-at-banning-all-future-mask-mandates/ar-AAXfvNK": {
         "title": "Kansas Gov. vetoes bill aimed at banning all future mask mandates...",
         "added": "2022-05-14T12:58:36.196644+00:00",
         "description": "Kansas Gov. Laura Kelly vetoes GOP bill aimed at banning all future mask mandates"
     },
-    "https://www.the-sun.com/news/5334711/israeli-forces-attack-mourners-journalists-funeral-coffin-ground/": {
-        "title": "Video Shows Israeli Soldiers Beating Pallbearers Carrying Slain Journalist's Casket...",
-        "added": "2022-05-14T03:14:41.571543+00:00",
-        "description": "Shocking moment Israeli forces attack mourners at journalist\u2019s funeral"
-    },
-    "https://www.msn.com/en-us/travel/news/missouri-louisiana-arizona-patients-are-already-traveling-hundreds-of-miles-to-have-abortions-in-illinois/ar-AAXeSzd?ocid=uxbndlbing": {
-        "title": "Missouri. Louisiana. Arizona. Patients are already traveling hundreds of miles to have abortions in Illinois...",
-        "added": "2022-05-14T03:14:41.571543+00:00",
-        "description": "Missouri. Louisiana. Arizona. Patients are already traveling hundreds of miles to have abortions in Illinois"
-    },
     "https://www.msn.com/en-us/news/politics/trump-gop-rivals-target-barnette-as-she-threatens-to-upend-pa-race/ar-AAXeR8Z?ocid=uxbndlbing": {
         "title": "UPDATE:  MAGA TARGETS BARNETTE...",
         "added": "2022-05-14T03:14:41.571543+00:00",
         "description": "Trump, GOP rivals target Barnette as she threatens to upend Pa. race"
-    },
-    "https://www.msn.com/en-us/news/politics/more-republicans-are-working-to-undermine-trump-endorsements/ar-AAXf2y0?ocid=uxbndlbing": {
-        "title": "More Republicans working to undermine The Don's endorsements...",
-        "added": "2022-05-14T03:14:41.571543+00:00",
-        "description": "More Republicans are working to undermine Trump endorsements"
     },
     "https://www.marketwatch.com/story/u-s-stocks-futures-swing-higher-as-s-p-500-fights-off-bear-market-territory-11652427721": {
         "title": "Stocks suffers longest losing streak since 2001...",
@@ -319,11 +294,6 @@
         "added": "2022-05-14T00:47:16.883500+00:00",
         "description": "Southern California 'cannot afford green lawns' as drought forces unprecedented water cuts"
     },
-    "https://www.mediaite.com/tv/melania-trump-rips-biased-media-countrys-leadership-in-first-post-white-house-interview-with-fox-news/": {
-        "title": "Melania Rips 'Biased' Media, Country's 'Leadership' in First Post-White House Interview...",
-        "added": "2022-05-14T00:47:16.883500+00:00",
-        "description": "Melania Trump Rips Country's 'Leadership' in New Interview"
-    },
     "https://nypost.com/2022/05/13/california-mansion-was-almost-sold-before-wildfire-destroyed-it/": {
         "title": "$10M mansion 'one signature away' from sale before CA wildfire gutted it!",
         "added": "2022-05-14T00:47:16.883500+00:00",
@@ -333,11 +303,6 @@
         "title": "NETFLIX Plans LIVE Streaming For Reality TV, Comedy Specials...",
         "added": "2022-05-14T00:47:16.883500+00:00",
         "description": "Netflix Exploring Live Streaming For First Time; Plans To Roll Out For Unscripted Series & Stand-Up Specials"
-    },
-    "https://uk.news.yahoo.com/violent-scenes-jerusalem-mourners-gather-115243720.html": {
-        "title": "Violent scenes in Jerusalem as mourners gather for funeral of AL JAZEERA journalist...",
-        "added": "2022-05-13T13:21:16.928190+00:00",
-        "description": "Violent scenes in Jerusalem as mourners gather for funeral of Al Jazeera journalist"
     },
     "https://www.washingtonpost.com/syndication/columnists/george-f-will/": {
         "title": "GEORGE WILL",
