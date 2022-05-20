@@ -1,4 +1,14 @@
 {
+    "https://www.google.com/finance/quote/TSLA:NASDAQ?window=YTD": {
+        "title": "TESLA STOCK -46% FOR YEAR",
+        "added": "2022-05-20T19:24:14.192494+00:00",
+        "description": "Tesla Inc (TSLA) Stock Price & News - Google Finance"
+    },
+    "https://www.foxnews.com/politics/san-francisco-archbishop-pelosi-communion-abortion-support": {
+        "title": "Archbishop bars Pelosi from Holy Communion due to abortion support...",
+        "added": "2022-05-20T19:24:14.192494+00:00",
+        "description": "San Francisco archbishop bars Pelosi from receiving Holy Communion due to abortion support"
+    },
     "https://www.studyfinds.org/insects-as-pets-praying-mantis/": {
         "title": "New Pet Trend: Praying Mantises...",
         "added": "2022-05-20T19:06:37.124281+00:00",
@@ -303,11 +313,6 @@
         "title": "Relics and militants: Vatican fraud trial sprawls globe...",
         "added": "2022-05-19T19:26:48.726460+00:00",
         "description": "Relics and militants: Vatican fraud trial sprawls the globe"
-    },
-    "https://www.axios.com/2022/05/19/bill-barr-jan6-committee": {
-        "title": "Barr in discussions to cooperate with Jan. 6 committee...",
-        "added": "2022-05-19T19:14:10.854975+00:00",
-        "description": "Scoop: Bill Barr in discussions to cooperate with Jan. 6 committee"
     },
     "https://www.businessinsider.com/lauren-boebert-pnext-on-madison-cawthorn-foes-hit-list-2022-5": {
         "title": "Publishers of Nude Video Target Boebert Next...",
