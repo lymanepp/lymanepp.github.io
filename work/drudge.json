@@ -1,4 +1,9 @@
 {
+    "https://deadline.com/author/baz-bamigboye/": {
+        "title": "BAZ BAMIGBOYE",
+        "added": "2022-05-22T00:39:11.311777+00:00",
+        "description": "Baz Bamigboye"
+    },
     "https://www.msn.com/en-us/news/us/another-bummer-coronavirus-summer-for-california-cases-keep-rising-along-with-concerns/ar-AAXz7ua": {
         "title": "Another bummer summer for CA? Infections keep rising along with concerns...",
         "added": "2022-05-21T18:09:07.738755+00:00",
@@ -238,11 +243,6 @@
         "title": "Scientists baffled by monkeypox cases in Europe, USA...",
         "added": "2022-05-20T17:15:05.226488+00:00",
         "description": "African scientists baffled by monkeypox cases in Europe, US"
-    },
-    "https://www.the-sun.com/news/5384415/elon-musk-gulfstream-g650er-private-jet-flight-attendant/": {
-        "title": "World's oldest man to throw 113rd birthday party!",
-        "added": "2022-05-20T16:47:33.292990+00:00",
-        "description": "Inside Musk's $70m private jet where Tesla CEO 'exposed himself to worker'"
     },
     "https://qz.com/2165639/miamis-mayor-backed-miamicoin-then-its-price-dropped-95-percent/": {
         "title": "Crypto-pocalypse comes for MiamiCoin...",
@@ -1003,11 +1003,6 @@
         "title": "LA DAILY NEWS",
         "added": "2021-01-17T19:05:32.742473+00:00",
         "description": "The Los Angeles Daily News is the local news source for Los Angeles and the San Fernando Valley region, providing breaking news, sports, business, entertainment, things to do, opinion, photos, videos and more from L.A."
-    },
-    "http://www.dailymail.co.uk/tvshowbiz/columnist-1000601/Baz-Bamigboye.html": {
-        "title": "BAZ BAMIGBOYE",
-        "added": "2021-01-17T19:05:32.742473+00:00",
-        "description": "Baz Bamigboye for the Daily Mail Columnist Archive for MailOnline"
     },
     "http://www.dailymail.co.uk/news/headlines/index.html": {
         "title": "[UK] DAILY MAIL FEED",
