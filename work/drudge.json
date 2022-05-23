@@ -1,4 +1,44 @@
 {
+    "https://www.washingtonpost.com/politics/2022/05/22/kellyanne-conway-book-trump/": {
+        "title": "In new book, Kellyanne Conway takes aim at many targets  -- except Trump...",
+        "added": "2022-05-23T00:39:26.464025+00:00",
+        "description": "In new book, Kellyanne Conway takes aim at many targets \u2014 except Trump"
+    },
+    "https://www.the-sun.com/news/5394623/long-branch-new-jersey-hundreds-tiktok-beach-party/": {
+        "title": "Curfew in Jersey Shore town after wild TIKTOK party spirals out of control...",
+        "added": "2022-05-23T00:39:26.464025+00:00",
+        "description": "Chaos erupts & fights break out after hundreds pack TikTok beach party"
+    },
+    "https://www.the-sun.com/health/5398418/monkeypox-close-contacts-uk-should-isolate-cases-rise/": {
+        "title": "ISOLATE FOR 21 DAYS",
+        "added": "2022-05-23T00:39:26.464025+00:00",
+        "description": "UK says monkeypox contacts should ISOLATE for 21 days as more cases confirmed"
+    },
+    "https://www.rt.com/news/555863-who-monkeypox-transmission-europe/": {
+        "title": "WHO WARNS AGAINST MASS GATHERINGS",
+        "added": "2022-05-23T00:39:26.464025+00:00",
+        "description": "WHO issues forecast on monkeypox transmission"
+    },
+    "https://www.msn.com/en-us/weather/topstories/amid-severe-drought-former-interior-secretary-calls-for-revamping-colorado-river-pact/ar-AAXt36P": {
+        "title": "Calls for revamping Colorado River pact...",
+        "added": "2022-05-23T00:39:26.464025+00:00",
+        "description": "Amid severe drought, former Interior secretary calls for revamping Colorado River pact"
+    },
+    "https://www.dailymail.co.uk/tvshowbiz/article-10842751/Iris-Law-flashes-washboard-abs-chic-black-corset-skirt-ord-Cannes.html": {
+        "title": "SEX AT 64:  SHARON STONE WOWS CANNES...",
+        "added": "2022-05-23T00:39:26.464025+00:00",
+        "description": "Iris Law flashes her washboard abs in a chic black corset top"
+    },
+    "https://news.yahoo.com/why-swimming-pools-getting-break-120050179.html": {
+        "title": "Why swimming pools are getting a break despite unprecedented water restrictions in Southern California...",
+        "added": "2022-05-23T00:39:26.464025+00:00",
+        "description": "Why swimming pools are getting a break despite unprecedented water restrictions"
+    },
+    "https://apnews.com/article/baptist-religion-sexual-abuse-by-clergy-southern-convention-bfdbe64389790630488f854c3dae3fd5": {
+        "title": "REPORT:  Southern Baptist leaders covered up sex abuse, lied about secret database...",
+        "added": "2022-05-23T00:39:26.464025+00:00",
+        "description": "Report: Top Southern Baptists stonewalled sex abuse victims"
+    },
     "https://www.showbiz411.com/2022/05/17/netflix-chaos-with-150-new-layoffs-everything-now-depends-on-220-mil-mysterious-gray-man-release-in-july": {
         "title": "TROUBLED NETFLIX SET TO RELEASE MOST EXPENSIVE STREAMER IN HISTORY...",
         "added": "2022-05-22T23:40:02.714860+00:00",
@@ -169,16 +209,6 @@
         "added": "2022-05-21T17:31:00.438000+00:00",
         "description": "Kill Japan's elderly? Cannes film probes chilling idea"
     },
-    "https://nypost.com/2022/05/21/eric-adams-eyeing-white-house-run-in-2024-sources/": {
-        "title": "NYC Mayor considering White House bid?",
-        "added": "2022-05-21T17:01:07.388421+00:00",
-        "description": "Eric Adams eyeing White House run in 2024: sources"
-    },
-    "https://www.france24.com/en/live-news/20220521-cuban-boxers-stage-victorious-professional-comeback": {
-        "title": "Cuban boxers stage victorious professional comeback...",
-        "added": "2022-05-21T16:42:43.840860+00:00",
-        "description": "Cuban boxers stage victorious professional comeback"
-    },
     "https://www.express.co.uk/news/royal/1613921/Queen-news-Australian-elections-prime-minister-Anthony-Albanese-Australia-republic": {
         "title": "ANTI-ROYAL PRIME MINISTER",
         "added": "2022-05-21T16:42:43.840860+00:00",
@@ -209,20 +239,10 @@
         "added": "2022-05-21T13:42:27.201772+00:00",
         "description": "Bush Dynasty, Its Influence Fading, Pins Hopes on One Last Stand in Texas"
     },
-    "https://dnyuz.com/2022/05/21/baz-luhrmann-is-ready-for-rhinestones-cadillacs-dr-feelgood-and-a-svengali/": {
-        "title": "Baz Luhrmann Ready for Rhinestones, Cadillacs, Dr. Feelgood and Svengali...",
-        "added": "2022-05-21T13:42:27.201772+00:00",
-        "description": "Baz Luhrmann Is Ready for Rhinestones, Cadillacs, Dr. Feelgood and a Svengali"
-    },
     "https://www.msn.com/en-us/news/world/global-leaders-warn-of-economic-dangers-as-crises-multiply/ar-AAXywy0": {
         "title": "Global leaders warn of economic dangers as crises multiply...",
         "added": "2022-05-21T13:19:36.995539+00:00",
         "description": "Global leaders warn of economic dangers as crises multiply"
-    },
-    "https://www.msn.com/en-us/news/politics/the-top-10-gop-presidential-candidates-for-2024-ranked/ar-AAXyku8": {
-        "title": "Top 10 Republican presidential candidates for 2024, ranked...",
-        "added": "2022-05-21T13:19:36.995539+00:00",
-        "description": "The top 10 GOP presidential candidates for 2024, ranked"
     },
     "https://www.barrons.com/news/thousands-of-covid-negative-beijing-residents-sent-to-quarantine-01653110106": {
         "title": "Thousands of negative Beijing residents sent to quarantine...",
@@ -233,11 +253,6 @@
         "title": "Labor leader Albanese to become Australia next PM... Developing...",
         "added": "2022-05-21T13:19:36.995539+00:00",
         "description": "Australian voters deliver strong message on climate, ending conservative government's 9-year rule"
-    },
-    "https://www.thedailybeast.com/trump-backed-candidate-jacky-eubanks-wants-to-ban-birth-control": {
-        "title": "Trump-Backed Candidate Wants to Ban Birth Control...",
-        "added": "2022-05-21T02:06:33.501617+00:00",
-        "description": "This Trump-Backed Candidate Wants to Ban Birth Control"
     },
     "https://www.washingtonpost.com/syndication/columnists/george-f-will/": {
         "title": "GEORGE WILL",
