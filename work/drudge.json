@@ -1,4 +1,9 @@
 {
+    "https://apnews.com/article/politics-arizona-phoenix-theft-eac0922b2874c956720a1523f5f035d8": {
+        "title": "Phoenix cops find 1,200 catalytic converters as thefts soar...",
+        "added": "2022-05-27T22:07:45.963532+00:00",
+        "description": "Phoenix cops find 1,200 catalytic converters as thefts soar"
+    },
     "https://www.politico.com/newsletters/west-wing-playbook": {
         "title": "Chris Licht goes to 1600 Penn...",
         "added": "2022-05-27T21:39:02.169758+00:00",
@@ -353,11 +358,6 @@
         "title": "Herschel Walker proposes govt look at 'men looking at women looking at social media'...",
         "added": "2022-05-26T22:08:29.978167+00:00",
         "description": "Herschel Walker fumbles response to gun control questions"
-    },
-    "https://www.sfgate.com/politics/article/New-poll-shows-Kamala-Harris-has-support-for-2024-17201341.php": {
-        "title": "POLL: Dems misreading Kamala '24 candidacy...",
-        "added": "2022-05-26T21:48:56.315288+00:00",
-        "description": "New poll suggests Democrats are misreading Kamala Harris' 2024 candidacy"
     },
     "https://www.agri-pulse.com/articles/17757-chinese-interest-in-us-ag-assets-could-pose-security-risks-report-says": {
         "title": "REPORT: Beijing targeting American farms to buy or steal biotech seeds, croplands...",
