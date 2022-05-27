@@ -1,4 +1,9 @@
 {
+    "https://www.politico.com/newsletters/west-wing-playbook": {
+        "title": "Chris Licht goes to 1600 Penn...",
+        "added": "2022-05-27T21:39:02.169758+00:00",
+        "description": "West Wing Playbook"
+    },
     "https://nypost.com/2022/05/27/texas-gov-abbott-misled-livid-about-cops-delayed-response-to-school-shooting/": {
         "title": "TX Gov Abbott 'misled,' 'livid'...",
         "added": "2022-05-27T21:27:57.536958+00:00",
@@ -358,11 +363,6 @@
         "title": "HELIUM SHORTAGE BURSTS PARTY PLANS...",
         "added": "2022-05-26T21:39:32.295937+00:00",
         "description": "Helium shortage hits graduation and birthday parties"
-    },
-    "https://www.msn.com/en-us/news/technology/new-pacemaker-zaps-your-heart-before-melting-away/ar-AAXLWHy": {
-        "title": "New Pacemaker Zaps Heart Before Melting Away...",
-        "added": "2022-05-26T21:28:14.081999+00:00",
-        "description": "New Pacemaker Zaps Your Heart Before Melting Away"
     },
     "https://www.agri-pulse.com/articles/17757-chinese-interest-in-us-ag-assets-could-pose-security-risks-report-says": {
         "title": "REPORT: Beijing targeting American farms to buy or steal biotech seeds, croplands...",
