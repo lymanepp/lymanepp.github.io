@@ -1,4 +1,14 @@
 {
+    "https://www.cnbc.com/2022/05/27/record-high-memorial-day-gas-prices-are-stinging-consumers-and-impacting-travel.html": {
+        "title": "GAS PRICE ANOTHER RECORD",
+        "added": "2022-05-28T06:36:05.162037+00:00",
+        "description": "Record high Memorial Day gas prices are stinging consumers and impacting travel"
+    },
+    "https://finance.yahoo.com/news/surging-meat-prices-push-summer-164025167.html": {
+        "title": "HOLIDAY STICKER SHOCK:BEEF, CHICKEN ALL-TIME HIGH",
+        "added": "2022-05-28T06:36:05.162037+00:00",
+        "description": "Surging Meat Prices Push Summer Grillers to Order Pizza Instead"
+    },
     "https://apnews.com/article/politics-arizona-phoenix-theft-eac0922b2874c956720a1523f5f035d8": {
         "title": "Phoenix cops find 1,200 catalytic converters as thefts soar...",
         "added": "2022-05-27T22:07:45.963532+00:00",
@@ -274,16 +284,6 @@
         "added": "2022-05-27T02:49:00.034868+00:00",
         "description": "Texas School Shooter\u2019s Dad: \u2018He Should\u2019ve Just Killed Me\u2019"
     },
-    "https://www.mirror.co.uk/news/us-news/texas-schoolgirl-shot-after-gunman-27078293": {
-        "title": "Girl shot when gunman heard her yelling for help 'after police told her to'...",
-        "added": "2022-05-27T02:49:00.034868+00:00",
-        "description": "Schoolgirl killed when gunman heard her yelling for help 'like cops told her to'"
-    },
-    "https://www.dailynews.com/2022/05/26/delta-is-cutting-flights-to-relieve-pressure-on-operations/": {
-        "title": "DELTA Cutting Flights to Relieve Pressure on Operations...",
-        "added": "2022-05-27T02:49:00.034868+00:00",
-        "description": "Delta cutting flights to \u2018relieve pressure\u2019 on operations"
-    },
     "https://www.bloomberg.com/news/articles/2022-05-26/ford-f-150-lightning-first-sale-goes-to-would-be-tesla-cybertruck-buyer": {
         "title": "FORD Beats TESLA to the Punch With First Electric F-150 Delivery...",
         "added": "2022-05-27T02:49:00.034868+00:00",
@@ -339,11 +339,6 @@
         "added": "2022-05-27T00:40:24.288099+00:00",
         "description": "Police face growing criticism over response to Texas school shooting as parents speak out"
     },
-    "https://fox5ny.com/news/uvalde-texas-student-who-covered-herself-in-classmates-blood-to-survive-is-still-shaken-dad-says": {
-        "title": "Student covered herself with bodies...",
-        "added": "2022-05-27T00:40:24.288099+00:00",
-        "description": "Uvalde, Texas student who covered herself in classmates' blood to survive is still shaken, dad says"
-    },
     "https://www.agri-pulse.com/articles/17757-chinese-interest-in-us-ag-assets-could-pose-security-risks-report-says": {
         "title": "REPORT: Beijing targeting American farms to buy or steal biotech seeds, croplands...",
         "added": "2022-05-26T21:28:14.081999+00:00",
@@ -364,11 +359,6 @@
         "added": "2022-05-26T18:10:48.112683+00:00",
         "description": "Nine monkeypox cases identified in U.S.: What we know about each of them"
     },
-    "https://www.msn.com/en-us/news/politics/documents-shed-light-on-secret-u-s-plans-for-apocalyptic-scenarios/ar-AAXLmoW": {
-        "title": "Docs Reveal Secret U.S. Plans for Apocalyptic Scenarios...",
-        "added": "2022-05-26T18:10:48.112683+00:00",
-        "description": "Documents Shed Light on Secret U.S. Plans for Apocalyptic Scenarios"
-    },
     "https://www.theguardian.com/business/live/2022/may/26/davos-day-4-vitali-klitschko-olaf-scholz-jobs-risks-economics-live-updates": {
         "title": "Davos paints gloomy world picture...",
         "added": "2022-05-26T16:48:07.496030+00:00",
@@ -378,11 +368,6 @@
         "title": "Beijingers skirting Covid rules!",
         "added": "2022-05-26T16:48:07.496030+00:00",
         "description": "'The pandemic won't stop us': the Beijingers skirting Covid rules"
-    },
-    "https://www.the-sun.com/news/5426750/donna-independent-school-threat-texas/": {
-        "title": "AK-47, list of targets found at another TX school...",
-        "added": "2022-05-26T12:58:20.825860+00:00",
-        "description": "Alert at ANOTHER Texas school after AK-47 and list of targeted students found"
     },
     "https://www.axios.com/2022/05/26/hawaii-reports-highest-rate-of-new-covid-cases": {
         "title": "Hawaii reports highest rate of new cases...",
