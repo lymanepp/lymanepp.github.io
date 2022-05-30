@@ -1,4 +1,19 @@
 {
+    "https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/300844.shtml": {
+        "title": "Cat 3 landfall?",
+        "added": "2022-05-30T10:50:53.878945+00:00",
+        "description": ""
+    },
+    "https://www.msn.com/en-us/news/us/bears-were-tortured-in-cages-now-rescued-they-climb-trees-and-eat-lasagna/ar-AAXQKM6": {
+        "title": "Bears were tortured in cages. Now rescued, they climb trees and eat lasagna...",
+        "added": "2022-05-30T10:50:53.878945+00:00",
+        "description": "Bears were tortured in cages. Now rescued, they climb trees and eat lasagna."
+    },
+    "https://sg.news.yahoo.com/mona-lisa-covered-cake-louvre-102900806.html": {
+        "title": "Mona Lisa covered in cake in LOUVRE stunt...",
+        "added": "2022-05-30T10:50:53.878945+00:00",
+        "description": "Mona Lisa covered in cake in Louvre stunt"
+    },
     "https://www.msn.com/en-us/news/us/we-need-you-to-protect-democracy-garland-tells-harvard-2020-2021-grads-sunday/ar-AAXRhZV?ocid=uxbndlbing": {
         "title": "AG Garland warns of threats to democracy in Harvard speech...",
         "added": "2022-05-30T00:44:42.050633+00:00",
@@ -199,16 +214,6 @@
         "added": "2022-05-29T11:06:57.074777+00:00",
         "description": "Superyachts owned by Russian oligarchs are vanishing from global tracking systems to avoid sanctions: report"
     },
-    "https://www.militarytimes.com/news/your-air-force/2022/05/27/ramstein-rethinks-pride-month-events-after-critics-bash-drag-queen-story-time-for-kids/": {
-        "title": "US Air Base rethinks Pride Month after critics bash 'Drag Queen Story Time' for kids...",
-        "added": "2022-05-29T10:49:25.015575+00:00",
-        "description": "Ramstein rethinks Pride Month events after critics bash \u00e2\u20ac\u02dcDrag Queen Story Time\u00e2\u20ac\u2122 for kids"
-    },
-    "https://apnews.com/article/covid-health-china-beijing-d5b42952cb86ff6d297eb9c5943b14e8": {
-        "title": "Beijing, Shanghai ease restrictions as outbreaks fade...",
-        "added": "2022-05-29T10:49:25.015575+00:00",
-        "description": "Beijing, Shanghai ease COVID restrictions as outbreaks fade"
-    },
     "https://news.yahoo.com/zelensky-hunger-catastrophe-russia-ukraine-war-grain-exports-152203177.html": {
         "title": "Zelensky's dire warning as 'hunger catastrophe' looms...",
         "added": "2022-05-29T10:31:50.118921+00:00",
@@ -224,11 +229,6 @@
         "added": "2022-05-28T19:23:33.187454+00:00",
         "description": "Cannes Film Festival Winners Announced: Song Kang-Ho Best Actor \u2013 Live"
     },
-    "https://www.bbc.com/news/world-europe-61619638": {
-        "title": "Kremlin scraps age limit for new troops...",
-        "added": "2022-05-28T17:48:25.309976+00:00",
-        "description": "Russia scraps age limit for new troops in Ukraine push"
-    },
     "https://flipboard.com/topic/coronavirus/covid-was-vanishing-last-memorial-day-cases-are-five-times-higher-now/a-dE0VfljQRqaNVv8yncmk9g%3Aa%3A3321811660-87d3974be9%2Fwashingtonpost.com": {
         "title": "Covid was vanishing last Memorial Day. Cases five times higher now...",
         "added": "2022-05-28T16:09:50.719060+00:00",
@@ -238,11 +238,6 @@
         "title": "Supreme Court justice's solution: Repeal Second Amendment...",
         "added": "2022-05-28T15:50:48.323536+00:00",
         "description": "A Supreme Court justice\u2019s solution to gun violence: Repeal Second Amendment"
-    },
-    "https://www.france24.com/en/live-news/20220528-iran-unveils-underground-drone-base": {
-        "title": "Iran unveils underground drone base...",
-        "added": "2022-05-28T15:50:48.323536+00:00",
-        "description": "Iran unveils underground drone base"
     },
     "https://deadline.com/2022/05/top-gun-maverick-box-office-1235034420/": {
         "title": "'TOP GUN' Record $150M Memorial Day Opening...",
@@ -258,11 +253,6 @@
         "title": "The chilling livestreams...",
         "added": "2022-05-28T15:08:06.474600+00:00",
         "description": "Incel Texas shooter's 'disturbing threats to girls' revealed in live streams"
-    },
-    "https://www.politico.eu/article/athens-calls-irans-seizure-of-two-greek-oil-tankers-piracy/": {
-        "title": "Athens calls seizure of Greek oil tankers 'piracy'...",
-        "added": "2022-05-28T14:46:39.876186+00:00",
-        "description": "Athens calls Iran\u2019s seizure of two Greek oil tankers \u2018piracy\u2019"
     },
     "https://www.msn.com/en-us/news/us/schools-face-violent-threats-and-lockdowns-in-wake-of-texas-shooting/ar-AAXOr9J": {
         "title": "Schools face violent threats and lockdowns in wake...",
@@ -308,11 +298,6 @@
         "title": "Putin war grinds on, with dissent from Russians growing...",
         "added": "2022-05-28T13:19:56.556501+00:00",
         "description": "Putin\u2019s war grinds on, with dissent from Russian hawks and peace-seekers"
-    },
-    "https://apnews.com/article/entertainment-france-theater-7b6a8ba245d5f33cb93562f0ca544118": {
-        "title": "Show's over for famed cabaret show at France's Lido...",
-        "added": "2022-05-28T13:19:56.556501+00:00",
-        "description": "Show's over for famed cabaret show at France's Lido"
     },
     "https://www.cnbc.com/2022/05/27/record-high-memorial-day-gas-prices-are-stinging-consumers-and-impacting-travel.html": {
         "title": "GAS PRICE ANOTHER RECORD",
