@@ -1,4 +1,14 @@
 {
+    "https://www.sfgate.com/bayarea/article/Coinbase-rescinds-accepted-job-offers-17217989.php": {
+        "title": "COINBASE rescinding already-accepted job offers...",
+        "added": "2022-06-03T21:32:32.419705+00:00",
+        "description": "Tech \u2018unicorn\u2019 founded in SF is rescinding job offers \u2014 by email"
+    },
+    "https://www.npr.org/2022/06/03/1102922330/driverless-self-driving-taxis-san-francisco-gm-cruise": {
+        "title": "Driverless taxis coming to San Fran streets...",
+        "added": "2022-06-03T21:32:32.419705+00:00",
+        "description": "Driverless taxis are coming to the streets of San Francisco"
+    },
     "https://wtop.com/dc/2022/06/man-arrested-with-fake-badge-bb-gun-near-us-capitol/": {
         "title": "Man arrested with fake badge, BB gun near US Capitol...",
         "added": "2022-06-03T21:23:56.089755+00:00",
@@ -403,16 +413,6 @@
         "title": "$5 million of ancient art destroyed at Dallas museum in break-in...",
         "added": "2022-06-02T21:34:26.884311+00:00",
         "description": "$5 million of ancient art destroyed at DMA in overnight break-in"
-    },
-    "https://www.france24.com/en/live-news/20220602-elvis-wedding-crackdown-leaves-las-vegas-all-shook-up": {
-        "title": "Elvis wedding crackdown leaves Vegas all shook up...",
-        "added": "2022-06-02T21:25:44.092172+00:00",
-        "description": "Elvis wedding crackdown leaves Las Vegas all shook up"
-    },
-    "https://www.cnbc.com/2022/06/02/sheryl-sandbergs-facebook-stock-sales-total-1point7-billion-since-2012.html": {
-        "title": "Sold $1.7 billion worth of stock...",
-        "added": "2022-06-02T21:25:44.092172+00:00",
-        "description": "Sheryl Sandberg sold $1.7 billion worth of Facebook stock over the last decade"
     },
     "https://www.cnn.com/2022/06/02/business/energy-crisis-inflation/index.html": {
         "title": "ENERGY CRISIS FEAR",
