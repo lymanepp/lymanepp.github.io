@@ -1,4 +1,14 @@
 {
+    "https://finance.yahoo.com/news/twitter-says-waiting-period-musks-123424926.html": {
+        "title": "TWITTER DEAL WAITING PERIOD EXPIRES",
+        "added": "2022-06-03T13:25:04.479426+00:00",
+        "description": "Twitter says waiting period for Musk's deal has expired"
+    },
+    "https://finance.yahoo.com/news/tesla-faces-big-increase-complaints-122931298.html": {
+        "title": "FEDS PROBE 'PHANTOM BRAKING'",
+        "added": "2022-06-03T13:25:04.479426+00:00",
+        "description": "Tesla Faces Big Increase in Complaints Over \u2018Phantom Braking\u2019"
+    },
     "https://www.nbcnews.com/politics/politics-news/desantis-moves-ban-transition-care-transgender-youth-medicaid-recipien-rcna31736": {
         "title": "Moves to ban transition care for trans youths, Medicaid recipients...",
         "added": "2022-06-03T12:55:43.300888+00:00",
@@ -458,26 +468,6 @@
         "title": "California rationing water amid worst drought in 1,200 years...",
         "added": "2022-06-02T13:56:36.675789+00:00",
         "description": "California is rationing water amid its worst drought in 1,200 years"
-    },
-    "https://www.the-sun.com/health/5472510/older-boozers-recover-faster-surgery-teetotal/": {
-        "title": "STUDY: Older people who drink recover from surgery faster...",
-        "added": "2022-06-02T13:14:53.484023+00:00",
-        "description": "Older boozers recover FASTER from surgery than teetotallers, study reveals"
-    },
-    "https://www.bnnbloomberg.ca/us-companies-add-fewest-jobs-of-pandemic-recovery-adp-data-show-1.1773684": {
-        "title": "Companies Add Fewest Jobs of Pandemic Recovery...",
-        "added": "2022-06-02T13:14:53.484023+00:00",
-        "description": "US Companies Add Fewest Jobs of Pandemic Recovery, ADP Data Show - BNN Bloomberg"
-    },
-    "https://news.yahoo.com/queen-elizabeth-ii-salute-jubilee-190652727.html": {
-        "title": "Crowds cheer queen at start of historic jubilee celebrations...",
-        "added": "2022-06-02T13:14:53.484023+00:00",
-        "description": "Crowds cheer queen at start of historic jubilee celebrations"
-    },
-    "https://apnews.com/article/2022-midterm-elections-georgia-atlanta-presidential-3bc4ae72555ee3f22a13554d9b27d240": {
-        "title": "Trump election probe grand jury to hear from Raffensperger...",
-        "added": "2022-06-02T13:14:53.484023+00:00",
-        "description": "Trump election probe grand jury to hear from Raffensperger"
     },
     "https://finance.yahoo.com/news/biden-likely-visit-saudi-arabia-015645443.html": {
         "title": "Biden Likely to Visit Saudi Arabia as Gas Prices Spiral...",
