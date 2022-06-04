@@ -1,4 +1,54 @@
 {
+    "https://www.washingtonpost.com/world/interactive/2022/mexico-us-fugitive-gringo-hunter/": {
+        "title": "When U.S. suspects flee across border, Mexico 'Gringo Hunters' ready...",
+        "added": "2022-06-04T13:30:59.142485+00:00",
+        "description": "A U.S. murder suspect fled to Mexico. The Gringo Hunters were waiting."
+    },
+    "https://www.msn.com/en-us/news/technology/tesla-owners-love-their-cars-elon-musk-not-as-much/ar-AAY4vHa": {
+        "title": "TESLA owners love their cars. Musk? Not as much...",
+        "added": "2022-06-04T13:30:59.142485+00:00",
+        "description": "Tesla owners love their cars. Elon Musk? Not as much."
+    },
+    "https://www.hastingstribune.com/ap/agriculture/us-monkeypox-cases-rise-to-20-as-vaccines-shipped-to-states/article_cc01f1c3-826f-5321-9734-1811f26f50ce.html": {
+        "title": "US monkeypox cases rise to 20 as vaccines shipped to states...",
+        "added": "2022-06-04T13:30:59.142485+00:00",
+        "description": "US monkeypox cases rise to 20 as vaccines shipped to states"
+    },
+    "https://www.businessinsider.com/ukraine-losing-60-100-soldiers-a-day-zelenskyy-says-2022-6": {
+        "title": "Zelenskyy losing 60 to 100 soldiers a day...",
+        "added": "2022-06-04T13:30:59.142485+00:00",
+        "description": "Zelenskyy says Ukraine is losing 60 to 100 soldiers a day, a rare glimpse of Ukraine's losses during Russia's invasion"
+    },
+    "https://lmtribune.com/nation/claims-that-5-san-diego-state-football-players-raped-a-girl-were-followed-by-months/article_b83e6205-0e1d-5ab5-801b-f9bb48bab7b0.html": {
+        "title": "Claims that 5 San Diego State football players raped girl followed by months of silence...",
+        "added": "2022-06-04T13:30:59.142485+00:00",
+        "description": "Claims that 5 San Diego State football players raped a girl were followed by months of silence"
+    },
+    "https://lmtribune.com/nation/cats-targeted-with-blow-darts-mutilated-at-us-army-base-in-hawaii-report-says/article_14725c7f-84bd-5fc7-9d03-bc37c44fd28a.html": {
+        "title": "Cats targeted with blow darts, mutilated at Army base in Hawaii, report says...",
+        "added": "2022-06-04T13:30:59.142485+00:00",
+        "description": "Cats targeted with blow darts, mutilated at US Army base in Hawaii, report says"
+    },
+    "https://apnews.com/article/space-launches-technology-science-china-c0ac9a948f9f48252747a77f7ec4685d": {
+        "title": "China plans to complete space station with latest mission...",
+        "added": "2022-06-04T13:30:59.142485+00:00",
+        "description": "China plans to complete space station with latest mission"
+    },
+    "https://apnews.com/article/platinum-jubilee-june-4-live-updates-c0979f665a8dedde608236b0bedb2a2d": {
+        "title": "TWILIGHT OF THE QUEEN",
+        "added": "2022-06-04T13:30:59.142485+00:00",
+        "description": "Two future kings set to honor Elizabeth at Jubilee concert"
+    },
+    "https://apnews.com/article/2022-midterm-elections-iowa-government-and-politics-caucuses-54f30c305705861b3eb70021fd298a61": {
+        "title": "Iowa Dems hope changes help salvage leadoff caucuses...",
+        "added": "2022-06-04T13:30:59.142485+00:00",
+        "description": "Iowa Democrats hope changes help it salvage leadoff caucuses"
+    },
+    "https://abc7.com/encino-hospital-stabbing-critical/11924039/": {
+        "title": "Doctor and 2 nurses stabbed at Encino Hospital Medical Center...",
+        "added": "2022-06-04T13:30:59.142485+00:00",
+        "description": "Doctor and 2 nurses stabbed at Encino Hospital Medical Center; suspect in custody"
+    },
     "https://www.seattletimes.com/nation-world/nation/covid-19-was-deadly-to-working-class-americans-in-2020-researcher-says/": {
         "title": "Virus deadly to working-class, researcher says...",
         "added": "2022-06-04T13:04:23.559154+00:00",
@@ -269,16 +319,6 @@
         "added": "2022-06-03T13:44:20.611437+00:00",
         "description": "Oil Execs Cash Out Like Crazy While Gas Prices Soak Americans"
     },
-    "https://finance.yahoo.com/news/twitter-says-waiting-period-musks-123424926.html": {
-        "title": "TWITTER DEAL WAITING PERIOD EXPIRES",
-        "added": "2022-06-03T13:25:04.479426+00:00",
-        "description": "Twitter says waiting period for Musk's deal has expired"
-    },
-    "https://finance.yahoo.com/news/tesla-faces-big-increase-complaints-122931298.html": {
-        "title": "FEDS PROBE 'PHANTOM BRAKING'",
-        "added": "2022-06-03T13:25:04.479426+00:00",
-        "description": "Tesla Faces Big Increase in Complaints Over \u2018Phantom Braking\u2019"
-    },
     "https://www.washingtonpost.com/nation/2022/06/03/los-angeles-mayor-democrats/": {
         "title": "Public anger drives identity-focused mayor race...",
         "added": "2022-06-03T11:24:07.303559+00:00",
@@ -288,11 +328,6 @@
         "title": "Deadly secret: Electronic warfare shapes conflict...",
         "added": "2022-06-03T11:06:30.666516+00:00",
         "description": "Deadly secret: Electronic warfare shapes Russia-Ukraine war"
-    },
-    "https://bilderbergmeetings.org/press/press-release/press-release": {
-        "title": "PARTICIPANTS...",
-        "added": "2022-06-03T10:47:38.418798+00:00",
-        "description": ""
     },
     "https://news.yahoo.com/u-capitol-riot-probe-kick-215250751.html": {
         "title": "Capitol riot probe to kick off with prime-time hearing...",
