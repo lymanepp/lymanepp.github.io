@@ -1,4 +1,34 @@
 {
+    "https://www.zerohedge.com/markets/hamptons-summer-rental-market-collapsing": {
+        "title": "Hamptons Rental Market Collapsing...",
+        "added": "2022-06-05T14:07:50.525617+00:00",
+        "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero"
+    },
+    "https://www.usatoday.com/story/news/health/2022/06/04/diabetes-drug-could-game-changer-obesity-new-study-shows/7490446001/": {
+        "title": "Diabetes drug helps lose never-before-seen amounts of weight...",
+        "added": "2022-06-05T14:07:50.525617+00:00",
+        "description": "Diabetes drug helps patients lose never-before-seen amounts of weight, new study shows"
+    },
+    "https://www.jpost.com/israel-news/article-708466": {
+        "title": "IDF drills for a devastating war on home soil and away...",
+        "added": "2022-06-05T14:07:50.525617+00:00",
+        "description": "The IDF drills for a devastating war on home soil and away"
+    },
+    "https://www.bbc.com/news/world-europe-61691816": {
+        "title": "Ukraine anger as Macron says 'Don't humiliate Russia'...",
+        "added": "2022-06-05T14:07:50.525617+00:00",
+        "description": "Ukraine anger as Macron says 'Don't humiliate Russia'"
+    },
+    "https://www.ajc.com/politics/politics-blog/a-pro-herschel-walker-gas-giveaway-fuels-democratic-outrage/SPNKY7DUJJGQJFILJTXDRLYB64/": {
+        "title": "Pro-Herschel Walker gas giveaway fuels Dem outrage...",
+        "added": "2022-06-05T14:07:50.525617+00:00",
+        "description": "A pro-Herschel Walker gas giveaway fuels Democratic outrage"
+    },
+    "https://pagesix.com/2022/06/04/elton-john-says-hes-in-top-health-after-wheelchair-photos/": {
+        "title": "Elton John says he's in 'top health' after wheelchair photos...",
+        "added": "2022-06-05T14:07:50.525617+00:00",
+        "description": "Elton John says he\u2019s in \u2018top health\u2019 after reports of him looking \u2018frail\u2019 in wheelchair"
+    },
     "https://www.usatoday.com/story/life/health-wellness/2022/05/13/male-birth-control-why-condoms-and-vasectomies-only-options/9732281002/": {
         "title": "Male birth control: What's getting in way, sexism or science?",
         "added": "2022-06-05T13:46:35.786590+00:00",
@@ -229,21 +259,6 @@
         "added": "2022-06-04T14:06:27.311737+00:00",
         "description": "The evangelical church faces a 'state of emergency' over the pandemic and politics, Andy Stanley says | CNN"
     },
-    "https://www.nbcmiami.com/news/local/major-flooding-in-parts-of-south-florida-from-potential-tropical-cyclone-one/2776870/": {
-        "title": "MIAMI FLOODS",
-        "added": "2022-06-04T13:46:47.891798+00:00",
-        "description": "Major Flooding in Parts of South Florida From Potential Tropical Cyclone One"
-    },
-    "https://www.accuweather.com/en/hurricane/live-news/tropical-storm-alex-impacts-florida-live-updates/1196675": {
-        "title": "STORM SOAKS SO FLO",
-        "added": "2022-06-04T13:46:47.891798+00:00",
-        "description": "LIVE: Tropical Rainstorm flooding creates chaos in Miami"
-    },
-    "https://weather.com/safety/hurricane/news/2022-06-02-tropical-storm-alert-florida-alex-tropical-depression-one": {
-        "title": "TROPICAL SYSTEM FLORIDA... DEVELOPING...",
-        "added": "2022-06-04T13:46:47.891798+00:00",
-        "description": "Tropical Storm Warnings Issued in Florida As Potential 'Alex' Spreads Heavy Rain Into Florida | The Weather Channel - Articles from The Weather Channel | weather.com"
-    },
     "https://www.msn.com/en-us/news/technology/tesla-owners-love-their-cars-elon-musk-not-as-much/ar-AAY4vHa": {
         "title": "TESLA owners love their cars. Musk? Not as much...",
         "added": "2022-06-04T13:30:59.142485+00:00",
@@ -279,20 +294,10 @@
         "added": "2022-06-04T13:30:59.142485+00:00",
         "description": "Iowa Democrats hope changes help it salvage leadoff caucuses"
     },
-    "https://abc7.com/encino-hospital-stabbing-critical/11924039/": {
-        "title": "Doctor and 2 nurses stabbed at Encino Hospital Medical Center...",
-        "added": "2022-06-04T13:30:59.142485+00:00",
-        "description": "Doctor and 2 nurses stabbed at Encino Hospital Medical Center; suspect in custody"
-    },
     "https://www.seattletimes.com/nation-world/nation/covid-19-was-deadly-to-working-class-americans-in-2020-researcher-says/": {
         "title": "Virus deadly to working-class, researcher says...",
         "added": "2022-06-04T13:04:23.559154+00:00",
         "description": "COVID-19 was deadly to working-class Americans in 2020, researcher says"
-    },
-    "https://www.msn.com/en-us/news/world/theyre-in-hell-hail-of-russian-artillery-tests-ukrainian-morale/ar-AAY3MQM": {
-        "title": "WAR TURNS: Hail of Russian artillery tests Ukrainian morale...",
-        "added": "2022-06-04T13:04:23.559154+00:00",
-        "description": "\u2018They\u2019re in hell\u2019: Hail of Russian artillery tests Ukrainian morale"
     },
     "https://www.msn.com/en-us/news/world/saudi-dissidents-call-biden-e2-80-99s-planned-visit-to-kingdom-a-betrayal/ar-AAY3JBT": {
         "title": "Saudi dissidents call Biden's planned visit to kingdom a betrayal...",
