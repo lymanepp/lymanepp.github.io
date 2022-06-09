@@ -1,4 +1,9 @@
 {
+    "https://www.cnbc.com/2022/06/08/stock-market-futures-open-to-close-news.html": {
+        "title": "STOCKS SPOOKED",
+        "added": "2022-06-09T20:39:43.933003+00:00",
+        "description": "Stocks fall sharply, Dow drops more than 600 points ahead of pivotal inflation data"
+    },
     "https://www.yahoo.com/news/el-salvadors-president-tries-silence-090039333.html": {
         "title": "El Salvador president tries to silence press. Journalist bros expose ties to street gangs...",
         "added": "2022-06-09T20:29:17.402332+00:00",
@@ -458,21 +463,6 @@
         "title": "Israel makes dramatic upgrades to military plans to attack...",
         "added": "2022-06-08T21:07:19.363756+00:00",
         "description": "Israel makes dramatic upgrades to military plans to attack Iran"
-    },
-    "https://www.axios.com/2022/06/08/latinos-fatty-liver-disease-cirrhosis-treatment": {
-        "title": "Liver disease raging -- among non-alcoholics...",
-        "added": "2022-06-08T20:38:34.081988+00:00",
-        "description": "The push to develop more treatments for liver disease prevalent among Latinos"
-    },
-    "https://www.washingtontimes.com/news/2022/jun/8/reynold-gladu-rens-mobil-service-gas-station-owner/": {
-        "title": "Fed up gas station owner stops selling fuel in protest...",
-        "added": "2022-06-08T20:33:22.737806+00:00",
-        "description": "Fed up gas station owner stops selling fuel in protest"
-    },
-    "https://www.mediaite.com/news/desantis-spokeswoman-belatedly-registers-as-foreign-agent-after-contact-from-justice-department/": {
-        "title": "Spox 'Belatedly' Registers As Foreign Agent After DOJ 'Contact'...",
-        "added": "2022-06-08T20:33:22.737806+00:00",
-        "description": "DeSantis Spokeswoman \u2018Belatedly\u2019 Registers As Foreign Agent After \u2018Contact\u2019 From Justice Department"
     },
     "https://www.accuweather.com/en/weather-forecasts/high-temps-in-phoenix-could-crack-the-115-degree-mark/1198312": {
         "title": "PHOENIX 115+",
