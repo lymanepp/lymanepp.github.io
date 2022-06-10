@@ -1,4 +1,19 @@
 {
+    "https://www.axios.com/2022/06/10/flying-taxis": {
+        "title": "Flying taxis, delivery drones and more finally taking off...",
+        "added": "2022-06-10T12:13:59.038755+00:00",
+        "description": "Flying taxis, delivery drones and more are finally taking off"
+    },
+    "https://nypost.com/2022/06/09/life-on-larry-ellisons-hawaiian-island-is-only-for-the-super-rich/": {
+        "title": "Billionaire Larry Ellison Bought Hawaiian Island; Now Pushing Residents Out...",
+        "added": "2022-06-10T12:13:59.038755+00:00",
+        "description": "Life on Larry Ellison\u2019s Hawaiian island is so expensive only the super-rich could afford it"
+    },
+    "https://apnews.com/article/islamic-state-group-technology-buffalo-government-and-politics-4e3dc9e6aeee05161acdc3c0e17a278b": {
+        "title": "White supremacists riling up thousands on social media...",
+        "added": "2022-06-10T12:13:59.038755+00:00",
+        "description": "White supremacists are riling up thousands on social media"
+    },
     "https://www.france24.com/en/live-news/20220610-the-age-of-outbreaks-experts-warn-of-more-animal-disease-threats": {
         "title": "Age of outbreaks: Experts warn of more animal disease threats...",
         "added": "2022-06-10T11:46:37.506418+00:00",
@@ -439,16 +454,6 @@
         "added": "2022-06-09T12:20:37.404220+00:00",
         "description": "American trust in government near \u2018historic lows,\u2019 Pew finds"
     },
-    "https://www.usnews.com/news/world/articles/2022-06-09/danger-mines-odesas-popular-beaches-now-off-limits": {
-        "title": "'Danger! mines': Odesa popular beaches now off limits...",
-        "added": "2022-06-09T11:46:45.834061+00:00",
-        "description": "'Danger! Mines' - Odesa's Popular Beaches Now off Limits"
-    },
-    "https://apnews.com/article/russia-ukraine-moscow-business-blockades-74883ed750fb8778259cf733e1095fb8": {
-        "title": "Key city's fate in balance as fighting rages in east Ukraine...",
-        "added": "2022-06-09T11:46:45.834061+00:00",
-        "description": "Key city's fate in balance as fighting rages in east Ukraine"
-    },
     "https://www.dailystar.co.uk/love-sex/sex-helps-men-live-longer-27112439": {
         "title": "Sex helps men live longer...",
         "added": "2022-06-09T11:24:44.540334+00:00",
@@ -458,11 +463,6 @@
         "title": "Erdogan Warns Greece Over Troops on Aegean Islands at Drills...",
         "added": "2022-06-09T11:24:44.540334+00:00",
         "description": "Turkey's Erdogan warns Greece to demilitarize Aegean islands"
-    },
-    "https://www.bloomberg.com/graphics/2022-oracle-larry-ellison-lanai-hawaii-plans-tourism/": {
-        "title": "Billionaire Larry Ellison Bought Hawaiian Island and Pushing Residents Out...",
-        "added": "2022-06-09T11:06:43.209140+00:00",
-        "description": ""
     },
     "https://www.showbiz411.com/2022/06/08/review-jurassic-park-is-melting-in-the-dark-as-6th-final-episode-is-dinos-gone-wild": {
         "title": "DINOS GONE WILD IN  'JURASSIC PARK' FINALE...",
