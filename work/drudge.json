@@ -1,4 +1,9 @@
 {
+    "https://www.google.com/finance/quote/.DJI:INDEXDJX": {
+        "title": "DOW -975",
+        "added": "2022-06-13T19:46:54.900574+00:00",
+        "description": "Dow Jones Industrial Average Price, Real-time Quote & News - Google Finance"
+    },
     "https://thehill.com/news/house/3521715-trumps-inner-circle-testifies-his-claims-were-bogus/": {
         "title": "Trump inner circle testifies his claims were bogus...",
         "added": "2022-06-13T19:32:04.568077+00:00",
