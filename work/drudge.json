@@ -1,4 +1,9 @@
 {
+    "https://finance.yahoo.com/quote/BTC-USD/": {
+        "title": "BITCOIN PLUNGE",
+        "added": "2022-06-13T04:29:29.618252+00:00",
+        "description": "Bitcoin USD (BTC-USD) Price, Value, News & History - Yahoo Finance"
+    },
     "https://www.theblockcrypto.com/linked/151522/crypto-lending-firm-celsius-pauses-withdrawals-and-transfers-citing-market-conditions": {
         "title": "CRYPTO FIRM HALTS WITHDRAWALS",
         "added": "2022-06-13T03:51:52.393870+00:00",
