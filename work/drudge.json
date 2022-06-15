@@ -1,4 +1,9 @@
 {
+    "https://news.gallup.com/poll/393659/record-high-americans-rate-moral-values-poor.aspx": {
+        "title": "GALLUP: Record-High 50% Americans Rate Moral Values 'Poor'...",
+        "added": "2022-06-15T12:13:49.025580+00:00",
+        "description": "Record-High 50% of Americans Rate U.S. Moral Values as 'Poor'"
+    },
     "https://www.yahoo.com/entertainment/bitcoin-tumbles-18-month-low-080052073.html": {
         "title": "Bitcoin tumbles as sell-off accelerates...",
         "added": "2022-06-15T11:46:44.730652+00:00",
@@ -469,16 +474,6 @@
         "added": "2022-06-14T12:14:13.208299+00:00",
         "description": "Possible successor to Abbas warns Israel, but works with it"
     },
-    "https://news.yahoo.com/trumps-midterm-revenge-campaign-faces-100454799.html": {
-        "title": "The Don's midterm revenge campaign faces new test in S Carolina...",
-        "added": "2022-06-14T11:46:48.713896+00:00",
-        "description": "Trump's midterm revenge campaign faces new test in South Carolina"
-    },
-    "https://news.yahoo.com/exclusive-pixar-movie-lightyear-same-211638065.html": {
-        "title": "'LIGHTYEAR,' with same-sex couple, will not play in 14 countries...",
-        "added": "2022-06-14T11:46:48.713896+00:00",
-        "description": "Exclusive-Disney/Pixar's 'Lightyear,' with same-sex couple, will not play in 14 countries; China in question"
-    },
     "https://finance.yahoo.com/news/huge-market-rout-evokes-memories-002000693.html": {
         "title": "Market Rout Evokes Memories of LEHMAN Blowup...",
         "added": "2022-06-14T11:46:48.713896+00:00",
@@ -488,11 +483,6 @@
         "title": "Nevada Turning Red?",
         "added": "2022-06-14T11:24:09.827603+00:00",
         "description": "Is Nevada Turning Red?"
-    },
-    "https://www.msn.com/en-us/news/world/murder-suicides-by-pilots-are-vexing-airlines-as-deaths-mount/ar-AAYoW66": {
-        "title": "Murder-Suicides by Pilots Vexing Airlines as Deaths Mount...",
-        "added": "2022-06-14T11:06:28.369699+00:00",
-        "description": "Murder-Suicides by Pilots Are Vexing Airlines as Deaths Mount"
     },
     "https://finance.yahoo.com/news/property-values-fall-across-us-145849058.html": {
         "title": "BUST: Property Values Fall Across USA, Europe...",
