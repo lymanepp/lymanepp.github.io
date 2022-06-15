@@ -1,4 +1,14 @@
 {
+    "https://www.cnbc.com/2022/06/15/mortgage-demand-is-now-roughly-half-of-what-it-was-a-year-ago-as-interest-rates-move-even-higher.html": {
+        "title": "Mortgage demand HALF what it was year ago...",
+        "added": "2022-06-15T11:07:04.232067+00:00",
+        "description": "Mortgage demand is now roughly half of what it was a year ago, as interest rates move even higher"
+    },
+    "https://www.bnnbloomberg.ca/danes-overtake-the-swiss-as-world-s-most-competitive-nation-1.1779078": {
+        "title": "Danes Overtake Swiss as World's Most Competitive Nation...",
+        "added": "2022-06-15T11:07:04.232067+00:00",
+        "description": "Danes Overtake the Swiss as World\u2019s Most Competitive Nation - BNN Bloomberg"
+    },
     "https://www.msn.com/en-us/news/politics/jan-6-panel-divided-over-whether-to-issue-criminal-referral-of-trump/ar-AAYtaUb": {
         "title": "Jan. 6 panel divided over whether to issue criminal referral of Trump...",
         "added": "2022-06-15T10:49:16.247111+00:00",
@@ -449,16 +459,6 @@
         "added": "2022-06-14T11:06:28.369699+00:00",
         "description": "Property Values Fall Across US, Europe on Bite From Inflation"
     },
-    "https://dnyuz.com/2022/06/13/as-china-rattles-sabers-taiwan-asks-are-we-ready-for-war/": {
-        "title": "As China Rattles Sabers, Taiwan Asks: Are We Ready for War?",
-        "added": "2022-06-14T11:06:28.369699+00:00",
-        "description": "As China Rattles Sabers, Taiwan Asks: Are We Ready for War?"
-    },
-    "http://www.drudgereport.com/https://www.cnbc.com/2022/06/14/cryptocurrencies-sell-off-continues-bitcoin-and-ethereum-fall.html": {
-        "title": "MORE BITCOIN PLUNGE",
-        "added": "2022-06-14T11:06:28.369699+00:00",
-        "description": ""
-    },
     "https://www.thestreet.com/investing/cryptocurrency/fortunes-of-crypto-billionaires-are-melting-with-bitcoin-crash": {
         "title": "CRYPTO FORTUNES VANISH",
         "added": "2022-06-14T10:49:58.875849+00:00",
@@ -479,20 +479,10 @@
         "added": "2022-06-14T10:49:58.875849+00:00",
         "description": "Coeur d\u2019Alene police receive death threats for arresting Patriot Front members"
     },
-    "https://www.cnbc.com/2022/06/13/fed-reportedly-may-hike-rates-by-three-quarters-of-a-point-this-week.html": {
-        "title": ".75% RATE RISE THIS WEEK?",
-        "added": "2022-06-14T10:49:58.875849+00:00",
-        "description": "Fed likely to boost interest rates by three-quarters of a point this week"
-    },
     "https://thehill.com/news/state-watch/3521947-pride-month-marred-by-rising-anti-lgbtq-hate/": {
         "title": "Pride month marred by rising hate...",
         "added": "2022-06-14T10:49:58.875849+00:00",
         "description": "Pride month marred by rising anti-LGBTQ hate"
-    },
-    "https://thehill.com/news/3522035-amazon-to-begin-prime-air-drone-delivery-in-first-city/": {
-        "title": "AMAZON to begin drone delivery in first city...",
-        "added": "2022-06-14T10:49:58.875849+00:00",
-        "description": "Amazon to begin \u2018Prime Air\u2019 drone delivery in first city"
     },
     "https://www.mediaite.com/tv/trump-bilked-his-supporters-out-of-250-million-with-election-defense-fund-that-did-not-exist-jan-6-committee-says/": {
         "title": "Supporters Bilked Out of $250 MILLION for 'Election Defense Fund' That Did Not Exist...",
