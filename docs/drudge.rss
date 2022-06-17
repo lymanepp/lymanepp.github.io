@@ -5,6 +5,11 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>Oil prices tumble...</title>
+      <link>https://www.cnbc.com/quotes/@CL.1</link>
+      <description>cnbc.com • Check out OIL's stock price (@CL.1) in real time</description>
+    </item>
+    <item>
       <title>UK: 50 new infections in biggest epidemic beyond Africa...</title>
       <link>https://apnews.com/article/covid-politics-health-world-organization-epidemics-38415163d095019d3ef3b22286c109e3</link>
       <description>apnews.com • UK: 50 new monkeypox cases in biggest epidemic beyond Africa</description>
@@ -363,11 +368,6 @@
       <title>Sued for $258 billion over dogecoin 'pyramid scheme'...</title>
       <link>https://nypost.com/2022/06/16/elon-musk-sued-for-258-billion-over-dogecoin-pyramid-scheme/</link>
       <description>nypost.com • Elon Musk sued for $258 billion over dogecoin ‘pyramid scheme’</description>
-    </item>
-    <item>
-      <title>Consumer Spending Running Out Of Steam...</title>
-      <link>https://finance.yahoo.com/news/consumer-spending-running-steam-market-140417695.html</link>
-      <description>finance.yahoo.com • Consumer Spending Is Running Out Of Steam and the Market Isn’t Ready For It</description>
     </item>
   </channel>
 </rss>

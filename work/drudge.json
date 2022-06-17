@@ -1,4 +1,9 @@
 {
+    "https://www.cnbc.com/quotes/@CL.1": {
+        "title": "Oil prices tumble...",
+        "added": "2022-06-17T15:07:30.633523+00:00",
+        "description": "Check out OIL's stock price (@CL.1) in real time"
+    },
     "https://apnews.com/article/covid-politics-health-world-organization-epidemics-38415163d095019d3ef3b22286c109e3": {
         "title": "UK: 50 new infections in biggest epidemic beyond Africa...",
         "added": "2022-06-17T14:26:09.618901+00:00",
@@ -358,11 +363,6 @@
         "title": "Sued for $258 billion over dogecoin 'pyramid scheme'...",
         "added": "2022-06-16T17:14:21.072651+00:00",
         "description": "Elon Musk sued for $258 billion over dogecoin \u2018pyramid scheme\u2019"
-    },
-    "https://finance.yahoo.com/news/consumer-spending-running-steam-market-140417695.html": {
-        "title": "Consumer Spending Running Out Of Steam...",
-        "added": "2022-06-16T15:07:23.907060+00:00",
-        "description": "Consumer Spending Is Running Out Of Steam and the Market Isn\u2019t Ready For It"
     },
     "https://www.nbcnewyork.com/news/national-international/cdc-issues-new-guidance-on-monkeypox-symptoms-as-us-cases-balloon/3736301/": {
         "title": "CDC Issues New Guidance on Monkeypox as US Cases Balloon...",
