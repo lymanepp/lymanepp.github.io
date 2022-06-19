@@ -1,4 +1,14 @@
 {
+    "https://www.cnn.com/travel/article/rome-scooter-problems/index.html": {
+        "title": "E-scooters supposed to fix travel in Rome. They became 'death traps'...",
+        "added": "2022-06-19T10:07:33.279805+00:00",
+        "description": "E-scooters were supposed to fix travel in Rome. Then they became 'death traps'"
+    },
+    "https://www.cnbc.com/2022/06/18/bitcoin-price-drops-below-18600-as-sell-off-accelerates.html": {
+        "title": "Bitcoin Briefly Below $17,800 in Record-Breaking Rout...",
+        "added": "2022-06-19T10:07:33.279805+00:00",
+        "description": "Bitcoin briefly dropped below $17,800 as sell-off accelerates \u00e2\u20ac\u201d here's what happened"
+    },
     "https://www.msn.com/en-us/news/us/how-biden-s-lgbtq-order-could-affect-florida-s-laws-and-policies/ar-AAYBfpp": {
         "title": "How Biden LGBTQ order could affect FL laws and policies...",
         "added": "2022-06-18T18:09:15.491121+00:00",
@@ -234,75 +244,25 @@
         "added": "2022-06-18T00:41:11.179731+00:00",
         "description": "Pod: Hollywood's Economic Armageddon Looms"
     },
-    "https://www.thedenverchannel.com/news/national/montana-governor-faces-criticism-for-vacation-during-floods": {
-        "title": "Montana governor faces criticism for vacationing...",
-        "added": "2022-06-17T22:07:33.903764+00:00",
-        "description": "Montana governor faces criticism for vacation during floods"
-    },
     "https://www.msn.com/en-us/news/politics/gop-sen-john-cornyn-was-loudly-booed-at-texas-republican-convention-amid-his-push-for-bipartisan-gun-legislation/ar-AAYAMgM": {
         "title": "Cornyn loudly booed at Texas Republican convention...",
         "added": "2022-06-17T21:46:53.691469+00:00",
         "description": "GOP Sen. John Cornyn was loudly booed at Texas Republican convention amid his push for bipartisan gun legislation"
-    },
-    "https://www.politico.eu/article/nuclear-weapons-russia-war-ukraine-united-states-china/": {
-        "title": "Deteriorating nuclear order...",
-        "added": "2022-06-17T21:25:21.923017+00:00",
-        "description": "The deteriorating nuclear order"
-    },
-    "https://www.businessinsider.com/newsmax-likely-knew-2020-election-fraud-claims-were-probably-false-2022-6": {
-        "title": "NEWSMAX knew '20 fraud claims 'probably false,' judge says in defamation case...",
-        "added": "2022-06-17T21:25:21.923017+00:00",
-        "description": "Evidence suggests Newsmax knew 2020 election fraud claims 'were probably false,' judge says in Dominion defamation case"
-    },
-    "https://www.theatlantic.com/politics/archive/2022/06/gavin-newsom-california-democratic-party/661313/": {
-        "title": "Newsom Wants More Aggressive Dem Party...",
-        "added": "2022-06-17T21:06:36.661748+00:00",
-        "description": "The Democrats\u2019 New Spokesman in the Culture Wars"
     },
     "https://www.timesofisrael.com/israel-sees-sharp-70-jump-in-number-of-seriously-ill-covid-patients-within-a-week/": {
         "title": "Israel sees 70% jump in seriously ill patients...",
         "added": "2022-06-17T20:46:39.118140+00:00",
         "description": "Israel sees sharp 70% jump in number of seriously ill COVID patients within a week"
     },
-    "https://www.nbcnews.com/news/us-news/navy-fired-dozen-leaders-wont-explain-rcna33988": {
-        "title": "Navy fires dozen leaders but won't say why...",
-        "added": "2022-06-17T20:27:56.886628+00:00",
-        "description": "The Navy has fired a dozen leaders but won't explain why"
-    },
-    "https://dnyuz.com/2022/06/17/infighting-overshadows-big-plans-at-the-washington-post/": {
-        "title": "NYT:  Infighting Overshadows Big Plans at WASH POST...",
-        "added": "2022-06-17T19:46:55.765711+00:00",
-        "description": "Infighting Overshadows Big Plans at The Washington Post"
-    },
     "https://themarkup.org/pixel-hunt/2022/06/16/facebook-is-receiving-sensitive-medical-information-from-hospital-websites": {
         "title": "FACEBOOK Receiving Sensitive Medical Info from Hospitals...",
         "added": "2022-06-17T19:06:20.868012+00:00",
         "description": "Facebook Is Receiving Sensitive Medical Information from Hospital Websites \u2013 The Markup"
     },
-    "https://www.breitbart.com/politics/2022/06/17/bidens-america-sriracha-peanut-butter-latest-items-short-supply/": {
-        "title": "Peanut Butter in Short Supply...",
-        "added": "2022-06-17T18:53:30.168490+00:00",
-        "description": "Biden's America: Sriracha and Peanut Butter the Latest Items in Short Supply"
-    },
-    "https://unherd.com/2022/06/the-paranoia-driving-office-politics/": {
-        "title": "The paranoia driving office politics...",
-        "added": "2022-06-17T18:35:17.210582+00:00",
-        "description": "The paranoia driving office politics"
-    },
-    "https://www.cnbc.com/2022/06/17/1-in-4-expats-seriously-considering-renouncing-us-citizenship.html": {
-        "title": "1 in 4 expats 'seriously considering' renouncing U.S. citizenship...",
-        "added": "2022-06-17T17:29:08.098993+00:00",
-        "description": "One key problem has 1 in 4 expats \u00e2\u20ac\u02dcseriously considering\u00e2\u20ac\u2122 or \u00e2\u20ac\u02dcplanning\u00e2\u20ac\u2122 to renounce U.S. citizenship"
-    },
     "https://www.buzzfeednews.com/article/emilybakerwhite/tiktok-tapes-us-user-data-china-bytedance-access": {
         "title": "LEAK:  TIKTOK US Data Repeatedly Accessed From China...",
         "added": "2022-06-17T17:29:08.098993+00:00",
         "description": "Leaked Audio From 80 Internal TikTok Meetings Shows That US User Data Has Been Repeatedly Accessed From China"
-    },
-    "https://www.thestar.com/news/investigations/2022/06/17/medical-condition-reports-unfairly-ensnare-ontario-drivers.html": {
-        "title": "She confided in doctor about her depression. Then govt took away her driver's licence...",
-        "added": "2022-06-17T16:44:08.476717+00:00",
-        "description": "She confided in a doctor about her depression. The next thing she knew, the government took away her driver\u2019s licence"
     },
     "https://nypost.com/2022/06/16/jailing-trump-wont-heal-the-countrys-divisions/": {
         "title": "CAL THOMAS: Jailing him won't heal the country's divisions...",
@@ -324,11 +284,6 @@
         "added": "2022-06-17T16:44:08.476717+00:00",
         "description": "112 million reasons why Donald Trump should be nervous about Ron DeSantis | CNN Politics"
     },
-    "https://www.fox5ny.com/news/death-valley-death-car-out-gas": {
-        "title": "Death Valley true to name when car runs out of gas...",
-        "added": "2022-06-17T16:14:19.898250+00:00",
-        "description": "Man dies in Death Valley after car runs out of gas"
-    },
     "https://apnews.com/article/capitol-siege-ivanka-trump-congress-donald-government-and-politics-570444a76bacec6bcfaa507cae7ea452": {
         "title": "Watergate 50th meets Jan. 6. Common thread: Thirst for power...",
         "added": "2022-06-17T13:27:45.318808+00:00",
@@ -348,11 +303,6 @@
         "title": "Post-Watergate reforms may frame DOJ decision over prosecuting Trump...",
         "added": "2022-06-17T11:32:51.464888+00:00",
         "description": "Post-Watergate reforms may frame DOJ decision over prosecuting Trump"
-    },
-    "https://thehill.com/policy/technology/3526926-newsom-joins-trumps-truth-social-to-call-out-republican-lies/": {
-        "title": "Newsom joins Trump 'Truth Social' to call out lies...",
-        "added": "2022-06-17T11:32:51.464888+00:00",
-        "description": "Newsom joins Trump\u2019s Truth Social to call out \u2018Republican lies\u2019"
     },
     "https://techxplore.com/news/2022-06-problems-soar-airlines-pandemic-recovery.html": {
         "title": "Problems soar for airlines despite pandemic recovery...",
