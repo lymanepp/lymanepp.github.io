@@ -1,4 +1,19 @@
 {
+    "https://www.scotusblog.com/": {
+        "title": "LIVE...",
+        "added": "2022-06-30T14:06:45.051480+00:00",
+        "description": "SCOTUSblog - Independent News & Analysis on the U.S. Supreme Court"
+    },
+    "https://www.latimes.com/politics/story/2022-06-30/supreme-court-rules-for-coal-producing-states-limits-epas-power-to-fight-climate-change": {
+        "title": "Supremes sharply limit EPA authority to restrict carbon pollution...",
+        "added": "2022-06-30T14:06:45.051480+00:00",
+        "description": "Supreme Court rules for coal-producing states, limits EPA's power to fight climate change"
+    },
+    "http://www.drudgereport.com/https://www.cbsnews.com/news/tiger-dies-after-contracting-covid-columbus-zoo-ohio-jupiter/": {
+        "title": "Tiger dies after contracting Corona at Ohio zoo...",
+        "added": "2022-06-30T14:06:45.051480+00:00",
+        "description": ""
+    },
     "https://www.cnbc.com/2022/06/30/biden-calls-on-congress-to-ease-senate-rules-to-codify-roe-v-wade.html": {
         "title": "Biden endorses scrapping filibuster to codify abortion rights...",
         "added": "2022-06-30T13:46:32.337580+00:00",
@@ -463,31 +478,6 @@
         "title": "FBI opens sweeping probe of clergy sex abuse in New Orleans...",
         "added": "2022-06-29T15:13:20.422694+00:00",
         "description": "FBI opens sweeping probe of clergy sex abuse in New Orleans"
-    },
-    "https://www.yahoo.com/lifestyle/putin-nuke-happy-space-man-001652912.html": {
-        "title": "Putin Nuke-Happy Space Man Off the Rails...",
-        "added": "2022-06-29T13:48:19.833094+00:00",
-        "description": "Putin\u2019s Nuke-Happy Space Man Is Going Totally Off the Rails"
-    },
-    "https://www.politico.com/news/2022/06/29/pelosi-communion-vatican-abortion-00043098": {
-        "title": "Pelosi receives Communion in Vatican despite stance...",
-        "added": "2022-06-29T13:48:19.833094+00:00",
-        "description": "Pelosi receives Communion in Vatican despite abortion stance"
-    },
-    "https://www.mediaite.com/news/a-killer-trump-insiders-fret-to-maggie-haberman-that-hutchinson-testimony-could-land-trump-incitement-charge/": {
-        "title": "Incitement Charge?",
-        "added": "2022-06-29T13:48:19.833094+00:00",
-        "description": "\u2018A Killer\u2019: Trump Insiders Fret to Maggie Haberman That Hutchinson Testimony Could Land Trump \u2018Incitement\u2019 Charge"
-    },
-    "https://www.dailymail.co.uk/news/article-10963301/Anthony-Fauci-says-hes-experienced-rebound-Covid-symptoms-Paxlovid-course.html": {
-        "title": "Fauci experiences rebound in symptoms after taking PFIZER drug...",
-        "added": "2022-06-29T13:48:19.833094+00:00",
-        "description": "Anthony Fauci says that he's experienced a rebound in Covid symptoms"
-    },
-    "https://futurism.com/the-byte/hackers-anti-abortion-states": {
-        "title": "Hackers Declare War on Anti-Abortion States...",
-        "added": "2022-06-29T13:48:19.833094+00:00",
-        "description": "Hackers Declare War on Anti-Abortion States"
     },
     "https://www.washingtonpost.com/dc-md-va/2022/06/29/youngkin-virginia-2024-president/": {
         "title": "Youngkin meets with megadonors amid hints he's mulling White House bid...",
