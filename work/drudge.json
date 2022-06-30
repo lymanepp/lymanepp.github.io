@@ -1,4 +1,9 @@
 {
+    "https://www.theguardian.com/us-news/2022/jun/30/poll-americans-guns-against-government": {
+        "title": "25% of Americans open to taking up arms against govt...",
+        "added": "2022-06-30T20:08:05.076289+00:00",
+        "description": "A quarter of Americans open to taking up arms against government, poll says"
+    },
     "https://www.msn.com/en-us/news/politics/protesters-arrested-at-supreme-court-abortion-rights-rally/ar-AAZ3052": {
         "title": "Protesters Arrested at Supreme Rally...",
         "added": "2022-06-30T19:46:44.807243+00:00",
@@ -514,16 +519,6 @@
         "added": "2022-06-29T20:08:43.724757+00:00",
         "description": "Insiders"
     },
-    "https://www.news.com.au/lifestyle/health/health-problems/new-superbug-found-in-pigs-can-jump-to-humans/news-story/91e1f67590adbadb8c8f588e3043365d": {
-        "title": "New superbug found in pigs can jump to humans...",
-        "added": "2022-06-29T19:46:55.151759+00:00",
-        "description": "\u2019Alarming\u2019 ability of resistant new superbug"
-    },
-    "https://www.jpost.com/diaspora/antisemitism/article-710756": {
-        "title": "Antisemitism largely eliminated from textbooks in Saudi...",
-        "added": "2022-06-29T19:46:55.151759+00:00",
-        "description": "Antisemitism largely eliminated from textbooks in Saudi Arabia - report"
-    },
     "https://www.tampabay.com/news/florida-politics/2022/06/28/some-teachers-alarmed-by-florida-civics-training-approach-on-religion-slavery/": {
         "title": "Teachers alarmed by Florida civics training...",
         "added": "2022-06-29T19:33:29.907744+00:00",
@@ -533,11 +528,6 @@
         "title": "Inside Eureka Springs, Bible Belt's LGBTQ oasis...",
         "added": "2022-06-29T18:55:40.541705+00:00",
         "description": "Inside Eureka Springs, the Bible Belt's LGBTQ oasis | CNN"
-    },
-    "https://www.sfgate.com/coronavirus/article/bay-area-mask-mandate-results-17271294.php": {
-        "title": "Do mask mandates work? Bay Area data says no...",
-        "added": "2022-06-29T18:03:05.111581+00:00",
-        "description": "Do mask mandates work? Bay Area data from June says no."
     },
     "https://www.nbcnewyork.com/news/coronavirus/nyc-covid-positivity-rate-at-5-month-highs-as-top-doc-warns-of-6th-wave/3754691/": {
         "title": "Positivity rate at 5-month high...",
