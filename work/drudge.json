@@ -1,4 +1,14 @@
 {
+    "https://www.wired.com/story/china-cars-surveillance-national-security/": {
+        "title": "New Car Threat to National Security?",
+        "added": "2022-07-01T19:06:03.323133+00:00",
+        "description": "Is Your New Car a Threat to National Security?"
+    },
+    "https://www.msn.com/en-us/travel/news/wuhan-sees-virus-return-days-after-xi-reinforces-covid-zero/ar-AAZ3KiI": {
+        "title": "Wuhan Sees Virus Return...",
+        "added": "2022-07-01T19:06:03.323133+00:00",
+        "description": "Wuhan Sees Virus Return Days After Xi Reinforces Covid Zero"
+    },
     "https://www.cleveland.com/news/2022/07/ohio-state-representative-says-she-would-consider-banning-birth-control-following-abortion-outlaw.html": {
         "title": "Ohio state rep pushes birth control ban...",
         "added": "2022-07-01T18:52:54.273354+00:00",
@@ -368,11 +378,6 @@
         "title": "US test of new hypersonic missile fails amid China, Russia pressure...",
         "added": "2022-06-30T18:55:07.214799+00:00",
         "description": "US test of new hypersonic missile fails amid China, Russia pressure"
-    },
-    "https://www.cnn.com/2022/06/29/politics/trump-justice-department-investigation-possibility-january-6-former-prosecutors/index.html": {
-        "title": "Ex-Lawyer: 'Many Damning Facts'...",
-        "added": "2022-06-30T18:55:07.214799+00:00",
-        "description": "Former prosecutors say blockbuster January 6 testimony increases Trump's criminal exposure | CNN Politics"
     },
     "https://nypost.com/2022/06/30/cape-cod-teeming-with-man-eating-sharks-scientists-warn/": {
         "title": "Scientists issue dire warning to Cape Cod beachgoers: 'Large sharks'...",
