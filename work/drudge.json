@@ -1,4 +1,24 @@
 {
+    "https://www.the-sun.com/news/uk-news/5722010/boris-johnson-announces-he-is-resigning/": {
+        "title": "HIS PERSONAL BREXIT",
+        "added": "2022-07-07T11:47:06.721159+00:00",
+        "description": "Boris Johnson QUITS in major statement after being forced out in Tory bloodbath"
+    },
+    "https://www.the-sun.com/news/5710576/who-could-replace-boris-johnson-if-he-resigns/": {
+        "title": "Who could succeed?",
+        "added": "2022-07-07T11:47:06.721159+00:00",
+        "description": "Who could replace Boris Johnson as PM prepares to resign?"
+    },
+    "https://www.dailymail.co.uk/news/article-10991191/Boris-Johnson-bows-PM-quits-vows-stay-OCTOBER.html": {
+        "title": "Boris vows to stay until October as he lines up new 'unity Cabinet'...",
+        "added": "2022-07-07T11:47:06.721159+00:00",
+        "description": "Boris Johnson bows out: PM quits but vows to stay until OCTOBER"
+    },
+    "https://www.cnn.com/uk/live-news/uk-boris-johnson-government-collapse-live-updates-intl-gbr/index.html": {
+        "title": "'THEMS THE BREAKS'",
+        "added": "2022-07-07T11:47:06.721159+00:00",
+        "description": "Live updates: Boris Johnson, UK Prime Minister, resigns"
+    },
     "https://news.sky.com/story/boris-johnson-resigns-live-updates-12593360": {
         "title": "BORIS RESIGNS",
         "added": "2022-07-07T11:36:12.671288+00:00",
@@ -454,25 +474,10 @@
         "added": "2022-07-06T11:51:43.080933+00:00",
         "description": "Nearly 3.5% of American children have autism - a 50% jump"
     },
-    "https://www.studyfinds.org/more-dogs-less-crime/": {
-        "title": "STUDY: Neighborhoods With More Dogs Have Less Crime...",
-        "added": "2022-07-06T11:38:13.020348+00:00",
-        "description": "Neighborhoods with more dogs see less crime, study shows"
-    },
-    "https://www.politico.com/news/2022/07/06/biden-gun-bill-highland-park-shooting-00044166": {
-        "title": "'Be furious' -- Dems want more from Biden...",
-        "added": "2022-07-06T11:38:13.020348+00:00",
-        "description": "\u2018Be absolutely furious\u2019\u2014Dems want more from Biden after Highland Park"
-    },
     "https://www.cnn.com/2022/07/05/health/vitamin-d-toxicity-wellness/index.html": {
         "title": "Vitamin D overdose growing danger, experts say...",
         "added": "2022-07-06T11:38:13.020348+00:00",
         "description": "How an increasingly popular supplement landed a man in the hospital"
-    },
-    "https://www.cnbc.com/2022/07/05/stock-market-futures-open-to-close-news.html": {
-        "title": "Wall St grapples with recession fears...",
-        "added": "2022-07-06T11:38:13.020348+00:00",
-        "description": "S&P 500 futures are little changed after a late day rally and ahead of Fed minutes"
     },
     "https://dnyuz.com/2022/07/06/the-quest-by-circadian-medicine-to-make-the-most-of-our-body-clocks/": {
         "title": "Quest by Circadian Medicine to Make Most of Body Clocks...",
