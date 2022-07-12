@@ -1,4 +1,24 @@
 {
+    "https://www.axios.com/2022/07/12/news-media-readership-ratings-2022": {
+        "title": "News engagement plummets as Americans tune out...",
+        "added": "2022-07-12T12:16:01.015077+00:00",
+        "description": "News engagement plummets as Americans tune out"
+    },
+    "https://www.axios.com/2022/07/12/heathrow-cap-passenger-summer-ticket": {
+        "title": "HEATHROW caps passengers, tells airlines to stop selling summer tickets...",
+        "added": "2022-07-12T12:16:01.015077+00:00",
+        "description": "Heathrow caps passengers, tells airlines to stop selling summer tickets"
+    },
+    "https://newatlas.com/space/elon-musk-starship-spacex-explosion/": {
+        "title": "MASSIVE MARS ROCKET EXPLODES...",
+        "added": "2022-07-12T12:16:01.015077+00:00",
+        "description": "Elon Musk's massive Mars rocket suffers an explosive setback"
+    },
+    "https://edition.cnn.com/travel/article/arthur-stone-tomb-excavation-scn/index.html": {
+        "title": "Tomb linked to legend of King Arthur excavated for first time...",
+        "added": "2022-07-12T12:16:01.015077+00:00",
+        "description": "A tomb linked to the legend of King Arthur is being excavated for the first time"
+    },
     "https://www.politico.com/news/2022/07/11/judge-shreds-bannon-defenses-ahead-of-contempt-trial-00045191": {
         "title": "Judge shreds Bannon defenses ahead of contempt trial...",
         "added": "2022-07-12T11:46:54.968442+00:00",
@@ -294,30 +314,15 @@
         "added": "2022-07-11T11:46:58.598969+00:00",
         "description": "How will illegal abortions be prosecuted? 1968 NYPD manual offers hints."
     },
-    "https://www.barrons.com/news/world-population-to-hit-8-bn-this-year-un-01657512306 ": {
-        "title": "World population to hit 8 billion this year...",
-        "added": "2022-07-11T11:46:58.598969+00:00",
-        "description": ""
-    },
     "https://apnews.com/article/abortion-science-health-birth-control-861d6d425e692ee1ead1d59926e5f3cd": {
         "title": "Over-the-counter birth control? Drugmaker seeks FDA approval...",
         "added": "2022-07-11T11:46:58.598969+00:00",
         "description": "Over-the-counter birth control? Drugmaker seeks FDA approval"
     },
-    "https://dnyuz.com/2022/07/11/a-year-after-mass-protest-cubans-face-stark-choice-prison-or-exile/": {
-        "title": "Year After Mass Protest, Cubans Face Stark Choice: Prison or Exile...",
-        "added": "2022-07-11T11:24:46.011137+00:00",
-        "description": "A Year After Mass Protest, Cubans Face Stark Choice: \u2018Prison or Exile\u2019"
-    },
     "https://medicalxpress.com/news/2022-07-coronavirus-mutant-india.html": {
         "title": "New virus mutant raises concerns around world...",
         "added": "2022-07-11T11:06:18.613209+00:00",
         "description": "New coronavirus mutant raises concerns in India and beyond"
-    },
-    "https://www.the-sun.com/tech/5746549/brits-robots-rule-world-2060s/": {
-        "title": "Robots predicted to rule world by 2060?",
-        "added": "2022-07-11T10:50:22.448967+00:00",
-        "description": "Robots predicted to rule the world by 2060 humans forced to be servants"
     },
     "https://news.yahoo.com/floating-abortion-clinic-proposed-gulf-213715480.html": {
         "title": "FLOATING ABORTION CLINIC IN GULF TO BYPASS BAN",
@@ -343,16 +348,6 @@
         "title": "Company capitalized on violence against drivers...",
         "added": "2022-07-11T00:40:54.308136+00:00",
         "description": "Leaked \u2018Uber files\u2019 show how company capitalized on violence against drivers"
-    },
-    "https://www.the-sun.com/health/5735017/monkeypox-expert-opinion-insight-symptoms/": {
-        "title": "US cases hit 700...",
-        "added": "2022-07-10T03:05:15.397974+00:00",
-        "description": "Vital steps to take after monkeypox infection revealed as cases hit 700"
-    },
-    "https://www.cbsnews.com/news/monkeypox-vaccine-testing-delays-covid-response/": {
-        "title": "Vaccine and testing delays for monkeypox echo failures in early pandemic response...",
-        "added": "2022-07-09T19:46:58.247492+00:00",
-        "description": "Monkeypox vaccine and testing delays echo failures in early COVID response"
     },
     "https://fortune.com/2022/07/09/how-elon-musk-bizarre-twitter-takeover-saga-could-have-just-been-a-cover-for-him-to-sell-8-billion-in-tesla-stock/": {
         "title": "Saga could have just been cover for him to sell $8.5 billion in TESLA stock...",
