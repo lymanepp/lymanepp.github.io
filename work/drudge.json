@@ -1,4 +1,9 @@
 {
+    "https://www.bbc.com/worklife/article/20220711-the-case-for-a-six-hour-workday": {
+        "title": "Should we work 6-hour days?",
+        "added": "2022-07-13T17:51:00.778727+00:00",
+        "description": "The case for a shorter workday"
+    },
     "https://www.dispatch.com/story/news/2022/07/13/columbus-man-charged-rape-10-year-old-led-abortion-in-indiana/10046625002/": {
         "title": "UPDATE:  Arrest made in rape of 10-year-old Ohio girl...",
         "added": "2022-07-13T17:41:54.765492+00:00",
@@ -448,11 +453,6 @@
         "title": "Armed Man Arrested Outside Dem Rep's House After Threatening to Kill Her...",
         "added": "2022-07-12T18:12:37.470162+00:00",
         "description": "Armed Man Arrested For Threatening to Kill Rep. Jayapal"
-    },
-    "https://apnews.com/article/pig-heart-transplant-nyu-c332493b4d6232edcf9ca389df976de0": {
-        "title": "Pig organ transplants inch closer with testing in dead...",
-        "added": "2022-07-12T17:47:41.037665+00:00",
-        "description": "Pig organ transplants inch closer with testing in the dead"
     },
     "https://www.the-sun.com/tech/5755998/how-to-watch-nasa-jwst-deep-space-images/": {
         "title": "Water seen on distant planets...",
