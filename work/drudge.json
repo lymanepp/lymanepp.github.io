@@ -1,4 +1,9 @@
 {
+    "https://www.cnbc.com/2022/07/13/tesla-ai-leader-andrej-karpathy-announces-hes-leaving-the-company.html": {
+        "title": "TESLA AI leader leaving company...",
+        "added": "2022-07-13T22:07:39.999660+00:00",
+        "description": "Tesla AI leader Andrej Karpathy announces he's leaving the company"
+    },
     "https://www.cnn.com/2022/07/13/world/coronavirus-newsletter-intl-07-13-22/index.html": {
         "title": "'Worst variant' here...",
         "added": "2022-07-13T21:47:11.205465+00:00",
@@ -423,21 +428,6 @@
         "title": "American Accused of Raping Tourist in Mykonos Bathroom...",
         "added": "2022-07-12T22:46:38.285335+00:00",
         "description": "British woman, 22, 'is raped by wealthy US tourist in Mykonos"
-    },
-    "https://www.msn.com/en-us/news/us/protesters-block-road-light-flares-on-course-at-tour-de-france/ar-AAZv0WU": {
-        "title": "Protesters Block Road, Light Flares on Course at Tour de France...",
-        "added": "2022-07-12T22:07:11.268612+00:00",
-        "description": "Protesters Block Road, Light Flares on Course at Tour de France"
-    },
-    "https://www.dailymail.co.uk/tvshowbiz/article-11007257/Sir-Tom-Jones-treated-doctors-collapsing-Budapest.html": {
-        "title": "Tom Jones treated by doctors after collapsing on tour...",
-        "added": "2022-07-12T22:07:11.268612+00:00",
-        "description": "Sir Tom Jones is treated by doctors after collapsing in Budapest"
-    },
-    "https://www.dailymail.co.uk/news/article-11007401/Leaked-Uvalde-shooting-video-shows-gunman-calmly-walk-elementary-school-fire-young-boy.html": {
-        "title": "17 officers RAN AWAY from gunman...",
-        "added": "2022-07-12T22:07:11.268612+00:00",
-        "description": "Leaked Uvalde shooting video shows gunman calmly walk into school"
     },
     "https://www.the-sun.com/tech/5755998/how-to-watch-nasa-jwst-deep-space-images/": {
         "title": "Water seen on distant planets...",
