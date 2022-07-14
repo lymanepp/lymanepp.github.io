@@ -1,4 +1,49 @@
 {
+    "https://www.washingtonexaminer.com/policy/economy/inflation-producer-index-june-near-highest-record": {
+        "title": "11.3% IN PRODUCER INDEX!",
+        "added": "2022-07-14T13:05:32.167196+00:00",
+        "description": "Inflation rises to 11.3% in producer index for June, near highest on record"
+    },
+    "https://www.theverge.com/2022/7/14/23215529/twitter-down-outage-error-capacity": {
+        "title": "TWITTER down in major outage...",
+        "added": "2022-07-14T13:05:32.167196+00:00",
+        "description": "Twitter is back after a major outage"
+    },
+    "https://www.the-sun.com/news/5771714/fireballs-seen-us-skies-russian-rocket/": {
+        "title": "Flashing fireballs seen streaking across US skies...",
+        "added": "2022-07-14T13:05:32.167196+00:00",
+        "description": "Mystery fireballs spotted in the sky may be RUSSIAN ROCKET, experts say"
+    },
+    "https://www.politico.com/news/magazine/2022/07/14/youngkin-trump-republican-00045766": {
+        "title": "Youngkin Wants To End Trump Era -- Without Taking Him on...",
+        "added": "2022-07-14T13:05:32.167196+00:00",
+        "description": "The Republican Who Wants To End The Trump Era \u2014 Without Taking on Trump"
+    },
+    "https://www.politico.com/news/2022/07/14/legal-shield-social-media-facebook-00045226": {
+        "title": "Legal shield for social media showing cracks...",
+        "added": "2022-07-14T13:05:32.167196+00:00",
+        "description": "A legal shield for social media is showing cracks"
+    },
+    "https://www.politico.com/news/2022/07/13/trump-2024-secret-donor-dinners-00045665": {
+        "title": "Secret donor dinners...",
+        "added": "2022-07-14T13:05:32.167196+00:00",
+        "description": "Trump discussing 2024 plans at secret donor dinners"
+    },
+    "https://thehill.com/opinion/campaign/3557505-ready-for-ron-means-ready-for-trump-war/": {
+        "title": "'Ready for Ron' means ready for 'war'...",
+        "added": "2022-07-14T13:05:32.167196+00:00",
+        "description": "\u2018Ready for Ron\u2019 means ready for \u2018Trump war\u2019"
+    },
+    "https://dnyuz.com/2022/07/14/bidens-saudi-lesson-the-only-path-runs-through-m-b-s/": {
+        "title": "Biden's Saudi Lesson: The Only Path Runs Through MBS...",
+        "added": "2022-07-14T13:05:32.167196+00:00",
+        "description": "Biden\u2019s Saudi Lesson: The Only Path Runs Through M.B.S."
+    },
+    "https://apnews.com/article/2022-midterm-elections-capitol-siege-presidential-election-2020-congress-194a439d52f21f46aedf133ee2aa7b9b": {
+        "title": "Hearings raise questions of presidential power...",
+        "added": "2022-07-14T13:05:32.167196+00:00",
+        "description": "Capitol riot hearings raise questions of presidential power"
+    },
     "https://www.thestar.com.my/tech/tech-news/2022/07/14/baggage-chaos-is-getting-so-bad-flyers-are-turning-to-tracking-devices": {
         "title": "Baggage Chaos Getting So Bad Flyers Turning to Tracking Devices...",
         "added": "2022-07-14T12:14:38.423091+00:00",
@@ -344,36 +389,6 @@
         "added": "2022-07-13T13:41:32.686431+00:00",
         "description": "US inflation reached a new 40-year high in June of 9.1%"
     },
-    "https://www.theatlantic.com/international/archive/2022/07/china-xi-jinping-global-security-initiative/670504/": {
-        "title": "How China Wants to Replace American Order...",
-        "added": "2022-07-13T12:59:36.260544+00:00",
-        "description": "How China Wants to Replace the U.S. Order"
-    },
-    "https://www.politico.com/news/2022/07/13/election-fraud-local-states-00045444": {
-        "title": "Election officials fear copycat attacks as 'insider threats' loom...",
-        "added": "2022-07-13T12:59:36.260544+00:00",
-        "description": "Election officials fear copycat attacks as \u2018insider threats\u2019 loom"
-    },
-    "https://www.msn.com/en-us/money/markets/june-inflation-soared-91-percent-amid-high-gas-prices/ar-AAZwFis": {
-        "title": "NEW PEAK",
-        "added": "2022-07-13T12:59:36.260544+00:00",
-        "description": "June inflation soared 9.1 percent amid high gas prices"
-    },
-    "https://www.mediaite.com/news/jim-cramer-absolutely-buries-elon-musk-devastating-twitter-filing-shows-how-horrendous-and-infantile-he-was/": {
-        "title": "CRAMER: Filing Shows How 'Horrendous and Infantile' He Was...",
-        "added": "2022-07-13T12:59:36.260544+00:00",
-        "description": "Jim Cramer Absolutely Buries Elon Musk: \u2018Devastating\u2019 Twitter Filing Shows How \u2018Horrendous and Infantile\u2019 He Was"
-    },
-    "https://www.mcclatchydc.com/news/investigations/article263376788.html": {
-        "title": "PPP program was awash in fraud. Now, lender may face legal reckoning",
-        "added": "2022-07-13T12:59:36.260544+00:00",
-        "description": "PPP program was awash in fraud. Now, one lender may finally face a legal reckoning"
-    },
-    "https://www.cnn.com/2022/07/13/politics/secret-service-israel/index.html": {
-        "title": "Secret Service member returns to USA following altercation in Israel...",
-        "added": "2022-07-13T12:59:36.260544+00:00",
-        "description": "Secret Service member returns to US following altercation in Israel"
-    },
     "https://www.cnbc.com/2022/07/13/north-carolina-is-no-1-in-americas-top-states-for-business.html": {
         "title": "By putting partisanship aside, N Carolina ranks No. 1 in Top States for Business...",
         "added": "2022-07-13T12:59:36.260544+00:00",
@@ -383,16 +398,6 @@
         "title": "INFLATION RUNS HOTTER",
         "added": "2022-07-13T12:59:36.260544+00:00",
         "description": "Inflation rose 9.1% in June, even more than expected, as price pressures intensify"
-    },
-    "https://www.cnbc.com/2022/07/13/biden-heads-to-saudi-arabia-for-what-could-be-a-welcome-reset.html": {
-        "title": "Embarrassing climbdown or welcome reset? Biden heads to Saudi Arabia...",
-        "added": "2022-07-13T12:59:36.260544+00:00",
-        "description": "Biden heads to Saudi Arabia for what could be an 'embarrassing' climbdown \u00e2\u20ac\u201d or a welcome reset"
-    },
-    "https://nymag.com/intelligencer/2022/07/bernie-sanders-wont-run-again-who-replaces-him.html": {
-        "title": "Who Comes After Bernie?",
-        "added": "2022-07-13T12:59:36.260544+00:00",
-        "description": "Bernie Sanders Probably Won\u2019t Run Again. Who Replaces Him?"
     },
     "https://calmatters.org/newsletters/whatmatters/2022/07/gavin-newsom-president-washington/": {
         "title": "Mr. Newsom goes to Washington...",
@@ -413,16 +418,6 @@
         "title": "UPDATE: Newsom taps into liberal fury and sparks talk of presidential run...",
         "added": "2022-07-13T11:26:01.337530+00:00",
         "description": "Gov. Newsom taps into liberal fury and sparks talk of presidential run"
-    },
-    "https://www.msn.com/en-us/news/world/the-man-who-has-putin-s-ear-and-may-want-his-job/ar-AAZwn4D": {
-        "title": "The man who has Putin's ear -- and may want his job...",
-        "added": "2022-07-13T10:49:56.161247+00:00",
-        "description": "The man who has Putin\u2019s ear \u2014 and may want his job"
-    },
-    "https://www.jpost.com/international/article-711858": {
-        "title": "Building new laser weapon to disable satellites...",
-        "added": "2022-07-12T15:50:15.266056+00:00",
-        "description": "Russia building new laser weapon to disable foreign satellites - report"
     },
     "https://www3.nhk.or.jp/nhkworld/en/news/": {
         "title": "NHK",
