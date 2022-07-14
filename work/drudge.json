@@ -1,4 +1,14 @@
 {
+    "https://www.bbc.com/news/world-europe-62171284": {
+        "title": "Italy lurches into crisis...",
+        "added": "2022-07-14T22:08:18.797571+00:00",
+        "description": "Italian PM Mario Draghi offers resignation after coalition falls apart"
+    },
+    "https://deadline.com/2022/07/los-angeles-cdc-high-covid-level-mask-mandate-1235064297/": {
+        "title": "LA Mask Mandate Countdown Begins; Enters CDC's 'High' Spread Level...",
+        "added": "2022-07-14T22:08:18.797571+00:00",
+        "description": "Los Angeles Officially Enters CDC\u2019s \u201cHigh\u201d Covid Community Level & Mask Mandate Countdown Begins"
+    },
     "https://abc7.com/covid-los-angeles-county-indoor-masks-mandate/12051178/": {
         "title": "Universal indoor masking appears imminent...",
         "added": "2022-07-14T21:46:46.726023+00:00",
@@ -378,16 +388,6 @@
         "title": "Hope for depositors dwindles as crypto lender files for bankruptcy...",
         "added": "2022-07-14T10:49:44.177310+00:00",
         "description": "Hope for depositors dwindles as crypto lender Celsius files for bankruptcy"
-    },
-    "https://www.cnbc.com/2022/07/13/tesla-ai-leader-andrej-karpathy-announces-hes-leaving-the-company.html": {
-        "title": "TESLA AI leader leaving company...",
-        "added": "2022-07-13T22:07:39.999660+00:00",
-        "description": "Tesla AI leader Andrej Karpathy announces he's leaving the company"
-    },
-    "https://www.cnn.com/2022/07/13/world/coronavirus-newsletter-intl-07-13-22/index.html": {
-        "title": "'Worst variant' here...",
-        "added": "2022-07-13T21:47:11.205465+00:00",
-        "description": "The 'worst variant' is here"
     },
     "https://www.bloomberg.com/news/articles/2022-07-13/inflation-pain-reaches-beyond-us-sun-belt-as-more-cities-top-10": {
         "title": "Inflation Pain Reaches Beyond Sun Belt as More Cities Top 10%...",
