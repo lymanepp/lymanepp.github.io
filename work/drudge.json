@@ -1,4 +1,39 @@
 {
+    "https://www.washingtonpost.com/science/2022/07/14/long-island-shark-attacks/": {
+        "title": "Five shark attacks in two weeks off Long Island...",
+        "added": "2022-07-15T11:06:37.712365+00:00",
+        "description": "Five shark attacks reported in two weeks off Long Island, officials say"
+    },
+    "https://www.the-sun.com/tech/5777356/scientists-built-a-self-aware-robot/": {
+        "title": "Scientists built 'self-aware' robot that can perceive self...",
+        "added": "2022-07-15T11:06:37.712365+00:00",
+        "description": "Scientists built a 'self-aware' robot as concern over AI sentience grows"
+    },
+    "https://www.the-sun.com/health/5587281/monkeypox-us-cases-update-cdc-data/": {
+        "title": "US monkeypox cases hit 1,053...",
+        "added": "2022-07-15T11:06:37.712365+00:00",
+        "description": "Monkeypox cases hit 1,053 in the US as new infections are detected"
+    },
+    "https://www.msn.com/en-us/news/world/italy-in-crisis-as-president-rejects-premier-draghi-s-offer-to-resign/ar-AAZzwm1": {
+        "title": "Italy in crisis as president rejects Draghi offer to resign...",
+        "added": "2022-07-15T11:06:37.712365+00:00",
+        "description": "Italy in crisis as president rejects premier Draghi\u2019s offer to resign"
+    },
+    "https://www.msn.com/en-us/news/world/in-van-gogh-e2-80-99s-hidden-self-portrait-thrilling-questions-about-the-artist/ar-AAZAZaY": {
+        "title": "In van Gogh's hidden self-portrait, thrilling questions about the artist...",
+        "added": "2022-07-15T11:06:37.712365+00:00",
+        "description": "In van Gogh\u2019s hidden self-portrait, thrilling questions about the artist"
+    },
+    "https://www.msn.com/en-us/news/us/cdc-raises-dallas-county-e2-80-99s-covid-19-risk-level-to-red/ar-AAZAE0R": {
+        "title": "CDC raises Dallas risk level to red...",
+        "added": "2022-07-15T11:06:37.712365+00:00",
+        "description": "CDC raises Dallas County\u2019s COVID-19 risk level to red"
+    },
+    "https://nypost.com/2022/07/14/ivanka-trump-heartbroken-over-mother-ivanas-death/": {
+        "title": "IVANKA: I WILL MISS HER FOREVER...",
+        "added": "2022-07-15T11:06:37.712365+00:00",
+        "description": "Ivanka Trump \u2018heartbroken\u2019 over mother Ivana\u2019s death"
+    },
     "https://www.dailymail.co.uk/news/article-11015667/Eric-Ivanka-Trump-pay-tribute-brilliant-mom-Ivana-snaps-childhood.html": {
         "title": "IVANKA: BRILLIANT, CHARMING, PASSIONATE, FUNNY...",
         "added": "2022-07-15T10:49:03.304875+00:00",
@@ -398,16 +433,6 @@
         "title": "UPDATE: Jan. 6 Witness Trump Tried to Call Revealed...",
         "added": "2022-07-14T11:06:42.164851+00:00",
         "description": "First on CNN: Trump tried to call a member of the White House support staff talking with January 6 committee, sources say"
-    },
-    "https://www.msn.com/en-us/news/us/hope-for-depositors-dwindles-as-crypto-lender-celsius-files-for-bankruptcy/ar-AAZylKW": {
-        "title": "Hope for depositors dwindles as crypto lender files for bankruptcy...",
-        "added": "2022-07-14T10:49:44.177310+00:00",
-        "description": "Hope for depositors dwindles as crypto lender Celsius files for bankruptcy"
-    },
-    "https://www.latimes.com/california/story/2022-07-13/l-a-county-covid-19-deaths-hospitalizations-double-in-one-month": {
-        "title": "Deaths in LA rising as ultra-contagious subvariants spread...",
-        "added": "2022-07-13T16:47:21.932225+00:00",
-        "description": "L.A. County coronavirus deaths rising fast as ultra-contagious BA.5 fuels infection wave"
     },
     "https://www3.nhk.or.jp/nhkworld/en/news/": {
         "title": "NHK",
