@@ -1,4 +1,44 @@
 {
+    "https://www.sfgate.com/news/article/Mexico-captures-infamous-drug-lord-Rafael-Caro-17308386.php": {
+        "title": "NARCOS:  Mexico captures infamous drug lord Quintero...",
+        "added": "2022-07-16T00:44:37.579401+00:00",
+        "description": "Mexico captures infamous drug lord Rafael Caro Quintero"
+    },
+    "https://www.nbcnews.com/news/us-news/daily-harvest-hospitalizations-hit-nearly-100-hundreds-became-ill-fda-rcna38489": {
+        "title": "Nearly 100 have been hospitalized, but DAILY HARVEST still doesn't know what's making people sick...",
+        "added": "2022-07-16T00:44:37.579401+00:00",
+        "description": "Nearly 100 have been hospitalized, but Daily Harvest still doesn't know what's making people sick"
+    },
+    "https://www.mirror.co.uk/news/world-news/iran-plotting-kill-donald-trump-27490297": {
+        "title": "Iran plotting to kill Trump, intelligence leak claims...",
+        "added": "2022-07-16T00:44:37.579401+00:00",
+        "description": "Iran plotting to kill Donald Trump in assassination plot, intelligence leak says"
+    },
+    "https://www.fox5ny.com/news/nyc-monkeypox-new-vaccination-sites-opening": {
+        "title": "NYC opening mass vaccination sites for Monkeypox...",
+        "added": "2022-07-16T00:44:37.579401+00:00",
+        "description": "NYC Monkeypox: New vaccination sites, clinic opening"
+    },
+    "https://www.dailydot.com/debug/proofpoint-journalists-targeted-nation-state-hackers/": {
+        "title": "Journalists being targeted in sustained effort by hackers...",
+        "added": "2022-07-16T00:44:37.579401+00:00",
+        "description": "Journalists being targeted in 'sustained effort' by nation-state hackers, researchers say"
+    },
+    "https://www.bloomberg.com/features/2022-mbs-neom-saudi-arabia/": {
+        "title": "MBS's $500 Billion Desert Dream Just Keeps Getting Weirder...",
+        "added": "2022-07-16T00:44:37.579401+00:00",
+        "description": ""
+    },
+    "https://www.axios.com/2022/07/15/senate-republican-candidates-herschel-oz-masters": {
+        "title": "Flawed candidates stumble...",
+        "added": "2022-07-16T00:44:37.579401+00:00",
+        "description": "GOP fears Senate debacle as flawed candidates stumble"
+    },
+    "https://weather.com/news/news/2022-07-15-europe-heat-wave-warnings-fires-britain-france": {
+        "title": "HOTTEST DAY IN UK HISTORY?",
+        "added": "2022-07-16T00:44:37.579401+00:00",
+        "description": "Britain, France Could Hit Record Highs As Heat Wave And Wildfires Grip Parts Of Europe | The Weather Channel"
+    },
     "https://www.the-sun.com/news/5779262/ivana-trump-cause-of-death-donald-wife-live/": {
         "title": "Cause of death revealed as 'blunt impact injuries after fall'...",
         "added": "2022-07-15T22:38:03.027510+00:00",
@@ -359,30 +399,10 @@
         "added": "2022-07-14T20:47:52.101068+00:00",
         "description": "Secret Service Deleted Jan. 6 Text Messages After Oversight Officials Requested Them"
     },
-    "https://www.msn.com/en-us/money/companies/doj-expected-to-file-antitrust-lawsuit-against-google-in-weeks-bloomberg-news/ar-AAZzU8i": {
-        "title": "DOJ expected to file antitrust lawsuit against GOOGLE...",
-        "added": "2022-07-14T19:32:17.748649+00:00",
-        "description": "DoJ expected to file antitrust lawsuit against Google in weeks - Bloomberg News"
-    },
-    "https://www.accuweather.com/en/weather-news/extreme-heat-knocks-out-power-during-one-texas-news-stations-weather-forecast/1217225": {
-        "title": "Extreme heat knocks out power during Texas news station's weather forecast...",
-        "added": "2022-07-14T18:09:50.497764+00:00",
-        "description": "Extreme heat knocks out power during one Texas news station's weather forecast"
-    },
     "https://variety.com/2022/film/news/she-said-trailer-harvey-weinstein-sex-abuse-film-carey-mulligan-1235316831/": {
         "title": "HARVEY WEINSTEIN DOWNFALL CENTER OF NYT INVESTIGATION MOVIE...",
         "added": "2022-07-14T18:09:50.497764+00:00",
         "description": "\u2018She Said\u2019 Trailer: Harvey Weinstein\u2019s Sexual Assault Is Uncovered in Film Starring Carey Mulligan, Zoe Kazan"
-    },
-    "https://nymag.com/intelligencer/article/donald-trump-2024-decision.html ": {
-        "title": "TRUMP:  I'VE DECIDED...",
-        "added": "2022-07-14T15:33:13.778059+00:00",
-        "description": ""
-    },
-    "https://www.arcamax.com/currentnews/newsheadlines/s-2700001?print": {
-        "title": "More than 1,000 firefighters scrambling as crews lose ground in Yosemite...",
-        "added": "2022-07-14T11:25:08.694666+00:00",
-        "description": "More than 1,000 firefighters scrambling as crews lose ground in Yosemite"
     },
     "https://www3.nhk.or.jp/nhkworld/en/news/": {
         "title": "NHK",
