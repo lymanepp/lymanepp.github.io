@@ -1,4 +1,49 @@
 {
+    "https://www.msn.com/en-us/news/us/one-roommate-is-85-the-other-is-27-such-arrangements-are-growing/ar-AAZBCCr": {
+        "title": "One roommate is 85, other is 27. Such arrangements growing...",
+        "added": "2022-07-16T14:07:01.113207+00:00",
+        "description": "One roommate is 85, the other is 27. Such arrangements are growing."
+    },
+    "https://www.msn.com/en-us/news/technology/how-elon-musk-became-the-internet-e2-80-99s-chief-agent-of-chaos/ar-AAZDF0R": {
+        "title": "How Elon became internet's chief agent of chaos...",
+        "added": "2022-07-16T14:07:01.113207+00:00",
+        "description": "How Elon Musk became the internet\u2019s chief agent of chaos"
+    },
+    "https://www.msn.com/en-us/news/politics/trump-e2-80-99s-fundraising-dips-trailing-desantis/ar-AAZD6o4": {
+        "title": "TRUMP FUNDRAISING TRAILS DESANTIS...",
+        "added": "2022-07-16T14:07:01.113207+00:00",
+        "description": "Trump\u2019s fundraising dips, trailing DeSantis"
+    },
+    "https://www.msn.com/en-us/news/politics/facing-trial-bannon-vows-to-go-e2-80-98medieval-e2-80-99-but-judge-says-meh/ar-AAZDpuP": {
+        "title": "Facing trial, Bannon vows to go 'medieval,' but judge says meh...",
+        "added": "2022-07-16T14:07:01.113207+00:00",
+        "description": "Facing trial, Bannon vows to go \u2018medieval,\u2019 but judge says meh"
+    },
+    "https://www.msn.com/en-us/money/markets/gas-prices-may-surge-again-ahead-of-midterm-elections/ar-AAZDpvj?fromMaestro=true": {
+        "title": "Gas prices may surge again ahead of midterms...",
+        "added": "2022-07-16T14:07:01.113207+00:00",
+        "description": "Gas prices may surge again ahead of midterm elections"
+    },
+    "https://www.msn.com/en-gb/travel/news/londoners-warned-not-to-travel-on-monday-or-tuesday-due-to-extreme-heat/ar-AAZDz0e": {
+        "title": "Londoners Urged Not to Travel...",
+        "added": "2022-07-16T14:07:01.113207+00:00",
+        "description": "Londoners warned not to travel on Monday or Tuesday due to extreme heat"
+    },
+    "https://www.cnn.com/2022/07/16/middleeast/biden-mbs-khashoggi-abu-akleh-intl/index.html": {
+        "title": "Crown Prince Hits Back...",
+        "added": "2022-07-16T14:07:01.113207+00:00",
+        "description": "MBS hits back at Biden after the President confronts Saudi prince about Khashoggi | CNN"
+    },
+    "https://news.yahoo.com/donald-trumps-fundraising-juggernaut-slows-024255359.html": {
+        "title": "Other Republicans gain...",
+        "added": "2022-07-16T14:07:01.113207+00:00",
+        "description": "Donald Trump's fundraising juggernaut slows as other Republicans gain"
+    },
+    "https://apnews.com/article/2022-midterm-elections-new-york-alexandria-ocasio-cortez-queens-congress-7e1d71dec55714872f60a4f34d02b7d7": {
+        "title": "Ocasio-Cortez navigates expectations that come with fame...",
+        "added": "2022-07-16T14:07:01.113207+00:00",
+        "description": "Ocasio-Cortez navigates the expectations that come with fame"
+    },
     "https://dnyuz.com/2022/07/16/putin-aims-to-shape-a-new-generation-of-supporters-through-schools/": {
         "title": "Putin Aims to Shape New Generation of Supporters, Through Schools...",
         "added": "2022-07-16T13:39:26.096522+00:00",
@@ -234,31 +279,6 @@
         "added": "2022-07-15T14:17:16.814046+00:00",
         "description": "Beto O\u2019Rourke raises record $27.6 million in race for Texas governor vs. Greg Abbott"
     },
-    "https://www.theguardian.com/society/2022/jul/14/alcohol-is-never-good-for-people-under-40-global-study-finds": {
-        "title": "Alcohol never good for people under 40, global study finds...",
-        "added": "2022-07-15T13:57:01.755750+00:00",
-        "description": "Alcohol is never good for people under 40, global study finds"
-    },
-    "https://nypost.com/2022/07/14/cindy-adams-remembers-ivana-trump/": {
-        "title": "IVANA TRUMP DEAD...",
-        "added": "2022-07-15T13:57:01.755750+00:00",
-        "description": "Cindy Adams remembers Ivana Trump"
-    },
-    "https://www.politico.com/news/2022/07/15/republicans-fear-abortion-backlash-00046005": {
-        "title": "Republicans fear abortion backlash after Indiana child rape case...",
-        "added": "2022-07-15T13:12:47.567997+00:00",
-        "description": "\u2018Oh, God, no\u2019: Republicans fear voter backlash after Indiana child rape case"
-    },
-    "https://www.msn.com/en-us/news/politics/trump-allies-line-up-shadow-government-as-he-weighs-third-run/ar-AAZB1iM": {
-        "title": "Allies Line Up Shadow Govt...",
-        "added": "2022-07-15T13:12:47.567997+00:00",
-        "description": "Trump Allies Line Up Shadow Government as He Weighs Third Run"
-    },
-    "https://www.mcclatchydc.com/article263496128.html": {
-        "title": "National interest in DeSantis surges, sparking new round of presidential buzz...",
-        "added": "2022-07-15T13:12:47.567997+00:00",
-        "description": "National interest in DeSantis surges, sparking new round of presidential buzz"
-    },
     "https://www.cnn.com/2022/07/14/politics/jamal-khashoggi-joe-biden/index.html": {
         "title": "HIGH STAKES VISIT WITH MBS",
         "added": "2022-07-15T13:12:47.567997+00:00",
@@ -268,16 +288,6 @@
         "title": "BIDEN IN KINGDOM",
         "added": "2022-07-15T13:12:47.567997+00:00",
         "description": "Biden to meet Saudi king, prince MBS after human rights rift"
-    },
-    "https://finance.yahoo.com/news/odds-us-recession-within-next-113500717.html": {
-        "title": "Odds of US Recession Within Next Year Near 50%, Survey Shows...",
-        "added": "2022-07-15T12:15:31.746068+00:00",
-        "description": "Odds of US Recession Within Next Year Near 50%, Survey Shows"
-    },
-    "https://www.politico.com/news/2022/07/15/dems-dreaming-of-trump-pre-midterm-announcement-00045969": {
-        "title": "Bidenworld, fellow Dems, dreaming of pre-midterm announcement...",
-        "added": "2022-07-15T11:24:54.152644+00:00",
-        "description": "Why Democrats are begging Trump to start 2024 right now"
     },
     "https://deadline.com/2022/07/los-angeles-cdc-high-covid-level-mask-mandate-1235064297/": {
         "title": "LA Mask Mandate Countdown Begins; Enters CDC's 'High' Spread Level...",
