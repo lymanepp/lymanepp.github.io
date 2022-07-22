@@ -1,4 +1,9 @@
 {
+    "https://www.cnbc.com/2022/07/22/snap-shares-dive-35percent-following-poor-earnings-report-.html": {
+        "title": "NOT AGAIN: SNAP plunges 35% amid disappointing results...",
+        "added": "2022-07-22T14:30:38.500736+00:00",
+        "description": "Snap shares dive 35% following poor earnings report"
+    },
     "https://www.france24.com/en/live-news/20220722-ukraine-s-camera-shy-first-lady-steps-onto-global-stage": {
         "title": "Ukraine's camera-shy first lady steps onto global stage...",
         "added": "2022-07-22T14:12:50.017731+00:00",
@@ -383,16 +388,6 @@
         "title": "HEALTH CONCERNS FOR 79-YEAR OLD",
         "added": "2022-07-21T14:36:50.529151+00:00",
         "description": "Biden tests positive for the coronavirus."
-    },
-    "https://www.msn.com/en-us/news/politics/trump-refused-to-act-prime-time-january-6-committee-hearing-will-focus-on-ex-president-s-inaction-during-riot/ar-AAZP5EE": {
-        "title": "Prime-Time Show That Can Still Shock...",
-        "added": "2022-07-21T14:26:53.349501+00:00",
-        "description": "\u2018Trump refused to act\u2019: Prime-time January 6 committee hearing will focus on ex-president\u2019s inaction during riot"
-    },
-    "https://www.cnbc.com/2022/07/21/president-biden-tests-positive-for-covid-19.html": {
-        "title": "BIDEN CATCHES COVID",
-        "added": "2022-07-21T14:26:53.349501+00:00",
-        "description": "President Biden tests positive for Covid-19"
     },
     "https://www.msn.com/en-us/news/us/secret-service-watchdog-knew-in-february-that-texts-had-been-purged/ar-AAZO23B": {
         "title": "COVERUP:  Secret Service watchdog knew in February that texts had been purged...",
