@@ -1,4 +1,29 @@
 {
+    "https://www.fox5ny.com/news/workers-fight-for-ac": {
+        "title": "UPS workers plan rallies after a series of heat-related incidents...",
+        "added": "2022-07-22T16:12:05.408800+00:00",
+        "description": "Delivering heat: UPS workers plan rallies after a series of heat-related incidents"
+    },
+    "https://www.cnn.com/2022/07/21/weather/us-extreme-heat-thursday/index.html": {
+        "title": "WEEKEND:  More than 85% of Americans bracing for temps above 90...",
+        "added": "2022-07-22T16:12:05.408800+00:00",
+        "description": "Dangerously high temperatures will last through the weekend with millions of Americans set to experience triple-digit heat"
+    },
+    "https://www.accuweather.com/en/weather-forecasts/northwest-next-in-line-to-face-blistering-heat/1220304": {
+        "title": "Northwest next in line...",
+        "added": "2022-07-22T16:12:05.408800+00:00",
+        "description": "Northwest next in line to face blistering heat"
+    },
+    "https://news.yahoo.com/secret-witness-reveals-agents-feared-014010499.html": {
+        "title": "Feared for their lives...",
+        "added": "2022-07-22T16:12:05.408800+00:00",
+        "description": "Secret Service witness reveals agents feared Pence compromise and were told to \"say goodbye to family members\""
+    },
+    "http://hp2.wright-weather.com/icons/us_heat.gif": {
+        "title": "LIVE:  TEMP MAP...",
+        "added": "2022-07-22T16:12:05.408800+00:00",
+        "description": ""
+    },
     "https://www.msn.com/en-us/news/us/the-job-market-is-beginning-to-show-cracks/ar-AAZQXk4": {
         "title": "JOB MARKET SHOWING CRACKS",
         "added": "2022-07-22T15:51:29.905290+00:00",
@@ -358,11 +383,6 @@
         "title": "AMAZON's self-driving robotaxi nearing launch...",
         "added": "2022-07-21T16:10:00.382931+00:00",
         "description": "Amazon\u2019s self-driving robotaxi is \u2018really close\u2019 to human transport"
-    },
-    "https://news.yahoo.com/im-over-many-l-shrug-120005717.html": {
-        "title": "'I'm over it.' Many in LA shrug off subvariants...",
-        "added": "2022-07-21T16:10:00.382931+00:00",
-        "description": "'I'm over it.' Many in L.A. shrug off COVID-19 wave despite super-infectious subvariants"
     },
     "https://www.hstoday.us/subject-matter-areas/counterterrorism/neo-nazi-accelerationsts-urge-followers-to-infiltrate-and-attack-abortion-facilities/": {
         "title": "Extremists Urge Followers to Infiltrate and Attack Abortion Facilities...",
