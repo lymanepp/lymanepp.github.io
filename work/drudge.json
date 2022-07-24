@@ -1,4 +1,14 @@
 {
+    "https://www.cnn.com/2022/07/23/us/oak-fire-mariposa-county-yosemite/index.html": {
+        "title": "Forces thousands to evacuate...",
+        "added": "2022-07-24T11:25:17.560669+00:00",
+        "description": "California's fast-moving Oak Fire burns nearly 12,000 acres and forces thousands to evacuate outside Yosemite National Park"
+    },
+    "https://thehill.com/changing-america/well-being/medical-advances/3571018-revolutionary-brain-computer-interface-offers-hope-to-paralyzed-patients/": {
+        "title": "Revolutionary brain-computer interface offers hope to paralyzed...",
+        "added": "2022-07-24T11:25:17.560669+00:00",
+        "description": "Revolutionary brain-computer interface offers hope to paralyzed patients"
+    },
     "https://www.nbcnews.com/business/consumer/restaurants-smaller-portions-higher-food-prices-rcna39180": {
         "title": "Rising food prices mean smaller burgers, pizzas...",
         "added": "2022-07-24T11:06:23.393766+00:00",
@@ -258,11 +268,6 @@
         "title": "First cases in kids...",
         "added": "2022-07-22T20:48:42.227690+00:00",
         "description": "CDC confirms first two cases of monkeypox in children"
-    },
-    "https://www.cnbc.com/2022/07/22/vince-mcmahon-retires-as-chief-of-wwe-amid-probes-into-alleged-misconduct.html": {
-        "title": "Vince McMahon out at WWE amid probes into alleged misconduct...",
-        "added": "2022-07-22T20:31:02.988050+00:00",
-        "description": "Vince McMahon retires as chief of WWE amid probes into alleged misconduct"
     },
     "https://www.accuweather.com/en/weather-forecasts/northwest-next-in-line-to-face-blistering-heat/1220304": {
         "title": "Northwest next in line...",
