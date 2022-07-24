@@ -1,4 +1,54 @@
 {
+    "https://www.fox5ny.com/news/chess-playing-robot-breaks-7-year-olds-finger": {
+        "title": "Chess playing robot breaks boy's finger...",
+        "added": "2022-07-24T23:28:24.683288+00:00",
+        "description": "Chess-playing robot breaks 7-year-old's finger"
+    },
+    "https://www.arcamax.com/currentnews/newsheadlines/s-2704648?fs": {
+        "title": "Monkeypox Proves Elusive Foe as WHO Sounds Alarm on Global Spread...",
+        "added": "2022-07-24T23:28:24.683288+00:00",
+        "description": "Monkeypox proves elusive foe as WHO sounds alarm on global spread"
+    },
+    "https://uk.finance.yahoo.com/news/battered-bitcoin-devotees-begin-contemplate-140000277.html": {
+        "title": "Battered Bitcoin Devotees Begin to Contemplate a Market Bottom...",
+        "added": "2022-07-24T23:28:24.683288+00:00",
+        "description": "Battered Bitcoin Devotees Begin to Contemplate a Market Bottom"
+    },
+    "https://news.yahoo.com/los-angeles-may-first-city-120045425.html": {
+        "title": "Los Angeles could soon put recycled water directly in your tap...",
+        "added": "2022-07-24T23:28:24.683288+00:00",
+        "description": "Los Angeles could soon put recycled water directly in your tap. It's not 'toilet to tap'"
+    },
+    "https://news.yahoo.com/china-issues-private-warnings-us-053243519.html": {
+        "title": "CHINA ISSUES MILITARY WARNING OVER PELOSI VISIT",
+        "added": "2022-07-24T23:28:24.683288+00:00",
+        "description": "China Issues Private Warnings to US on Pelosi\u2019s Taiwan Trip: FT"
+    },
+    "https://financialpost.com/pmn/business-pmn/defiant-orban-doubles-down-on-russia-policy-arch-conservativism": {
+        "title": "Defiant Orban Doubles Down on Arch-Conservativism...",
+        "added": "2022-07-24T23:28:24.683288+00:00",
+        "description": "Defiant Orban Doubles Down on Russia Policy, Arch-Conservativism"
+    },
+    "https://finance.yahoo.com/news/trump-tests-waning-appeal-washington-113017256.html": {
+        "title": "Tests waning appeal in Washington...",
+        "added": "2022-07-24T23:28:24.683288+00:00",
+        "description": "Trump Tests Waning Appeal in Washington Visit Shadowed by Jan. 6"
+    },
+    "https://finance.yahoo.com/news/fed-inflict-more-pain-economy-130000297.html": {
+        "title": "Fed to Inflict More Pain on Economy as It Readies ANOTHER Big Rate Hike...",
+        "added": "2022-07-24T23:28:24.683288+00:00",
+        "description": "Fed to Inflict More Pain on Economy as It Readies Big Rate Hike"
+    },
+    "https://finance.yahoo.com/news/bolsonaro-starts-campaigning-election-says-110000376.html": {
+        "title": "Bolsonaro starts campaigning for vote he says may be rigged...",
+        "added": "2022-07-24T23:28:24.683288+00:00",
+        "description": "Bolsonaro Starts Campaigning for Vote He Says May Be Rigged"
+    },
+    "https://apnews.com/article/housing-market-cools-6618d543a9c0ac4ff6562b586cf96c9f": {
+        "title": "Housing market chills as mortgage rates, prices scare buyers...",
+        "added": "2022-07-24T23:28:24.683288+00:00",
+        "description": "Housing market chills as mortgage rates, prices scare buyers"
+    },
     "https://www.nbcnews.com/politics/white-house/bidens-covid-symptoms-improving-significantly-says-doctor-rcna39753": {
         "title": "UPDATE:  Biden covid symptoms continue to improve, White House says...",
         "added": "2022-07-24T23:07:27.886447+00:00",
@@ -199,16 +249,6 @@
         "added": "2022-07-23T15:30:39.150914+00:00",
         "description": "The Monkeypox Vaccine Hunger Games Are On"
     },
-    "https://www.bnnbloomberg.ca/defiant-orban-doubles-down-on-russia-policy-arch-conservativism-1.1795834": {
-        "title": "Defiant Orban Doubles Down on Russia Policy, Arch-Conservativism...",
-        "added": "2022-07-23T15:30:39.150914+00:00",
-        "description": "Defiant Orban Doubles Down on Russia Policy, Arch-Conservativism - BNN Bloomberg"
-    },
-    "https://www.cnbc.com/2022/07/23/who-declares-spreading-monkeypox-outbreak-a-global-health-emergency.html": {
-        "title": "WHO: MONKEYPOX EMERGENCY",
-        "added": "2022-07-23T14:25:53.153799+00:00",
-        "description": "WHO declares rapidly spreading monkeypox outbreak a global health emergency"
-    },
     "https://www.cnn.com/2022/07/23/politics/fbi-investigation-huawei-china-defense-department-communications-nuclear/index.html": {
         "title": "FBI finds HUAWEI equipment in midwest could disrupt nuke communications...",
         "added": "2022-07-23T13:51:02.241521+00:00",
@@ -223,11 +263,6 @@
         "title": "Newsom vs. Florida continues, this time over unemployment rates...",
         "added": "2022-07-23T13:43:05.350724+00:00",
         "description": "Gavin Newsom vs. Florida continues, this time over unemployment rates"
-    },
-    "https://www.msn.com/en-us/travel/news/airlines-tried-shifting-blame-but-theyre-the-biggest-cause-of-delays/ar-AAZT3mf": {
-        "title": "Airlines tried shifting blame, but they're biggest cause of delays...",
-        "added": "2022-07-23T13:20:22.904995+00:00",
-        "description": "Airlines tried shifting blame, but they\u2019re the biggest cause of delays"
     },
     "https://news.yahoo.com/google-fires-software-engineer-claimed-021841293.html": {
         "title": "GOOGLE fires engineer who said AI was sentient...",
