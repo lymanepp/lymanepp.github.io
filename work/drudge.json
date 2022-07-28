@@ -1,4 +1,9 @@
 {
+    "https://www.cnbc.com/2022/07/28/pfizer-pfe-earnings-q2-2022.html": {
+        "title": "PFIZER record high sales, thanks to vax and Paxlovid...",
+        "added": "2022-07-28T20:08:45.156303+00:00",
+        "description": "Pfizer quarterly sales surge to record high, driven by Covid vaccine and antiviral treatment Paxlovid"
+    },
     "https://www.politico.com/newsletters/politico-pulse/2022/07/28/monkeypox-public-health-emergency-in-the-cards-00048315": {
         "title": "Monkeypox public health emergency in play...",
         "added": "2022-07-28T19:32:15.557167+00:00",
@@ -399,25 +404,10 @@
         "added": "2022-07-27T20:29:02.807379+00:00",
         "description": "Best Buy shares fall as company cuts forecast, cites weaker demand"
     },
-    "https://www.latimes.com/world-nation/story/2022-07-27/americans-are-flooding-mexico-city-some-mexicans-want-them-to-go-home": {
-        "title": "Americans flooding Mexico City. Locals want them to go home...",
-        "added": "2022-07-27T20:08:28.147808+00:00",
-        "description": "Californians and other Americans are flooding Mexico City. Some locals want them to go home"
-    },
-    "https://www.tmz.com/2022/07/27/ukraine-president-volodymyr-zelensky-dragged-vogue-cover-shoot/": {
-        "title": "ZELENSKY DRAGGED OVER VOGUE SHOOT...",
-        "added": "2022-07-27T19:47:07.319503+00:00",
-        "description": "Ukraine President Volodymyr Zelensky Dragged for Vogue Cover Shoot with Wife"
-    },
     "https://www.miamiherald.com/entertainment/music-news-reviews/article263872577.html": {
         "title": "DeSantis files complaint over drag show performed in front of kids...",
         "added": "2022-07-27T16:49:21.982458+00:00",
         "description": "Gov. DeSantis files a complaint about a Wynwood drag show performed in front of kids"
-    },
-    "https://www.nbcnewyork.com/news/coronavirus/nys-covid-dashboard-nyc-hospitalization-rate-soars-70-in-ba5-variant-wave/3796713": {
-        "title": "Breakthrough admissions surge as boosters wane...",
-        "added": "2022-07-27T15:50:32.525370+00:00",
-        "description": "COVID Hospitalization Rate in NYC Soars 70% in Month, ICU Patient Tally Nearly Doubles"
     },
     "https://www3.nhk.or.jp/nhkworld/en/news/": {
         "title": "NHK",
