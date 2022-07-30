@@ -1,4 +1,39 @@
 {
+    "https://www.the-sun.com/news/5893178/inside-most-miserable-city-us/": {
+        "title": "Gary, Indiana most miserable city?",
+        "added": "2022-07-30T13:18:15.675252+00:00",
+        "description": "Inside 'most miserable city in US', where 100,000 have fled & homes sell for $1"
+    },
+    "https://www.msn.com/en-xl/news/other/hitlers-watch-sells-for-11m-in-controversial-sale/ar-AA106YNs": {
+        "title": "Hitler's watch sells for $1.1m in controversial sale...",
+        "added": "2022-07-30T13:18:15.675252+00:00",
+        "description": "Hitler's watch sells for $1.1m in controversial sale"
+    },
+    "https://www.msn.com/en-us/news/us/homeland-security-watchdog-halted-plan-to-recover-secret-service-texts-records-show/ar-AA106X4S": {
+        "title": "Homeland Security watchdog halted plan to recover Secret Service texts, records show...",
+        "added": "2022-07-30T13:18:15.675252+00:00",
+        "description": "Homeland Security watchdog halted plan to recover Secret Service texts, records show"
+    },
+    "https://www.france24.com/en/live-news/20220730-ageing-pope-admits-he-must-slow-down-or-quit": {
+        "title": "Aging pope admits he must slow down, or quit...",
+        "added": "2022-07-30T13:18:15.675252+00:00",
+        "description": "Ageing pope admits he must slow down, or quit"
+    },
+    "https://www.france24.com/en/europe/20220730-spain-brazil-announce-first-monkeypox-related-deaths-outside-africa": {
+        "title": "Spain, Brazil report first monkeypox-related deaths outside Africa...",
+        "added": "2022-07-30T13:18:15.675252+00:00",
+        "description": "Spain and Brazil report first monkeypox-related deaths outside Africa"
+    },
+    "https://www.fltimes.com/news/nation/fetterman-and-shapiro-lead-oz-and-mastriano-in-key-pa-races-despite-headwinds-against-democrats/article_f9fae747-4534-55de-897d-a58f63fdbaa8.html": {
+        "title": "Fetterman and Shapiro lead...",
+        "added": "2022-07-30T13:18:15.675252+00:00",
+        "description": "Fetterman and Shapiro lead Oz and Mastriano in key Pa. races, despite headwinds against Democrats, poll finds"
+    },
+    "https://apnews.com/article/floods-storms-science-kentucky-jackson-519185ea0be464c61ce76477359b019f": {
+        "title": "Search for Kentucky flood victims could take weeks...",
+        "added": "2022-07-30T13:18:15.675252+00:00",
+        "description": "Governor: Search for Kentucky flood victims could take weeks"
+    },
     "https://news.yahoo.com/trump-son-law-jared-kushner-223700017.html": {
         "title": "'I will break you in half. Don't f*ck with me'...",
         "added": "2022-07-30T00:38:46.658970+00:00",
@@ -254,11 +289,6 @@
         "added": "2022-07-29T13:49:09.575928+00:00",
         "description": "Chinese invasion of Taiwan may come sooner than expected"
     },
-    "https://www.yahoo.com/gma/furry-creatures-blame-pandemic-study-090011613.html": {
-        "title": "Are these furry creatures to blame for pandemic?",
-        "added": "2022-07-29T13:09:07.016571+00:00",
-        "description": "Are these furry creatures to blame for the pandemic? Study finds 'reasonable' origin of COVID"
-    },
     "https://www.cnn.com/2022/07/29/energy/exxonmobil-chevron-earnings/index.html": {
         "title": "$2,245.62 a second: EXXON scores enormous profit...",
         "added": "2022-07-29T13:09:07.016571+00:00",
@@ -268,26 +298,6 @@
         "title": "Inflation highest since 1982...",
         "added": "2022-07-29T13:09:07.016571+00:00",
         "description": "Inflation figure that the Fed follows closely hits highest level since January 1982"
-    },
-    "https://www.cnbc.com/2022/07/29/air-travel-chaos-pilots-describe-toxic-culture-and-airline-errors.html": {
-        "title": "Toxic culture and 'race to bottom': Pilots on why air travel in chaos...",
-        "added": "2022-07-29T13:09:07.016571+00:00",
-        "description": "A toxic culture and \u00e2\u20ac\u02dcrace to the bottom\u00e2\u20ac\u2122: Pilots open up on why air travel is in chaos"
-    },
-    "https://nypost.com/2022/07/29/las-vegas-flooding-multiple-casinos-entire-strip-airport-under-water-amid-storm/": {
-        "title": "Intense Vegas thunderstrom leaves multiple casinos, Strip, airport under water...",
-        "added": "2022-07-29T13:09:07.016571+00:00",
-        "description": "Las Vegas flooding: Multiple casinos, entire Strip, airport under water"
-    },
-    "https://apnews.com/article/floods-storms-kentucky-f3b72930d5d1994066752eaa8c6d1462": {
-        "title": "15 dead in Appalachian flooding, toll expected to rise...",
-        "added": "2022-07-29T13:09:07.016571+00:00",
-        "description": "Appalachian floods kill at least 15 as rescue teams deploy"
-    },
-    "https://www.thesun.co.uk/news/politics/19359667/rishi-sunak-gambles-on-interview/": {
-        "title": "Truss '90% Chance' of Becoming UK Next PM...",
-        "added": "2022-07-29T12:15:38.006451+00:00",
-        "description": "Rishi Sunak gambles on make-or-break interview tonight as Liz Truss storms ahead"
     },
     "https://news.yahoo.com/other-half-lives-luxury-companies-110416220.html": {
         "title": "How other half lives: Luxury companies thrive...",
@@ -299,30 +309,10 @@
         "added": "2022-07-29T11:46:48.593622+00:00",
         "description": "The Memo: No, really \u2014 What if Alexandria Ocasio-Cortez runs for president?"
     },
-    "https://news.yahoo.com/fringe-candidates-putting-republicans-u-100550032.html": {
-        "title": "Fringe candidates putting Republican Senate hopes at risk...",
-        "added": "2022-07-29T11:46:48.593622+00:00",
-        "description": "Fringe candidates putting Republicans' U.S. Senate hopes at risk"
-    },
-    "https://dnyuz.com/2022/07/29/the-country-that-wants-to-be-average-vs-jeff-bezos-and-his-500-million-yacht/": {
-        "title": "The Country That Wants to 'Be Average' vs. Bezos and His $500 Million Yacht...",
-        "added": "2022-07-29T11:46:48.593622+00:00",
-        "description": "The Country That Wants to \u2018Be Average\u2019 vs. Jeff Bezos and His $500 Million Yacht"
-    },
-    "https://dnyuz.com/2022/07/29/dry-fountains-cold-pools-less-beer-germans-tip-toe-up-the-path-to-energy-savings/": {
-        "title": "Dry Fountains, Cold Pools, Less Beer? Germans Tip-Toe Up Path to Energy Savings...",
-        "added": "2022-07-29T11:46:48.593622+00:00",
-        "description": "Dry Fountains, Cold Pools, Less Beer? Germans Tip-Toe Up the Path to Energy Savings"
-    },
     "https://www.dailymail.co.uk/news/article-11061625/Russia-prepared-EVACUATION-plans-Putin-case-army-defeated-Ukraine.html": {
         "title": "Kremlin has prepared evacuation plans for Putin...",
         "added": "2022-07-29T11:33:23.423270+00:00",
         "description": "Russia 'makes EVACUATION plans for Putin in case of defeat in Ukraine'"
-    },
-    "https://www.fltimes.com/news/nation/poll-raffensperger-leads-ga-elections-race-after-resisting-trump/article_af4c8cc2-a50b-5b74-a260-a9df457f7bf3.html": {
-        "title": "POLL: Raffensperger leads GA elections race after resisting Trump...",
-        "added": "2022-07-29T11:25:11.992866+00:00",
-        "description": "Poll: Raffensperger leads Ga. elections race after resisting Trump"
     },
     "https://www.axios.com/2022/07/28/sf-ny-declare-health-emergencies-monkeypox-outbreak": {
         "title": "San Fran, NYC declare emergencies over monkeypox outbreak...",
@@ -334,11 +324,6 @@
         "added": "2022-07-29T11:06:46.499011+00:00",
         "description": "Creepy DALL-E AI asked to predict last selfie taken on Earth and it's horrifying"
     },
-    "https://www.msn.com/en-us/news/us/black-women-who-once-hated-guns-are-embracing-them-as-violence-rises/ar-AA102x3k": {
-        "title": "Black women who once hated guns embracing them as crime soars...",
-        "added": "2022-07-29T11:06:46.499011+00:00",
-        "description": "Black women who once hated guns are embracing them as violence rises"
-    },
     "https://www.msn.com/en-us/news/politics/white-house-insists-economy-is-strong-as-allies-grow-uneasy-about-fed/ar-AA105XbV": {
         "title": "White House insists economy strong as allies grow uneasy about Fed...",
         "added": "2022-07-29T11:06:46.499011+00:00",
@@ -349,20 +334,10 @@
         "added": "2022-07-29T10:34:29.211309+00:00",
         "description": "Inside the secret Manchin-Schumer deal: Dems shocked, GOP feels betrayed"
     },
-    "https://www.mediaite.com/sports/trump-defends-saudi-arabia-from-9-11-families-in-shocking-comments-nobodys-gotten-to-the-bottom-of-9-11/": {
-        "title": "Defends From 9/11 Families: 'Nobody's Gotten to Bottom of 9/11'...",
-        "added": "2022-07-28T19:06:00.379628+00:00",
-        "description": "Trump Defends Saudi Arabia From 9/11 Families in Shocking Comments: \u2018Nobody\u2019s Gotten to the Bottom of 9/11\u2019"
-    },
     "https://www.nbcnews.com/politics/2022-election/bidens-soft-power-not-enough-stop-rivals-grabbing-2024-spotlight-rcna40365": {
         "title": "Can't Stop Would-Be Rivals From Grabbing 2024 Spotlight...",
         "added": "2022-07-28T18:54:54.231752+00:00",
         "description": "Biden's soft power has not been enough to stop would-be rivals from grabbing the 2024 spotlight"
-    },
-    "https://www.accuweather.com/en/severe-weather/catastrophic-flash-flooding-event-leaves-towns-underwater-in-kentucky/1223842": {
-        "title": "Entire towns underwater in Kentucky following catastrophic flooding...",
-        "added": "2022-07-28T15:50:58.407573+00:00",
-        "description": "\u2018Catastrophic\u2019 flash flooding turns deadly, leaves Kentucky towns underwater"
     },
     "https://www3.nhk.or.jp/nhkworld/en/news/": {
         "title": "NHK",
