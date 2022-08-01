@@ -1,4 +1,14 @@
 {
+    "https://www.fox5ny.com/news/nyc-declares-monkeypox-state-of-emergency": {
+        "title": "NYC declares state of emergency...",
+        "added": "2022-08-01T17:17:40.942770+00:00",
+        "description": "NYC declares monkeypox state of emergency"
+    },
+    "https://www.axios.com/2022/07/31/congres-capitol-secutiry-aoc-zeldin-jayapal": {
+        "title": "Congress on 'high alert' amid security threats...",
+        "added": "2022-08-01T17:17:40.942770+00:00",
+        "description": "Lawmakers AOC and Jaypal demand security overhaul amid threats"
+    },
     "https://www.dailymail.co.uk/news/article-11069863/UN-warns-humanity-danger-nuclear-annihilation-extraordinarily-lucky-far.html": {
         "title": "UN warns humanity 'one miscalculation away from nuclear annihilation'...",
         "added": "2022-08-01T16:48:43.297594+00:00",
@@ -253,11 +263,6 @@
         "title": "Stores put SPAM behind lock and key...",
         "added": "2022-07-31T10:08:26.423437+00:00",
         "description": "SPAM goes on lockdown due to inflation in NYC"
-    },
-    "https://www.the-sun.com/health/5587281/monkeypox-virus-outbreak-spread-us-cases/": {
-        "title": "US monkeypox cases hit 5,189...",
-        "added": "2022-07-31T03:05:10.980380+00:00",
-        "description": "Monkeypox cases hit 5,189 in US with Biden 'to declare virus health emergency'"
     },
     "https://www.accuweather.com/en/space-news/august-sky-features-saturn-mars-years-last-supermoon/1224442": {
         "title": "August to offer wide array of astronomy events...",
