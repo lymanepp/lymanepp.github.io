@@ -1,4 +1,9 @@
 {
+    "https://www.washingtonpost.com/world/2022/08/02/nancy-pelosi-visit-taiwan-china-military/": {
+        "title": "TAIWAN TENSE",
+        "added": "2022-08-02T11:06:42.118518+00:00",
+        "description": "Taiwan braces for Chinese show of force, with Pelosi set to visit"
+    },
     "https://thehill.com/homenews/media/3583306-oans-troubles-spark-questions-for-conservative-cable-news/": {
         "title": "OAN troubles spark questions for conservative cable news...",
         "added": "2022-08-02T10:52:03.913924+00:00",
@@ -458,11 +463,6 @@
         "title": "All eyes turn to Sinema as Dems face week that could transform Biden's presidency...",
         "added": "2022-08-01T10:51:22.989914+00:00",
         "description": "Analysis: All eyes turn to Sinema as Democrats face a week that could transform Biden's presidency"
-    },
-    "https://www.cnn.com/2022/07/31/politics/joe-biden-covid-positive-day-two/index.html": {
-        "title": "Biden continues to test positive for coronavirus in 'rebound' case...",
-        "added": "2022-08-01T10:51:22.989914+00:00",
-        "description": "Biden still testing positive after rebound Covid-19 case but 'continues to feel well,' White House says"
     },
     "https://www.msn.com/en-us/news/us/of-course-biden-has-rebound-covid/ar-AA108B4W": {
         "title": "Paxlovid to blame?",
