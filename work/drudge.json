@@ -1,4 +1,9 @@
 {
+    "https://apnews.com/article/shootings-austin-bae315601b623812f376fe3d38c1cf5c": {
+        "title": "'The bigger the spectacle, the better'...",
+        "added": "2022-08-05T15:32:24.948292+00:00",
+        "description": "How Alex Jones' bombastic behavior impacts him in court"
+    },
     "https://www.msn.com/en-us/music/news/how-a-phoenix-record-store-owner-set-the-audiophile-world-on-fire/ar-AA10kCWg": {
         "title": "How Phoenix record store owner set audiophile world on fire...",
         "added": "2022-08-05T15:08:02.654016+00:00",
@@ -449,11 +454,6 @@
         "added": "2022-08-04T15:34:02.771912+00:00",
         "description": ""
     },
-    "https://www.the-sun.com/news/5912235/brittney-griner-found-guilty-russia-trial/": {
-        "title": "WNBA star found guilty in Moscow trial; Faces up to 10 years in prison...",
-        "added": "2022-08-04T15:08:29.736585+00:00",
-        "description": "Brittney Griner verdict revealed as WNBA star faces 10 years in Russian jail"
-    },
     "https://dnyuz.com/2022/08/03/kari-lake-cried-foul-at-election-results-then-she-started-winning/": {
         "title": "Kari Lake Cried Foul at Election Results. Then She Started Winning...",
         "added": "2022-08-04T12:59:50.418568+00:00",
@@ -463,11 +463,6 @@
         "title": "Election deniers rack up wins, fueling concerns in both parties...",
         "added": "2022-08-04T10:51:18.634662+00:00",
         "description": "Election deniers rack up wins, fueling concerns in both parties"
-    },
-    "https://www.msn.com/en-gb/money/other/walls-close-in-on-zuckerberg-as-executives-desert-meta/ar-AA10gGkP?fromMaestro=true": {
-        "title": "Walls close in on Zuckerberg as executives desert FACEBOOK...",
-        "added": "2022-08-04T00:46:51.299198+00:00",
-        "description": "Walls close in on Zuckerberg as executives desert Meta"
     },
     "https://www3.nhk.or.jp/nhkworld/en/news/": {
         "title": "NHK",
