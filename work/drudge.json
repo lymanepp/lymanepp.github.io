@@ -1,4 +1,9 @@
 {
+    "https://dnyuz.com/2022/08/15/warhols-images-of-prince-social-commentary-or-copyright-infringement/": {
+        "title": "Warhol Images of Prince: Social Commentary or Copyright Infringement?",
+        "added": "2022-08-15T11:25:26.077515+00:00",
+        "description": "Warhol\u2019s Images of Prince: Social Commentary or Copyright Infringement?"
+    },
     "https://www.politico.com/news/2022/08/15/liz-cheney-wyoming-jan-6-primary-00051619": {
         "title": "Next mission: Keeping anti-Trump megaphone...",
         "added": "2022-08-15T11:06:51.856255+00:00",
@@ -189,35 +194,10 @@
         "added": "2022-08-14T11:46:52.712653+00:00",
         "description": "Ukraine destroys Russian supply bridges, one-fifth of ground forces"
     },
-    "https://www.theguardian.com/us-news/2022/aug/14/sarah-palin-election-congress-alaska": {
-        "title": "Election tests weight of Palin's celebrity...",
-        "added": "2022-08-14T11:24:55.536609+00:00",
-        "description": "Alaska election tests weight of Sarah Palin\u2019s celebrity \u2013 and Trump\u2019s sway"
-    },
-    "https://www.mirror.co.uk/news/uk-news/dad-restrains-woman-who-stripped-27735945": {
-        "title": "Woman strips to underwear, tries to storm plane cockpit shouting 'Allahu Akbar'...",
-        "added": "2022-08-14T11:24:55.536609+00:00",
-        "description": "Hero dad restrains woman who stripped off and tried to storm Jet2 cockpit twice"
-    },
-    "https://www.jpost.com/diaspora/article-714669": {
-        "title": "Americans wounded...",
-        "added": "2022-08-14T11:24:55.536609+00:00",
-        "description": "Several Americans wounded in Jerusalem terror attack"
-    },
-    "https://www.mirror.co.uk/news/us-news/breaking-salman-rushdie-ventilator-able-27735869": {
-        "title": "Salman 'talking and joking' after on-stage attack...",
-        "added": "2022-08-14T11:07:04.158698+00:00",
-        "description": "Salman Rushdie off ventilator, 'talking and joking' after on-stage knife attack"
-    },
     "https://www.dailymail.co.uk/news/article-11109687/Knifeman-tried-murder-Salman-Rushdie-kept-religious-fanaticism-secret-nice-family.html": {
         "title": "Knifeman who tried to kill Rushdie kept religious fanaticism secret...",
         "added": "2022-08-14T11:07:04.158698+00:00",
         "description": "Man who 'tried to murder' Rushdie kept his religious fanaticism secret"
-    },
-    "https://www.yahoo.com/now/first-u-polio-case-years-120033532.html": {
-        "title": "Biggest polio threat in years sparks alarms from NY to CA...",
-        "added": "2022-08-14T10:47:42.342651+00:00",
-        "description": "Biggest polio threat in years sparks alarms from New York to California"
     },
     "https://www.msn.com/en-us/news/politics/armed-trump-supporters-protest-outside-fbi-office-in-phoenix-following-mar-a-lago-raid-reports/ar-AA10DOP8?cvid=9529a1f90a984e51a26564770b40283a": {
         "title": "Armed MAGA protests outside FBI office in Phoenix...",
@@ -239,16 +219,6 @@
         "added": "2022-08-13T16:39:29.176386+00:00",
         "description": "Colleges warn students about monkeypox risk as fall term approaches"
     },
-    "https://www.axios.com/2022/08/13/florida-judge-fbi-search-trump-mar-a-lago": {
-        "title": "Florida judge who approved is menaced...",
-        "added": "2022-08-13T16:09:17.506454+00:00",
-        "description": "Florida judge who approved FBI search warrant for Trump's home hit with threats"
-    },
-    "https://www.jpost.com/breaking-news/article-714621": {
-        "title": "Moscow warns of end to US relations if assets seized...",
-        "added": "2022-08-13T15:50:12.222567+00:00",
-        "description": "Moscow warns of end to Russia-US relations if assets seized"
-    },
     "https://www.usnews.com/news/us/articles/2022-08-13/trumps-mar-a-lago-a-security-nightmare-that-housed-classified-documents": {
         "title": "Mar-A-Lago, Security 'Nightmare' That Housed Classified Docs...",
         "added": "2022-08-13T15:29:58.477370+00:00",
@@ -258,21 +228,6 @@
         "title": "Murders at border stun...",
         "added": "2022-08-13T15:29:58.477370+00:00",
         "description": "Murders at the border and attacks in Jalisco and Guanajuato stun Mexico"
-    },
-    "https://nypost.com/2022/08/13/putins-evil-inner-circle-nikolai-patrushev-to-ramzan-kadyrov/": {
-        "title": "Meet Putin's inner circle of evil...",
-        "added": "2022-08-13T15:29:58.477370+00:00",
-        "description": "Meet Putin\u2019s inner circle of evil, from Nikolai Patrushev to Ramzan Kadyrov"
-    },
-    "https://dnyuz.com/2022/08/13/trump-sics-the-g-o-p-on-the-f-b-i/": {
-        "title": "The Don Sics Republicans on FBI...",
-        "added": "2022-08-13T14:34:51.528863+00:00",
-        "description": "Trump Sics the G.O.P. on the F.B.I."
-    },
-    "https://dnyuz.com/2022/08/13/can-the-f-150-lightning-make-everyone-want-a-truck-that-plugs-in/": {
-        "title": "Can F-150 Lightning Make Everyone Want Truck That Plugs In?",
-        "added": "2022-08-13T14:34:51.528863+00:00",
-        "description": "Can the F-150 Lightning Make Everyone Want a Truck That Plugs In?"
     },
     "https://thehill.com/homenews/state-watch/3599286-librarian-sues-for-defamation-after-conservative-activist-attacks-over-lgbtq-books/": {
         "title": "Librarian sues for defamation after attacks over LGBTQ books...",
@@ -303,11 +258,6 @@
         "title": "Omicron considered milder coronavirus, but scientists aren't so sure...",
         "added": "2022-08-13T13:41:52.921986+00:00",
         "description": "Omicron is considered a milder coronavirus, but scientists aren't so sure"
-    },
-    "https://www.cnn.com/2022/08/12/politics/fbi-threats-maralago-trump-search/index.html": {
-        "title": "Unprecedented number of threats against bureau...",
-        "added": "2022-08-13T13:19:41.006367+00:00",
-        "description": "FBI investigating 'unprecedented' number of threats against bureau in wake of Mar-a-Lago search"
     },
     "https://www3.nhk.or.jp/nhkworld/en/news/": {
         "title": "NHK",
