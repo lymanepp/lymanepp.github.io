@@ -1,4 +1,84 @@
 {
+    "https://www.thewrap.com/don-lemon-jim-acosta-expected-to-stay-cnn-neutral-direction-exclusive/": {
+        "title": "Acosta, Lemon Expected to Stay...",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": "Don Lemon, Jim Acosta Expected to Stay at CNN Despite New, More Neutral Direction"
+    },
+    "https://www.stripes.com/theaters/us/2022-08-19/nasa-reveals-where-next-americans-land-moon-7040435.html": {
+        "title": "NASA targets 13 landing sites on moon south pole for human landing...",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": "NASA reveals where it wants the next Americans to land on the moon"
+    },
+    "https://www.pbs.org/newshour/world/nicaraguan-police-detain-catholic-bishop-other-priests-in-raid": {
+        "title": "Nicaraguan police detain Catholic bishop, other priests in raid...",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": "Nicaraguan police detain Catholic bishop, other priests in raid"
+    },
+    "https://www.nhc.noaa.gov/storm_graphics/AT04/refresh/AL042022_5day_cone_no_line_and_wind+png/233253_5day_cone_no_line_and_wind.png": {
+        "title": "CONE...",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": ""
+    },
+    "https://www.msn.com/en-us/travel/news/what-a-new-crackdown-on-airlines-could-mean-to-travelers/ar-AA10QCUo": {
+        "title": "24% of fights delayed in USA!",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": "What a new crackdown on airlines could mean to travelers"
+    },
+    "https://www.msn.com/en-us/sports/nfl/this-robot-quarterback-could-be-the-future-of-football-practice/ar-AA10PfoC": {
+        "title": "Robot quarterback  future of practice...",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": "This robot quarterback could be the future of football practice"
+    },
+    "https://www.msn.com/en-us/news/world/russia-holding-war-games-in-venezuela-sending-alarming-signals-throughout-latin-america/ar-AA10Qza7": {
+        "title": "Russia holding war games in Venezuela, sending alarm throughout Latin America...",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": "Russia holding war games in Venezuela, sending alarming signals throughout Latin America"
+    },
+    "https://www.msn.com/en-us/news/world/nicaragua-arrests-catholic-bishop-in-escalating-crackdown-on-dissent/ar-AA10R38N": {
+        "title": "Escalating crackdown on dissent...",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": "Nicaragua detains Catholic bishop in escalating crackdown on dissent"
+    },
+    "https://www.mirror.co.uk/news/world-news/brazils-president-jair-bolsonaro-grabs-27780425": {
+        "title": "SNAP:  Brazil's president grabs at heckler and tries to snatch phone...",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": "President grabs heckler and tries to snatch phone after being branded coward"
+    },
+    "https://www.mediaite.com/politics/kari-lake-endorses-anti-semitic-gop-candidate-in-oklahoma-who-boasted-jews-will-go-to-hell/": {
+        "title": "Kari Lake Endorses Candidate Who Boasted 'Jews Will go to Hell'...",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": "Kari Lake Endorses Anti-Semitic GOP Candidate in Oklahoma"
+    },
+    "https://www.inquirer.com/news/monkeypox-vaccine-college-campuses-philadelphia-20220819.html": {
+        "title": "Trepidation at universities as college students return...",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": "Monkeypox is spreading as college students return to campuses. Some universities are still preparing."
+    },
+    "https://www.accuweather.com/en/hurricane/tropical-depression-could-form-in-southwestern-gulf-of-mexico/1234682": {
+        "title": "WEEKEND:  Tropical storm warning for South Texas...",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": "Tropical storm warnings issued for parts of Texas coast"
+    },
+    "https://news.yahoo.com/study-suggests-covid-increases-risks-204156621.html": {
+        "title": "New study suggests covid increases risks of brain disorders...",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": "New study suggests covid increases risks of brain disorders"
+    },
+    "https://news.yahoo.com/monkeypox-cases-more-double-l-174325038.html": {
+        "title": "Monkeypox cases more than double in LA...",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": "Monkeypox cases more than double in L.A. County. One region is hit particularly hard"
+    },
+    "https://news.yahoo.com/dr-dre-jimmy-iovine-high-120008559.html": {
+        "title": "Dr. Dre, Jimmy Iovine high school gets down to business, just not music business...",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": "The Dr. Dre, Jimmy Iovine high school gets down to business, just not the music business"
+    },
+    "http://www.thesmokinggun.com/buster/assault/paddled-at-papa-johns-410736": {
+        "title": "Cops: Customer assaults PAPA JOHN'S worker over missing toppings...",
+        "added": "2022-08-20T02:57:24.566764+00:00",
+        "description": "Patron Assaulted Papa John's Worker With Metal Pizza Paddle Over Missing Toppings, Cops Charge"
+    },
     "https://apnews.com/article/russia-ukraine-zelenskyy-kyiv-moscow-black-sea-8145761d85c5302824b8386e82987ff2": {
         "title": "Russia, Ukraine spar over fighting near nuclear facility...",
         "added": "2022-08-20T00:41:06.148616+00:00",
@@ -343,21 +423,6 @@
         "title": "LABASH:  Chronic Trump Fatigue...",
         "added": "2022-08-18T17:31:30.912938+00:00",
         "description": "Chronic Trump Fatigue"
-    },
-    "https://www.the-sun.com/health/6028050/fears-struggle-contain-spread-monkeypox-vaccine-shortages/": {
-        "title": "Struggle to contain spread of monkeypox amid vaccine shortages...",
-        "added": "2022-08-18T16:58:06.544232+00:00",
-        "description": "Fears over struggle to contain spread of monkeypox amid vaccine \u2018shortages'"
-    },
-    "https://www.msn.com/en-us/news/us/pennsylvania-becomes-the-27th-state-to-restrict-e2-80-98conversion-therapy-e2-80-99/ar-AA10OaJa": {
-        "title": "PA becomes 27th state to restrict 'conversion therapy'...",
-        "added": "2022-08-18T16:58:06.544232+00:00",
-        "description": "Pennsylvania becomes the 27th state to restrict \u2018conversion therapy\u2019"
-    },
-    "https://www.cnbc.com/2022/08/18/home-sales-fell-nearly-6percent-in-july-as-housing-market-slides-into-a-recession.html": {
-        "title": "Housing market slides into recession... Developing...",
-        "added": "2022-08-18T16:14:03.538528+00:00",
-        "description": "Home sales fell nearly 6% in July as housing market slides into a recession"
     },
     "https://www3.nhk.or.jp/nhkworld/en/news/": {
         "title": "NHK",
