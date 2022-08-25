@@ -1,4 +1,14 @@
 {
+    "https://www.dailymail.co.uk/news/article-11144695/Two-women-sue-George-Foreman-25m-claiming-sexually-abused-minors-1970s.html": {
+        "title": "George Foreman Accused of Sex Abuse -- From The 1970s...",
+        "added": "2022-08-25T17:02:58.821847+00:00",
+        "description": "Foreman is sued for $25m each by women who say he abused them as kids"
+    },
+    "https://www.ajc.com/news/atlanta-news/one-georgia-child-diagnosed-with-monkeypox-another-suspected/3XQCYGRHONBTBN5PXC2HQ6HPFE": {
+        "title": "Children getting infected in GA...",
+        "added": "2022-08-25T17:02:58.821847+00:00",
+        "description": "UPDATE: Georgia children diagnosed with monkeypox, according to health officials"
+    },
     "https://www.theguardian.com/world/2022/aug/25/spain-only-yes-means-yes-sexual-consent-bill-expected-to-become-law": {
         "title": "'Only yes means yes': Spain tightens rape law...",
         "added": "2022-08-25T16:44:45.048039+00:00",
@@ -433,11 +443,6 @@
         "title": "'Magic mushroom' psychedelic may help heavy drinkers quit...",
         "added": "2022-08-24T17:29:11.494095+00:00",
         "description": "'Magic mushroom' psychedelic may help heavy drinkers quit"
-    },
-    "https://www.dailystar.co.uk/news/world-news/seaworld-denies-creating-hybrid-jurassic-27823536": {
-        "title": "SEAWORLD denies creating hybrid Orcas in mating program...",
-        "added": "2022-08-24T17:00:27.220287+00:00",
-        "description": "SeaWorld denies creating hybrid 'Jurassic World' Orcas in mating programme"
     },
     "https://www3.nhk.or.jp/nhkworld/en/news/": {
         "title": "NHK",
