@@ -1,4 +1,24 @@
 {
+    "https://www.youtube.com/watch?v=21X5lGlDOfg": {
+        "title": "LIVE...",
+        "added": "2022-08-29T11:07:34.278720+00:00",
+        "description": "NASA Live: Official Stream of NASA TV"
+    },
+    "https://www.msn.com/en-us/movies/news/apple-tv-2b-production-starring-natalie-portman-faces-violent-threat-in-baltimore/ar-AA11d0Mw": {
+        "title": "APPLE TV+ production starring Natalie Portman faces violent threat in Baltimore...",
+        "added": "2022-08-29T11:07:34.278720+00:00",
+        "description": "Apple TV+ production starring Natalie Portman faces violent threat in Baltimore"
+    },
+    "https://www.cnn.com/2022/08/29/world/nasa-artemis-1-launch-scn/index.html": {
+        "title": "Engine issues...",
+        "added": "2022-08-29T11:07:34.278720+00:00",
+        "description": "Launch day arrives for NASA's Artemis I mission that will journey around the moon | CNN"
+    },
+    "https://apnews.com/article/astronomy-space-launches-exploration-science-63e9e863f294968af8869950909a212c": {
+        "title": "COUNTDOWN: NASA presses toward moon rocket launch after fuel leak...",
+        "added": "2022-08-29T11:07:34.278720+00:00",
+        "description": "Leaks and possible crack threaten to delay NASA moon launch"
+    },
     "https://www.washingtontimes.com/news/2022/aug/28/exorcism-redberry-bible-camp-leaves-pre-teen-blood/": {
         "title": "Pre-teen left bloodied, twitching following 'exorcism' at Bible camp...",
         "added": "2022-08-29T10:52:36.031025+00:00",
@@ -289,11 +309,6 @@
         "added": "2022-08-27T16:09:25.964743+00:00",
         "description": "Harry Styles-Olivia Wilde Much Hyped Movie, \"Don't Worry Darling,\" Causing Worries as PR Scandals Increase"
     },
-    "https://www.theatlantic.com/science/archive/2022/08/nasa-moon-mission-space-launch-system-artemis/671257/": {
-        "title": "Lunar program unlike any before...",
-        "added": "2022-08-27T15:49:26.547677+00:00",
-        "description": "America Is Trying to Make the Moon Happen Again"
-    },
     "https://news.yahoo.com/major-covid-relapse-could-soon-012239522.html": {
         "title": "How Major Virus Relapse Could Soon Hit World...",
         "added": "2022-08-27T15:49:26.547677+00:00",
@@ -303,11 +318,6 @@
         "title": "Of all legal threats, is this one that could take him down?",
         "added": "2022-08-27T15:30:38.328543+00:00",
         "description": "Of all the legal threats Trump is facing, is this the one that could take him down?"
-    },
-    "https://www.space.com/artemis-1-moon-mission-nasa-launch-countdown": {
-        "title": "After years of setbacks, SLS ready to fly...",
-        "added": "2022-08-27T15:30:38.328543+00:00",
-        "description": "NASA's begins countdown for Artemis 1 moon mission launch"
     },
     "https://www.dailymail.co.uk/news/article-11152055/Ex-Bush-Chief-Staff-says-Secret-Service-mole-Mar-Lago-reported-Trump.html": {
         "title": "ROVE: Secret Service mole?",
@@ -373,11 +383,6 @@
         "title": "Soon electric vehicles could charge faster than iPhone...",
         "added": "2022-08-27T13:37:09.083985+00:00",
         "description": "Soon electric vehicles could charge faster than your iPhone"
-    },
-    "https://www.cnbc.com/2022/08/27/nasas-artemis-1-mission-what-you-should-know-about-sls-orion.html": {
-        "title": "COUNTDOWN: NASA set to launch Artemis 1 moon mission on most powerful rocket yet...",
-        "added": "2022-08-27T13:37:09.083985+00:00",
-        "description": "NASA is set to launch the Artemis 1 mission on its most powerful rocket yet \u00e2\u20ac\u201d here's what you should know"
     },
     "https://news.yahoo.com/mexico-lures-visitors-age-tourism-024908575.html": {
         "title": "Mexico lures visitors on new age tourism trail...",
