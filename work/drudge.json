@@ -1,4 +1,9 @@
 {
+    "https://apnews.com/article/covid-health-los-angeles-homelessness-government-and-politics-bc42f500e67201032714de7ed98c92c6": {
+        "title": "LA homeless numbers up...",
+        "added": "2022-09-08T21:42:42.849107+00:00",
+        "description": "LA County homeless numbers up but many more went to shelters"
+    },
     "https://www.npr.org/2022/09/08/1121648290/a-publisher-abruptly-recalled-the-2-000-mules-election-denial-book-npr-got-a-cop": {
         "title": "Publisher abruptly recalled '2,000 MULES'. Outlet got copy...",
         "added": "2022-09-08T21:29:33.087381+00:00",
@@ -543,11 +548,6 @@
         "title": "Uses unveiling to dig at Trump...",
         "added": "2022-09-07T21:51:08.787837+00:00",
         "description": "Barack and Michelle Obama unveil their White House portraits"
-    },
-    "https://nypost.com/2022/09/07/judge-orders-wh-to-turn-over-emails-fauci-jean-pierre-sent-big-tech/": {
-        "title": "Judge orders White House to turn over emails with Big Tech...",
-        "added": "2022-09-07T21:42:20.222977+00:00",
-        "description": "Judge orders White House to turn over emails Fauci, Jean-Pierre sent Big Tech"
     },
     "https://www.nbcnews.com/health/health-news/stress-anxiety-depression-may-increase-long-covid-risk-study-rcna46449": {
         "title": "Stress, Anxiety Boost Chances of Getting Long Covid...",
