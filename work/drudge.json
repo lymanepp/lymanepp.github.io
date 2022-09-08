@@ -1,4 +1,14 @@
 {
+    "https://www.the-sun.com/news/6178587/queen-elizabeth-dead-news/": {
+        "title": "QUEEN DEAD",
+        "added": "2022-09-08T17:47:54.419741+00:00",
+        "description": "Queen dies aged 96 after 70 years of service leaving the UK in mourning"
+    },
+    "https://www.msn.com/en-us/news/politics/justice-dept-faces-tough-calls-in-weighing-response-to-trump-ruling/ar-AA11Ah3X": {
+        "title": "DOJ Faces Tough Calls...",
+        "added": "2022-09-08T17:47:54.419741+00:00",
+        "description": "Justice Dept. Faces Tough Calls in Weighing Response to Trump Ruling"
+    },
     "https://www.msn.com/en-us/news/politics/when-a-man-with-a-pistol-shows-up-outside-a-congresswoman-e2-80-99s-house/ar-AA11AAqa": {
         "title": "When man with pistol shows up outside congresswoman's house...",
         "added": "2022-09-08T17:22:36.000236+00:00",
@@ -543,26 +553,6 @@
         "title": "BARR: DOJ 'getting very close' to indictment...",
         "added": "2022-09-07T17:49:57.988499+00:00",
         "description": "DOJ is 'getting very close' to having the evidence to indict Trump, but shouldn't charge him, ex-Attorney General Bill Barr says"
-    },
-    "https://www.reviewjournal.com/crime/homicides/police-search-county-officials-home-in-connection-with-reporters-killing-2635486/": {
-        "title": "VEGAS: Police search county official's home in connection with reporter killing...",
-        "added": "2022-09-07T17:23:04.910262+00:00",
-        "description": "Police search county official\u2019s home in connection with reporter\u2019s killing"
-    },
-    "https://www.msn.com/en-us/news/technology/this-might-be-one-of-the-best-planets-to-host-alien-life/ar-AA11zbGy": {
-        "title": "This Might Be One of Best Planets to Host Alien Life...",
-        "added": "2022-09-07T17:23:04.910262+00:00",
-        "description": "This Might Be One of the Best Planets to Host Alien Life"
-    },
-    "https://dnyuz.com/2022/09/07/the-raccoons-of-central-park-move-in-packs-and-go-fast-on-bikes/": {
-        "title": "Raccoons of Central Park Move in Packs and Go Fast. On Bikes...",
-        "added": "2022-09-07T17:23:04.910262+00:00",
-        "description": "The Raccoons of Central Park Move in Packs and Go Fast. On Bikes."
-    },
-    "https://apnews.com/article/michael-flynn-christian-nationalism-investigation-50fa5dcff7f99cf93409fcd6c1357bee": {
-        "title": "Michael Flynn building movement centered on Christian nationalist ideas...",
-        "added": "2022-09-07T17:23:04.910262+00:00",
-        "description": "Michael Flynn: From government insider to holy warrior"
     },
     "https://www.nbcnews.com/health/health-news/stress-anxiety-depression-may-increase-long-covid-risk-study-rcna46449": {
         "title": "Stress, Anxiety Boost Chances of Getting Long Covid...",
