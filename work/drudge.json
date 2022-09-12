@@ -1,4 +1,9 @@
 {
+    "https://apnews.com/article/russia-ukraine-kyiv-kharkiv-a691ab16016aab01cedb68ea5e247b37": {
+        "title": "RUSSIA ON THE RUN",
+        "added": "2022-09-12T10:53:05.654512+00:00",
+        "description": "Ukraine keeps initiative, claims it reached Russian border"
+    },
     "https://www.msn.com/en-us/sports/nfl/tom-brady-looks-comfortable-enough-in-his-return-as-he-slays-cowboys-again-opinion/ar-AA11ID0p": {
         "title": "FOOTBALL AT 45:  Brady looks comfortable enough in return as he slays COWBOYS again...",
         "added": "2022-09-12T10:35:13.450486+00:00",
@@ -249,11 +254,6 @@
         "added": "2022-09-10T14:28:07.747958+00:00",
         "description": "China plans more moon missions after finding new lunar mineral"
     },
-    "https://apnews.com/article/russia-ukraine-kyiv-world-news-kharkiv-e06b2aa723e826ed4105b5f32827f577": {
-        "title": "'Taken by surprise'...",
-        "added": "2022-09-10T14:28:07.747958+00:00",
-        "description": "Russia \u201ctaken by surprise\u201d as Ukraine advances in the east"
-    },
     "https://dnyuz.com/2022/09/10/guaranteed-income-programs-spread-city-by-city/": {
         "title": "Guaranteed Income Programs Spread, City by City...",
         "added": "2022-09-10T14:07:26.114327+00:00",
@@ -274,20 +274,10 @@
         "added": "2022-09-10T13:28:07.042559+00:00",
         "description": "Canada's Conservatives set to embrace populist to take on Trudeau"
     },
-    "https://www.msn.com/en-us/news/us/move-over-iron-man-the-army-has-a-new-suit-to-solve-soldier-back-pain/ar-AA11FNT1": {
-        "title": "Move over, Iron Man: Army has new suit to solve soldier back pain...",
-        "added": "2022-09-10T13:28:07.042559+00:00",
-        "description": "Move over, Iron Man: The Army has a new suit to solve soldier back pain"
-    },
     "https://www.msn.com/en-us/money/other/this-robot-catches-grandma-before-she-falls/ar-AA11FyNM": {
         "title": "This robot catches grandma before she falls...",
         "added": "2022-09-10T13:28:07.042559+00:00",
         "description": "This robot catches grandma before she falls"
-    },
-    "https://news.yahoo.com/las-vegas-reporter-working-another-120024721.html": {
-        "title": "Las Vegas reporter was working on another expose. Authorities say his target killed him first...",
-        "added": "2022-09-10T03:31:44.212303+00:00",
-        "description": "Las Vegas reporter was working on another expose. The subject killed him first, authorities say"
     },
     "https://news.yahoo.com/ex-trump-lawyer-ty-cobb-193300812.html": {
         "title": "'Very high' chance of indictment...",
