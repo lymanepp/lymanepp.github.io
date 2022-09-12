@@ -1,4 +1,14 @@
 {
+    "https://projects.fivethirtyeight.com/2022-election-forecast/governor/pennsylvania/": {
+        "title": "14% CHANCE OF VICTORY...",
+        "added": "2022-09-12T15:36:55.583931+00:00",
+        "description": "2022 Governors Forecast"
+    },
+    "https://projects.fivethirtyeight.com/2022-election-forecast/governor/arizona/": {
+        "title": "DEAD HEAT....",
+        "added": "2022-09-12T15:36:55.583931+00:00",
+        "description": "2022 Governors Forecast"
+    },
     "https://movieweb.com/avatar-the-way-of-water-took-so-long/": {
         "title": "13 YEARS LATER: WHY 'AVATAR' TOOK SO LONG TO MAKE...",
         "added": "2022-09-12T14:53:01.067040+00:00",
@@ -244,20 +254,10 @@
         "added": "2022-09-11T12:57:26.028893+00:00",
         "description": "Energy crisis to cast Eiffel Tower into early darkness"
     },
-    "https://www.dailymail.co.uk/news/article-11201073/Kamal-Harris-model-stepdaughter-Ella-Emhoff-bares-boobs-walks-NYC-runway.html": {
-        "title": "Kamala stepdaughter bares breasts as she walks NYC runway...",
-        "added": "2022-09-11T12:57:26.028893+00:00",
-        "description": "Kamal Harris' stepdaughter Ella Emhoff bares boobs on NYC runway"
-    },
     "https://thehill.com/changing-america/respect/equality/3636709-muslim-americans-see-their-political-clout-grow-20-years-after-9-11/": {
         "title": "Muslim Americans see political clout grow 21 years after 9/11...",
         "added": "2022-09-11T12:57:26.028893+00:00",
         "description": "Muslim Americans see their political clout grow 20 years after 9/11"
-    },
-    "https://www.france24.com/en/live-news/20220911-spielberg-confronts-his-childhood-as-fabelmans-premieres-in-toronto": {
-        "title": "Spielberg confronts childhood as 'FABELMANS' premieres...",
-        "added": "2022-09-11T11:07:12.418140+00:00",
-        "description": "Spielberg confronts his childhood as 'Fabelmans' premieres in Toronto"
     },
     "https://www.commonsense.news/p/generation-swipe": {
         "title": "TINDER promised to revolutionize romance. Many left lonelier, more sex-deprived...",
@@ -269,11 +269,6 @@
         "added": "2022-09-11T10:08:52.384033+00:00",
         "description": "'Rife with political risks': Why Garland faces tough calls in considering Trump charges"
     },
-    "https://www.dailymail.co.uk/news/article-11200521/Aaron-Rodgers-blasts-Californias-COVID-closures-says-destroyed-small-businesses-hometown.html": {
-        "title": "'State's going to s**t!' Aaron Rodgers blasts California...",
-        "added": "2022-09-11T03:28:42.027385+00:00",
-        "description": "Aaron Rodgers blasts California COVID closure that destroyed small biz"
-    },
     "https://www.dailymail.co.uk/news/article-11200221/Ricky-Martin-faces-sexual-assault-complaint.html": {
         "title": "UPDATE:  Ricky Martin's nephew files sex assault complaint against singer...",
         "added": "2022-09-11T03:28:42.027385+00:00",
@@ -284,11 +279,6 @@
         "added": "2022-09-11T03:28:42.027385+00:00",
         "description": "Why a woman's doctor warned her not to get pregnant in Texas"
     },
-    "https://nypost.com/2022/09/09/video-shows-homeless-fighting-on-san-francisco-street/": {
-        "title": "Video shows homeless fighting in squalid conditions on San Fran street...",
-        "added": "2022-09-11T03:28:42.027385+00:00",
-        "description": "Viral video shows homeless fighting in squalid conditions on San Francisco street"
-    },
     "https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution": {
         "title": "Cancer breakthrough is 'wake-up' call on danger of air pollution...",
         "added": "2022-09-10T16:44:32.433271+00:00",
@@ -298,16 +288,6 @@
         "title": "STUDY: Eating big breakfast and light dinner doesn't burn more calories...",
         "added": "2022-09-10T16:44:32.433271+00:00",
         "description": "Eating a big breakfast and light dinner doesn\u2019t lead you to burn more calories, study finds"
-    },
-    "https://www.nytimes.com/2022/09/10/style/jann-wenner.html": {
-        "title": "JANN WENNER WANTS TO REVEAL IT ALL...",
-        "added": "2022-09-10T16:10:36.002891+00:00",
-        "description": ""
-    },
-    "https://dnyuz.com/2022/09/10/jann-wenner-wants-to-reveal-it-all/": {
-        "title": "JANN WENNER WANTS TO REVEAL IT ALL...",
-        "added": "2022-09-10T13:49:32.657773+00:00",
-        "description": "Jann Wenner Wants to Reveal It All"
     },
     "https://news.yahoo.com/ex-trump-lawyer-ty-cobb-193300812.html": {
         "title": "'Very high' chance of indictment...",
