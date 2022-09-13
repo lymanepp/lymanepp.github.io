@@ -1,4 +1,14 @@
 {
+    "https://www.nytimes.com/2022/09/13/magazine/ron-desantis.html": {
+        "title": "More Disciplined Heir...",
+        "added": "2022-09-13T14:04:01.084069+00:00",
+        "description": ""
+    },
+    "https://futurism.com/scientist-brink-alien-life": {
+        "title": "Swiss Government Scientist Says We're on Brink of Discovering Alien Life...",
+        "added": "2022-09-13T14:04:01.084069+00:00",
+        "description": "Swiss Government Scientist Says We're on the Brink of Discovering Alien Life"
+    },
     "https://www.washingtonpost.com/world/2022/09/13/giorgia-meloni-italy-interview/": {
         "title": "WASH POST interview...",
         "added": "2022-09-13T13:20:56.609686+00:00",
@@ -443,16 +453,6 @@
         "title": "World's hottest housing markets facing painful reset...",
         "added": "2022-09-12T14:35:43.429716+00:00",
         "description": "World's hottest housing markets are down as interest rates rise"
-    },
-    "https://www.washingtonpost.com/business/2022/09/12/minnesota-nurses-strike/": {
-        "title": "Largest private-sector nurses strike in U.S. history begins in Minnesota...",
-        "added": "2022-09-12T14:01:49.429515+00:00",
-        "description": "Largest private-sector nurses strike in U.S. history begins in Minnesota"
-    },
-    "https://www.axios.com/2022/09/12/gas-prices-plunging": {
-        "title": "Gas prices keep plunging...",
-        "added": "2022-09-12T14:01:49.429515+00:00",
-        "description": "Gas prices keep plunging"
     },
     "https://apnews.com/article/gun-violence-texas-lawsuits-school-shootings-55c73c59b9feabd3b3b5f500cbb13442": {
         "title": "Trial set to begin for Alex Jones in Sandy Hook hoax case...",
