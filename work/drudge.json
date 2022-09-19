@@ -1,4 +1,19 @@
 {
+    "https://www.reuters.com/world/uk/britain-world-prepare-say-last-farewell-queen-elizabeth-2022-09-18/": {
+        "title": "Death comes as Britain faces risk of economic crisis...",
+        "added": "2022-09-19T16:11:59.919802+00:00",
+        "description": "Queen Elizabeth's coffin lowered into vault ahead of private burial"
+    },
+    "https://www.accuweather.com/en/hurricane/hurricane-fiona-devastates-puerto-rico-with-heavy-rain-flooding-and-mudslides/1249326": {
+        "title": "Hurricane causes catastrophic flooding in Puerto Rico...",
+        "added": "2022-09-19T16:11:59.919802+00:00",
+        "description": "Catastrophic flooding in Puerto Rico as Hurricane Fiona dumps nearly 30 inches of rain"
+    },
+    "https://apnews.com/article/floods-storms-hurricanes-weather-dominican-republic-b0932ff0e3c40627e81ffad4d4d5d0dd": {
+        "title": "'Historic levels'...",
+        "added": "2022-09-19T16:11:59.919802+00:00",
+        "description": "Fiona slams Dominican Republic after pounding Puerto Rico"
+    },
     "https://www.thewrap.com/gavin-newsom-2024-presidential-run-joe-biden-kamala-harris/": {
         "title": "Newsom 'Unequivocally' Running for President if Biden Doesn't...",
         "added": "2022-09-19T15:55:26.213133+00:00",
@@ -303,11 +318,6 @@
         "title": "CONE...",
         "added": "2022-09-16T16:11:24.919081+00:00",
         "description": ""
-    },
-    "https://www.accuweather.com/en/hurricane/tropical-storm-fiona-to-bring-flood-risk-to-puerto-rico-virgin-islands/1247882": {
-        "title": "Tropical Storm to bring life-threatening flood risk to Puerto Rico, Virgin Islands... Developing...",
-        "added": "2022-09-16T16:11:24.919081+00:00",
-        "description": "Tropical storm warnings issued for Puerto Rico, US Virgin Islands ahead of Fiona"
     },
     "https://apps.sfwmd.gov/sfwmd/common/images/weather/plots/storm_07_ens.gif": {
         "title": "COMPUTER MODELS...",
