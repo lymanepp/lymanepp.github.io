@@ -1,4 +1,9 @@
 {
+    "https://apnews.com/article/mexico-caribbean-earthquakes-1f14e99e5dc7798280ced335ecb7c543": {
+        "title": "Powerful quake shakes Mexico on anniversary of devastating temblors...",
+        "added": "2022-09-20T01:41:00.518653+00:00",
+        "description": "Strong earthquake shakes Mexico\u00b4s Pacific coast; 1 killed"
+    },
     "https://thegrio.com/2022/09/19/syphilis-cases-highest-since-1948-hiv-jumped-16-last-year-cdc-says-situation-out-of-control/": {
         "title": "Syphilis spikes 26%...  HIV jumps 16%...",
         "added": "2022-09-19T22:08:02.162745+00:00",
@@ -424,21 +429,6 @@
         "added": "2022-09-19T03:44:45.550103+00:00",
         "description": "Prospect of far-right female premier divides Italian women"
     },
-    "https://www.cnn.com/2022/09/18/politics/biden-pandemic-60-minutes/index.html": {
-        "title": "Declares 'pandemic over'...",
-        "added": "2022-09-19T00:49:53.380199+00:00",
-        "description": "Biden: 'The pandemic is over'"
-    },
-    "https://www.cbsnews.com/news/president-joe-biden-2024-election-60-minutes-2022-09-18/": {
-        "title": "Biden says he hasn't decided on '24 re-election...",
-        "added": "2022-09-19T00:49:53.380199+00:00",
-        "description": "President Biden says he hasn't decided on 2024 re-election run"
-    },
-    "https://news.yahoo.com/biden-says-u-forces-defend-235809541.html": {
-        "title": "Vows U.S. forces will defend Taiwan if Chinese invasion...",
-        "added": "2022-09-19T00:49:53.380199+00:00",
-        "description": "Biden says U.S. forces would defend Taiwan in the event of a Chinese invasion"
-    },
     "https://www.nbcnews.com/think/opinion/king-charles-made-royal-family-richer-england-struggles-rcna48061": {
         "title": "The open secret of King Charles' untold riches...",
         "added": "2022-09-18T10:08:57.181905+00:00",
@@ -448,16 +438,6 @@
         "title": "Prince William Moves Into Spotlight as Heir to Throne...",
         "added": "2022-09-17T13:30:01.202244+00:00",
         "description": "Prince William Moves Into the Spotlight as Heir to the Throne"
-    },
-    "https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072022_5day_cone_no_line_and_wind+png/145158_5day_cone_no_line_and_wind.png": {
-        "title": "CONE...",
-        "added": "2022-09-16T16:11:24.919081+00:00",
-        "description": ""
-    },
-    "https://apps.sfwmd.gov/sfwmd/common/images/weather/plots/storm_07_ens.gif": {
-        "title": "COMPUTER MODELS...",
-        "added": "2022-09-16T16:11:24.919081+00:00",
-        "description": ""
     },
     "https://www3.nhk.or.jp/nhkworld/en/news/": {
         "title": "NHK",
