@@ -1,4 +1,14 @@
 {
+    "https://www.msn.com/en-us/travel/news/these-planes-are-battery-operated-will-that-fly/ar-AA124J6D": {
+        "title": "These planes are battery operated. Will that fly?",
+        "added": "2022-09-21T12:19:05.122287+00:00",
+        "description": "These planes are battery operated. Will that fly?"
+    },
+    "https://www.ansa.it/english/news/2022/09/21/madness-to-think-of-using-nukes-says-pope_9f7dfdec-6827-4232-9906-97f11066453d.html": {
+        "title": "POPE: MADNESS...",
+        "added": "2022-09-21T12:19:05.122287+00:00",
+        "description": "Madness to think of using nukes says pope - English"
+    },
     "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/09/21/china039s-vast-14000-bed-covid-19-isolation-centre-seen-in-drone-footage-report": {
         "title": "China Vast 14,000-Bed Covid Isolation Center Revealed in Drone Footage...",
         "added": "2022-09-21T11:40:35.075749+00:00",
@@ -398,11 +408,6 @@
         "title": "Party suspends candidate over Hitler praise...",
         "added": "2022-09-20T12:19:47.391901+00:00",
         "description": "Italy's frontrunner party suspends candidate over Hitler praise"
-    },
-    "https://finance.yahoo.com/news/fed-set-reveal-pain-coming-110000931.html": {
-        "title": "Fed Set to Reveal 'Pain' Coming in Next Stage of Inflation Fight...",
-        "added": "2022-09-20T11:49:19.174735+00:00",
-        "description": "Fed Set to Reveal \u2018Pain\u2019 Coming in Next Stage of Inflation Fight"
     },
     "https://www.washingtonexaminer.com/news/campaigns/youngkin-tests-political-versatility-2022-travel": {
         "title": "Youngkin tests 2024 with tour of swing states...",
