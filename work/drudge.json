@@ -1,4 +1,14 @@
 {
+    "https://news.yahoo.com/eyeing-victory-italian-rallies-ahead-054508158.html": {
+        "title": "Eyeing victory, Italian right rallies ahead of vote...",
+        "added": "2022-09-22T10:53:34.174700+00:00",
+        "description": "Eyeing victory, Italian right rallies ahead of vote"
+    },
+    "https://apnews.com/article/middle-east-iran-dubai-united-arab-emirates-5897d601151beb0f01353dd83e405d7d": {
+        "title": "Protests Intensify in Iran Over Woman Who Died in Custody...",
+        "added": "2022-09-22T10:53:34.174700+00:00",
+        "description": "At least 9 killed as Iran protests spread over woman's death"
+    },
     "https://www.youtube.com/watch?v=vOV92rd1WFE": {
         "title": "VIDEO: DISCUSSION...",
         "added": "2022-09-22T03:45:37.807468+00:00",
@@ -379,16 +389,6 @@
         "added": "2022-09-21T11:08:21.561302+00:00",
         "description": "Flights out of Russia sell out after Putin orders partial call-up"
     },
-    "https://finance.yahoo.com/news/flights-russia-sell-putin-orders-091352129.html?fr=sycsrp_catchall": {
-        "title": "Flights out of Russia sell out after speech...",
-        "added": "2022-09-21T10:53:25.896696+00:00",
-        "description": "Flights out of Russia sell out after Putin orders partial call-up"
-    },
-    "https://apnews.com/article/floods-storms-hurricanes-bermuda-puerto-rico-e4066589502b4b2a0a441308216c7ed4": {
-        "title": "Hurricane threatens to become Cat 4 headed to Bermuda...",
-        "added": "2022-09-21T10:53:25.896696+00:00",
-        "description": "Fiona threatens to become Category 4 storm headed to Bermuda"
-    },
     "https://www.the-sun.com/news/6267697/putin-addresses-russia-ukraine-invasion/": {
         "title": "MOBILIZES ANOTHER 300,000 TROOPS...",
         "added": "2022-09-21T10:35:07.419389+00:00",
@@ -398,11 +398,6 @@
         "title": "PUTIN THREATENS WEST WITH NUKES...",
         "added": "2022-09-21T10:35:07.419389+00:00",
         "description": "Putin announces 'partial' military mobilisation in Russia"
-    },
-    "https://www.politico.com/news/magazine/2022/09/20/fed-inflation-powell-debt-00057606": {
-        "title": "FED EASY MONEY SPIRALS OUT OF CONTROL",
-        "added": "2022-09-21T05:42:07.182533+00:00",
-        "description": "The Fed Is Getting Even Tougher on Inflation. Here\u2019s What To Watch First."
     },
     "https://www.nasdaq.com/articles/lula-widens-lead-over-bolsonaro-ahead-of-brazilian-vote-poll": {
         "title": "Lula widens lead...",
@@ -414,16 +409,6 @@
         "added": "2022-09-21T05:42:07.182533+00:00",
         "description": "Fed-funds rate could end up as high as 5%, says overseer of $1.3 trillion in assets"
     },
-    "https://www.msn.com/en-us/news/world/un-chief-says-world-is-gridlocked-in-colossal-global-dysfunction/ar-AA123pJB": {
-        "title": "'Colossal global dysfunction'...",
-        "added": "2022-09-21T04:04:58.353290+00:00",
-        "description": "U.N. chief says world is \u2018gridlocked in colossal global dysfunction\u2019"
-    },
-    "https://news.yahoo.com/under-pressure-trump-revives-qanon-014506867.html": {
-        "title": "Under pressure, The Don revives QAnon cult -- around himself...",
-        "added": "2022-09-21T04:04:58.353290+00:00",
-        "description": "Under pressure, Trump revives QAnon cult -- around himself"
-    },
     "https://news.yahoo.com/brazil-more-isolated-four-years-013000147.html": {
         "title": "Brazil more isolated after four years of Bolsonaro...",
         "added": "2022-09-21T04:04:58.353290+00:00",
@@ -433,26 +418,6 @@
         "title": "Gore Says Weather Crisis Is Like 'Hike Through Book of Revelation'...",
         "added": "2022-09-21T04:04:58.353290+00:00",
         "description": "Gore Says Weather Crisis Is Like \u2018Hike Through Book of Revelation\u2019"
-    },
-    "https://apnews.com/article/united-nations-general-assembly-world-in-peril-397d6a04bf2cc49c073d1b1dc6799eeb": {
-        "title": "UN chief: World in great peril...",
-        "added": "2022-09-21T04:04:58.353290+00:00",
-        "description": "'Our world is in peril': At UN, leaders push for solutions"
-    },
-    "http://www.thesmokinggun.com/documents/stupid/chinese-takeout-attack-970615": {
-        "title": "Father, daughter busted in family feud over Chinese takeout...",
-        "added": "2022-09-21T04:04:58.353290+00:00",
-        "description": "Cops: Family Brawled Over Chinese Takeout"
-    },
-    "https://www.mirror.co.uk/news/health/high-tech-face-mask-can-28038772": {
-        "title": "High-tech face mask can detect Virus in 10 minutes...",
-        "added": "2022-09-20T15:55:59.579470+00:00",
-        "description": "High-tech mask can detect Covid in 10 minutes and warn the wearer"
-    },
-    "https://finance.yahoo.com/news/elon-musk-faces-skeptics-tesla-100937921.html": {
-        "title": "Musk faces skeptics as TESLA gets ready to unveil 'Optimus' robot...",
-        "added": "2022-09-20T11:07:52.576783+00:00",
-        "description": "Elon Musk faces skeptics as Tesla gets ready to unveil 'Optimus' robot"
     },
     "https://www3.nhk.or.jp/nhkworld/en/news/": {
         "title": "NHK",
