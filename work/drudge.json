@@ -1,4 +1,14 @@
 {
+    "https://projects.fivethirtyeight.com/2022-election-forecast/senate/arizona/": {
+        "title": "17% chance...",
+        "added": "2022-09-28T23:59:31.716637+00:00",
+        "description": "2022 Senate Election Forecast"
+    },
+    "https://finance.yahoo.com/news/exclusive-brands-blast-twitter-ads-154622788.html": {
+        "title": "Brands blast TWITTER for ads next to child porn accounts...",
+        "added": "2022-09-28T23:59:31.716637+00:00",
+        "description": "Exclusive-Brands blast Twitter for ads next to child pornography accounts"
+    },
     "https://dnyuz.com/2022/09/28/giant-backfire-trumps-demand-for-special-master-is-looking-like-a-mistake/": {
         "title": "Demand for Special Master Looking Like Mistake...",
         "added": "2022-09-28T22:09:11.052617+00:00",
@@ -414,11 +424,6 @@
         "added": "2022-09-28T02:07:17.279762+00:00",
         "description": "Elon Musk and Twitter dig for evidence as trial looms"
     },
-    "https://youtu.be/psxR5JRjCPA": {
-        "title": "TIDBITS VIDEO...",
-        "added": "2022-09-27T19:16:21.599425+00:00",
-        "description": "[Tuesday] Dangerous Hurricane Ian Tracking Toward Florida; Life-Threatening Impacts Likely"
-    },
     "https://www.nbcnews.com/politics/doug-mastriano-said-2019-women-violated-proposed-abortion-ban-charged-rcna49601": {
         "title": "Republican nominee for gov in PA said women who violated abortion ban should be charged with murder...",
         "added": "2022-09-27T17:05:37.144326+00:00",
@@ -437,16 +442,6 @@
     "https://apps.sfwmd.gov/sfwmd/common/images/weather/noaaport/radar_flanim.gif": {
         "title": "RADAR...",
         "added": "2022-09-27T15:47:47.354662+00:00",
-        "description": ""
-    },
-    "https://apnews.com/article/hurricanes-nfl-sports-cuba-storms-7975f44228a6d44a86cb945e856240d8": {
-        "title": "Ian Gains Strength Rapidly...",
-        "added": "2022-09-27T11:31:16.605628+00:00",
-        "description": "Hurricane Ian makes landfall in Cuba en route to Florida"
-    },
-    "https://www.tropicaltidbits.com/storminfo/09L_tracks_latest.png": {
-        "title": "COMPUTER MODELS...",
-        "added": "2022-09-26T03:51:25.829981+00:00",
         "description": ""
     },
     "https://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092022_5day_cone_no_line_and_wind+png/145524_5day_cone_no_line_and_wind.png": {
