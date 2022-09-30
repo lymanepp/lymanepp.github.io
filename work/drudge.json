@@ -1,4 +1,14 @@
 {
+    "https://www.accuweather.com/en/hurricane/ian-bearing-down-on-south-carolina/1255364": {
+        "title": "HURRICANE S CAROLINA",
+        "added": "2022-09-30T12:19:58.401270+00:00",
+        "description": "Ian bearing down on South Carolina"
+    },
+    "https://news.yahoo.com/supreme-court-grapple-race-elections-090022326.html?fr=sycsrp_catchall": {
+        "title": "Supreme Court to grapple with race, elections in new term as battle over abortion lingers...",
+        "added": "2022-09-30T12:19:58.401270+00:00",
+        "description": "Supreme Court to grapple with race, elections in new term as battle over abortion lingers"
+    },
     "https://www.dailymail.co.uk/news/article-11264167/Senior-Apple-exec-fired-TikTok-shows-making-joke-fondling-big-breasted-women.html": {
         "title": "APPLE exec out after breast joke...",
         "added": "2022-09-30T11:49:47.784856+00:00",
@@ -313,26 +323,6 @@
         "title": "SURVEY: Average Person Spends Decade Of Life On 'Autopilot'...",
         "added": "2022-09-29T13:24:07.753137+00:00",
         "description": "Average person spends 4 hours a day -- and a decade of their life -- on \u2018autopilot'"
-    },
-    "https://www.the-sun.com/news/6328425/hurricane-ian-fatalities-winds-florida/": {
-        "title": "Thousands trapped...",
-        "added": "2022-09-29T12:18:27.779429+00:00",
-        "description": "'Hundreds of fatalities' after Hurricane Ian hits Florida with 150mph winds"
-    },
-    "https://www.the-sun.com/health/6325780/antidepressants-risk-of-killer-condition/": {
-        "title": "Taking antidepressants long-term increases risk of heart disease...",
-        "added": "2022-09-29T12:18:27.779429+00:00",
-        "description": "Taking antidepressants long-term \u2018increases your risk of killer condition\u2019"
-    },
-    "https://www.bnnbloomberg.ca/t-rex-skeleton-expected-to-fetch-up-to-25-million-at-auction-1.1825476": {
-        "title": "T-Rex Skeleton Expected to Fetch $25 Million at CHRISTIE'S Auction...",
-        "added": "2022-09-29T12:18:27.779429+00:00",
-        "description": "T-Rex Skeleton Expected to Fetch Up to $25 Million at Auction - BNN Bloomberg"
-    },
-    "https://www.washingtonexaminer.com/news/hurricane-ian-updates-florida-fatalities-hundreds": {
-        "title": "'FATALITIES IN HUNDREDS'",
-        "added": "2022-09-29T11:50:02.706933+00:00",
-        "description": "Hurricane Ian updates: Florida sheriff says 'fatalities are in the hundreds' after monster storm"
     },
     "https://dnyuz.com/2022/09/29/a-notoriously-jinxed-concert-hall-is-reborn-again/": {
         "title": "David Geffen Hall, Notoriously Jinxed, Is Reborn Again...",
