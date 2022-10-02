@@ -1,4 +1,19 @@
 {
+    "https://www.miamiherald.com/news/weather/hurricane/article266697521.html": {
+        "title": "'In panic mode.' Not enough water, food, gas in coastal towns...",
+        "added": "2022-10-02T23:36:28.859553+00:00",
+        "description": "\u2018In panic mode.\u2019 Fear of not enough water, food, gas in Florida\u2019s coastal towns after Ian"
+    },
+    "https://news.yahoo.com/brazil-votes-tense-lula-bolsonaro-051417973.html": {
+        "title": "BRAZIL TENSE",
+        "added": "2022-10-02T23:36:28.859553+00:00",
+        "description": "Brazil faces likely run-off election after Bolsonaro's strong start"
+    },
+    "https://deadline.com/2022/10/bert-fields-memorial-jeffery-katzenberg-tom-cruise-hollywood-lawyer-1235130594/": {
+        "title": "Bert Fields Memorial: Katzenberg, Cruise, Hoffman, More Say Goodbye To Heavyweight Hollywood Lawyer...",
+        "added": "2022-10-02T23:36:28.859553+00:00",
+        "description": "Bert Fields Memorial: Jeffrey Katzenberg, Tom Cruise, Elaine May And Dustin Hoffman Say Goodbye To A Fearless Friend"
+    },
     "https://www.washingtonexaminer.com/news/nfl-legend-terry-bradshaw-beating-two-types-cancer": {
         "title": "Bradshaw reveals he's beating two types of cancer...",
         "added": "2022-10-02T18:41:21.984489+00:00",
@@ -248,11 +263,6 @@
         "title": "Young men disappearing from popular Hawaii trail...",
         "added": "2022-10-01T13:10:23.759662+00:00",
         "description": "The mysterious disappearances on a popular Hawaii trail"
-    },
-    "https://apnews.com/article/hurricanes-floods-suburbs-sarasota-climate-and-environment-131a7ee26b24bcd611b96ada2b9d2a63": {
-        "title": "River flooding menaces inland towns...",
-        "added": "2022-10-01T13:10:23.759662+00:00",
-        "description": "After Ian, river flooding menaces Florida inland towns"
     },
     "https://www.msn.com/en-us/news/technology/elon-musk-said-teslas-ai-robot-optimus-will-eventually-cost-less-than-a-car-and-could-lead-to-a-future-with-no-poverty/ar-AA12sO7m": {
         "title": "Could lead to 'future with no poverty'...",
