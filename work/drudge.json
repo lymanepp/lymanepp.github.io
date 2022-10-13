@@ -1,4 +1,14 @@
 {
+    "https://www.sfgate.com/food/article/san-francisco-most-expensive-burger-17500299.php": {
+        "title": "$30 burger tastes like death of San Fran...",
+        "added": "2022-10-13T17:59:24.110175+00:00",
+        "description": "This $30 burger tastes like the death of San Francisco"
+    },
+    "https://www.cnn.com/2022/10/13/china/china-party-congress-protest-banners-xi-intl-hnk/index.html": {
+        "title": "Rare protest against Xi days before Communist Party congress...",
+        "added": "2022-10-13T17:59:24.110175+00:00",
+        "description": "Rare protest against China's Xi Jinping days before Communist Party congress | CNN"
+    },
     "https://www.star-telegram.com/news/state/texas/article267254132.html": {
         "title": "Meth-filled condoms found in pumpkins at Texas border...",
         "added": "2022-10-13T17:23:13.357673+00:00",
@@ -408,26 +418,6 @@
         "title": "DC cancels gay Superman series as sales fall flat...",
         "added": "2022-10-12T18:17:46.225927+00:00",
         "description": "DC Comics cancels its gay Superman book series after just 18 issues"
-    },
-    "https://www.vice.com/en/article/wxn4bz/india-privatizing-space-isro": {
-        "title": "Bigger, Better, Cheaper: How India Building Private Space Empire...",
-        "added": "2022-10-12T17:54:49.856321+00:00",
-        "description": "Bigger, Better, Cheaper: How India Is Building a Private Empire in Space"
-    },
-    "https://www.politico.com/news/2022/10/11/railroad-workers-rejection-contracts-strike-00061285": {
-        "title": "Railroad workers' rejection of new contracts revives strike fears...",
-        "added": "2022-10-12T17:54:49.856321+00:00",
-        "description": "\u2018Dubious at best\u2019: Railroad workers\u2019 rejection of new contracts revives strike fears"
-    },
-    "https://www.france24.com/en/live-news/20221012-sentient-brain-cells-in-dish-learn-to-play-video-game-study": {
-        "title": "'Sentient' brain cells in dish learn to play video game...",
-        "added": "2022-10-12T17:54:49.856321+00:00",
-        "description": "'Sentient' brain cells in dish learn to play video game: study"
-    },
-    "https://nypost.com/2022/10/12/steve-wynn-defeats-feds-lawsuit-over-chinese-agent-claims/": {
-        "title": "Wynn beats feds' suit over Chinese agent claims...",
-        "added": "2022-10-12T17:54:49.856321+00:00",
-        "description": "Casino tycoon Steve Wynn beats feds\u2019 lawsuit over Chinese agent claims"
     },
     "https://www.marketwatch.com/story/wall-streets-fear-gauge-is-flashing-a-warning-that-stocks-could-be-about-to-fall-off-a-cliff-11665586891": {
         "title": "Wall Street's 'fear gauge' flashes another warning...",
