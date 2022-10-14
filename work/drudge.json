@@ -1,4 +1,14 @@
 {
+    "https://www.msn.com/en-us/news/world/russias-airstrikes-intended-to-show-force-reveal-another-weakness/ar-AA12WCXa": {
+        "title": "Moscow airstrikes, intended to show force, reveal another weakness...",
+        "added": "2022-10-14T10:46:59.524770+00:00",
+        "description": "Russia\u2019s airstrikes, intended to show force, reveal another weakness"
+    },
+    "https://news.yahoo.com/bbc-marks-100-years-facing-050803771.html": {
+        "title": "BBC marks 100 years facing questions about its future...",
+        "added": "2022-10-14T10:46:59.524770+00:00",
+        "description": "BBC marks 100 years facing questions about its future"
+    },
     "https://www.todayonline.com/world/malign-influence-chinas-cultural-institutes-under-growing-scrutiny-2013886": {
         "title": "Cultural institutes under growing scrutiny...",
         "added": "2022-10-14T04:32:36.565799+00:00",
@@ -413,36 +423,6 @@
         "title": "The Nap Bishop Is Spreading the Good Word: Rest...",
         "added": "2022-10-13T10:57:29.378616+00:00",
         "description": "The Nap Bishop Is Spreading the Good Word: Rest"
-    },
-    "https://finance.yahoo.com/news/bitcoin-becoming-less-volatile-stocks-070000536.html": {
-        "title": "Bitcoin Becoming Less Volatile Than Stocks Raises Flag...",
-        "added": "2022-10-13T10:40:53.334256+00:00",
-        "description": "Bitcoin Becoming Less Volatile Than Stocks Raises Warning Flag"
-    },
-    "https://dnyuz.com/2022/10/13/in-utah-a-trump-loyalist-sends-an-s-o-s-to-romney-of-all-people/": {
-        "title": "In Utah, Trump Loyalist Sends SOS to Romney, of All People...",
-        "added": "2022-10-13T10:40:53.334256+00:00",
-        "description": "In Utah, a Trump Loyalist Sends an S.O.S. to Romney, of All People"
-    },
-    "https://www.sandiegouniontribune.com/news/military/story/2022-10-12/navy-seal-leaders-reprimanded-in-wake-of-trainee-death": {
-        "title": "Navy SEAL leaders reprimanded in wake of trainee death...",
-        "added": "2022-10-13T03:56:59.674534+00:00",
-        "description": "Navy SEAL leaders reprimanded in wake of trainee death"
-    },
-    "https://www.ibtimes.com/wildlife-populations-plunge-69-since-1970-wwf-3623351": {
-        "title": "Wild Animal Populations Have Declined 69% in 50 Years, Says WWF...",
-        "added": "2022-10-13T03:56:59.674534+00:00",
-        "description": "Wildlife Populations Plunge 69% Since 1970: WWF"
-    },
-    "https://www.fox5ny.com/news/tourist-kidnapped-mexico-left-for-dead": {
-        "title": "American tourist kidnapped in Mexico, has foot hacked with machete...",
-        "added": "2022-10-13T03:56:59.674534+00:00",
-        "description": "Tourist kidnapped in Mexico had foot hacked with machete before being left for dead"
-    },
-    "https://nypost.com/2022/10/12/el-paso-launches-online-dashboard-to-track-migrant-crisis/": {
-        "title": "El Paso launches online dashboard that shows stunning scope of migration...",
-        "added": "2022-10-13T03:56:59.674534+00:00",
-        "description": "El Paso launches online dashboard to track ongoing migrant crisis"
     },
     "https://showbuzzdaily.com/": {
         "title": "TV RATINGS",
