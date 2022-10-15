@@ -1,4 +1,34 @@
 {
+    "https://www.msn.com/en-us/news/world/russia-s-airstrikes-intended-to-show-force-reveal-another-weakness/ar-AA12WCXa": {
+        "title": "Russia facing low stocks of weapons...",
+        "added": "2022-10-15T01:18:13.545141+00:00",
+        "description": "Russia\u2019s airstrikes, intended to show force, reveal another weakness"
+    },
+    "https://www.msn.com/en-us/news/us/lgbtq-bill-on-child-abuse-creates-uproar-in-virginia-and-beyond/ar-AA12YEJr": {
+        "title": "LGBTQ bill on child abuse creates uproar in Virginia and beyond...",
+        "added": "2022-10-15T01:18:13.545141+00:00",
+        "description": "LGBTQ bill on child abuse creates uproar in Virginia and beyond"
+    },
+    "https://www.msn.com/en-us/news/us/hour-by-hour-analysis-shows-toll-of-countys-delay-before-hurricane-ian/ar-AA12XYXz": {
+        "title": "CHAOS IN FLORIDA:  Hour-by-hour analysis shows toll of county's delay before Hurricane Ian...",
+        "added": "2022-10-15T01:18:13.545141+00:00",
+        "description": "Hour-by-hour analysis shows toll of county\u2019s delay before Hurricane Ian"
+    },
+    "https://www.msn.com/en-us/news/politics/newspapers-with-a-partisan-aim-filling-the-void-of-traditional-media/ar-AA12YCGG": {
+        "title": "Newspapers with partisan aim filling void of traditional media...",
+        "added": "2022-10-15T01:18:13.545141+00:00",
+        "description": "Newspapers with a partisan aim filling the void of traditional media"
+    },
+    "https://www.marketwatch.com/story/one-chart-reveals-how-sellers-are-adjusting-to-higher-mortgage-rates-by-slashing-home-prices-11665774148": {
+        "title": "Dramatic chart reveals U-turn in housing market; Sellers slash prices...",
+        "added": "2022-10-15T01:18:13.545141+00:00",
+        "description": "'We're seeing buyers backing out': This dramatic chart reveals U-turn in the housing market as sellers slash home prices"
+    },
+    "https://projects.fivethirtyeight.com/2022-election-forecast/senate/": {
+        "title": "ODDS:  DEMS 65% CHANCE TO CONTROL SENATE...",
+        "added": "2022-10-15T01:18:13.545141+00:00",
+        "description": "2022 Senate Election Forecast"
+    },
     "https://apnews.com/article/science-hawaii-earthquakes-mauna-loa-climate-and-environment-3ff2b8d0cc7f8e0a17c9a5a3c1a32fe3": {
         "title": "5.1 mag quake hits during Hawaii volcano unrest...",
         "added": "2022-10-14T22:09:33.602026+00:00",
@@ -349,40 +379,10 @@
         "added": "2022-10-14T02:25:46.864476+00:00",
         "description": "Secret Service knew of Capitol threat more than a week before Jan. 6"
     },
-    "https://www.politico.eu/article/france-emmanuel-macron-nuclear-attack-russia-ukraine/": {
-        "title": "Macron under fire for saying France wouldn't respond in kind...",
-        "added": "2022-10-13T23:59:48.207639+00:00",
-        "description": "Macron under fire for saying France wouldn\u2019t respond in kind if Russia launched nuclear attack on Ukraine"
-    },
-    "https://dnyuz.com/2022/10/13/texts-show-oath-keepers-coordinated-with-other-far-right-groups/": {
-        "title": "Texts Show Oath Keepers Coordinated With Other Far-Right Groups...",
-        "added": "2022-10-13T23:59:48.207639+00:00",
-        "description": "Texts Show Oath Keepers Coordinated With Other Far-Right Groups"
-    },
     "https://www.msn.com/en-us/news/politics/key-mar-a-lago-witness-said-to-be-former-white-house-employee/ar-AA12W6eV": {
         "title": "Key Mar-a-Lago witness a former White House employee; Navy veteran... Developing...",
         "added": "2022-10-13T23:43:13.295324+00:00",
         "description": "Key Mar-a-Lago witness said to be former White House employee"
-    },
-    "https://www.msn.com/en-us/news/politics/trump-s-fast-growing-obstruction-of-justice-problem/ar-AA12VgWK": {
-        "title": "Fast-growing obstruction problem...",
-        "added": "2022-10-13T23:13:04.749608+00:00",
-        "description": "Trump\u2019s fast-growing obstruction of justice problem"
-    },
-    "https://www.tmz.com/2022/10/13/kanye-west-bank-jp-morgan-end-relationship-anti-semitic/": {
-        "title": "YE V. JEWS:  JPMorgan Actually Cut Rapper BEFORE Antisemitic Tweets...",
-        "added": "2022-10-13T22:55:41.971661+00:00",
-        "description": "Kanye West's Bank Cut Ties with Him Prior to Anti-Semitic Rants"
-    },
-    "https://www.motherjones.com/politics/2022/10/january-6-committee-trump-falsely-declare-victory/": {
-        "title": "BANNON AUDIO BOMBSHELL",
-        "added": "2022-10-13T22:55:41.971661+00:00",
-        "description": "New evidence shows how Trump planned to falsely declare victory and steal the election"
-    },
-    "https://finance.yahoo.com/news/elon-musk-under-federal-investigation-224642540.html": {
-        "title": "Musk under federal investigation tied to TWITTER deal...",
-        "added": "2022-10-13T22:55:41.971661+00:00",
-        "description": "Elon Musk under federal investigation tied to Twitter deal -Twitter court filing"
     },
     "https://twitter.com/ZevShalev": {
         "title": "ZEV SHALEV",
@@ -478,11 +478,6 @@
         "title": "NEW REPUBLIC",
         "added": "2022-05-03T19:19:16.303374+00:00",
         "description": "Founded in 1914, The New Republic is a media organization dedicated to addressing today\u2019s most critical issues."
-    },
-    "http://www.telegraph.co.uk/": {
-        "title": "[UK] TELEGRAPH",
-        "added": "2022-05-03T19:19:16.303374+00:00",
-        "description": "Latest news, business, sport, comment, lifestyle and culture from the Daily Telegraph and Sunday Telegraph newspapers and video from Telegraph TV."
     },
     "http://www.suntimes.com/": {
         "title": "CHICAGO SUN-TIMES",
@@ -813,11 +808,6 @@
         "title": "BE SEEN! RUN ADS ON DRUDGE REPORT...",
         "added": "2021-04-10T16:28:41.631617+00:00",
         "description": ""
-    },
-    "https://www.the-sun.com/": {
-        "title": "SUN",
-        "added": "2021-01-17T19:05:32.742473+00:00",
-        "description": "The Best for News, Sport, Entertainment, Celebrities"
     },
     "https://www.nytimes.com/column/charles-m-blow": {
         "title": "CHARLES BLOW",
