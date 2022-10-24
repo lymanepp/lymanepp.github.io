@@ -1,4 +1,24 @@
 {
+    "https://www.the-sun.com/news/6512980/rishi-sunak-is-britains-new-prime-minister/": {
+        "title": "RISHI UK'S NEXT PM",
+        "added": "2022-10-24T13:27:19.098816+00:00",
+        "description": "Rishi Sunak is Britain's next Prime Minister after Penny Mordaunt drops out"
+    },
+    "https://www.msn.com/en-us/news/world/richer-than-the-royals-win-puts-rishi-sunak-s-wealth-in-the-spotlight/ar-AA13jslq": {
+        "title": "RICHER THAN ROYALS!",
+        "added": "2022-10-24T13:27:19.098816+00:00",
+        "description": "Richer than the royals: Win puts Rishi Sunak\u2019s wealth in the spotlight"
+    },
+    "https://thehill.com/opinion/international/3699640-why-russias-strategic-defeat-is-in-the-cards/": {
+        "title": "Why Russia's strategic defeat in the cards...",
+        "added": "2022-10-24T13:27:19.098816+00:00",
+        "description": "Why Russia\u2019s strategic defeat is in the cards"
+    },
+    "https://apnews.com/article/british-politics-rishi-sunak-penny-mordaunt-europe-london-8e621dc1a9415eedc080cdfbd2d41754": {
+        "title": "FIRST LEADER OF COLOR",
+        "added": "2022-10-24T13:27:19.098816+00:00",
+        "description": "Rishi Sunak to become Britain's next prime minister"
+    },
     "https://www.washingtonexaminer.com/policy/defense-national-security/britain-france-and-us-reject-russian-accusation-that-ukraine-preparing-to-use-a-dirty-bomb-as-transparently-false": {
         "title": "Russia dirty bomb 'false flag'...",
         "added": "2022-10-24T11:52:35.910919+00:00",
@@ -184,16 +204,6 @@
         "added": "2022-10-23T13:53:55.378582+00:00",
         "description": "\u2018Dr. Doom\u2019 predicts NYC destroyed by nukes, storms in next 20 years"
     },
-    "https://www.usnews.com/news/world/articles/2022-10-23/russias-shoigu-warns-of-uncontrolled-escalation-in-ukraine-conflict": {
-        "title": "Russia Warns of 'Uncontrolled Escalation', 'Dirty Bomb'...",
-        "added": "2022-10-23T13:11:33.035514+00:00",
-        "description": "Russia's Shoigu Warns of 'Uncontrolled Escalation' in Ukraine Conflict"
-    },
-    "https://www.theguardian.com/books/2022/oct/23/salman-rushdie-has-lost-sight-in-one-eye-and-use-of-one-hand-says-agent": {
-        "title": "Rushdie lost sight in eye, use of hand...",
-        "added": "2022-10-23T13:11:33.035514+00:00",
-        "description": "Salman Rushdie has lost sight in one eye and use of one hand, says agent"
-    },
     "https://www.nbcnews.com/meet-the-press/first-read/anger-minds-nbc-news-poll-finds-sky-high-interest-polarization-ahead-m-rcna53512": {
         "title": "Election enthusiasm, polarization hit new highs...",
         "added": "2022-10-23T13:11:33.035514+00:00",
@@ -203,16 +213,6 @@
         "title": "Dems fear midterm map slipping away...",
         "added": "2022-10-23T13:11:33.035514+00:00",
         "description": "Democrats fear the midterm map is slipping away"
-    },
-    "https://www.cnbc.com/2022/10/23/chinas-leadership-reshuffle-puts-greater-weight-on-relations-with-the-us-.html": {
-        "title": "Leadership reshuffle puts greater weight on relations with USA...",
-        "added": "2022-10-23T13:11:33.035514+00:00",
-        "description": "China's leadership reshuffle puts greater weight on relations with the U.S."
-    },
-    "https://studyfinds.org/ufo-sightings-usa-most-reports/": {
-        "title": "LIST: Idaho, NH States WIth Most UFO Sightings...",
-        "added": "2022-10-23T13:11:33.035514+00:00",
-        "description": "UFO sightings in America: Report reveals which states have most 'alien' encounters"
     },
     "https://www.dailymail.co.uk/news/article-11343917/Conscripts-drafted-Ukraine-war-threaten-topple-Russian-regime-failing-invasion.html": {
         "title": "Mutiny in Russian ranks? Conscripts 'threaten to topple regime'...",
@@ -224,20 +224,10 @@
         "added": "2022-10-23T09:57:01.159733+00:00",
         "description": "As Elon Musk expands his reach, Washington worries"
     },
-    "https://www.msn.com/en-us/news/politics/trump-mar-a-lago-probe-proceeds-on-two-tracks-one-public-one-private/ar-AA13fDx2": {
-        "title": "Mar-a-Lago probe proceeds on two tracks: One public, one private...",
-        "added": "2022-10-22T16:16:17.937535+00:00",
-        "description": "Trump Mar-a-Lago probe proceeds on two tracks: One public, one private"
-    },
     "https://www.cbsnews.com/news/home-prices-for-2023-mortgage-rates/": {
         "title": "Home values could fall as much as 20% next year...",
         "added": "2022-10-22T14:53:05.452934+00:00",
         "description": "U.S. home prices could fall as much as 20% next year"
-    },
-    "https://www.cnn.com/2022/10/22/weather/mississippi-river-low-level-drought-climate/index.html": {
-        "title": "Image shows stretches of Mississippi river almost completely dried up...",
-        "added": "2022-10-22T14:35:03.746030+00:00",
-        "description": "Before and after: See how the Mississippi River and its tributaries have dropped to record lows | CNN"
     },
     "https://finance.yahoo.com/news/wall-street-warns-trouble-brewing-183948865.html": {
         "title": "Wall St Warns of Trouble Brewing in Auto Loans as Prices Dip...",
