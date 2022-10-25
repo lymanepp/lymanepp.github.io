@@ -1,4 +1,14 @@
 {
+    "https://www.nbcbayarea.com/news/local/earthquakes/earthquake-bay-area/3043156/": {
+        "title": "'Sound was thunderous'...",
+        "added": "2022-10-25T20:57:04.996355+00:00",
+        "description": "5.1 Magnitude Earthquake Strikes Near San Jose"
+    },
+    "https://nypost.com/2022/10/25/nyc-cracks-down-on-casino-like-gaming-in-chinatown-park/": {
+        "title": "NYC cracks down on casino-like gaming in Chinatown...",
+        "added": "2022-10-25T20:57:04.996355+00:00",
+        "description": "All bets are off: NYC cracks down on casino-like gaming in Chinatown park"
+    },
     "https://www.cnbc.com/2022/10/25/alphabet-googl-q3-2022-earnings-.html": {
         "title": "YOUTUBE ad revenue drops...",
         "added": "2022-10-25T20:41:29.767909+00:00",
@@ -418,11 +428,6 @@
         "title": "Ex-US diplomat jailed in Russia for 'smuggling weed in contacts'...",
         "added": "2022-10-24T21:12:07.685332+00:00",
         "description": "EXCLUSIVE: Ex-US diplomat in Russia is moved to secret penal colony"
-    },
-    "https://www.sfgate.com/realestate/article/sf-office-vacancy-rate-rising-17520290.php": {
-        "title": "Neighborhood in SF has half its office space empty...",
-        "added": "2022-10-24T20:55:55.409868+00:00",
-        "description": "There are more than 20 Salesforce Towers worth of office space available in SF"
     },
     "https://twitter.com/ZevShalev": {
         "title": "ZEV SHALEV",
