@@ -1,4 +1,9 @@
 {
+    "https://projects.fivethirtyeight.com/2022-election-forecast/senate/": {
+        "title": "SENATE TURNS DEAD HEAT!",
+        "added": "2022-10-26T15:33:43.022050+00:00",
+        "description": "2022 Senate Election Forecast"
+    },
     "https://dnyuz.com/2022/10/25/how-terrifier-2-slashed-its-way-to-box-office-success/": {
         "title": "How 'TERRIFIER 2' Slashed Its Way to Box Office Success...",
         "added": "2022-10-26T15:09:32.521294+00:00",
@@ -373,16 +378,6 @@
         "title": "It rains mud in Minnesota!",
         "added": "2022-10-25T15:46:27.430020+00:00",
         "description": "It rained mud in Minnesota. Here's why."
-    },
-    "https://www.france24.com/en/live-news/20221025-iran-tensions-mount-as-students-protest-ahead-of-mahsa-amini-ceremony": {
-        "title": "Iran tensions mount as students protest ahead of Mahsa Amini ceremony...",
-        "added": "2022-10-25T15:14:52.987688+00:00",
-        "description": "Iran tensions mount as students protest ahead of Mahsa Amini ceremony"
-    },
-    "https://thehill.com/homenews/media/3702935-trump-discussed-nuclear-weapon-systems-with-woodward/": {
-        "title": "Ex-president discussed nuke weapon systems with Woodward...",
-        "added": "2022-10-25T15:14:52.987688+00:00",
-        "description": "Trump discussed nuclear weapon systems with Woodward"
     },
     "https://fivethirtyeight.com/features/most-candidates-who-think-2020-was-rigged-was-are-probably-going-to-win-in-november/": {
         "title": "Most Candidates Who Think '20 Was Rigged Are Going To 'Win' In November...",
