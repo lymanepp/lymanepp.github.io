@@ -1,4 +1,54 @@
 {
+    "https://www.washingtonexaminer.com/news/david-depape-qanon-trump-paul-pelosi-attack": {
+        "title": "The QANON posts...",
+        "added": "2022-10-29T12:55:55.922010+00:00",
+        "description": "Paul Pelosi attacker David DePape posted about QAnon conspiracy theories ahead of assault"
+    },
+    "https://www.washingtonexaminer.com/news/campaigns/trump-desantis-2024-tensions-rallies": {
+        "title": "Simmering DeSantis-Trump feud set to explode after rally snub?",
+        "added": "2022-10-29T12:55:55.922010+00:00",
+        "description": "The battle of Ron and Don: Simmering DeSantis-Trump feud set to explode after rally snub"
+    },
+    "https://www.straitstimes.com/world/united-states/elon-musks-twitter-roils-with-hate-speech-as-trolls-test-new-limits": {
+        "title": "Platform Roils With Hate Speech as Trolls Test New Limits...",
+        "added": "2022-10-29T12:55:55.922010+00:00",
+        "description": "Elon Musk's Twitter roils with hate speech as trolls test new limits"
+    },
+    "https://thehill.com/homenews/campaign/3709651-midterms-could-cement-floridas-status-as-a-red-state/": {
+        "title": "Midterms could cement Florida status as red state...",
+        "added": "2022-10-29T12:55:55.922010+00:00",
+        "description": "Midterms could cement Florida\u2019s status as a red state"
+    },
+    "https://news.yahoo.com/irans-guards-head-tells-protesters-091808557.html": {
+        "title": "Iran's Guards head warns protesters: 'Today is last day of riots'...",
+        "added": "2022-10-29T12:55:55.922010+00:00",
+        "description": "Iran's Guards head warns protesters: 'Today is last day of riots'"
+    },
+    "https://dnyuz.com/2022/10/29/ryan-murphy-is-having-a-very-happy-halloween/": {
+        "title": "Ryan Murphy Having Very Happy Halloween...",
+        "added": "2022-10-29T12:55:55.922010+00:00",
+        "description": "Ryan Murphy Is Having a Very Happy Halloween"
+    },
+    "https://dnyuz.com/2022/10/29/house-hunting-on-mars-has-already-started/": {
+        "title": "House-Hunting on Mars Has Already Started...",
+        "added": "2022-10-29T12:55:55.922010+00:00",
+        "description": "House-Hunting on Mars Has Already Started"
+    },
+    "https://dnyuz.com/2022/10/29/arab-israelis-could-block-netanyahus-return-heres-why-they-might-stay-home-instead/": {
+        "title": "Arab Israelis Could Block Netanyahu Return...",
+        "added": "2022-10-29T12:55:55.922010+00:00",
+        "description": "Arab Israelis Could Block Netanyahu\u2019s Return. Here\u2019s Why They Might Stay Home Instead"
+    },
+    "https://dnyuz.com/2022/10/29/an-army-of-volunteer-sleuths-are-out-hunting-for-your-stolen-car/": {
+        "title": "Army of Volunteer Sleuths Out Hunting for Stolen Cars...",
+        "added": "2022-10-29T12:55:55.922010+00:00",
+        "description": "An \u2018Army\u2019 of Volunteer Sleuths Are Out Hunting for Your Stolen Car"
+    },
+    "https://apnews.com/article/donald-trump-san-francisco-nancy-pelosi-congress-government-and-politics-b8a3fb8b3e6f491fcfb16e155b877427": {
+        "title": "Pelosi attack highlights rising threats to lawmakers...",
+        "added": "2022-10-29T12:55:55.922010+00:00",
+        "description": "Paul Pelosi attack highlights rising threats to lawmakers"
+    },
     "https://www.thesun.co.uk/news/20261070/chinas-lockdown-fights-iphone-factory/": {
         "title": "Fights at world's biggest iPhone factory...",
         "added": "2022-10-29T12:15:08.818283+00:00",
@@ -288,26 +338,6 @@
         "title": "Brady on first 3-game losing streak in 20 years!",
         "added": "2022-10-28T11:08:15.995853+00:00",
         "description": "Tom Brady on first 3-game losing streak in 20 years after Buccaneers fall to Ravens"
-    },
-    "https://apnews.com/article/2022-midterm-elections-ohio-donald-trump-c1549f5176a2f207ddffaf29dfc99a32": {
-        "title": "Republican wave tested by competitive race in Ohio...",
-        "added": "2022-10-28T11:08:15.995853+00:00",
-        "description": "Republican wave tested by competitive Senate race in Ohio"
-    },
-    "https://www.timesleader.com/news/1582345/waiting-on-pennsylvania-why-the-us-senate-race-may-drag-past-election-night": {
-        "title": "'Waiting on Pennsylvania': Why Senate race may drag past Election night...",
-        "added": "2022-10-28T10:51:47.348812+00:00",
-        "description": "\u2018Waiting on Pennsylvania\u2019: Why the US Senate race may drag past Election night | Times Leader"
-    },
-    "https://www.msn.com/en-us/weather/topstories/california-tree-carnage-a-decade-of-drought-and-fire-killed-a-third-of-sierra-nevada-forests/ar-AA13rJWB": {
-        "title": "CA tree carnage: Decade of drought and fire killed third of Sierra Nevada forests...",
-        "added": "2022-10-28T10:51:47.348812+00:00",
-        "description": "California tree carnage: A decade of drought and fire killed a third of Sierra Nevada forests"
-    },
-    "https://www.msn.com/en-us/news/politics/masked-poll-watchers-are-showing-up-at-voting-sites-with-handguns-and-kevlar-vests/ar-AA13sdyQ": {
-        "title": "Poll watchers showing up at voting sites wearing tactical military gear...",
-        "added": "2022-10-28T10:51:47.348812+00:00",
-        "description": "Masked poll watchers are showing up at voting sites with handguns and Kevlar vests"
     },
     "https://www.dailymail.co.uk/news/article-11363659/Done-deal-Elon-Musk-formally-takes-Twitter-fires-executives.html": {
         "title": "Trump reinstated? Elon to reverse lifetime bans...",
