@@ -1,4 +1,19 @@
 {
+    "https://www.google.com/search?q=brazil+election+results": {
+        "title": "FINAL:  50.8% 49.2%",
+        "added": "2022-10-30T23:08:57.289743+00:00",
+        "description": ""
+    },
+    "https://www.cbsnews.com/news/poll-republicans-lead-house-2022-10-30/": {
+        "title": "CBSNEWS:  REPUBLICANS SET TO TAKE HOUSE...",
+        "added": "2022-10-30T23:08:57.289743+00:00",
+        "description": "Republicans head into final week with lead in seats, voters feel things are \"out of control\" \u2014 CBS News Battleground Tracker poll"
+    },
+    "https://projects.fivethirtyeight.com/2022-election-forecast/senate/": {
+        "title": "SENATE DEAD HEAT...",
+        "added": "2022-10-30T23:08:57.289743+00:00",
+        "description": "2022 Senate Election Forecast"
+    },
     "https://www.msn.com/en-us/news/world/police-accused-of-suppressing-lula-vote-in-brazil-election/ar-AA13y5Hp": {
         "title": "DRAMA:  Police accused of suppressing Lula vote in Brazil election...",
         "added": "2022-10-30T22:48:52.279270+00:00",
@@ -248,11 +263,6 @@
         "title": "Is Trump The Christ?",
         "added": "2022-10-30T03:16:30.281437+00:00",
         "description": "Is Donald Trump The Christ?"
-    },
-    "https://www.thesun.co.uk/news/20263434/south-korea-halloween-revellers-cardiac-arrest-stampede/": {
-        "title": "HORROR: Stampede at Seoul Halloween event kills at least 120, injures 100 more...",
-        "added": "2022-10-29T18:10:08.294179+00:00",
-        "description": "At least 120 Halloween revellers crushed to death in horror stampede"
     },
     "https://nypost.com/2022/10/29/paul-pelosi-attacker-david-depape-sexually-abused-his-kids-stepdaughter/": {
         "title": "Sordid past of assailant...",
