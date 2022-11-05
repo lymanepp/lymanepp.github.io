@@ -1,4 +1,14 @@
 {
+    "https://www.axios.com/2022/11/05/fastest-growing-cities-us": {
+        "title": "America's 10 fastest-growing population centers...",
+        "added": "2022-11-05T15:40:18.478843+00:00",
+        "description": "These are America's fastest-growing cities"
+    },
+    "https://nymag.com/intelligencer/2022/11/the-people-fleeing-austin-because-texas-is-too-conservative.html": {
+        "title": "Progressives Fleeing Austin Because TX Too Conservative...",
+        "added": "2022-11-05T15:40:18.478843+00:00",
+        "description": "The People Fleeing Austin Because Texas Is Too Conservative"
+    },
     "https://www.msn.com/en-us/sports/nfl/why-is-there-so-much-bad-football-in-the-nfl/ar-AA13M0kL": {
         "title": "Why is there so much bad football in NFL?",
         "added": "2022-11-05T15:29:12.261162+00:00",
@@ -238,11 +248,6 @@
         "title": "Musk Blames 'Activist Groups' for 'Massive Drop in Revenue' at Social...",
         "added": "2022-11-04T15:34:21.361501+00:00",
         "description": "Elon Musk Blames \u2018Activist Groups\u2019 for \u2018Massive Drop in Revenue\u2019 Just One Week After Buying Twitter"
-    },
-    "https://nypost.com/2022/11/04/twitter-sued-over-elon-musks-plan-for-mass-layoffs/": {
-        "title": "Platform Sued for Mass Layoffs...",
-        "added": "2022-11-04T15:34:21.361501+00:00",
-        "description": "Twitter sued over Elon Musk\u2019s layoff plan as thousands of workers locked out of building, email"
     },
     "https://www.msn.com/en-us/news/politics/kari-lakes-election-denial-in-arizona-could-shape-2024-election/ar-AA13Jo0y": {
         "title": "Kari Lake Election Denial Could Shape 2024...",
