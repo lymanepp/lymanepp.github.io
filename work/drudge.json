@@ -1,4 +1,9 @@
 {
+    "https://finance.yahoo.com/quote/BTC-USD": {
+        "title": "BTC TANKS...",
+        "added": "2022-11-08T19:04:39.862214+00:00",
+        "description": "Bitcoin USD (BTC-USD) Price, Value, News & History - Yahoo Finance"
+    },
     "https://www.vice.com/en/article/93am9z/massive-crypto-exchange-ftx-faces-significant-liquidity-crunch-will-sell-to-binance": {
         "title": "Sam Bankman-Fried Gets Desperate...",
         "added": "2022-11-08T18:43:58.143661+00:00",
@@ -368,16 +373,6 @@
         "title": "Voting Issues on Ballot. Abortion and Firearms, Too...",
         "added": "2022-11-07T19:23:29.336630+00:00",
         "description": "Across the Country, Voting Issues Are on the Ballot. Abortion and Guns Are, Too."
-    },
-    "https://www.vulture.com/2022/11/jamie-spears-britney-spears-conservatorship.html": {
-        "title": "House of Spears: What possessed Britney's dad to seize control?",
-        "added": "2022-11-07T18:52:48.629281+00:00",
-        "description": "House of Spears"
-    },
-    "https://studyfinds.org/americans-afford-thanksgiving/": {
-        "title": "1 In 4 Skipping Thanksgiving...",
-        "added": "2022-11-07T18:52:48.629281+00:00",
-        "description": "Holiday hardship: 1 in 4 Americans can only afford to spend $100 on Thanksgiving"
     },
     "https://www.tropicaltidbits.com/storminfo/17L_tracks_latest.png": {
         "title": "COMPUTER MODELS",
