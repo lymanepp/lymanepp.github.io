@@ -1,4 +1,79 @@
 {
+    "https://www.washingtonexaminer.com/news/campaigns/judge-rejects-gop-polling-hours-maricopa-county-arizona": {
+        "title": "JUDGE REJECTS REPUBLICAN APPEAL TO EXTEND AZ VOTING HOURS...",
+        "added": "2022-11-09T02:55:00.829825+00:00",
+        "description": "Judge rejects GOP bid to extend polling hours in Maricopa County, Arizona"
+    },
+    "https://www.politico.com/2022-election/results/": {
+        "title": "POLITICO...",
+        "added": "2022-11-09T02:55:00.829825+00:00",
+        "description": "Election Results 2022: Live Map | Midterm Races by State"
+    },
+    "https://www.nytimes.com/": {
+        "title": "NYT...",
+        "added": "2022-11-09T02:55:00.829825+00:00",
+        "description": "The New York Times - Breaking News, US News, World News and Videos"
+    },
+    "https://www.nbcnews.com/politics/2022-election/gov-ron-desantis-cruises-re-election-solidifying-gop-hold-florida-poli-rcna56196": {
+        "title": "DESANTIS AND RUBIO BIG WINS, SOLIDIFYING HOLD ON FLORIDA POLITICS...",
+        "added": "2022-11-09T02:55:00.829825+00:00",
+        "description": "Gov. Ron DeSantis cruises to re-election, solidifying GOP hold on Florida politics"
+    },
+    "https://www.nbcnews.com/nbc-out/out-politics-and-policy/massachusetts-maura-healey-rcna55236": {
+        "title": "MA elects nation's first openly lesbian governor...",
+        "added": "2022-11-09T02:55:00.829825+00:00",
+        "description": "Maura Healey wins Massachusetts governor's race, NBC News projects, as the first lesbian elected to lead a state"
+    },
+    "https://www.mediaite.com/politics/ron-desantis-delivers-raucous-victory-speech-as-crowd-chants-demand-for-2024-presidential-run/": {
+        "title": "Ron Raucous Victory Speech...",
+        "added": "2022-11-09T02:55:00.829825+00:00",
+        "description": "Ron DeSantis Delivers Raucous Victory Speech as Crowd Chants Demand For 2024 Presidential Run"
+    },
+    "https://www.fox5ny.com/news/tsa-finds-gun-raw-chicken": {
+        "title": "Traveler tries to smuggle gun onto plane inside raw chicken...",
+        "added": "2022-11-09T02:55:00.829825+00:00",
+        "description": "TSA agents find gun smuggled inside raw chicken"
+    },
+    "https://www.cnn.com/election/2022/results/wisconsin/senate": {
+        "title": "WI...",
+        "added": "2022-11-09T02:55:00.829825+00:00",
+        "description": "Wisconsin Senate Midterm Election Results and Maps 2022 | CNN Politics"
+    },
+    "https://www.cnbc.com/2022/11/08/elon-musk-sells-at-least-3point95-billion-worth-of-tesla-shares.html": {
+        "title": "Musk Cashes $4 BILLION More Out of TESLA...",
+        "added": "2022-11-09T02:55:00.829825+00:00",
+        "description": "Elon Musk sells at least $3.95 billion worth of Tesla shares after Twitter deal"
+    },
+    "https://www.axios.com/2022/11/09/election-deniers-ballot-trump-midterm-elections": {
+        "title": "RESULTS:  How election deniers are faring in key races...",
+        "added": "2022-11-09T02:55:00.829825+00:00",
+        "description": "Here's how election deniers have fared in key midterm races"
+    },
+    "https://news.yahoo.com/divided-america-awaits-verdict-biden-050914230.html": {
+        "title": "DIVIDED AMERICA:  VERDICT",
+        "added": "2022-11-09T02:55:00.829825+00:00",
+        "description": "Divided America awaits verdict on Biden"
+    },
+    "https://newrepublic.com/post/168631/maxwell-frost-wins-becomes-first-gen-z-afro-cuban-member-congress-florida": {
+        "title": "Maxwell Frost Wins, Becomes First Gen Z Member of Congress...",
+        "added": "2022-11-09T02:55:00.829825+00:00",
+        "description": "Maxwell Frost Wins, Becomes First Gen Z and Afro-Cuban Member of Congress"
+    },
+    "https://gulfnews.com/world/oceania/hackers-leak-australian-health-records-on-dark-web-1.1667955966546": {
+        "title": "Hackers leak Australian health records on dark web...",
+        "added": "2022-11-09T02:55:00.829825+00:00",
+        "description": "Hackers leak Australian health records on dark web"
+    },
+    "https://fivethirtyeight.com/live-blog/2022-midterm-election/": {
+        "title": "FIVETHIRTYEIGHT...",
+        "added": "2022-11-09T02:55:00.829825+00:00",
+        "description": "2022 Election: Live Analysis and Results"
+    },
+    "https://apnews.com/article/2022-midterm-elections-abortion-biden-inflation-cf4dffe87a7c2fd1bdd58df0346e15dc": {
+        "title": "EXIT POLLS",
+        "added": "2022-11-09T02:55:00.829825+00:00",
+        "description": "AP VoteCast: Inflation, democracy drive demoralized voters"
+    },
     "https://www.politico.com/2022-election/results/senate/": {
         "title": "RESULTS:  SENATE...",
         "added": "2022-11-09T00:44:29.248109+00:00",
@@ -409,125 +484,20 @@
         "added": "2022-11-08T02:47:33.821128+00:00",
         "description": "Trump Lawyer Issues Stern Warning to DeSantis Over 2024"
     },
-    "https://www.the-sun.com/news/6624392/marco-rubio-expose-truth-about-ufos/": {
-        "title": "Inside Marco Rubio's quest to expose truth about UFOs...",
-        "added": "2022-11-08T02:47:33.821128+00:00",
-        "description": "Inside Marco Rubio's quest to expose the truth about UFOs"
-    },
     "https://www.nhc.noaa.gov/storm_graphics/AT17/refresh/AL172022_5day_cone_no_line_and_wind+png/233431_5day_cone_no_line_and_wind.png": {
         "title": "CONE...",
         "added": "2022-11-08T02:47:33.821128+00:00",
         "description": ""
-    },
-    "https://www.msn.com/en-us/news/us/pennsylvania-voters-scramble-to-cast-new-ballots-after-gop-lawsuit/ar-AA13Qt35": {
-        "title": "PA voters scramble to cast new ballots after lawsuit...",
-        "added": "2022-11-08T02:47:33.821128+00:00",
-        "description": "Pennsylvania voters scramble to cast new ballots after GOP lawsuit"
-    },
-    "https://www.msn.com/en-us/news/politics/emboldened-gop-makes-closing-pitch-as-democrats-try-to-head-off-big-losses/ar-AA13QHGV": {
-        "title": "DEMS SCRAMBLE TO STOP WAVE",
-        "added": "2022-11-08T02:47:33.821128+00:00",
-        "description": "Emboldened GOP makes closing pitch as Democrats try to head off big losses"
-    },
-    "https://www.accuweather.com/en/hurricane/hurricane-watch-issued-in-florida-as-nicole-tracks-toward-storm-weary-state/1273992": {
-        "title": "HURRICANE WATCH FLORIDA...",
-        "added": "2022-11-08T02:47:33.821128+00:00",
-        "description": "Hurricane watch issued in Florida as Nicole tracks toward storm-weary state"
-    },
-    "https://khn.org/news/article/hca-hospitals-admissions-accusations/": {
-        "title": "Hospital giant fends off accusations of questionable inpatient admissions...",
-        "added": "2022-11-08T02:47:33.821128+00:00",
-        "description": "Hospital Giant HCA Fends Off Accusations of Questionable Inpatient Admissions"
-    },
-    "https://centerforpolitics.org/crystalball/articles/final-ratings-for-the-2022-election/": {
-        "title": "Sabato predicts Republican Senate 51...",
-        "added": "2022-11-08T02:47:33.821128+00:00",
-        "description": ""
-    },
-    "https://www.msn.com/en-us/news/politics/oath-keepers-e2-80-99-leader-rhodes-denies-conspiracy-to-enter-capitol-on-jan-6/ar-AA13Q5us": {
-        "title": "OATH KEEPERS leader Rhodes denies conspiracy to enter Capitol on Jan 6...",
-        "added": "2022-11-08T00:44:52.139918+00:00",
-        "description": "Oath Keepers\u2019 leader Rhodes denies conspiracy to enter Capitol on Jan. 6"
-    },
-    "https://www.msn.com/en-us/news/politics/in-closing-pitch-gop-makes-arizona-a-hotbed-for-far-right-politics/ar-AA13QshJ": {
-        "title": "Arizona Becomes Referendum on MAGA...",
-        "added": "2022-11-08T00:44:52.139918+00:00",
-        "description": "In closing pitch, GOP makes Arizona a hotbed for far-right politics"
-    },
-    "https://www.msn.com/en-us/money/markets/no-boom-no-bust-economy-dogs-democrats-in-us-midterm-elections/ar-AA13PjQM": {
-        "title": "No-boom, no-bust economy dogs Dems...",
-        "added": "2022-11-08T00:44:52.139918+00:00",
-        "description": "No-boom, no-bust economy dogs Democrats in U.S. midterm elections"
-    },
-    "https://www.msn.com/en-us/lifestyle/shopping/adidas-nike-must-pick-up-the-pieces-after-antisemitism-ruins-deals/ar-AA13QvAq": {
-        "title": "ADIDAS, NIKE Pick Up the Pieces After Antisemitism Ruins Deals...",
-        "added": "2022-11-08T00:44:52.139918+00:00",
-        "description": "Adidas, Nike Must Pick Up the Pieces After Antisemitism Ruins Deals"
-    },
-    "https://www.marketwatch.com/story/republicans-have-2-in-3-chance-of-winning-senate-in-midterm-elections-betting-markets-say-11666621905": {
-        "title": "BETTING MARKET:  70% chance...",
-        "added": "2022-11-08T00:44:52.139918+00:00",
-        "description": "Republicans have over 70% chance of winning Senate in midterm elections, betting markets say"
-    },
-    "https://www.marketwatch.com/story/americans-consider-side-gigs-as-a-way-to-fight-inflation-11667582278": {
-        "title": "Americans look for side hustles to fight inflation...",
-        "added": "2022-11-08T00:44:52.139918+00:00",
-        "description": "'I know how tough it can be': Americans look for side hustles to fight inflation"
-    },
-    "https://www.jpost.com/breaking-news/article-721676": {
-        "title": "Lab-grown blood given to humans in world-first trial...",
-        "added": "2022-11-08T00:44:52.139918+00:00",
-        "description": "Lab-grown red blood cells transfused into people in first trial -NHS"
-    },
-    "https://www.dailystar.co.uk/news/world-news/free-speech-loving-elon-musk-28432590": {
-        "title": "'Free speech' Elon bans accounts for making fun of him...",
-        "added": "2022-11-08T00:44:52.139918+00:00",
-        "description": "Free speech-loving Elon Musk bans Twitter accounts for making fun of him"
-    },
-    "https://thehill.com/homenews/campaign/3723636-sabatos-crystal-ball-predicts-gop-control-of-senate-with-51-seats/": {
-        "title": "Sabato predicts Republican Senate with 51 seats; Wave blunted by abortion, unpopularity of Trump...",
-        "added": "2022-11-08T00:44:52.139918+00:00",
-        "description": "Sabato\u2019s Crystal Ball predicts GOP control of Senate with 51 seats"
     },
     "https://studyfinds.org/divided-america-maga-republicans-election-violence-qanon-racism/": {
         "title": "STUDY:  15%  identify as 'MAGA Republicans'...",
         "added": "2022-11-08T00:44:52.139918+00:00",
         "description": "How a divided America, including the 15% who are \u2018MAGA Republicans,\u2019 splits on QAnon, racism and armed patrols at polling\u00a0places"
     },
-    "https://news.yahoo.com/special-report-voting-system-firms-183747861.html": {
-        "title": "Voting-system firms battle right-wing rage against machines...",
-        "added": "2022-11-08T00:44:52.139918+00:00",
-        "description": "Special Report-Voting-system firms battle right-wing rage against the machines"
-    },
-    "https://news.yahoo.com/senator-warren-raises-pressure-fed-201226699.html": {
-        "title": "Senator Warren Raises Pressure on Fed Over Ethics Lapses...",
-        "added": "2022-11-08T00:44:52.139918+00:00",
-        "description": "Senator Warren Raises Pressure on Fed Over Ethics Lapses"
-    },
-    "https://news.yahoo.com/richard-branson-must-face-lawsuit-193854633.html": {
-        "title": "Branson faces lawsuit over VIRGIN GALACTIC space travel coverup...",
-        "added": "2022-11-08T00:44:52.139918+00:00",
-        "description": "Richard Branson must face lawsuit in U.S. over Virgin Galactic space travel problems"
-    },
-    "https://news.yahoo.com/musk-focuses-twitter-56-billion-111417713.html": {
-        "title": "His $56 billion TESLA pay goes to trial...",
-        "added": "2022-11-08T00:44:52.139918+00:00",
-        "description": "As Musk focuses on Twitter, his $56 billion Tesla pay goes to trial"
-    },
-    "https://finance.yahoo.com/news/sky-high-electricity-biden-pain-130007688.html": {
-        "title": "Sky-High Electricity New Pain Point...",
-        "added": "2022-11-08T00:44:52.139918+00:00",
-        "description": "Sky-High Electricity Is Biden\u2019s New Pain Point Before Elections"
-    },
     "https://www.tropicaltidbits.com/storminfo/17L_tracks_latest.png": {
         "title": "COMPUTER MODELS",
         "added": "2022-11-07T16:44:09.189942+00:00",
         "description": ""
-    },
-    "https://www.msn.com/en-us/news/politics/election-officials-fear-counting-delays-will-help-fuel-claims-of-fraud/ar-AA13OKip": {
-        "title": "Election officials fear counting delays will help fuel claims of fraud...",
-        "added": "2022-11-07T14:12:31.433688+00:00",
-        "description": "Election officials fear counting delays will help fuel claims of fraud"
     },
     "https://twitter.com/ZevShalev": {
         "title": "ZEV SHALEV",
