@@ -5,6 +5,26 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>SATELLITE...</title>
+      <link>https://www.weathernerds.org/satellite/?initsatsrc=On&amp;initsatname=GOES-E&amp;initsattype=ir&amp;initcscheme=ir1&amp;initimdimx=1050&amp;initimdimy=764&amp;initrange=30.750:-83.750:22.250:-69.750&amp;initloop=True&amp;initnframes=20&amp;initlightningge=On&amp;initlightninggw=Off&amp;initltngfed=Off&amp;initltngtoe=Off&amp;initinterstates=On&amp;initwarnings=On&amp;initlatlon=On&amp;initascatb=Off&amp;initascatc=Off&amp;initascatambb=Off&amp;initascatambc=Off&amp;initsst=Off&amp;initecens=Off&amp;initgefs=Off</link>
+      <description>weathernerds.org</description>
+    </item>
+    <item>
+      <title>Preparing schoolchildren for frontlines...</title>
+      <link>https://www.mirror.co.uk/news/world-news/vladimir-putin-bracing-russia-out-28448459</link>
+      <description>mirror.co.uk • Putin bracing Russia for all-out war by preparing schoolchildren for frontline</description>
+    </item>
+    <item>
+      <title>Missing Bitcoin stash found in popcorn box...</title>
+      <link>https://www.mirror.co.uk/news/us-news/missing-stolen-bitcoin-worth-3billion-28448458</link>
+      <description>mirror.co.uk • Missing stolen Bitcoin worth £3billion discovered stashed away in popcorn box</description>
+    </item>
+    <item>
+      <title>TOXIC TRUMP IN MAGA MELTDOWN</title>
+      <link>https://www.mediaite.com/news/trump-adviser-tells-cnns-jim-acosta-trump-is-super-pissed-and-sceaming-at-everyone-over-humiliating-midterms/</link>
+      <description>mediaite.com • Trump Adviser Tells CNN’s Jim Acosta Trump Is Super-Pissed And ‘Sceaming at Everyone’ Over ‘Humiliating’ Midterms</description>
+    </item>
+    <item>
       <title>Moscow announces retreat from key city...</title>
       <link>https://www.nbcnews.com/news/world/russia-ukraine-war-kherson-retreat-kirill-stremousov-rcna56362</link>
       <description>nbcnews.com • Russia orders retreat from Kherson, key city in southern Ukraine</description>

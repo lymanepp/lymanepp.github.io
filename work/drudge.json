@@ -1,4 +1,24 @@
 {
+    "https://www.weathernerds.org/satellite/?initsatsrc=On&initsatname=GOES-E&initsattype=ir&initcscheme=ir1&initimdimx=1050&initimdimy=764&initrange=30.750:-83.750:22.250:-69.750&initloop=True&initnframes=20&initlightningge=On&initlightninggw=Off&initltngfed=Off&initltngtoe=Off&initinterstates=On&initwarnings=On&initlatlon=On&initascatb=Off&initascatc=Off&initascatambb=Off&initascatambc=Off&initsst=Off&initecens=Off&initgefs=Off": {
+        "title": "SATELLITE...",
+        "added": "2022-11-09T16:45:46.976769+00:00",
+        "description": ""
+    },
+    "https://www.mirror.co.uk/news/world-news/vladimir-putin-bracing-russia-out-28448459": {
+        "title": "Preparing schoolchildren for frontlines...",
+        "added": "2022-11-09T16:45:46.976769+00:00",
+        "description": "Putin bracing Russia for all-out war by preparing schoolchildren for frontline"
+    },
+    "https://www.mirror.co.uk/news/us-news/missing-stolen-bitcoin-worth-3billion-28448458": {
+        "title": "Missing Bitcoin stash found in popcorn box...",
+        "added": "2022-11-09T16:45:46.976769+00:00",
+        "description": "Missing stolen Bitcoin worth \u00a33billion discovered stashed away in popcorn box"
+    },
+    "https://www.mediaite.com/news/trump-adviser-tells-cnns-jim-acosta-trump-is-super-pissed-and-sceaming-at-everyone-over-humiliating-midterms/": {
+        "title": "TOXIC TRUMP IN MAGA MELTDOWN",
+        "added": "2022-11-09T16:45:46.976769+00:00",
+        "description": "Trump Adviser Tells CNN\u2019s Jim Acosta Trump Is Super-Pissed And \u2018Sceaming at Everyone\u2019 Over \u2018Humiliating\u2019 Midterms"
+    },
     "https://www.nbcnews.com/news/world/russia-ukraine-war-kherson-retreat-kirill-stremousov-rcna56362": {
         "title": "Moscow announces retreat from key city...",
         "added": "2022-11-09T15:51:47.507994+00:00",
