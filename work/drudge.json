@@ -1,4 +1,24 @@
 {
+    "https://www.nbcnews.com/politics/2022-elections/arizona-senate-results": {
+        "title": "AZ Kelly projected to win by 2.8%... Developing...",
+        "added": "2022-11-09T17:14:44.813489+00:00",
+        "description": "Arizona Senate Midterm Election 2022: Live Results and Updates"
+    },
+    "https://www.nbcnews.com/politics/2022-election/live-blog/midterm-elections-live-updates-rcna56065#rcrd7320": {
+        "title": "NV final count might not come until Saturday...",
+        "added": "2022-11-09T17:14:44.813489+00:00",
+        "description": "Midterm elections live updates: Georgia Senate and other key races too close to call"
+    },
+    "https://www.atr.org/california-rejects-income-tax-hike/": {
+        "title": "CA Rejects Income Tax Hike...",
+        "added": "2022-11-09T17:14:44.813489+00:00",
+        "description": "California Rejects Income Tax Hike - Americans for Tax Reform"
+    },
+    "https://news.yahoo.com/democrats-risky-midterm-strategy-elevate-170030916.html": {
+        "title": "Dems risky strategy to elevate election deniers pays off...",
+        "added": "2022-11-09T17:14:44.813489+00:00",
+        "description": "Democrats' risky midterm strategy to elevate election deniers appears to pay off"
+    },
     "https://www.weathernerds.org/satellite/?initsatsrc=On&initsatname=GOES-E&initsattype=ir&initcscheme=ir1&initimdimx=1050&initimdimy=764&initrange=30.750:-83.750:22.250:-69.750&initloop=True&initnframes=20&initlightningge=On&initlightninggw=Off&initltngfed=Off&initltngtoe=Off&initinterstates=On&initwarnings=On&initlatlon=On&initascatb=Off&initascatc=Off&initascatambb=Off&initascatambc=Off&initsst=Off&initecens=Off&initgefs=Off": {
         "title": "SATELLITE...",
         "added": "2022-11-09T16:45:46.976769+00:00",
@@ -509,35 +529,10 @@
         "added": "2022-11-08T17:42:45.762271+00:00",
         "description": "Trump says he voted for DeSantis, predicts \"great night\" for GOP"
     },
-    "https://www.predictit.org/markets/detail/6874/Which-party-will-control-the-Senate-after-2022-election": {
-        "title": "BETTING MARKET:  75% chance...",
-        "added": "2022-11-08T16:52:03.492815+00:00",
-        "description": ""
-    },
     "https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/081454.shtml": {
         "title": "DETAILS...",
         "added": "2022-11-08T16:52:03.492815+00:00",
         "description": ""
-    },
-    "https://www.msn.com/en-us/news/us/desantis-official-says-justice-dept-can-t-send-monitors-to-3-florida-counties/ar-AA13Sssq": {
-        "title": "DeSantis says Justice Dept can't send monitors...",
-        "added": "2022-11-08T16:52:03.492815+00:00",
-        "description": "DeSantis official says Justice Dept. can\u2019t send monitors to 3 Florida counties"
-    },
-    "https://www.msn.com/en-us/news/politics/election-workers-brace-for-a-torrent-of-threats-i-know-where-you-sleep/ar-AA13RVY3": {
-        "title": "Election workers brace for threats: 'I KNOW WHERE YOU SLEEP'...",
-        "added": "2022-11-08T16:52:03.492815+00:00",
-        "description": "Election workers brace for a torrent of threats: \u2018I KNOW WHERE YOU SLEEP\u2019"
-    },
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/car/08/GOES16-CAR-08-1000x1000.gif": {
-        "title": "SATELLITE...",
-        "added": "2022-11-08T16:52:03.492815+00:00",
-        "description": ""
-    },
-    "https://apnews.com/article/2022-midterm-elections-results-954de3200a5467d36ea5f04e4ccbb78f": {
-        "title": "Turbulent campaign season comes to close...",
-        "added": "2022-11-08T16:52:03.492815+00:00",
-        "description": "Election 2022: Turbulent campaign season comes to a close"
     },
     "https://apnews.com/article/world-cup-entertainment-soccer-sports-qatar-ed44b144cd5f1373a6d09efd7f979d0f": {
         "title": "Qatar World Cup ambassador says homosexuality is 'damage in mind'...",
