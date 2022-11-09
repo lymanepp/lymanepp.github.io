@@ -1,4 +1,154 @@
 {
+    "https://www.politico.com/2022-election/results/senate/": {
+        "title": "RESULTS:  SENATE...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Senate Election Results 2022: Live Map | Midterm Races by State"
+    },
+    "https://www.politico.com/2022-election/results/ballot-measures/": {
+        "title": "RESULTS:  Key ballot measures...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Key Ballot Measures 2022 | Live Election Results & Maps by State"
+    },
+    "https://www.nbcnews.com/politics/2022-elections/wisconsin-governor-results": {
+        "title": "WI...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Wisconsin Governor Midterm Election 2022: Live Results and Updates"
+    },
+    "https://www.nbcnews.com/politics/2022-elections/oregon-governor-results": {
+        "title": "OR...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Oregon Governor Midterm Election 2022: Live Results and Updates"
+    },
+    "https://www.nbcnews.com/politics/2022-elections/new-york-governor-results": {
+        "title": "NY...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "New York Governor Midterm Election 2022: Live Results and Updates"
+    },
+    "https://www.nbcnews.com/politics/2022-elections/nevada-governor-results": {
+        "title": "NV...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Nevada Governor Midterm Election 2022: Live Results and Updates"
+    },
+    "https://www.nbcnews.com/politics/2022-elections/michigan-governor-results": {
+        "title": "MI...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Michigan Governor Midterm Election 2022: Live Results and Updates"
+    },
+    "https://www.nbcnews.com/politics/2022-elections/governor-results": {
+        "title": "GOVS...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Governor Midterm Elections 2022: Live Updates, Results & Map"
+    },
+    "https://www.nbcnews.com/politics/2022-elections/exit-polls": {
+        "title": "EXIT POLLS",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Live exit polls 2022: Election Day exit polls for Democrats vs Republicans"
+    },
+    "https://www.nbcnews.com/politics/2022-elections/arizona-governor-results": {
+        "title": "AZ...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Arizona Governor Midterm Election 2022: Live Results and Updates"
+    },
+    "https://www.msn.com/en-us/tv/news/canadian-prime-minister-justin-trudeau-becomes-first-world-leader-to-appear-on-drag-race-watch/ar-AA13SEYz": {
+        "title": "Trudeau Will Be First World Leader to Appear on 'DRAG RACE'...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Canadian Prime Minister Justin Trudeau Becomes First World Leader to Appear on \u2018Drag Race\u2019: Watch"
+    },
+    "https://www.msn.com/en-us/money/companies/musks-wealth-hits-2022-low-in-48-25-plunge-from-24340-billion-peak/ar-AA13SO1j": {
+        "title": "Musk Wealth Hits 2022 Low in 48% Plunge...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Musk's Wealth Hits 2022 Low in 48% Plunge From $340 Billion Peak"
+    },
+    "https://www.dailystar.co.uk/sport/football/gay-football-fans-set-offered-28442988": {
+        "title": "Gay fans to be offered 'safe houses' during games...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Gay football fans set to be offered 'safe houses' in Qatar during World Cup"
+    },
+    "https://www.cnn.com/election/2022/results/pennsylvania/senate": {
+        "title": "PA...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Pennsylvania Senate Midterm Election Results and Maps 2022 | CNN Politics"
+    },
+    "https://www.cnn.com/election/2022/results/ohio/senate": {
+        "title": "OH...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Ohio Senate Midterm Election Results and Maps 2022 | CNN Politics"
+    },
+    "https://www.cnn.com/election/2022/results/north-carolina/senate": {
+        "title": "NC...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "North Carolina Senate Midterm Election Results and Maps 2022 | CNN Politics"
+    },
+    "https://www.cnn.com/election/2022/results/new-hampshire/senate": {
+        "title": "NH...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "New Hampshire Senate Midterm Election Results and Maps 2022 | CNN Politics"
+    },
+    "https://www.cnn.com/election/2022/results/nevada/senate": {
+        "title": "NV...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Nevada Senate Midterm Election Results and Maps 2022 | CNN Politics"
+    },
+    "https://www.cnn.com/election/2022/results/georgia/senate": {
+        "title": "GA...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Georgia Senate Midterm Election Results and Maps 2022 | CNN Politics"
+    },
+    "https://www.cnn.com/election/2022/results/arizona/senate": {
+        "title": "AZ...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Arizona Senate Midterm Election Results and Maps 2022 | CNN Politics"
+    },
+    "https://www.axios.com/2022/10/01/midterms-congress-house-campaigns-elections-young-diversity": {
+        "title": "House set for freshman class like no other...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "The House is likely about get a lot younger and more diverse"
+    },
+    "https://ww.fashionnetwork.com/news/Tom-ford-an-opportunity-for-kering-or-for-estee-lauder-,1455987.html": {
+        "title": "GUCCI, ESTEE LAUDER Battle for TOM FORD...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Tom Ford: an opportunity for Kering, or for Est\u00c3\u00a9e Lauder?"
+    },
+    "https://thehill.com/policy/international/3725784-bolsonaros-sons-request-italian-citizenship/": {
+        "title": "ESCAPE? Bolsonaro sons request Italian citizenship...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Bolsonaro\u2019s sons request Italian citizenship"
+    },
+    "https://news.yahoo.com/trump-keeps-musing-journalists-being-143000545.html": {
+        "title": "Trump Keeps Musing About Journalists Being Raped in Prison...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Trump Keeps Musing About Journalists Being Raped in Prison \u2014 He\u2019s Not Joking"
+    },
+    "https://news.yahoo.com/trump-gears-run-midterms-many-235024917.html": {
+        "title": "He gears up run after midterms. Many Republicans appear unexcited...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Trump gears up to run after midterms. Many Republicans appear unexcited"
+    },
+    "https://graziadaily.co.uk/life/in-the-news/world-cup-2022-qatar-homophobia": {
+        "title": "FEAR FOR LIVES...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "World Cup 2022: \u2018Fans Fear For Their Lives Going To Support Their Country\u2019"
+    },
+    "https://finance.yahoo.com/news/tesla-loses-valuation-race-berkshire-195529202.html": {
+        "title": "TESLA Loses Valuation Race to BERKSHIRE...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Tesla Loses Valuation Race to Berkshire as Growth Stocks Sputter"
+    },
+    "https://finance.yahoo.com/news/investors-brace-government-gridlock-republicans-214326569.html": {
+        "title": "G R I D L O C K",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "Investors brace for government gridlock as Republicans seen gaining in U.S. midterms"
+    },
+    "https://apnews.com/article/2022-midterm-elections-congress-b8394711a1b0550da394ed06b32263d3": {
+        "title": "TONIGHT:  RESULTS!",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": "GOP eager to take Congress; Pelosi says Dems intend to win"
+    },
+    "http://www.drudgereport.comPutin's Elite Tremble as Hardliners Call for 'Stalinist' Steps...": {
+        "title": "Putin's Elite Tremble as Hardliners Call for 'Stalinist' Steps...",
+        "added": "2022-11-09T00:44:29.248109+00:00",
+        "description": ""
+    },
     "https://nypost.com/2022/11/08/mystery-as-3-friends-found-dead-at-mexico-city-airbnb/": {
         "title": "3 Americans dead at Mexico City AIRBNB celebrating Day of Dead...",
         "added": "2022-11-08T23:08:25.817428+00:00",
