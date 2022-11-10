@@ -1,4 +1,9 @@
 {
+    "https://www.cnbc.com/2022/11/09/stock-market-futures-open-to-close-news.html": {
+        "title": "STOCKS RALLY...",
+        "added": "2022-11-10T14:55:05.787782+00:00",
+        "description": "Dow rallies 700 points as new data raises hope that U.S. inflation may be peaking"
+    },
     "https://www.theatlantic.com/magazine/archive/2022/12/yellowstone-tv-series-taylor-sheridan/671897/": {
         "title": "'YELLOWSTONE': HOW TAYLOR SHERIDAN CREATED AMERICA'S MOST POPULAR TV SHOW...",
         "added": "2022-11-10T14:00:03.375694+00:00",
@@ -353,11 +358,6 @@
         "title": "Picks Wild Metaverse Fantasy Over Jobs...",
         "added": "2022-11-09T15:33:42.988025+00:00",
         "description": "Mark Zuckerberg Picks Wild Billionaire Metaverse Fantasy Over 11,000 Jobs"
-    },
-    "https://www.cnbc.com/2022/11/09/truth-social-merger-partners-stock-falls-after-trump-candidates-underwhelm.html": {
-        "title": "Shares of TRUTH partner fall afte candidates underwhelm...",
-        "added": "2022-11-09T14:50:05.220346+00:00",
-        "description": "Shares of Truth Social merger partner fall after Trump's candidates underwhelm in midterm elections"
     },
     "https://nypost.com/2022/11/09/ron-desantis-shows-hes-future-of-the-gop/": {
         "title": "DESANTIS BIG WIN, SOLIDIFYING HOLD ON FL POLITICS...",
