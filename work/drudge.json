@@ -1,4 +1,9 @@
 {
+    "https://www.investors.com/news/technology/lly-stock-dives-taking-novo-sanofi-with-it-after-fake-twitter-account-promises-free-insulin/": {
+        "title": "ELI LILLY Stock Dives After Fakeout...",
+        "added": "2022-11-11T19:46:52.885458+00:00",
+        "description": "Eli Lilly Dives On Twitter Chaos, Taking Novo, Sanofi With it"
+    },
     "https://thehill.com/homenews/media/3731276-haberman-trump-willing-to-burn-it-all-down-if-he-doesnt-get-what-he-wants/": {
         "title": "'Willing to burn it all down if he doesn't get what he wants'...",
         "added": "2022-11-11T19:24:27.292572+00:00",
@@ -333,11 +338,6 @@
         "title": "DOW +1000",
         "added": "2022-11-10T20:10:01.913285+00:00",
         "description": "Dow Jones Industrial Average (^DJI) Charts, Data & News - Yahoo Finance"
-    },
-    "https://www.msn.com/en-us/money/companies/waymo-starts-full-fledged-robotaxi-services-in-phoenix/ar-AA13Y9K3": {
-        "title": "WAYMO starts full-fledged robotaxi in Phoenix...",
-        "added": "2022-11-10T19:46:50.749571+00:00",
-        "description": "Waymo starts full-fledged robotaxi services in Phoenix"
     },
     "https://www.nbcnews.com/politics/2022-elections/arizona-governor-results": {
         "title": "AZ...",
