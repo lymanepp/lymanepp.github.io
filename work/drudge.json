@@ -1,4 +1,9 @@
 {
+    "https://thehill.com/homenews/media/3731276-haberman-trump-willing-to-burn-it-all-down-if-he-doesnt-get-what-he-wants/": {
+        "title": "'Willing to burn it all down if he doesn't get what he wants'...",
+        "added": "2022-11-11T19:24:27.292572+00:00",
+        "description": "Haberman: Trump \u2018willing to burn it all down if he doesn\u2019t get what he wants\u2019"
+    },
     "https://www.vice.com/en/article/n7z5vm/colorado-votes-to-decriminalize-shrooms-and-other-psychedelics": {
         "title": "CO Decriminalizes Psychedelics...",
         "added": "2022-11-11T18:54:31.764263+00:00",
@@ -333,11 +338,6 @@
         "title": "WAYMO starts full-fledged robotaxi in Phoenix...",
         "added": "2022-11-10T19:46:50.749571+00:00",
         "description": "Waymo starts full-fledged robotaxi services in Phoenix"
-    },
-    "https://www.nbcnewyork.com/news/national-international/alex-jones-ordered-to-pay-473m-more-to-sandy-hook-families/3951120/": {
-        "title": "Alex Jones Ordered to Pay $473M More to Sandy Hook Families...",
-        "added": "2022-11-10T19:07:15.654490+00:00",
-        "description": "Alex Jones Ordered to Pay $473M More to Sandy Hook Families"
     },
     "https://www.nbcnews.com/politics/2022-elections/arizona-governor-results": {
         "title": "AZ...",
