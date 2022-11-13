@@ -1,4 +1,19 @@
 {
+    "https://www.jpost.com/breaking-news/article-722254": {
+        "title": "4 killed, 38 injured... Developing...",
+        "added": "2022-11-13T15:08:07.739756+00:00",
+        "description": "4 killed, 38 injured in Istanbul explosion, no Israelis reported injured"
+    },
+    "https://www.cnn.com/2022/11/13/europe/istanbul-turkey-explosion-intl/index.html": {
+        "title": "Large explosion rocks central Istanbul street...",
+        "added": "2022-11-13T15:08:07.739756+00:00",
+        "description": "Large explosion rocks central Istanbul street | CNN"
+    },
+    "https://abcnews.go.com/Politics/week-transcript-11-13-22-speaker-nancy-pelosi/story?id=93175321": {
+        "title": "SUGGESTS GETTING RID OF DEBT LIMIT...",
+        "added": "2022-11-13T15:08:07.739756+00:00",
+        "description": "'This Week' Transcript 11-13-22: Speaker Nancy Pelosi & Gov. Chris Sununu"
+    },
     "https://www.news.com.au/technology/innovation/military/japan-is-bracing-itself-for-war-with-china/news-story/d925883334b135fa06a5ef553e9c4701": {
         "title": "Japan bracing for war with China...",
         "added": "2022-11-13T14:46:53.713817+00:00",
@@ -248,11 +263,6 @@
         "title": "CRYPTO MELTDOWN: FTX investigating 'unauthorized transactions'...",
         "added": "2022-11-12T14:26:27.390556+00:00",
         "description": "FTX says it is investigating 'unauthorized transactions'"
-    },
-    "https://www.dailymail.co.uk/news/article-11419415/At-1-billion-client-funds-missing-failed-crypto-firm-FTX-sources.html": {
-        "title": "INVESTORS BURNED: $2 BILLION MISSING",
-        "added": "2022-11-12T14:07:11.577409+00:00",
-        "description": "$2BN of clients' money is MISSING from collapsed crypto exchange FTX"
     },
     "https://www.nbcnews.com/politics/2022-elections/arizona-governor-results": {
         "title": "AZ...",
