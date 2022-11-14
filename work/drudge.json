@@ -1,4 +1,9 @@
 {
+    "https://www.cnn.com/2022/11/14/business/jeff-bezos-charity/index.html": {
+        "title": "Bezos says he will give most of his money to charity...",
+        "added": "2022-11-14T11:36:01.737426+00:00",
+        "description": "Exclusive: Jeff Bezos says he will give most of his money to charity | CNN Business"
+    },
     "https://www.msn.com/en-us/news/politics/election-deniers-lose-races-for-key-state-offices-in-every-2020-battleground/ar-AA1433zT": {
         "title": "Election deniers lose races for key state offices in every battleground...",
         "added": "2022-11-14T03:47:26.103175+00:00",
@@ -169,11 +174,6 @@
         "added": "2022-11-13T11:25:08.661535+00:00",
         "description": "Pope denounces 'sirens of populism' as he marks day for poor"
     },
-    "https://www.msn.com/en-us/news/world/us-intelligence-report-says-key-gulf-ally-meddled-in-american-politics/ar-AA142CNv": {
-        "title": "U.S. intel says key gulf ally meddled in American politics...",
-        "added": "2022-11-13T11:06:35.163341+00:00",
-        "description": "U.S. intelligence report says key gulf ally meddled in American politics"
-    },
     "https://www.mediaite.com/tv/very-much-in-play-msnbcs-steve-kornacki-revises-projections-to-show-democrats-could-actually-retain-control-of-house/": {
         "title": "HOUSE IN THE BALANCE",
         "added": "2022-11-13T03:46:11.800569+00:00",
@@ -184,25 +184,10 @@
         "added": "2022-11-13T02:44:55.010094+00:00",
         "description": "Democrats maintain control of Senate, NBC News projects, defeating many Trump-backed Republicans"
     },
-    "https://www.yahoo.com/entertainment/yellowstone-director-taylor-sheridan-defends-015004110.html": {
-        "title": "Director Defends Series Against 'Anti-Woke' Claims...",
-        "added": "2022-11-12T18:33:47.601344+00:00",
-        "description": "\u2018Yellowstone\u2019 Director Taylor Sheridan Defends Series Against \u2018Anti-Woke\u2019 Claims"
-    },
-    "https://www.msn.com/en-us/sports/nfl/should-the-packers-sit-aaron-rodgers-it-s-not-as-crazy-as-it-sounds/ar-AA142sab": {
-        "title": "Should PACKERS sit Rodgers?",
-        "added": "2022-11-12T18:09:36.950341+00:00",
-        "description": "Should the Packers sit Aaron Rodgers? It\u2019s not as crazy as it sounds."
-    },
     "https://www.msn.com/en-us/money/companies/layoff-spree-in-silicon-valley-spells-end-of-an-era-for-big-tech/ar-AA141ImI": {
         "title": "Layoff spree in Silicon Valley spells end of era for Big Tech...",
         "added": "2022-11-12T16:41:35.454925+00:00",
         "description": "Layoff spree in Silicon Valley spells end of an era for Big Tech"
-    },
-    "https://www.msn.com/en-us/sports/other/the-ufc-s-dana-white-is-creating-a-slap-fighting-league-doctors-have-concerns/ar-AA141Kx8": {
-        "title": "UFC's Dana White creating slap fighting league. Doctors have concerns...",
-        "added": "2022-11-12T16:10:24.938652+00:00",
-        "description": "The UFC\u2019s Dana White is creating a slap fighting league. Doctors have concerns."
     },
     "https://www.msn.com/en-us/health/medical/la-county-coronavirus-cases-hospitalizations-rising-as-thanksgiving-nears/ar-AA1428jQ": {
         "title": "L.A. coronavirus cases, hospitalizations rising as Thanksgiving nears...",
@@ -223,11 +208,6 @@
         "title": "Wealthy Russians fuelling demand for Caribbean island passport...",
         "added": "2022-11-12T15:08:42.938960+00:00",
         "description": "Wealthy Russians seen fuelling demand for Caribbean island\u2019s passport"
-    },
-    "https://apnews.com/article/entertainment-ap-top-news-arts-and-entertainment-kevin-costner-taylor-sheridan-2a58db29dc79f47174d4fda05aa1f94d": {
-        "title": "COSTNER: Returning 'YELLOWSTONE' is hit on own terms...",
-        "added": "2022-11-12T15:08:42.938960+00:00",
-        "description": "Kevin Costner: Returning 'Yellowstone' is a hit on own terms"
     },
     "https://thehill.com/homenews/media/3731314-fox-news-faces-post-midterm-choice-between-trump-desantis/": {
         "title": "FOX faces post-midterm choice between The Don, DeSantis...",
