@@ -1,4 +1,9 @@
 {
+    "https://www.cnbc.com/2022/11/14/biden-and-xi-meet-in-person-for-the-first-time.html": {
+        "title": "Biden meets Xi amid heightened tensions...",
+        "added": "2022-11-14T11:46:46.939457+00:00",
+        "description": "Biden meets Xi amid heightened China-U.S. tensions"
+    },
     "https://www.cnn.com/2022/11/14/business/jeff-bezos-charity/index.html": {
         "title": "Bezos says he will give most of his money to charity...",
         "added": "2022-11-14T11:36:01.737426+00:00",
@@ -233,11 +238,6 @@
         "title": "AI's new frontier: Connecting grieving loved ones with deceased...",
         "added": "2022-11-12T14:26:27.390556+00:00",
         "description": "AI\u2019s new frontier: Connecting grieving loved ones with the deceased"
-    },
-    "https://www.cnbc.com/2022/11/12/ftx-says-it-is-investigating-unauthorized-transactions.html": {
-        "title": "CRYPTO MELTDOWN: FTX investigating 'unauthorized transactions'...",
-        "added": "2022-11-12T14:26:27.390556+00:00",
-        "description": "FTX says it is investigating 'unauthorized transactions'"
     },
     "https://www.nbcnews.com/politics/2022-elections/arizona-governor-results": {
         "title": "AZ...",
