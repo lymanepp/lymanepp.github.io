@@ -1,4 +1,9 @@
 {
+    "https://www.dailymail.co.uk/news/article-11478739/More-100-people-STRANDED-large-iceberg-broke-free-Minnesota-lake.html": {
+        "title": "100 fishers STRANDED on large iceberg that broke free on MN lake...",
+        "added": "2022-11-28T20:34:40.156994+00:00",
+        "description": "More than 100 people STRANDED on iceberg on Minnesota lake"
+    },
     "https://www.msn.com/en-us/health/other/covid-deaths-skew-older-reviving-questions-about-e2-80-98acceptable-loss-e2-80-99/ar-AA14DLdb": {
         "title": "Nearly 9 in 10 covid deaths in people 65 or older...",
         "added": "2022-11-28T20:26:13.400996+00:00",
@@ -243,11 +248,6 @@
         "title": "After Mueller, legal experts hope for more vocal special counsel...",
         "added": "2022-11-27T13:15:14.663494+00:00",
         "description": "After Mueller, legal experts hope for a more vocal special counsel"
-    },
-    "https://www.dailymail.co.uk/news/article-11471383/EU-accuses-PROFITEERING-Ukraine-war-selling-higher-price-gas-weapons.html": {
-        "title": "'Is Washington still ally?': EU accuses USA of profiteering from Ukraine war...",
-        "added": "2022-11-26T15:46:36.890692+00:00",
-        "description": "EU accuses US of PROFITEERING from Ukraine war over weapons, gas price"
     },
     "https://twitter.com/ZevShalev": {
         "title": "ZEV SHALEV",
