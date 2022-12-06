@@ -1,4 +1,9 @@
 {
+    "https://www.cnn.com/2022/12/06/media/buzzfeed-job-cuts/index.html": {
+        "title": "TROUBLES:  BUZZFEED stock at all-time low...",
+        "added": "2022-12-06T19:20:10.559683+00:00",
+        "description": "BuzzFeed slashes 12% of its workforce, citing 'worsening macroeconomic conditions' | CNN Business"
+    },
     "https://www.militarytimes.com/news/your-navy/2022/12/06/navy-lowers-entrance-exam-requirements-in-bid-to-get-more-recruits/": {
         "title": "Navy lowers entrance requirements to get more recruits...",
         "added": "2022-12-06T19:06:03.026116+00:00",
@@ -423,11 +428,6 @@
         "title": "CNN Licht 'forced to hire extra security outside office'...",
         "added": "2022-12-05T19:32:05.922931+00:00",
         "description": "CNN boss hired extra security after cutting hundreds of staffmembers"
-    },
-    "https://www.dailymail.co.uk/news/article-11491943/Lawmakers-cry-against-Biden-IRS-reporting-requirements-600-transactions.html": {
-        "title": "IRS coming for couches, TVs, wedding registries...",
-        "added": "2022-12-05T19:19:52.399182+00:00",
-        "description": "Lawmakers cry against IRS reporting requirements on $600 transactions"
     },
     "https://twitter.com/ZevShalev": {
         "title": "ZEV SHALEV",
