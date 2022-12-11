@@ -1,4 +1,14 @@
 {
+    "https://news.yahoo.com/earthquake-hits-mexico-city-no-145908491.html": {
+        "title": "QUAKE SHAKES MEXICO CITY",
+        "added": "2022-12-11T15:24:32.397068+00:00",
+        "description": "Earthquake hits Mexico City, no immediate reports of damage"
+    },
+    "https://earthquake.usgs.gov/earthquakes/eventpage/us6000j8lp/executive": {
+        "title": "MAP",
+        "added": "2022-12-11T15:24:32.397068+00:00",
+        "description": ""
+    },
     "https://dnyuz.com/2022/12/11/confidential-records-show-a-saudi-golf-tour-built-on-far-fetched-assumptions/": {
         "title": "Confidential Records Show Saudi Golf Tour Built on Far-Fetched Assumptions...",
         "added": "2022-12-11T15:06:35.310799+00:00",
@@ -234,20 +244,10 @@
         "added": "2022-12-10T15:46:49.997701+00:00",
         "description": "Best Places To Live Off-Grid: Top 5 U.S. States For Quiet Living, According To Experts"
     },
-    "https://dnyuz.com/2022/12/10/transgender-americans-feel-under-siege-as-political-vitriol-rises/": {
-        "title": "Trans Americans Feel Under Siege as Political Vitriol Rises...",
-        "added": "2022-12-10T15:06:40.173974+00:00",
-        "description": "Transgender Americans Feel Under Siege as Political Vitriol Rises"
-    },
     "https://dnyuz.com/2022/12/10/in-a-future-filled-with-electric-cars-am-radio-may-be-left-behind/": {
         "title": "In Future Filled With Electric Cars, AM Radio May Be Left Behind...",
         "added": "2022-12-10T15:06:40.173974+00:00",
         "description": "In a Future Filled With Electric Cars, AM Radio May Be Left Behind"
-    },
-    "https://dnyuz.com/2022/12/10/cuba-is-depopulating-largest-exodus-yet-threatens-countrys-future/": {
-        "title": "Cuba Depopulating: Largest Exodus Yet Threatens Country's Future...",
-        "added": "2022-12-10T15:06:40.173974+00:00",
-        "description": "\u2018Cuba Is Depopulating\u2019: Largest Exodus Yet Threatens Country\u2019s Future"
     },
     "https://www.msn.com/en-us/news/technology/humans-vs-robots-the-battle-reaches-a-turning-point/ar-AA1571if": {
         "title": "Humans vs. robots: Battle reaches 'turning point'...",
