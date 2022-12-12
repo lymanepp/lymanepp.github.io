@@ -1,4 +1,9 @@
 {
+    "https://apnews.com/article/golden-globe-nominations-2023-movies-television-hfpa-9d39f89d293e59ac5bda2d55cf21a9d6": {
+        "title": "GOLDEN GLOBE noms led by 'BANSHEES,' 'EVERYTHING EVERYWHERE'...",
+        "added": "2022-12-12T14:24:44.026297+00:00",
+        "description": "Golden Globe noms led by 'Banshees,' 'Everything Everywhere'"
+    },
     "https://www.politico.com/news/2022/12/12/trump-gop-senators-tim-scott-presidential-00073280": {
         "title": "Trump who? Republicans rave over potential Tim Scott presidential run...",
         "added": "2022-12-12T14:06:53.869781+00:00",
@@ -208,11 +213,6 @@
         "title": "KANYE NAMED 'ANTISEMITE OF THE YEAR'...",
         "added": "2022-12-11T14:31:47.949277+00:00",
         "description": "Kanye West Named 'Antisemite of the Year' by Watchdog Group"
-    },
-    "https://www.jpost.com/middle-east/article-724591": {
-        "title": "Iran halts funds to Palestinian terror groups, sparking crisis...",
-        "added": "2022-12-11T14:23:11.464836+00:00",
-        "description": "Iran halts funds to Palestinian terror groups, sparking crisis - report"
     },
     "https://www.politico.com/news/magazine/2022/12/09/methodist-church-lgbtq-slavery-00073112": {
         "title": "Protestants splitting over LGBTQ issues. In 1840s, it was slavery that opened rift...",
