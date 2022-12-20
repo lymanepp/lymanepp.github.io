@@ -1,4 +1,9 @@
 {
+    "https://www.cnbc.com/quotes/TSLA?qsearchterm=TSLA": {
+        "title": "TESLA STOCK SLIDE DEEPENS...",
+        "added": "2022-12-20T15:36:41.940963+00:00",
+        "description": "Check out Tesla's stock price (TSLA) in real time"
+    },
     "https://www.dailymail.co.uk/news/article-11558387/Texas-National-Guard-holding-rifles-driving-humvees-arrive-El-Paso-border.html": {
         "title": "National Guardsmen flood El Paso...",
         "added": "2022-12-20T15:27:15.717883+00:00",
@@ -378,11 +383,6 @@
         "title": "Bankman-Fried Won't Fight Extradition, but His Homecoming Could Be Messy...",
         "added": "2022-12-19T16:11:29.047556+00:00",
         "description": "FTX\u2019s Bankman-Fried Won\u2019t Fight Extradition, but His Homecoming Could Be Messy"
-    },
-    "https://www.jpost.com/international/article-725239": {
-        "title": "NYT publishes crossword puzzle resembling swastika...",
-        "added": "2022-12-19T15:27:36.011926+00:00",
-        "description": "NYT publishes crossword puzzle resembling swastika"
     },
     "https://www.accuweather.com/en/winter-weather/central-eastern-us-snowstorm-prior-to-christmas-to-disrupt-travel/1386537": {
         "title": "Pre-Christmas storm threatens major travel delays across USA...",
