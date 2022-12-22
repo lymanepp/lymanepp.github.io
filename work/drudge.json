@@ -1,4 +1,29 @@
 {
+    "https://www.msn.com/en-us/travel/news/happy-holidays-you-re-laid-off-white-collar-workers-bear-brunt-of-downturn/ar-AA15yRrS": {
+        "title": "White-collar workers bear brunt of downturn...",
+        "added": "2022-12-22T12:13:01.464714+00:00",
+        "description": "Happy holidays, you\u2019re laid off: White-collar workers bear brunt of downturn"
+    },
+    "https://www.msn.com/en-us/news/politics/openly-gay-rep-elect-george-santos-didn-t-disclose-divorce-with-woman/ar-AA15yH7g": {
+        "title": "'Openly Gay' Rep.-Elect Didn't Disclose Divorce With Woman...",
+        "added": "2022-12-22T12:13:01.464714+00:00",
+        "description": "\u2018Openly Gay\u2019 Rep.-Elect George Santos Didn\u2019t Disclose Divorce With Woman"
+    },
+    "https://www.dailymail.co.uk/news/article-11565847/Pope-warns-Vatican-staff-elegant-demon-lurks-them.html": {
+        "title": "Pope warns Vatican staff 'elegant demon' lurks among them...",
+        "added": "2022-12-22T12:13:01.464714+00:00",
+        "description": "Pope warns Vatican staff an 'elegant demon' lurks among them"
+    },
+    "https://www.bqprime.com/amp/business/higher-fares-fewer-flights-make-air-travel-a-luxury-for-many": {
+        "title": "Air Travel Becomes Luxury for Many...",
+        "added": "2022-12-22T12:13:01.464714+00:00",
+        "description": "Fewer Flights And Higher Fares Make Air Travel\u00a0A Luxury For Many"
+    },
+    "https://dnyuz.com/2022/12/21/gunmen-tried-to-kill-a-famous-tv-anchor-mexicos-leader-suggested-it-was-staged/": {
+        "title": "Gunmen Tried to Kill Famous TV Anchor. Mexico Leader Suggests Was Staged...",
+        "added": "2022-12-22T12:13:01.464714+00:00",
+        "description": "Gunmen Tried to Kill a Famous TV Anchor. Mexico\u2019s Leader Suggested It Was Staged."
+    },
     "https://www.cnbc.com/2022/12/22/gold-at-4000-analysts-share-their-2023-outlook-for-prices.html": {
         "title": "Gold at $4,000? Analysts share 2023 outlook...",
         "added": "2022-12-22T11:46:50.196047+00:00",
@@ -319,35 +344,10 @@
         "added": "2022-12-21T12:45:33.318394+00:00",
         "description": "A New Chat Bot Is a \u2018Code Red\u2019 for Google\u2019s Search Business"
     },
-    "https://www.nbcnews.com/politics/congress/house-committee-votes-donald-trumps-personal-business-tax-records-rcna62212": {
-        "title": "Trump tax records to be made public... Developing...",
-        "added": "2022-12-21T12:12:42.089692+00:00",
-        "description": "House committee votes to make public Donald Trump\u2019s personal and business tax records"
-    },
-    "https://www.inquirer.com/news/homicides-philadelphia-2022-gun-violence-crisis-20221220.html": {
-        "title": "Philly records 500 homicides second year in row...",
-        "added": "2022-12-21T12:12:42.089692+00:00",
-        "description": "Philadelphia records 500 homicides for second year in a row, a tragic milestone as the gun violence crisis continues"
-    },
-    "https://www.dailymail.co.uk/news/article-11561027/Terrified-migrants-ditch-dash-border.html": {
-        "title": "Migrants take over streets of El Paso...",
-        "added": "2022-12-21T12:12:42.089692+00:00",
-        "description": "Terrified migrants made last-ditch dash over the border"
-    },
-    "https://thehill.com/changing-america/enrichment/arts-culture/3782032-churchgoing-and-belief-in-god-stand-at-historic-lows-despite-a-megachurch-surge/": {
-        "title": "Churchgoing and belief in God stand at historic lows, despite megachurch surge...",
-        "added": "2022-12-21T12:12:42.089692+00:00",
-        "description": "Churchgoing and belief in God stand at historic lows, despite a\u00a0megachurch\u00a0surge"
-    },
     "https://apnews.com/article/zelenskyy-biden-68c65b3274e552f36f16853f24fedbb9": {
         "title": "ZELENSKY IN WASHINGTON",
         "added": "2022-12-21T12:12:42.089692+00:00",
         "description": "Zelenskyy to meet Biden, address Congress as war rages on"
-    },
-    "https://apnews.com/article/health-mexico-el-paso-shelters-eaee4b47b8f12e078f60aa7c188ecbb3": {
-        "title": "Tens of thousands wait at border for asylum limits to end...",
-        "added": "2022-12-21T12:12:42.089692+00:00",
-        "description": "Tens of thousands wait at border for asylum limits to end"
     },
     "https://www.msn.com/en-us/news/world/biden-administration-to-send-patriot-missile-system-to-ukraine/ar-AA15vT3U": {
         "title": "Biden to send Patriot missile system to Ukraine...",
@@ -373,11 +373,6 @@
         "title": "Clouds Running Out Of Space; Experts Warn Of Global Data Storage...",
         "added": "2022-12-21T01:57:53.939260+00:00",
         "description": "The cloud out of space? Scientists scrambling to prevent global data storage crisis"
-    },
-    "https://finance.yahoo.com/news/elon-musk-twitter-problems-multiplying-223357963.html": {
-        "title": "MUSK TWITTER PROBLEMS MULTIPLYING...",
-        "added": "2022-12-21T01:57:53.939260+00:00",
-        "description": "Elon Musk\u2019s Twitter Problems Are Multiplying"
     },
     "https://twitter.com/ZevShalev": {
         "title": "ZEV SHALEV",
