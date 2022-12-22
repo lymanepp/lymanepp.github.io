@@ -1,4 +1,44 @@
 {
+    "https://www.the-sun.com/news/6929252/ukraine-news-war-russia-latest-putin-2/": {
+        "title": "ZELENSKY SPEECH TO CONGRESS",
+        "added": "2022-12-22T02:00:33.098327+00:00",
+        "description": "Zelensky states Ukraine will never surrender to Russia"
+    },
+    "https://www.fox5ny.com/news/girls-kill-homeless-man-toronto": {
+        "title": "8 girls brutally murder homeless man...",
+        "added": "2022-12-22T02:00:33.098327+00:00",
+        "description": "Eight teen girls charged with killing homeless man in Toronto"
+    },
+    "https://www.cnn.com/2022/12/21/politics/george-santos-geneaology/index.html": {
+        "title": "Congressman-elect lied about grandparents escaping Holocaust, being Jewish...",
+        "added": "2022-12-22T02:00:33.098327+00:00",
+        "description": "Incoming congressman's claims his grandparents fled the Holocaust contradicted by genealogy records | CNN Politics"
+    },
+    "https://www.bloomberg.com/news/articles/2022-12-21/higher-fares-fewer-flights-make-air-travel-a-luxury-for-many": {
+        "title": "Air Travel Becomes a Luxury for Many...",
+        "added": "2022-12-22T02:00:33.098327+00:00",
+        "description": ""
+    },
+    "https://www.accuweather.com/en/winter-weather/denvers-drastic-temperature-drop-could-rival-records/1388713": {
+        "title": "Temps to plunge 68 degrees in Denver!",
+        "added": "2022-12-22T02:00:33.098327+00:00",
+        "description": "Denver's drastic temperature drop could rival records"
+    },
+    "https://thehill.com/homenews/house/3784083-jeffries-blasts-santos-amid-resume-scandal-a-complete-and-utter-fraud/": {
+        "title": "'A complete and utter fraud'...",
+        "added": "2022-12-22T02:00:33.098327+00:00",
+        "description": "Jeffries blasts Santos amid r\u00e9sum\u00e9 scandal: \u2018A complete and utter fraud\u2019"
+    },
+    "https://news.yahoo.com/covid-surge-hits-shanghai-crowded-230657552.html": {
+        "title": "Covid Surge Hits Shanghai With Crowded Hospitals, Empty Streets...",
+        "added": "2022-12-22T02:00:33.098327+00:00",
+        "description": "Covid Surge Hits Shanghai With Crowded Hospitals, Empty Streets"
+    },
+    "https://finance.yahoo.com/news/suddenly-everyone-hunting-alternatives-us-130000587.html": {
+        "title": "Suddenly Everyone Hunting for Alternatives to US Dollar...",
+        "added": "2022-12-22T02:00:33.098327+00:00",
+        "description": "Suddenly Everyone Is Hunting for Alternatives to the US Dollar"
+    },
     "https://www.nytimes.com/2022/12/21/business/media/sean-hannity-fox-trump-election.html": {
         "title": "In Testimony, FOX Employees Said They Doubted Trump Fraud Claims...",
         "added": "2022-12-21T23:06:50.840024+00:00",
@@ -274,21 +314,6 @@
         "added": "2022-12-21T02:31:47.860630+00:00",
         "description": "Media Groups Shed $500bn In Value As Shares Head For Historic Drop - WorldNewsEra"
     },
-    "https://www.fox5ny.com/news/nyc-council-erik-bottcher-anti-drag-protesters": {
-        "title": "Gay NYC lawmaker targeted by drag show protesters...",
-        "added": "2022-12-21T01:57:53.939260+00:00",
-        "description": "NYC council member\u2019s home targeted by anti-drag protesters"
-    },
-    "https://www.cnbc.com/quotes/TSLA": {
-        "title": "TESLA FIRE SALE DEEPENS...",
-        "added": "2022-12-21T01:57:53.939260+00:00",
-        "description": "Check out Tesla's stock price (TSLA) in real time"
-    },
-    "https://www.cbsnews.com/news/trump-tearing-documents-aide-nick-luna-testified-jan-6-committee/": {
-        "title": "Aide:  Saw him tearing-up documents...",
-        "added": "2022-12-21T01:57:53.939260+00:00",
-        "description": "Exclusive: Trump aide testified he saw Trump \"tearing\" documents; Meadows also once told him, \"Don't come into the room\""
-    },
     "https://www.accuweather.com/en/winter-weather/winter-storm-watches-issued-across-central-us-as-millions-brace-for-blizzard-conditions/1387482": {
         "title": "Winter solstice storm threatens major travel delays....",
         "added": "2022-12-21T01:57:53.939260+00:00",
@@ -304,40 +329,10 @@
         "added": "2022-12-21T01:57:53.939260+00:00",
         "description": "The cloud out of space? Scientists scrambling to prevent global data storage crisis"
     },
-    "https://nypost.com/2022/12/20/man-with-wwi-explosive-lodged-in-his-rectum-sparks-bomb-scare-hospital-evacuation/": {
-        "title": "Man with explosive lodged in rectum sparks bomb scare...",
-        "added": "2022-12-21T01:57:53.939260+00:00",
-        "description": "Man with WWI explosive lodged in his rectum sparks bomb scare, hospital evacuation"
-    },
-    "https://nypost.com/2022/12/20/girl-scout-mom-banned-from-radio-city-rockettes-in-msg-crackdown/": {
-        "title": "Face Recognition Gets Mom Booted From ROCKETTES Show...",
-        "added": "2022-12-21T01:57:53.939260+00:00",
-        "description": "I\u2019m a Girl Scout mom who got kicked out of Rockettes show because of my job"
-    },
-    "https://news.yahoo.com/surrender-drone-ukraine-urging-russian-125929022.html": {
-        "title": "Soldiers Surrender to Drones...",
-        "added": "2022-12-21T01:57:53.939260+00:00",
-        "description": "Surrender to a Drone? Ukraine Is Urging Russian Soldiers to Do Just That."
-    },
-    "https://finance.yahoo.com/news/musk-twitter-draws-deeper-ftc-185636562.html": {
-        "title": "FTC deepens probe into privacy, security practices...",
-        "added": "2022-12-21T01:57:53.939260+00:00",
-        "description": "Musk\u2019s Twitter Draws Deeper FTC Scrutiny Over Rising Privacy, Security Concerns"
-    },
     "https://finance.yahoo.com/news/elon-musk-twitter-problems-multiplying-223357963.html": {
         "title": "MUSK TWITTER PROBLEMS MULTIPLYING...",
         "added": "2022-12-21T01:57:53.939260+00:00",
         "description": "Elon Musk\u2019s Twitter Problems Are Multiplying"
-    },
-    "https://apnews.com/article/russia-ukraine-zelenskyy-biden-e7ff8b76657a778d4921b7345682966c": {
-        "title": "Zelensky Goes to Washington; Plans address to Congress...",
-        "added": "2022-12-21T01:57:53.939260+00:00",
-        "description": "Ukraine's Zelenskyy preparing to visit DC on Wednesday"
-    },
-    "https://apnews.com/article/business-donald-trump-richard-neal-c697c4e300948a9e2638d0d9fbbe2f96": {
-        "title": "NEXT: TAX RETURNS",
-        "added": "2022-12-21T01:57:53.939260+00:00",
-        "description": "Trump taxes: House panel to release report on returns"
     },
     "https://twitter.com/ZevShalev": {
         "title": "ZEV SHALEV",
