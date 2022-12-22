@@ -1,4 +1,19 @@
 {
+    "https://news.yahoo.com/pope-denounces-psychological-abuse-jesuit-120525074.html": {
+        "title": "Denounces psychological abuse as Jesuit case rocks Church...",
+        "added": "2022-12-22T13:14:01.415873+00:00",
+        "description": "Pope denounces psychological abuse as Jesuit case rocks Church"
+    },
+    "https://flightaware.com/live/cancelled": {
+        "title": "AIRLINES CANCEL FLIGHTS...",
+        "added": "2022-12-22T13:14:01.415873+00:00",
+        "description": "Live Airline Flight Cancellations Info & Statistics - FlightAware"
+    },
+    "https://electrek.co/2022/12/22/tesla-offers-discounts-in-canada-mexico-raising-demand-concerns/": {
+        "title": "TESLA doubles discounts on vehicles; Demand concerns...",
+        "added": "2022-12-22T13:14:01.415873+00:00",
+        "description": "Tesla offers discounts in Canada/Mexico, raising demand concerns"
+    },
     "https://www.bloomberg.com/graphics/2022-crypto-contagion-from-bitcoin-to-FTX/": {
         "title": "All The Ways Crypto Broke in '22...",
         "added": "2022-12-22T12:45:48.598772+00:00",
@@ -303,26 +318,6 @@
         "title": "Destruction, tears and tenacity in NorCal towns battered by quake...",
         "added": "2022-12-21T13:47:04.868192+00:00",
         "description": "Destruction, tears and tenacity in California towns battered by earthquake"
-    },
-    "https://thehill.com/policy/international/3783260-kremlin-warns-more-us-arms-shipments-to-ukraine-would-mark-aggravation-of-the-conflict/": {
-        "title": "Kremlin warns more arms shipments mark 'aggravation of conflict'...",
-        "added": "2022-12-21T13:13:54.401594+00:00",
-        "description": "Kremlin warns more US arms shipments to Ukraine would mark \u2018aggravation of the conflict\u2019"
-    },
-    "https://finance.yahoo.com/news/tesla-freeze-hiring-lay-off-113310619.html": {
-        "title": "TESLA TO FREEZE HIRING, LAY OFF EMPLOYEES...",
-        "added": "2022-12-21T13:13:54.401594+00:00",
-        "description": "Tesla to freeze hiring, lay off employees next quarter - Electrek"
-    },
-    "https://apnews.com/article/russia-ukraine-europe-3ae1bccfb0ef34dbe363f7c289ce7934": {
-        "title": "'We will find you:' Russians hunt targets on lists...",
-        "added": "2022-12-21T13:13:54.401594+00:00",
-        "description": "'We will find you:' Russians hunt down Ukrainians on lists"
-    },
-    "https://apnews.com/article/british-politics-health-business-strikes-6535ebe5544e1bbe4d0a2240a8756f13": {
-        "title": "Don't get drunk: Govt urges caution...",
-        "added": "2022-12-21T13:13:54.401594+00:00",
-        "description": "Don't get drunk: UK govt urges caution amid ambulance strike"
     },
     "https://www.msn.com/en-us/news/politics/private-jet-costs-sketchy-deductions-among-red-flags-in-trump-taxes/ar-AA15w0ck": {
         "title": "Private Jet Costs, Sketchy Deductions Among Red Flags in Trump Taxes...",
