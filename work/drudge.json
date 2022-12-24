@@ -1,4 +1,19 @@
 {
+    "https://www.accuweather.com/en/winter-weather/live-news/live-updates-blizzard-bomb-cyclone-creates-chaos-before-christmas/1430072": {
+        "title": "STORM CHAOS",
+        "added": "2022-12-24T14:05:38.554148+00:00",
+        "description": "LIVE: Death toll climbs, over 1M without power amid bitter cold on Christmas Eve"
+    },
+    "https://www.accuweather.com/en/winter-weather/buffalo-buried-in-record-setting-snowfall-amid-mega-lake-effect-blizzard/1429773": {
+        "title": "Buffalo buried in record snow!",
+        "added": "2022-12-24T14:05:38.554148+00:00",
+        "description": "Buffalo buried in record-setting snowfall amid mega lake-effect blizzard"
+    },
+    "https://apnews.com/article/weather-business-storms-canada-accidents-7dcf12998cf2112af9ddc499997d2759": {
+        "title": "Wild winter front envelops USA...",
+        "added": "2022-12-24T14:05:38.554148+00:00",
+        "description": "Wild winter storm envelops US, snarling Christmas travel"
+    },
     "https://www.the-sun.com/news/6980582/boston-flooding-long-wharf-underwater-power-outages/": {
         "title": "Boston flooding...",
         "added": "2022-12-23T23:06:48.979915+00:00",
@@ -258,11 +273,6 @@
         "title": "Christmas toy bandit strikes Atlanta...",
         "added": "2022-12-23T00:35:45.455287+00:00",
         "description": "Christmas toy bandit strikes Atlanta nonprofit"
-    },
-    "https://www.accuweather.com/en/winter-weather/live-news/live-updates-winter-storm-blizzard-create-travel-chaos-ahead-of-christmas/1426762": {
-        "title": "XMAS STORM TRAVEL CHAOS",
-        "added": "2022-12-22T16:34:10.668170+00:00",
-        "description": "LIVE: Intensifying winter storm creates travel chaos ahead of Christmas"
     },
     "http://hp2.wright-weather.com/icons/us_chill.gif": {
         "title": "CHILL MAP...",
