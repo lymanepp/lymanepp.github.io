@@ -1,4 +1,14 @@
 {
+    "https://www.accuweather.com/en/winter-weather/deadly-lake-effect-blizzard-buries-buffalo-in-nearly-4-feet-of-snow/1429773": {
+        "title": "Blizzard buries Buffalo in 4 feet of snow...",
+        "added": "2022-12-26T11:46:40.656481+00:00",
+        "description": "Deadly lake-effect blizzard buries Buffalo in nearly 4 feet of snow"
+    },
+    "https://apnews.com/article/weather-canada-business-storms-winter-f1efe43064cdae9eb2042db45491b56f": {
+        "title": "Woes from deadly storm continue across USA...",
+        "added": "2022-12-26T11:46:40.656481+00:00",
+        "description": "Extreme cold, travel chaos: Woes from deadly storm continue"
+    },
     "https://www.fox5ny.com/news/christmas-storm-buffalo": {
         "title": "NY gov calls storm 'worst in history'...",
         "added": "2022-12-25T17:22:10.319690+00:00",
@@ -114,11 +124,6 @@
         "added": "2022-12-25T11:05:03.973620+00:00",
         "description": "Western Wall: Chaos breaks out between guards, Women of the Wall"
     },
-    "https://news.yahoo.com/us-declares-texas-grid-emergency-180011531.html": {
-        "title": "TX Grid Emergency...",
-        "added": "2022-12-24T19:04:37.939571+00:00",
-        "description": "US Declares Texas Grid Emergency in Arctic Blast"
-    },
     "https://dnyuz.com/2022/12/24/arizona-judge-rejects-kari-lakes-effort-to-overturn-her-election-loss/": {
         "title": "AZ Judge Rejects Kari Lake Effort to Overturn Election Loss...",
         "added": "2022-12-24T18:34:53.733952+00:00",
@@ -144,21 +149,6 @@
         "added": "2022-12-24T16:08:07.931919+00:00",
         "description": "Christmas reborn in Bethlehem after pandemic years"
     },
-    "https://thehill.com/homenews/state-watch/3787450-hochul-deploys-national-guard-to-buffalo-region-as-life-threatening-storm-batters-area/": {
-        "title": "National Guard deployed...",
-        "added": "2022-12-24T16:08:07.931919+00:00",
-        "description": "Hochul deploys National Guard to Buffalo region as \u2018life threatening\u2019 storm batters area"
-    },
-    "https://www.washingtonexaminer.com/policy/economy/debt-threatens-us-economy": {
-        "title": "Five ways $31 trillion national debt threatens economy...",
-        "added": "2022-12-24T15:23:14.806178+00:00",
-        "description": "Fiscal doom: Five ways the $31 trillion national debt threatens the economy"
-    },
-    "https://poll.fm/11271441": {
-        "title": "**DRUDGE POLL** SHOULD KEVIN MCCARTHY LEAD REPUBLICANS IN HOUSE?",
-        "added": "2022-12-24T15:23:14.806178+00:00",
-        "description": ""
-    },
     "https://nypost.com/2022/12/23/tom-brady-focused-on-division-title-as-future-speculation-brews/": {
         "title": "SUNDAY: Brady focused on division title as future speculation brews...",
         "added": "2022-12-24T15:06:17.516770+00:00",
@@ -174,20 +164,10 @@
         "added": "2022-12-24T14:46:43.689286+00:00",
         "description": "Movie fans can sue over misleading trailer, says US judge"
     },
-    "https://apnews.com/article/donald-trump-georgia-a66edf8ccbf51924b76d7a4e7fcd1e16": {
-        "title": "GA special grand jury wraps up probe of The Don, allies...",
-        "added": "2022-12-24T14:46:43.689286+00:00",
-        "description": "Georgia special grand jury wraps up probe of Trump, allies"
-    },
     "https://www.msn.com/en-us/money/realestate/florida-leads-us-population-growth-for-first-time-in-65-years/ar-AA15BQmt": {
         "title": "Florida Leads Population Growth First Time in 65 Years...",
         "added": "2022-12-24T14:32:05.450552+00:00",
         "description": "Florida Leads US Population Growth for First Time in 65 Years"
-    },
-    "https://dnyuz.com/2022/12/23/americans-are-realizing-tesla-isnt-the-only-electric-car/": {
-        "title": "Americans Realizing It Isn't Only Electric Car...",
-        "added": "2022-12-24T14:32:05.450552+00:00",
-        "description": "Americans Are Realizing Tesla Isn\u2019t the Only Electric Car"
     },
     "https://www.the-sun.com/tech/6934832/ai-machines-humans-decisions-experts-warn/": {
         "title": "AI machines could 'control humans' and make decisions for us, experts warn...",
@@ -199,20 +179,10 @@
         "added": "2022-12-24T14:21:26.331824+00:00",
         "description": "King Charles throws disgraced Prince Andrew out of Buckingham Palace"
     },
-    "https://www.msn.com/en-us/news/politics/republicans-play-chicken-with-kevin-mccarthy-s-speakership/ar-AA15AXYH": {
-        "title": "MCCARTHY SPEAKER SHOWDOWN...",
-        "added": "2022-12-24T14:21:26.331824+00:00",
-        "description": "Republicans Play Chicken With Kevin McCarthy\u2019s Speakership"
-    },
     "https://www.express.co.uk/news/royal/1713645/king-charles-christmas-speech-meghan-markle-prince-harry-queen": {
         "title": "Charles to ignore Meghan and Harry in historic Christmas speech...",
         "added": "2022-12-24T14:21:26.331824+00:00",
         "description": "King Charles tipped to ignore Meghan and Harry in Christmas speech"
-    },
-    "https://thehill.com/homenews/3786818-with-eyes-on-doj-a-complex-path-for-trump-jan-6-prosecution/": {
-        "title": "With eyes on DOJ, complex path for Trump Jan. 6 prosecution...",
-        "added": "2022-12-24T14:21:26.331824+00:00",
-        "description": "With eyes on DOJ, a complex path for Trump Jan. 6 prosecution"
     },
     "https://apnews.com/article/health-china-beijing-covid-d0718b53ded7fb1a70c2db8e564ed072": {
         "title": "Packed ICUs, crowded crematoriums: COVID roils Chinese towns...",
@@ -223,21 +193,6 @@
         "title": "STORM CHAOS",
         "added": "2022-12-24T14:05:38.554148+00:00",
         "description": "LIVE: Death toll climbs, over 1M without power amid bitter cold on Christmas Eve"
-    },
-    "https://www.accuweather.com/en/winter-weather/buffalo-buried-in-record-setting-snowfall-amid-mega-lake-effect-blizzard/1429773": {
-        "title": "Buffalo buried in record snow!",
-        "added": "2022-12-24T14:05:38.554148+00:00",
-        "description": "Buffalo buried in record-setting snowfall amid mega lake-effect blizzard"
-    },
-    "https://apnews.com/article/weather-business-storms-canada-accidents-7dcf12998cf2112af9ddc499997d2759": {
-        "title": "Wild winter front envelops USA...",
-        "added": "2022-12-24T14:05:38.554148+00:00",
-        "description": "Wild winter storm envelops US, snarling Christmas travel"
-    },
-    "https://apnews.com/article/winter-storm-forecast-updates-d0808da42ce16e8a0ca4541b747572cb": {
-        "title": "Historic winter blast batters USA...",
-        "added": "2022-12-23T15:24:48.614222+00:00",
-        "description": "Massive winter storm brings frigid temps, snow and ice to US"
     },
     "https://www.the-sun.com/news/6971225/bomb-cyclone-2022-updates-travel-flight-cancellations-christmas/": {
         "title": "THE COLDEST XMAS",
