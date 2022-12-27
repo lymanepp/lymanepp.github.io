@@ -1,4 +1,24 @@
 {
+    "https://www.cnn.com/travel/article/southwest-flight-cancellations-winter-storm-tuesday/index.html": {
+        "title": "TRAVEL HELL",
+        "added": "2022-12-27T11:46:57.041690+00:00",
+        "description": "Southwest Airlines continues canceling flights as New Year holiday approaches"
+    },
+    "https://www.cnn.com/2022/12/26/politics/george-santos-admits-embellishing-resume/index.html": {
+        "title": "VOWS TO STILL TAKE OATH...",
+        "added": "2022-12-27T11:46:57.041690+00:00",
+        "description": "Rep.-elect George Santos admits to lying about resume, says he's 'not a criminal' | CNN Politics"
+    },
+    "https://www.chron.com/business/article/Southwest-Air-Faces-Gridlock-With-Over-80-of-17678321.php": {
+        "title": "SOUTHWEST SYSTEM MELTDOWN",
+        "added": "2022-12-27T11:46:57.041690+00:00",
+        "description": "Southwest Storm Chaos to Continue as Flight Schedules Slashed"
+    },
+    "https://apnews.com/article/2022-midterm-elections-business-bb455cc02b70e5366b9c5e347da8ad38": {
+        "title": "QUESTIONS REMAIN...",
+        "added": "2022-12-27T11:46:57.041690+00:00",
+        "description": "NY Rep.-elect Santos admits lying about career, college"
+    },
     "https://www.washingtonexaminer.com/news/campaigns/mike-pence-spokesman-denies-entered-2024-presidential-race-fec-filing": {
         "title": "PENCE PRANK? Spokesman shoots down '24 speculation after FEC filing...",
         "added": "2022-12-26T23:06:40.350735+00:00",
@@ -293,11 +313,6 @@
         "title": "Election-denier 'terrorists'...",
         "added": "2022-12-26T12:12:28.823764+00:00",
         "description": "Brazil election-denier 'terrorists' threaten Lula's inauguration, new minister says"
-    },
-    "https://www.accuweather.com/en/winter-weather/deadly-lake-effect-blizzard-buries-buffalo-in-nearly-4-feet-of-snow/1429773": {
-        "title": "Blizzard buries Buffalo in 4 feet of snow...",
-        "added": "2022-12-26T11:46:40.656481+00:00",
-        "description": "Deadly lake-effect blizzard buries Buffalo in nearly 4 feet of snow"
     },
     "https://apnews.com/article/weather-canada-business-storms-winter-f1efe43064cdae9eb2042db45491b56f": {
         "title": "Woes from deadly storm continue across USA...",
