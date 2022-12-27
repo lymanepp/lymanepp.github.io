@@ -1,4 +1,9 @@
 {
+    "https://www.cnbc.com/quotes/TSLA?qsearchterm=tsla": {
+        "title": "TESLA FIRE SALE CONTINUES...",
+        "added": "2022-12-27T13:26:53.009474+00:00",
+        "description": "Check out Tesla's stock price (TSLA) in real time"
+    },
     "https://www.theguardian.com/us-news/2022/dec/27/new-york-snowstorm-death-toll-us-winter-storm-buffalo": {
         "title": "9 more inches today!?",
         "added": "2022-12-27T13:01:21.436459+00:00",
@@ -323,11 +328,6 @@
         "title": "SKorea launches jets, fires shots after North flies drones...",
         "added": "2022-12-26T13:27:19.280376+00:00",
         "description": "S. Korea launches jets, fires shots after North flies drones"
-    },
-    "https://www.yahoo.com/now/brazil-boost-security-lula-inauguration-011311709.html": {
-        "title": "Brazil boosts security for Lula inauguration after bomb threat...",
-        "added": "2022-12-26T12:12:28.823764+00:00",
-        "description": "Brazil to Boost Security for Lula Inauguration After Bomb Threat"
     },
     "https://twitter.com/ZevShalev": {
         "title": "ZEV SHALEV",
