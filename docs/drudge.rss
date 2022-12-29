@@ -5,6 +5,11 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>Inside San Fran's far left sanctuary...</title>
+      <link>https://www.sfgate.com/local/article/san-francisco-shop-bolerium-books-17674102.php</link>
+      <description>sfgate.com • This SF bookstore is hidden to passersby — and it's thriving</description>
+    </item>
+    <item>
       <title>Newsom's moderate course angers critics as profile rises...</title>
       <link>https://www.politico.com/news/2022/12/29/gavin-newsom-moderate-national-profile-00075172</link>
       <description>politico.com • Newsom’s moderate course in California angers critics as his national profile rises</description>
@@ -298,21 +303,6 @@
       <title>Nuke plant outages...</title>
       <link>https://www.nasdaq.com/articles/u.s.-nuclear-power-plant-outages</link>
       <description>nasdaq.com • U.S. nuclear power plant outages</description>
-    </item>
-    <item>
-      <title>Winds hit 150 mph as storm batters Tahoe...</title>
-      <link>https://www.sfgate.com/weather/article/massive-winter-storm-in-tahoe-17679505.php</link>
-      <description>sfgate.com • 'It's intense': Winds hit 150 mph as massive storm batters Tahoe</description>
-    </item>
-    <item>
-      <title>HERE WE GO AGAIN:</title>
-      <link>https://www.cnbc.com/2022/12/28/us-will-require-airline-passengers-traveling-from-china-to-test-negative-for-covid-.html</link>
-      <description>cnbc.com • U.S. will require airline passengers traveling from China to test negative for Covid</description>
-    </item>
-    <item>
-      <title>Cuban exodus to USA largest in history...</title>
-      <link>https://dnyuz.com/2022/12/27/you-lose-hope-cuban-exodus-to-us-largest-in-islands-history/</link>
-      <description>dnyuz.com • ‘You lose hope’: Cuban exodus to US largest in island’s history</description>
     </item>
   </channel>
 </rss>
