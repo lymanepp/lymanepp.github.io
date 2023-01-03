@@ -1,4 +1,9 @@
 {
+    "https://www.cnbc.com/quotes/TSLA/": {
+        "title": "MORE TESLA STOCK BLEEDING...",
+        "added": "2023-01-03T15:34:01.592813+00:00",
+        "description": "Check out Tesla's stock price (TSLA) in real time"
+    },
     "https://www.msn.com/en-us/sports/more-sports/what-happened-to-critically-injured-nfl-player-damar-hamlin-a-cardiologist-explains/ar-AA15UUtC": {
         "title": "What happened? Cardiologist explains...",
         "added": "2023-01-03T15:25:55.414182+00:00",
@@ -318,11 +323,6 @@
         "title": "CAN KING HEAL RIFT BETWEEN WARRING SONS?",
         "added": "2023-01-02T04:29:03.152953+00:00",
         "description": "Harry and William's relationship is now 'hanging by a thread'"
-    },
-    "https://nypost.com/2023/01/01/twitter-sued-for-not-paying-rent-on-san-francisco-hq-since-elon-musk-takeover/": {
-        "title": "UPDATE:  TWITTER sued for not paying rent on HQ...",
-        "added": "2023-01-02T04:29:03.152953+00:00",
-        "description": "Twitter sued for not paying rent on San Francisco HQ since Elon Musk takeover"
     },
     "https://twitter.com/ZevShalev": {
         "title": "ZEV SHALEV",
