@@ -1,4 +1,14 @@
 {
+    "https://www.cnbc.com/quotes/TSLA?qsearchterm=tsla": {
+        "title": "STOCK COLLAPSE...",
+        "added": "2023-01-06T13:47:01.984147+00:00",
+        "description": "Check out Tesla's stock price (TSLA) in real time"
+    },
+    "https://www.cnbc.com/2023/01/06/jobs-report-december-2022-nonfarm-payrolls-rose-223000-in-december-as-strong-jobs-market-tops-expectations.html": {
+        "title": "Jobs report keeps pressure on Fed...",
+        "added": "2023-01-06T13:47:01.984147+00:00",
+        "description": "Nonfarm payrolls rose 223,000 in December, as strong jobs market tops expectations"
+    },
     "https://www.bloomberg.com/news/articles/2023-01-06/tesla-set-to-fall-below-meta-in-big-tech-market-cap-reshuffle": {
         "title": "TESLA Set to Fall Below META in Big Tech Market Cap Reshuffle...",
         "added": "2023-01-06T13:30:33.859553+00:00",
@@ -288,11 +298,6 @@
         "title": "MEGA DRAMA FOR MAGA",
         "added": "2023-01-05T14:06:52.824370+00:00",
         "description": "House speaker election drags into third day as McCarthy searches for support"
-    },
-    "https://news.yahoo.com/new-xbb-15-covid-variant-most-transmissible-yet-detected-senior-who-official-warns-175723318.html": {
-        "title": "WHO concern over covid variant XBB.1.5...",
-        "added": "2023-01-05T13:46:45.244839+00:00",
-        "description": "New XBB.1.5 COVID variant 'most transmissible' yet detected, senior WHO official warns"
     },
     "https://www.newzit.com/": {
         "title": "NEWZIT",

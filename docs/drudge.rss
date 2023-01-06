@@ -5,6 +5,16 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>STOCK COLLAPSE...</title>
+      <link>https://www.cnbc.com/quotes/TSLA?qsearchterm=tsla</link>
+      <description>cnbc.com • Check out Tesla's stock price (TSLA) in real time</description>
+    </item>
+    <item>
+      <title>Jobs report keeps pressure on Fed...</title>
+      <link>https://www.cnbc.com/2023/01/06/jobs-report-december-2022-nonfarm-payrolls-rose-223000-in-december-as-strong-jobs-market-tops-expectations.html</link>
+      <description>cnbc.com • Nonfarm payrolls rose 223,000 in December, as strong jobs market tops expectations</description>
+    </item>
+    <item>
       <title>TESLA Set to Fall Below META in Big Tech Market Cap Reshuffle...</title>
       <link>https://www.bloomberg.com/news/articles/2023-01-06/tesla-set-to-fall-below-meta-in-big-tech-market-cap-reshuffle</link>
       <description>bloomberg.com</description>
@@ -293,11 +303,6 @@
       <title>MEGA DRAMA FOR MAGA</title>
       <link>https://www.cbsnews.com/live-updates/house-speaker-race-vote-kevin-mccarthy-watch-live-stream-today-2022-01-05/</link>
       <description>cbsnews.com • House speaker election drags into third day as McCarthy searches for support</description>
-    </item>
-    <item>
-      <title>WHO concern over covid variant XBB.1.5...</title>
-      <link>https://news.yahoo.com/new-xbb-15-covid-variant-most-transmissible-yet-detected-senior-who-official-warns-175723318.html</link>
-      <description>news.yahoo.com • New XBB.1.5 COVID variant 'most transmissible' yet detected, senior WHO official warns</description>
     </item>
   </channel>
 </rss>
