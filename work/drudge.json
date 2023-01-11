@@ -1,4 +1,24 @@
 {
+    "https://www.nbcnews.com/news/us-news/live-blog/faa-computer-outage-live-updates-flights-us-affected-rcna65248": {
+        "title": "UPDATES...",
+        "added": "2023-01-11T12:48:46.677056+00:00",
+        "description": "FAA computer outage live updates: All airlines ordered to pause domestic flights"
+    },
+    "https://www.cnbc.com/2023/01/11/faa-orders-airlines-to-pause-departures-until-9-am-et-after-system-outage.html": {
+        "title": "ALL DEPARTURES PAUSED...",
+        "added": "2023-01-11T12:48:46.677056+00:00",
+        "description": "FAA orders airlines to pause departures after system outage"
+    },
+    "https://www.cbsnews.com/news/california-storms-race-to-clean-up-make-repairs-ahead-of-expected-rain-resumption/": {
+        "title": "SWEPT AWAY",
+        "added": "2023-01-11T12:48:46.677056+00:00",
+        "description": "Storm-pummeled California rushes to clean up and start repairs ahead of expected rain resumption"
+    },
+    "https://nypost.com/2023/01/10/austin-butlers-cringe-fake-voice-at-the-2023-golden-globes-called-out/": {
+        "title": "Austin Butler 'cringe' fake voice...",
+        "added": "2023-01-11T12:48:46.677056+00:00",
+        "description": "Austin Butler\u2019s \u2018cringe\u2019 fake voice at the 2023 Golden Globes called out"
+    },
     "https://www.msn.com/en-us/news/world/bolsonaro-shares-deletes-video-with-voter-fraud-conspiracy/ar-AA16cPtS": {
         "title": "Bolsonaro Shares, Deletes Video With Voter Fraud Conspiracy...",
         "added": "2023-01-11T12:14:05.084899+00:00",
@@ -268,26 +288,6 @@
         "title": "Jamie Dimon Says Fed May Need to Hike Interest Rates Beyond 5%...",
         "added": "2023-01-10T13:16:57.777808+00:00",
         "description": "Jamie Dimon Says Fed May Need to Hike Interest Rates Beyond 5%"
-    },
-    "https://www.cnbc.com/2023/01/10/coinbase-to-slash-20percent-of-workforce-in-second-major-round-of-job-cuts.html": {
-        "title": "More Crypto Pain as COINBASE Slashes 20% of Workforce...",
-        "added": "2023-01-10T12:47:59.856310+00:00",
-        "description": "Coinbase to slash 20% of workforce in second major round of job cuts"
-    },
-    "https://www.bnnbloomberg.ca/this-firm-fines-employees-1-200-if-they-disturb-colleagues-on-vacation-1.1868040": {
-        "title": "This Firm Fines Employees $1,200 If They Disturb Colleagues on Vacation...",
-        "added": "2023-01-10T12:47:59.856310+00:00",
-        "description": "This Firm Fines Employees $1,200 If They Disturb Colleagues on Vacation - BNN Bloomberg"
-    },
-    "https://thehill.com/regulation/court-battles/3805934-tarrio-proud-boys-set-for-trial-on-seditious-conspiracy-charges/": {
-        "title": "Proud Boys Seditious Trial Opens...",
-        "added": "2023-01-10T12:47:59.856310+00:00",
-        "description": "Tarrio, Proud Boys set for trial on seditious conspiracy charges"
-    },
-    "https://dnyuz.com/2023/01/10/can-ron-desantis-avoid-meeting-the-press/": {
-        "title": "Can DeSantis Avoid Meeting the Press?",
-        "added": "2023-01-10T12:47:59.856310+00:00",
-        "description": "Can Ron DeSantis Avoid Meeting the Press?"
     },
     "https://www.msn.com/en-us/health/weightloss/it-s-not-just-what-you-eat-but-the-time-of-day-you-eat-it/ar-AA16a2D3": {
         "title": "It's not just what you eat, but time of day you eat it...",
