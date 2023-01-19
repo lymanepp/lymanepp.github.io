@@ -1,4 +1,14 @@
 {
+    "https://www.bbc.com/news/world-us-canada-64337403": {
+        "title": "Egg prices rise. So do seizures at US border...",
+        "added": "2023-01-19T21:06:46.193255+00:00",
+        "description": "As egg prices rise, so do seizures at US border"
+    },
+    "https://www.bbc.com/news/world-europe-64309155": {
+        "title": "1 million protest France plan to rise retirement age to 64...",
+        "added": "2023-01-19T21:06:46.193255+00:00",
+        "description": "France strikes: One million protest against Macron's rise in retirement age"
+    },
     "https://www.politico.com/news/magazine/2023/01/19/marie-gluenskamp-perez-democrats-middle-class-00078215": {
         "title": "She Fixes Cars. Can She Fix Elitism Problem?",
         "added": "2023-01-19T20:46:45.917135+00:00",
@@ -323,26 +333,6 @@
         "title": "Bankman-Fried Sunk $10M Into Media Start-up SEMAFOR...",
         "added": "2023-01-18T21:22:25.863725+00:00",
         "description": "Media Start-up Semafor Plans to Buy Out Sam Bankman-Fried\u2019s Investment"
-    },
-    "https://www.mediaite.com/sports/liv-golfs-patrick-reed-threatens-cnn-with-450-million-defamation-lawsuit-demands-public-apology-from-jake-tapper/": {
-        "title": "LIV Golfer Threatens CNN With $450 Million Suit...",
-        "added": "2023-01-18T21:06:38.309425+00:00",
-        "description": "LIV Golf\u2019s Patrick Reed Threatens CNN With $450 Million Suit Over Jake Tapper Segment \u2014 CNN Calls Threat \u2018Completely Frivolous\u2019"
-    },
-    "https://www.cnn.com/2023/01/18/politics/donald-trump-evangelicals-2024/index.html": {
-        "title": "Criticizes evangelical leaders for not backing...",
-        "added": "2023-01-18T21:06:38.309425+00:00",
-        "description": "Trump criticizes evangelical leaders for not backing his 2024 presidential bid | CNN Politics"
-    },
-    "https://www.npr.org/2023/01/18/1149748001/world-oldest-person-sister-andre-lucile-randon-france-nun": {
-        "title": "World's oldest person dead at 118...",
-        "added": "2023-01-18T20:46:47.295578+00:00",
-        "description": "The world's oldest person, Sister Andr\u00e9 of France, dies at age 118"
-    },
-    "https://www.wired.com/story/dex-pig-slaughterhouse-gas-chambers-videos/": {
-        "title": "Spy Cams Reveal Grim Reality of Slaughterhouse Gas Chambers...",
-        "added": "2023-01-18T19:19:11.558923+00:00",
-        "description": "Spy Cams Reveal the Grim Reality of Slaughterhouse Gas Chambers"
     },
     "https://nypost.com/2023/01/18/george-santos-allegedly-stole-3k-in-donations-for-veterans-dying-service-dog/": {
         "title": "Stole donations for veteran's dying service dog?",
