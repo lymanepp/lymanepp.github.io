@@ -1,4 +1,9 @@
 {
+    "https://finance.yahoo.com/news/netanyahu-says-response-jerusalem-attack-182404164.html": {
+        "title": "Netanyahu vows 'strong, swift and precise' response...",
+        "added": "2023-01-28T19:05:17.622783+00:00",
+        "description": "Netanyahu says response to Jerusalem attack will be 'strong, swift and precise'"
+    },
     "https://thedispatch.com/article/nikki-haleys-campaign-in-waiting-starts-its-engines/": {
         "title": "Haley gets ready...",
         "added": "2023-01-28T18:35:08.588126+00:00",
@@ -273,11 +278,6 @@
         "title": "Russians react with defiance, anger and worry...",
         "added": "2023-01-27T19:31:56.315236+00:00",
         "description": "\"It\u2019s disgusting\": Russians react with defiance, anger and worry as a new phase of war looms"
-    },
-    "https://www.jpost.com/breaking-news/article-729860": {
-        "title": "Suspected terror attack in Jerusalem: 5 dead, multiple injured... Developing...",
-        "added": "2023-01-27T18:46:53.552701+00:00",
-        "description": "Suspected terror attack in Neve Yaakov, Jerusalem, 5 dead, some injured"
     },
     "https://www.businessinsider.com/charles-mcgonigal-fbi-indictment-allison-guerriero-russia-deripaska-spies-nypd-giuliani-2023-1": {
         "title": "Inside Cash-Fueled Double Life of FBI Spy Hunter Accused of Russia Ties...",
