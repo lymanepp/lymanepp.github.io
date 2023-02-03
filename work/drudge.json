@@ -1,4 +1,14 @@
 {
+    "https://www.cnbc.com/2023/02/03/jobs-report-january-2023-.html": {
+        "title": "JOBS BLOWOUT: PAYROLLS INCREASE 517K...",
+        "added": "2023-02-03T13:47:00.116752+00:00",
+        "description": "Payrolls increased by 517,000 in January, much better than 187,000 expected"
+    },
+    "https://apnews.com/article/us-january-jobs-report-f53c7dc42f996cfa96c80c9128de2831": {
+        "title": "UNEMPLOYMENT 53-YEAR LOW...",
+        "added": "2023-02-03T13:47:00.116752+00:00",
+        "description": "US adds a surprisingly strong 517,000 jobs despite Fed hikes"
+    },
     "https://time.com/6250118/elon-musk-should-not-be-in-charge-of-the-night-sky/": {
         "title": "SPACEX JUNK: Musk Should Not Be In Charge of Night Sky...",
         "added": "2023-02-03T13:30:42.002549+00:00",
@@ -328,26 +338,6 @@
         "title": "Brazilian senator says Bolsonaro tried to coerce him into staging coup...",
         "added": "2023-02-02T14:06:48.593640+00:00",
         "description": "Brazilian senator says ex president Bolsonaro tried to coerce him into staging a coup: report"
-    },
-    "https://www.msn.com/en-us/news/politics/laptop-email-suggests-hunter-biden-read-newspapers-not-classified-documents/ar-AA171pa4": {
-        "title": "Debunking 'cut-and-pasted classified' email...",
-        "added": "2023-02-02T13:46:51.119690+00:00",
-        "description": "Laptop email suggests Hunter Biden read newspapers, not classified documents"
-    },
-    "https://www.the-sun.com/news/7288882/warning-russia-ukraine-war-anniversary/": {
-        "title": "'GAIN WORLD'S ATTENTION'",
-        "added": "2023-02-02T13:38:54.148126+00:00",
-        "description": "Russia warns it 'will gain world's attention' on Feb 24 invasion anniversary"
-    },
-    "https://www.the-sun.com/news/7287999/putin-new-assault-ukraine-date/": {
-        "title": "PUTIN'S 500,000 TROOP ASSAULT",
-        "added": "2023-02-02T13:38:54.148126+00:00",
-        "description": "Putin preparing new assault with 500k men & Ukraine think they know EXACT date"
-    },
-    "https://dnyuz.com/2023/02/02/she-took-on-atlantas-gangs-now-she-may-be-coming-for-trump/": {
-        "title": "She Took On Atlanta's Gangs. Now She May Be Coming For Trump...",
-        "added": "2023-02-02T12:13:16.856079+00:00",
-        "description": "She Took On Atlanta\u2019s Gangs. Now She May Be Coming For Trump."
     },
     "https://www.newzit.com/": {
         "title": "NEWZIT",
