@@ -1,4 +1,14 @@
 {
+    "https://www.cnn.com/2023/02/04/weather/winter-storm-northeast-new-england-saturday/index.html": {
+        "title": "Northeast shock...",
+        "added": "2023-02-04T14:46:43.025308+00:00",
+        "description": "Below-zero wind chills hammer the Northeast as extreme cold weather moves in | CNN"
+    },
+    "https://www.accuweather.com/en/winter-weather/mount-washington-realfeel-temperature-to-approach-100-f/1477592": {
+        "title": "114 degrees below zero? Arctic outbreak crushes record at Mount Washington...",
+        "added": "2023-02-04T14:46:43.025308+00:00",
+        "description": "114 degrees below zero? That\u2019s what it felt like at Mount Washington amid Arctic blast"
+    },
     "https://apnews.com/article/politics-united-states-government-antony-blinken-china-b1b03193b7abeb7bbeca169bbc7c2c53": {
         "title": "CHINA TESTS USA WITH BALLOON",
         "added": "2023-02-04T14:31:54.841552+00:00",
@@ -253,11 +263,6 @@
         "title": "WEEKEND:  YEAR OF BEYONCE AT GRAMMY'S?",
         "added": "2023-02-03T02:54:58.337974+00:00",
         "description": "The year of Beyonce? Music's elite head to the Grammys"
-    },
-    "https://www.accuweather.com/en/winter-weather/brief-visit-from-polar-vortex-to-bring-record-challenging-cold-to-northeast/1476819": {
-        "title": "ONE OF BOSTON'S COLDEST NIGHTS IN HISTORY?",
-        "added": "2023-02-03T02:11:26.452029+00:00",
-        "description": "Brief visit from polar vortex to bring record-challenging cold to Northeast"
     },
     "https://talkingpointsmemo.com/muckraker/leaked-audio-george-santos": {
         "title": "Leaked Audio Shows Chaos In George Santos Office...",
