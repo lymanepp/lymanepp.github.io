@@ -1,4 +1,9 @@
 {
+    "https://www.nbcnews.com/politics/justice-department/fbi-searching-mike-pences-home-classified-documents-rcna70112": {
+        "title": "FBI SEARCHES HOME",
+        "added": "2023-02-10T16:51:27.873107+00:00",
+        "description": "FBI searching Mike Pence's home for classified documents"
+    },
     "https://variety.com/2023/music/news/britney-spears-intervention-mental-health-substance-abuse-1235518991/": {
         "title": "BRITNEY SPEARS DENIES NEW INTERVENTION RUMORS...",
         "added": "2023-02-10T16:34:53.445214+00:00",
@@ -263,11 +268,6 @@
         "title": "LGBTQ report MORE abuse on TWITTER since takeover...",
         "added": "2023-02-09T16:52:32.620605+00:00",
         "description": "LGBTQ community reports more abuse on Twitter since Musk takeover: survey"
-    },
-    "https://www.billboard.com/music/music-news/burt-bacharach-dead-pop-composer-lyricist-dies-7333151/": {
-        "title": "BACHARACH DEAD IN LA...",
-        "added": "2023-02-09T16:35:33.926396+00:00",
-        "description": "Burt Bacharach, Peerless Pop Composer, Dies at 94"
     },
     "https://www.the-sun.com/news/7347369/russia-zelensky-new-offensive-ukraine/": {
         "title": "Russia 'massing 1,800 tanks, 700 aircraft, 500k men for new assault in 10 days'...",
