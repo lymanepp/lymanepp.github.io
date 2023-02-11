@@ -1,4 +1,9 @@
 {
+    "https://news.yahoo.com/monumental-moment-jalen-hurts-patrick-192516191.html": {
+        "title": "Mahomes, Hurts set to make history...",
+        "added": "2023-02-11T16:32:21.492714+00:00",
+        "description": "'A monumental moment': Jalen Hurts and Patrick Mahomes set to make Super Bowl history"
+    },
     "https://www.dailymail.co.uk/news/article-11711353/Seven-states-eye-legalizing-assisted-suicide-America.html": {
         "title": "America races toward euthanasia free-for-all...",
         "added": "2023-02-11T16:08:17.515263+00:00",
@@ -293,11 +298,6 @@
         "title": "Celebs tout ice baths, but science on benefits lukewarm...",
         "added": "2023-02-10T13:16:19.229358+00:00",
         "description": "Celebs tout ice baths, but science on benefits is lukewarm"
-    },
-    "https://www.nfl.com/news/super-bowl-lvii-s-patrick-mahomes-jalen-hurts-chasing-greatness-while-honoring-p": {
-        "title": "WEEKEND: Mahomes, Hurts chasing greatness while honoring past Black QBs...",
-        "added": "2023-02-10T12:46:48.962857+00:00",
-        "description": "Super Bowl LVII's Patrick Mahomes, Jalen Hurts chasing greatness while honoring past Black QBs"
     },
     "https://finance.yahoo.com/news/microsoft-co-founder-bill-gates-075615141.html": {
         "title": "GATES: CHATGPT 'will change our world'...",
