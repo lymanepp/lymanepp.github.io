@@ -1,4 +1,19 @@
 {
+    "https://www.bbc.com/news/world-europe-64711228": {
+        "title": "NOT AGAIN:  6.3 mag quake hits southern Turkey... Developing...",
+        "added": "2023-02-20T18:29:38.360571+00:00",
+        "description": "6.4 magnitude earthquake hits southern Turkey"
+    },
+    "https://nypost.com/2023/02/20/alec-baldwin-sees-one-charge-dropped-in-fatal-rust-shooting": {
+        "title": "Charge downgraded against Alec Baldwin...",
+        "added": "2023-02-20T18:29:38.360571+00:00",
+        "description": "Alec Baldwin faces reduced prison sentence after charge dropped in fatal \u2018Rust\u2019 shooting"
+    },
+    "https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqcn/executive": {
+        "title": "MAP...",
+        "added": "2023-02-20T18:29:38.360571+00:00",
+        "description": ""
+    },
     "https://www.thedailybeast.com/james-okeefe-resigns-from-project-veritas-after-employee-complaints": {
         "title": "O'Keefe Out at VERITAS...",
         "added": "2023-02-20T18:09:07.183202+00:00",
@@ -233,11 +248,6 @@
         "title": "Catholic bishop shot dead at LA home...",
         "added": "2023-02-19T13:46:49.656781+00:00",
         "description": "Catholic LA Bishop is shot and killed at home"
-    },
-    "https://deadline.com/2023/02/alec-baldwin-rust-shooting-case-halyna-hutchins-widower-da-witness-list-1235263640/": {
-        "title": "Husband Of Slain Movie Cinematographer Flips On Alec Baldwin...",
-        "added": "2023-02-19T02:10:54.876407+00:00",
-        "description": "Alec Baldwin \u2018Rust\u2019 Shooting Case Sees Halyna Hutchins\u2019 Widower Added To D.A. Witness List"
     },
     "https://apnews.com/article/politics-united-states-government-gerald-ford-ronald-reagan-hospice-care-f4e26c10a7b366f14e62f690da403b0a": {
         "title": "CARTER HOSPICE...",
