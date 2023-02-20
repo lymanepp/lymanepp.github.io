@@ -1,4 +1,44 @@
 {
+    "https://www.the-sun.com/news/7440189/huge-balloon-spotted-once-again-shot-from-sky/": {
+        "title": "White balloon spotted by pilots over Hawaii...",
+        "added": "2023-02-20T02:12:01.378805+00:00",
+        "description": "'Large white balloon' seen by pilots over Hawaii, online reports claim"
+    },
+    "https://www.msn.com/en-us/news/us/nonstop-worship-service-at-kentucky-college-set-to-end-after-attracting-thousands/ar-AA17Ehcu": {
+        "title": "Nonstop worship service at Kentucky college set to end after attracting thousands...",
+        "added": "2023-02-20T02:12:01.378805+00:00",
+        "description": "Nonstop worship service at Kentucky college set to end after attracting thousands"
+    },
+    "https://www.msn.com/en-us/news/us/abraham-lincoln-s-disastrous-effort-to-get-black-people-to-leave-the-us/ar-AA17F2TN": {
+        "title": "Abraham Lincoln's disastrous effort to get Black people to leave USA...",
+        "added": "2023-02-20T02:12:01.378805+00:00",
+        "description": "Abraham Lincoln\u2019s disastrous effort to get Black people to leave the U.S."
+    },
+    "https://www.msn.com/en-us/news/politics/kari-lake-still-pushing-midterm-fraud-fiction-edges-closer-to-senate-run/ar-AA17FJeQ": {
+        "title": "Kari Lake edges closer to Senate run...",
+        "added": "2023-02-20T02:12:01.378805+00:00",
+        "description": "Kari Lake, still pushing midterm fraud fiction, edges closer to Senate run"
+    },
+    "https://www.mediaite.com/tv/new-cnn-denies-report-don-lemon-benched-over-sexist-comments-but-he-wont-be-on-air-monday/": {
+        "title": "DRAMA:  CNN Denies Report Don Lemon Benched...",
+        "added": "2023-02-20T02:12:01.378805+00:00",
+        "description": "NEW: CNN Denies Report Don Lemon \u2018Benched\u2019 Over Sexist Comments, But He Won\u2019t Be On Air Monday"
+    },
+    "https://www.dailymail.co.uk/tvshowbiz/article-11769547/BAFTA-Awards-2023-winners-list.html": {
+        "title": "Austin Butler scoops Best Actor at BAFTA...",
+        "added": "2023-02-20T02:12:01.378805+00:00",
+        "description": "BAFTAs 2023 WINNERS: Austin Butler wins Best Actor in shock upset"
+    },
+    "https://www.cbsnews.com/video/former-president-jimmy-carter-honored-in-his-hometown/": {
+        "title": "Plains comunity gathers and prays...",
+        "added": "2023-02-20T02:12:01.378805+00:00",
+        "description": "Former President Jimmy Carter honored in his hometown"
+    },
+    "https://www.arcamax.com/currentnews/newsheadlines/s-2787270?fs": {
+        "title": "Accountability or surveillance? Palm Beach deputies can now livestream from body cameras...",
+        "added": "2023-02-20T02:12:01.378805+00:00",
+        "description": "Accountability or surveillance? Palm Beach County deputies can now livestream from body cameras"
+    },
     "https://www.dailymail.co.uk/news/article-11768983/Saving-Private-Ryan-star-Tom-Sizemore-critical-condition-suffering-brain-aneurysm.html": {
         "title": "Actor Sizemore Near Death In Hospital...",
         "added": "2023-02-19T17:46:41.437896+00:00",
@@ -129,35 +169,15 @@
         "added": "2023-02-19T11:05:42.076814+00:00",
         "description": "Can the rare 'diet weed' cure the munchies?"
     },
-    "https://www.the-sun.com/entertainment/7434445/actor-richard-gere-hospitalized-in-mexico-pneumonia/": {
-        "title": "Gere hospitalized in Mexico with pneumonia...",
-        "added": "2023-02-19T02:10:54.876407+00:00",
-        "description": "Richard Gere, 73, rushed to hospital with pneumonia on vacation in Mexico"
-    },
     "https://deadline.com/2023/02/alec-baldwin-rust-shooting-case-halyna-hutchins-widower-da-witness-list-1235263640/": {
         "title": "Husband Of Slain Movie Cinematographer Flips On Alec Baldwin...",
         "added": "2023-02-19T02:10:54.876407+00:00",
         "description": "Alec Baldwin \u2018Rust\u2019 Shooting Case Sees Halyna Hutchins\u2019 Widower Added To D.A. Witness List"
     },
-    "https://theankler.com/p/the-lost-photos-when-hollywood-was": {
-        "title": "The Lost Photos: When Hollywood Was Hollywood...",
-        "added": "2023-02-19T00:40:31.835041+00:00",
-        "description": "The Lost Photos: When Hollywood Was Hollywood"
-    },
     "https://apnews.com/article/politics-united-states-government-gerald-ford-ronald-reagan-hospice-care-f4e26c10a7b366f14e62f690da403b0a": {
         "title": "CARTER HOSPICE...",
         "added": "2023-02-18T23:32:08.177172+00:00",
         "description": "Jimmy Carter, 39th US president, enters hospice care at home"
-    },
-    "https://www.msn.com/en-us/news/politics/crazy-nuts-six-wild-revelations-from-the-fox-news-defamation-case/ar-AA17Ecwy": {
-        "title": "'Crazy.' 'Nuts.' Six wild revelations...",
-        "added": "2023-02-18T19:05:08.023754+00:00",
-        "description": "'Crazy.' 'Nuts.' Six wild revelations from the Fox News defamation case"
-    },
-    "https://www.theguardian.com/books/2023/feb/18/roald-dahl-books-rewritten-to-remove-language-deemed-offensive": {
-        "title": "Roald Dahl books rewritten to remove language deemed offensive...",
-        "added": "2023-02-18T18:28:17.524695+00:00",
-        "description": "Roald Dahl books rewritten to remove language deemed offensive"
     },
     "https://www.axios.com/2023/02/18/obesity-treatments-drugs-insurance-coverage-stigma": {
         "title": "Disease? Health care system rethinks obesity...",
@@ -179,45 +199,15 @@
         "added": "2023-02-18T15:46:39.300023+00:00",
         "description": "Brain implant startup backed by Bezos and Gates is testing mind-controlled computing on humans"
     },
-    "https://thehill.com/opinion/technology/3864520-supreme-court-to-wade-into-quagmire-of-internet-regulation/": {
-        "title": "Supreme Court to wade into quagmire of internet regulation...",
-        "added": "2023-02-18T15:24:27.552924+00:00",
-        "description": "Supreme Court to wade into quagmire of internet regulation"
-    },
     "https://news.yahoo.com/brazils-vaccine-skeptic-bolsonaro-got-021358960.html": {
         "title": "Vax-skeptic Bolsonaro got the shot, document indicates...",
         "added": "2023-02-18T15:24:27.552924+00:00",
         "description": "Brazil's vaccine-skeptic Bolsonaro got the shot, document indicates"
     },
-    "https://apnews.com/article/politics-mississippi-state-government-delaware-california-massachusetts-3983cecfd1107c263d5309ec0d80a966": {
-        "title": "Turmoil on gun laws in wake of justices' ruling...",
-        "added": "2023-02-18T15:24:27.552924+00:00",
-        "description": "Turmoil in courts on gun laws in wake of justices' ruling"
-    },
-    "https://www.nytimes.com/interactive/2023/02/17/climate/electric-vehicle-emissions-truck-suv.html": {
-        "title": "Just How Good for Planet Big Electric Pickup Truck?",
-        "added": "2023-02-18T15:06:29.799544+00:00",
-        "description": "Just How Good for the Planet Is That Big Electric Pickup Truck?"
-    },
-    "https://www.msn.com/en-us/news/us/born-in-2007-or-later-this-california-bill-would-bar-you-from-ever-buying-a-tobacco-product/ar-AA17D9gp": {
-        "title": "Born in '07 or later? CA bill would bar you from ever buying tobacco product...",
-        "added": "2023-02-18T14:31:49.459208+00:00",
-        "description": "Born in 2007 or later? This California bill would bar you from ever buying a tobacco product"
-    },
     "https://www.msn.com/en-us/news/crime/did-an-american-rapper-make-it-rain-money-in-havana-somebody-did-and-bedlam-ensued/ar-AA17DcYU": {
         "title": "Did rapper make it rain money in Havana? Somebody did -- and bedlam ensued...",
         "added": "2023-02-18T14:31:49.459208+00:00",
         "description": "Did an American rapper make it rain money in Havana? Somebody did \u2014 and bedlam ensued"
-    },
-    "https://apnews.com/article/politics-television-donald-trump-business-1a4337a89c8abd952a814c60fa269b3c ": {
-        "title": "DOMINION voting case exposes post-election fear at FOX...",
-        "added": "2023-02-18T14:22:53.959505+00:00",
-        "description": ""
-    },
-    "https://apnews.com/article/us-russia-ukraine-crimes-against-humanity-harris-cee87f06cbf3fcdf37e0bb398360c8ee": {
-        "title": "CRIMES AGAINST HUMANITY",
-        "added": "2023-02-18T14:06:12.282575+00:00",
-        "description": "US: Russia has committed crimes against humanity in Ukraine"
     },
     "https://www.newzit.com/": {
         "title": "NEWZIT",
