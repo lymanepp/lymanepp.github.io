@@ -1,4 +1,9 @@
 {
+    "https://finance.yahoo.com/finance/news/arrest-made-killing-l-bishop-170854902.html": {
+        "title": "Arrest made in killing of LA Bishop...",
+        "added": "2023-02-20T19:19:28.288460+00:00",
+        "description": "Arrest made in killing of L.A. Bishop David O'Connell as details emerge, sources say"
+    },
     "https://www.mediaite.com/news/women-caught-on-camera-lighting-gay-pride-flag-on-fire-outside-nyc-restaurant/": {
         "title": "Woman Caught on Camera Lighting Gay Pride Flag on Fire Outside NYC Restaurant...",
         "added": "2023-02-20T19:06:03.728892+00:00",
@@ -243,11 +248,6 @@
         "title": "Accountability or surveillance? Palm Beach deputies can now livestream from body cameras...",
         "added": "2023-02-20T02:12:01.378805+00:00",
         "description": "Accountability or surveillance? Palm Beach County deputies can now livestream from body cameras"
-    },
-    "https://www.dailymail.co.uk/news/article-11768861/Catholic-LA-Bishop-shot-killed-home.html": {
-        "title": "Catholic bishop shot dead at LA home...",
-        "added": "2023-02-19T13:46:49.656781+00:00",
-        "description": "Catholic LA Bishop is shot and killed at home"
     },
     "https://apnews.com/article/politics-united-states-government-gerald-ford-ronald-reagan-hospice-care-f4e26c10a7b366f14e62f690da403b0a": {
         "title": "CARTER HOSPICE...",
