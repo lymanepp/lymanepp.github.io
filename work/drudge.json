@@ -1,4 +1,9 @@
 {
+    "https://apnews.com/article/weather-natural-disasters-california-storms-f3ae833d1f1aec40554353bcd6f10e50": {
+        "title": "Storms wreak havoc for travelers...",
+        "added": "2023-02-23T14:26:06.093595+00:00",
+        "description": "Brutal winter storm causes widespread power outages, travel disruptions"
+    },
     "https://www.washingtonpost.com/media/2023/02/23/fox-news-dominion-lawsuit-legal-analysis/": {
         "title": "FOXNEWS docs stun legal experts; 'Incredibly damning'...",
         "added": "2023-02-23T14:07:10.767207+00:00",
@@ -328,11 +333,6 @@
         "title": "HOW THE ANKLER TOOK ON HOLLYWOOD...",
         "added": "2023-02-22T14:46:56.344124+00:00",
         "description": "How Richard Rushfield\u2019s The Ankler Took on Hollywood"
-    },
-    "https://www.politico.com/news/2023/02/22/donald-trump-ohio-visit-questions-safety-legacy-00083885": {
-        "title": "The Don's visit to derailment site revives questions about his safety legacy...",
-        "added": "2023-02-22T14:25:18.954966+00:00",
-        "description": "\u2018A political stunt\u2019: Trump\u2019s Ohio visit revives questions about his own safety legacy"
     },
     "https://www.politico.com/news/2023/02/22/bidenworld-joe-may-not-run-2024-00083905": {
         "title": "Joe may not run -- and top Dems quietly preparing...",
