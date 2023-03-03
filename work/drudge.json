@@ -1,4 +1,9 @@
 {
+    "https://www.pressreader.com/catalog/newspapers": {
+        "title": "WORLD NEWSPAPERS PAGE ONES",
+        "added": "2023-03-03T17:32:04.302552+00:00",
+        "description": "Digital newsstand featuring 7000+ of the world\u2019s most popular newspapers & magazines. Enjoy unlimited reading on up to 5 devices with 7-day free trial."
+    },
     "https://www.cnbc.com/2023/03/03/oil-companies-bring-in-200-billion-in-profits-in-2022.html": {
         "title": "Oil companies hit with backlash after bringing in $200 billion in profits!",
         "added": "2023-03-03T16:34:19.297211+00:00",
@@ -279,25 +284,10 @@
         "added": "2023-03-02T17:46:52.642522+00:00",
         "description": "California Republicans give a boost to Florida Gov. Ron DeSantis\u2019 presidential prospects"
     },
-    "https://www.msn.com/en-us/news/world/kremlin-accuses-ukraine-of-violent-attack-in-western-russia/ar-AA188YlI": {
-        "title": "Kremlin accuses Ukraine of violent attack in western Russia...",
-        "added": "2023-03-02T17:26:48.509677+00:00",
-        "description": "Kremlin accuses Ukraine of violent attack in western Russia"
-    },
-    "https://www.msn.com/en-us/news/technology/this-government-aide-says-it-knows-what-voters-want-it-s-an-ai-bot/ar-AA188FfH": {
-        "title": "This government aide says it knows what voters want. It's an AI bot!",
-        "added": "2023-03-02T17:26:48.509677+00:00",
-        "description": "This government aide says it knows what voters want. It\u2019s an AI bot."
-    },
     "https://www.mirror.co.uk/news/world-news/vladimir-putin-plans-mass-suicide-29354825": {
         "title": "Putin planning wave after wave of 'mass suicidal attacks'...",
         "added": "2023-03-02T17:26:48.509677+00:00",
         "description": "Vladimir Putin plans 'mass suicidal attacks' on Ukrainians for three months"
-    },
-    "https://studyfinds.org/why-cant-americans-agree-on-anything-philosophy/": {
-        "title": "Why Can't Americans Agree On Nearly Anything?",
-        "added": "2023-03-02T17:26:48.509677+00:00",
-        "description": "Why can\u2019t Americans agree on, well, nearly anything? Philosophy has some\u00a0answers"
     },
     "https://nypost.com/2023/03/02/new-jersey-woman-blows-herself-up-in-house-full-of-cats/": {
         "title": "'Cat lady' facing eviction blows up home -- killing self and dozens of felines...",
@@ -829,11 +819,6 @@
         "added": "2021-01-17T19:05:32.742473+00:00",
         "description": "UPI delivers the latest headlines from around the world: Top News, Entertainment, Health, Business, Science and Sports News - United Press International"
     },
-    "http://www.thepaperboy.com/uk/front-pages.cfm": {
-        "title": "FRONT PAGES UK",
-        "added": "2021-01-17T19:05:32.742473+00:00",
-        "description": "See the newspaper front pages from uk for Tuesday, 3 May 2022."
-    },
     "http://www.theatlantic.com/": {
         "title": "ATLANTIC",
         "added": "2021-01-17T19:05:32.742473+00:00",
@@ -908,11 +893,6 @@
         "title": "NEWSMAX",
         "added": "2021-01-17T19:05:32.742473+00:00",
         "description": "Newsmax.com reports today\u2019s news headlines, live news stream, news videos from Americans and global readers seeking the latest in current events, politics, U.S., world news, health, finance, and more."
-    },
-    "http://www.newseum.org/todaysfrontpages/": {
-        "title": "WORLD HEADLINES",
-        "added": "2021-01-17T19:05:32.742473+00:00",
-        "description": "Today\u2019s Front Pages allows you to explore the power of press freedom, bringing hundreds of newspaper front pages from around the world to you daily."
     },
     "http://www.nbcnews.com/": {
         "title": "NBC NEWS",
