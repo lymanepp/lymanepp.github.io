@@ -1,4 +1,9 @@
 {
+    "https://www.cnbc.com/2023/03/10/jobs-report-february-2023.html": {
+        "title": "Payrolls rise 311,000; Jobs growth stays hot...",
+        "added": "2023-03-10T13:38:28.188910+00:00",
+        "description": "Payrolls rose 311,000 in February, more than expected, as jobs growth stays hot"
+    },
     "https://www.msn.com/en-us/music/news/miley-cyrus-endless-summer-vacation-review-a-lovely-long-bask-in-the-pop-star-s-maturing-talent/ar-AA18sejh": {
         "title": "'ENDLESS SUMMER VACATION' REVIEW: Lovely, long bask in pop star's maturing talent...",
         "added": "2023-03-10T12:49:32.805427+00:00",
@@ -243,16 +248,6 @@
         "title": "Jaded with education, more Americans skipping college...",
         "added": "2023-03-09T13:43:33.945433+00:00",
         "description": "Jaded with education, more Americans are skipping college"
-    },
-    "https://www.msn.com/en-us/news/world/iran-is-gearing-up-to-attack-britain-and-the-west/ar-AA18ozYV": {
-        "title": "PAPER: Iran gearing up to attack the West...",
-        "added": "2023-03-09T13:19:22.657266+00:00",
-        "description": "Iran is gearing up to attack Britain and the West"
-    },
-    "https://www.msn.com/en-us/money/other/how-excuseflation-is-keeping-prices-and-corporate-profits-high/ar-AA18poxq": {
-        "title": "How 'Excuseflation' Is Keeping Prices -- and Corporate Profits -- High...",
-        "added": "2023-03-09T13:19:22.657266+00:00",
-        "description": "How \u2018Excuseflation\u2019 Is Keeping Prices \u2014 and Corporate Profits \u2014 High"
     },
     "https://www.axios.com/2023/03/09/biden-tax-reform-proposal": {
         "title": "Biden to propose 25% billionaire tax...",
