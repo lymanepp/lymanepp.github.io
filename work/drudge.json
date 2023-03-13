@@ -1,4 +1,19 @@
 {
+    "https://www.nbcnews.com/politics/politics-news/biden-deliver-remarks-silicon-valley-bank-shutdown-rcna74622": {
+        "title": "'No losses borne by taxpayer'...",
+        "added": "2023-03-13T13:36:15.708039+00:00",
+        "description": "Biden says 'the banking system is safe' after Silicon Valley Bank shutdown"
+    },
+    "https://www.axios.com/2023/03/13/let-the-bailout-debate-begin-silicon-valley-bank-fdic": {
+        "title": "Let bailout debate begin...",
+        "added": "2023-03-13T13:36:15.708039+00:00",
+        "description": "Let the bailout debate begin"
+    },
+    "https://thehill.com/homenews/nexstar_media_wire/3894570-national-customer-rage-survey-points-to-troubling-trend-among-us-consumers/": {
+        "title": "'Rage' survey points to troubling trend in USA...",
+        "added": "2023-03-13T13:36:15.708039+00:00",
+        "description": "\u2018National Customer Rage Survey\u2019 points to troubling trend among US consumers"
+    },
     "https://finance.yahoo.com/news/svb-failure-sparks-blame-game-093000186.html": {
         "title": "Blame Game Over Trump Reg Rollback...",
         "added": "2023-03-13T13:16:36.467241+00:00",
@@ -124,21 +139,6 @@
         "added": "2023-03-12T13:46:49.441081+00:00",
         "description": "Yellen says no federal bailout for Silicon Valley Bank"
     },
-    "https://www.theguardian.com/us-news/2023/mar/12/trump-indicted-new-york-republican-race-asa-hutchinson": {
-        "title": "The Don should quit '24 race if indicted, Republican rival says...",
-        "added": "2023-03-12T13:32:46.666387+00:00",
-        "description": "Trump should quit 2024 race if indicted in New York, Republican rival says"
-    },
-    "https://www.seattletimes.com/business/yellen-says-no-federal-bailout-for-silicon-valley-bank/": {
-        "title": "YELLEN: NO BAILOUT!",
-        "added": "2023-03-12T13:32:46.666387+00:00",
-        "description": "Yellen says no federal bailout for Silicon Valley Bank"
-    },
-    "https://www.axios.com/2023/03/12/oscards-best-picture-top-gun-wakanda-slap": {
-        "title": "TONIGHT:  Oscars fight for relevance in streaming era...",
-        "added": "2023-03-12T13:26:24.699467+00:00",
-        "description": "Oscars fight for relevance in the streaming age"
-    },
     "https://apnews.com/article/saudi-arabia-golf-pga-liv-trump-lawsuit-edcd86df5ff12fa067505afd98b18a84": {
         "title": "Golf case threatens to spill kingdom secrets...",
         "added": "2023-03-12T13:26:24.699467+00:00",
@@ -173,11 +173,6 @@
         "title": "LGBTQ Floridians heading to state Capitol, where they face increasingly hostile political climate...",
         "added": "2023-03-11T23:22:54.362294+00:00",
         "description": "LGBTQ Floridians heading to state Capitol, where they face increasingly hostile political climate"
-    },
-    "https://ca.sports.yahoo.com/news/pornhub-become-public-enemy-number-034606672.html": {
-        "title": "How PORNHUB Became Public Enemy Number One for Christians...",
-        "added": "2023-03-11T17:32:05.933673+00:00",
-        "description": "How Pornhub Became Public Enemy Number One for Christian Crusaders"
     },
     "https://www.nydailynews.com/news/national/ny-student-sues-teacher-pledge-of-allegiance-assault-20230311-kwr5c3xm7ja2veh4n6t437iiui-story.html": {
         "title": "Parents sue after student says teacher assaulted her for not saying Pledge of Allegiance...",
