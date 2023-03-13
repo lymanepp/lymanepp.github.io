@@ -1,4 +1,14 @@
 {
+    "https://www.cnbc.com/2023/03/13/first-republic-drops-bank-stocks-decline.html": {
+        "title": "BROADENING CONTAGION",
+        "added": "2023-03-13T11:20:47.494489+00:00",
+        "description": "First Republic drops 70%, leads decline in bank stocks despite government's backstop of SVB"
+    },
+    "https://finance.yahoo.com/news/us-says-svb-deposits-safe-230714841.html": {
+        "title": "FED EMERGENCY MEASURES",
+        "added": "2023-03-13T11:20:47.494489+00:00",
+        "description": "Fed\u2019s New Backstop Shields Banks From $300 Billion of Losses"
+    },
     "https://www.marketwatch.com/story/first-republic-bank-shares-slump-60-in-premarket-trade-52c7afff": {
         "title": "FIRST REPUBLIC teeters...",
         "added": "2023-03-13T11:05:48.341292+00:00",
@@ -139,16 +149,6 @@
         "added": "2023-03-12T11:19:17.867098+00:00",
         "description": "Mike Pence: Donald Trump was wrong, history will hold him accountable"
     },
-    "https://www.msn.com/en-us/news/politics/mccarthy-and-jeffries-want-the-house-to-work-so-they-started-with-each-other/ar-AA18wqig": {
-        "title": "McCarthy, Jeffries want House to work. They started with each other...",
-        "added": "2023-03-12T11:19:17.867098+00:00",
-        "description": "McCarthy and Jeffries want the House to work. So they started with each other."
-    },
-    "https://www.france24.com/en/live-news/20230312-at-san-francisco-expo-ai-sorry-for-destroying-humanity": {
-        "title": "At San Fran expo, AI 'sorry' for destroying humanity...",
-        "added": "2023-03-12T11:19:17.867098+00:00",
-        "description": "At San Francisco expo, AI 'sorry' for destroying humanity"
-    },
     "https://www.news.com.au/lifestyle/health/health-problems/outrage-over-citys-proposal-to-impose-lockdown-for-the-flu/news-story/23649b2ca11f46aeb606cd4c45b20cf7": {
         "title": "City plan to impose lockdowns for flu...",
         "added": "2023-03-12T11:05:11.883798+00:00",
@@ -179,11 +179,6 @@
         "added": "2023-03-11T23:22:54.362294+00:00",
         "description": "From Santa Clara to Shoreditch, SVB Fallout Spreads Around World"
     },
-    "https://apnews.com/article/silicon-valley-bank-svb-collapse-customers-ec0148382edb344c27c0bdfdcbd3cf66": {
-        "title": "BANK BUST SHOCKWAVES",
-        "added": "2023-03-11T23:22:54.362294+00:00",
-        "description": "From wine country to London, bank's failure shakes worldwide"
-    },
     "https://ca.sports.yahoo.com/news/pornhub-become-public-enemy-number-034606672.html": {
         "title": "How PORNHUB Became Public Enemy Number One for Christians...",
         "added": "2023-03-11T17:32:05.933673+00:00",
@@ -208,11 +203,6 @@
         "title": "New study on monkeys using stone tools raises questions about evolution...",
         "added": "2023-03-11T15:23:01.390077+00:00",
         "description": "New study on monkeys using stone tools raises questions about evolution"
-    },
-    "https://finance.yahoo.com/news/silicon-valley-bank-imploded-single-100000239.html": {
-        "title": "TIP OF ICEBERG?",
-        "added": "2023-03-11T14:31:51.316504+00:00",
-        "description": "Silicon Valley Bank imploded in a single day. It could just be the tip of the iceberg."
     },
     "https://www.pressreader.com/catalog/newspapers": {
         "title": "WORLD NEWSPAPERS PAGE ONES",
