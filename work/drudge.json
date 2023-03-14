@@ -1,4 +1,19 @@
 {
+    "https://www.cnbc.com/2023/03/14/cpi-inflation-february-2023-.html": {
+        "title": "INFLATION 6%...",
+        "added": "2023-03-14T15:48:39.871037+00:00",
+        "description": "Inflation gauge increased 0.4% in February, as expected and up 6% from a year ago"
+    },
+    "https://studyfinds.org/living-in-country-mental-health/": {
+        "title": "STUDY:  People Who Live In Rural Areas More Anxious, Depressed, Neurotic...",
+        "added": "2023-03-14T15:48:39.871037+00:00",
+        "description": "Here's why living in the country may actually hurt your mental health"
+    },
+    "https://nypost.com/2023/03/14/svb-bailout-shows-capitalism-is-breaking-down-ken-griffin/": {
+        "title": "GRIFFIN: Capitalism 'breaking down'...",
+        "added": "2023-03-14T15:48:39.871037+00:00",
+        "description": "SVB bailout shows \u2018capitalism is breaking down,\u2019 Ken Griffin says"
+    },
     "https://www.newstatesman.com/business/finance/2023/03/killed-silicon-valley-bank": {
         "title": "WHO DID IT?",
         "added": "2023-03-14T15:31:04.939576+00:00",
@@ -288,31 +303,6 @@
         "title": "Family of missing Americans left 'desperate'...",
         "added": "2023-03-13T15:46:49.564230+00:00",
         "description": "Family of women who disappeared travelling from US to Mexico left 'desperate'"
-    },
-    "https://news.yahoo.com/fbi-agents-wild-vegas-weekend-130036387.html": {
-        "title": "How an FBI agent's wild Vegas weekend stained an investigation into NCAA basketball corruption...",
-        "added": "2023-03-13T15:46:49.564230+00:00",
-        "description": "How an FBI agent's wild Vegas weekend stained an investigation into NCAA basketball corruption"
-    },
-    "https://www.washingtonexaminer.com/policy/economy/silicon-valley-bank-collapse-spotlight-620-billion-hole": {
-        "title": "$620 BILLION TICKING TIMEBOMB...",
-        "added": "2023-03-13T15:32:53.890795+00:00",
-        "description": "SVB collapse: Bank fallout shines spotlight on $620 billion hole in banking sector"
-    },
-    "https://www.mediaite.com/tv/cnbcs-jim-cramer-cognizant-of-tense-day-ahead-on-wall-street-after-bank-failures-it-is-easy-for-any-of-us-to-cause-a-run-on-banks/": {
-        "title": "CRAMER: 'It's Easy for Any of Us to Cause a Run'...",
-        "added": "2023-03-13T15:32:53.890795+00:00",
-        "description": "CNBC\u2019s Jim Cramer Cognizant of Tense Day Ahead on Wall Street After Bank Failures: \u2018It is Easy for Any of Us to Cause a Run\u2019 on Banks"
-    },
-    "https://www.marketwatch.com/story/credit-suisse-shares-fall-to-new-record-low-after-collapse-of-svb-and-signature-bank-3919ffc7": {
-        "title": "CREDIT SUISSE shares fall to new record low...",
-        "added": "2023-03-13T15:32:53.890795+00:00",
-        "description": "Credit Suisse shares fall to new record low after collapse of SVB and Signature Bank"
-    },
-    "https://www.jpost.com/middle-east/iran-news/article-734088": {
-        "title": "Who are winners and losers in new Iran-Saudi ties?",
-        "added": "2023-03-13T15:32:53.890795+00:00",
-        "description": "Who are the winners and losers in Iran-Saudi ties? - analysis"
     },
     "https://www.pressreader.com/catalog/newspapers": {
         "title": "WORLD NEWSPAPERS PAGE ONES",
