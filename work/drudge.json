@@ -1,4 +1,9 @@
 {
+    "https://finance.yahoo.com/news/gold-flirts-record-highs-topping-131600734.html": {
+        "title": "Gold flirts with record highs after topping $2,000 an ounce...",
+        "added": "2023-03-20T14:07:53.213323+00:00",
+        "description": "Gold flirts with record highs after topping $2,000 an ounce"
+    },
     "https://www.nbcnews.com/news/world/israel-judicial-reforms-benjamin-netanyahu-joe-biden-phone-call-rcna75698": {
         "title": "Netanyahu softens judicial overhaul after Biden call...",
         "added": "2023-03-20T13:37:09.019018+00:00",
@@ -184,16 +189,6 @@
         "added": "2023-03-19T14:22:41.500824+00:00",
         "description": "Lacking health workers, Germany taps robots for elder care"
     },
-    "https://www.nasdaq.com/articles/first-citizens-in-talks-to-acquire-silicon-valley-bank-bloomberg-news": {
-        "title": "FIRST CITIZENS to acquire SVB?",
-        "added": "2023-03-19T14:05:54.955736+00:00",
-        "description": "First Citizens in talks to acquire Silicon Valley Bank - Bloomberg News"
-    },
-    "https://www.dailymail.co.uk/news/article-11840539/24-hours-HELL-NYC-hospital-Patients-left-lying-hallways-urine-soaked-floors.html": {
-        "title": "24 hours of HELL in top NYC hospital...",
-        "added": "2023-03-19T14:05:54.955736+00:00",
-        "description": "24HRS of HELL in NYC hospital: Patients are left lying in hallways"
-    },
     "https://www.dailymail.co.uk/news/article-11877375/Spring-break-horror-gunman-kills-one-injures-Miami-Beach.html": {
         "title": "Spring break horror as gunman kills in Miami Beach...",
         "added": "2023-03-19T13:26:51.214737+00:00",
@@ -248,11 +243,6 @@
         "title": "How AI could upend world even more than electricity or internet...",
         "added": "2023-03-19T02:52:30.693321+00:00",
         "description": "How AI could upend the world even more than electricity or the internet"
-    },
-    "https://finance.yahoo.com/news/wait-10-seconds-lose-1-181600631.html": {
-        "title": "Wait 10 Seconds, Lose $1 Million in Markets Rocked by Volatility...",
-        "added": "2023-03-19T02:52:30.693321+00:00",
-        "description": "Wait 10 Seconds, Lose $1 Million in Markets Rocked by Volatility"
     },
     "https://www.pressreader.com/catalog/newspapers": {
         "title": "WORLD NEWSPAPERS PAGE ONES",
