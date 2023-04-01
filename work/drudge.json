@@ -1,4 +1,39 @@
 {
+    "https://www.the-sun.com/news/7770124/san-diego-earthquake-southern-california-weather/": {
+        "title": "Felt throughout Orange County...",
+        "added": "2023-04-01T01:51:31.461278+00:00",
+        "description": "Earthquake hits major US city as residents report buildings shaking"
+    },
+    "https://www.spc.noaa.gov/climo/reports/today.html": {
+        "title": "LIVE:  REPORTS...",
+        "added": "2023-04-01T01:51:31.461278+00:00",
+        "description": "Severe weather, tornado, thunderstorm, fire weather,  storm report, tornado watch, severe thunderstorm watch,  mesoscale discussion, convective outlook products from the Storm  Prediction Center."
+    },
+    "https://www.mediaite.com/analysis/judge-scorches-fox-news-claim-their-dominion-coverage-was-protected-opinion-sending-media-case-of-the-century-to-trial/": {
+        "title": "WILL NETWORK SETTLE?",
+        "added": "2023-04-01T01:51:31.461278+00:00",
+        "description": "Judge Scorches Fox News\u2019 Claim Their Dominion Coverage Was Protected Opinion, Sending Media Case of the Century to Trial"
+    },
+    "https://www.businessinsider.com/gag-order-donald-trump-extremely-likely-indictment-manhattan-2023-3": {
+        "title": "WILL HE BE GAGGED?",
+        "added": "2023-04-01T01:51:31.461278+00:00",
+        "description": "A gag order for Donald Trump is 'extremely likely' once he's before a judge, legal expert says"
+    },
+    "https://www.accuweather.com/en/severe-weather/live-news/live-large-extremely-dangerous-tornadoes-ravage-multiple-states-amid-enormous-severe-weather-outbreak/1506174": {
+        "title": "Storms ravage multiple states... Developing...",
+        "added": "2023-04-01T01:51:31.461278+00:00",
+        "description": "LIVE: Large, extremely dangerous tornadoes ravage multiple states amid enormous severe weather outbreak"
+    },
+    "https://scedc.caltech.edu/recent/Maps/117-33.html": {
+        "title": "4.2 MAG QUAKE SHAKES SAN DIEGO... MAP...",
+        "added": "2023-04-01T01:51:31.461278+00:00",
+        "description": ""
+    },
+    "https://fortune.com/2023/03/31/donald-trump-judge-new-york-trial/": {
+        "title": "ATTACKS JUDGE",
+        "added": "2023-04-01T01:51:31.461278+00:00",
+        "description": "Donald Trump is already attacking the judge handling his hush money case and spelling his name incorrectly"
+    },
     "https://www.dailymail.co.uk/news/article-11926117/Terrifying-moment-monster-tornado-rips-apart-Arkansas-capital-Little-Rock-80mph-winds.html": {
         "title": "Tornado rips apart Little Rock; 600 injured... Developing...",
         "added": "2023-03-31T22:06:11.972129+00:00",
@@ -279,35 +314,10 @@
         "added": "2023-03-31T01:56:51.465091+00:00",
         "description": "Judge in Trump Company Trial Knew How to Read the Numbers"
     },
-    "https://www.nbcnews.com/politics/donald-trump/trump-allies-erupt-fury-former-presidents-indictment-rcna77523": {
-        "title": "MAGA FURY",
-        "added": "2023-03-31T00:37:45.727581+00:00",
-        "description": "Trump allies erupt in fury over former president's indictment"
-    },
-    "https://www.msn.com/en-us/news/politics/democrats-anger-boils-over-after-gop-witnesses-testify-without-taking-questions/ar-AA19hudL": {
-        "title": "Dems' anger boils over after GOP witnesses testify without taking questions...",
-        "added": "2023-03-31T00:37:45.727581+00:00",
-        "description": "Democrats\u2019 anger boils over after GOP witnesses testify without taking questions"
-    },
-    "https://www.mediaite.com/crime/just-in-cnn-reports-trump-has-been-criminally-indicted-on-whopping-34-counts/": {
-        "title": "BUSINESS FRAUD",
-        "added": "2023-03-31T00:37:45.727581+00:00",
-        "description": "JUST IN: CNN Reports Trump Has Been Criminally Indicted on Whopping 34 COUNTS"
-    },
-    "https://www.mediaite.com/crime/cnn-analyst-says-nypd-has-ordered-every-cop-in-the-city-of-every-rank-to-show-up-in-uniform-tomorrow/": {
-        "title": "*NYPD Has Ordered Every Cop Of Every Rank To Show Up In Uniform Friday...",
-        "added": "2023-03-31T00:37:45.727581+00:00",
-        "description": "CNN Analyst Says NYPD Has Ordered Every Cop In The City Of Every Rank To \u2018Show Up In Uniform Tomorrow\u2019"
-    },
     "https://www.cnn.com/politics/live-news/trump-indictment-hush-money-stormy-daniels/h_9ba863b633ff6ad45f4703e86cc10026": {
         "title": "TRUMP CHARGED ON 34 COUNTS!",
         "added": "2023-03-31T00:37:45.727581+00:00",
         "description": "Trump faces more than 30 counts related to business fraud, sources tell CNN"
-    },
-    "https://www.vice.com/en/article/n7ewxx/trump-gag-order-manhattan-da": {
-        "title": "WILL JUDGE ISSUE GAG ORDER?",
-        "added": "2023-03-30T23:07:22.348029+00:00",
-        "description": "Trump\u2019s Getting Close to Forcing a Judge to Order Him to Shut Up"
     },
     "https://studyfinds.org/trump-indictment-presidential-race/": {
         "title": "Governing from jail?",
