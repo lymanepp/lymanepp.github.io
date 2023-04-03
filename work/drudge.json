@@ -1,4 +1,9 @@
 {
+    "https://www.mediaite.com/": {
+        "title": "MEDIAITE",
+        "added": "2023-04-03T15:32:20.726956+00:00",
+        "description": "Mediaite.com | Media & Politics News | TV, Print, Online"
+    },
     "https://www.yahoo.com/entertainment/trump-team-blast-lawyer-dumb-171101512.html": {
         "title": "Trump Inner Circle Can't Stand 'Loudmouth' Lawyer Tacopina...",
         "added": "2023-04-03T15:23:07.640856+00:00",
@@ -928,11 +933,6 @@
         "title": "3 AM GIRLS",
         "added": "2021-01-17T19:05:32.742473+00:00",
         "description": "Breaking up, making up, eloping or just popping to the shops - whatever the celebrities are doing, you'll find all the news, pictures and videos here at Mirror.co.uk."
-    },
-    "http://www.mediaite.com/": {
-        "title": "MEDIAITE",
-        "added": "2021-01-17T19:05:32.742473+00:00",
-        "description": "Mediaite is the top U.S. website covering the intersection of media and politics with original reporting and bi-partisan commentary"
     },
     "http://www.mcclatchydc.com": {
         "title": "MCCLATCHY [DC]",
