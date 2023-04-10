@@ -1,4 +1,14 @@
 {
+    "https://www.the-sun.com/news/7837540/shooting-downtown-louisville-ky-multiple-casualties/": {
+        "title": "Gunman stormed bank...",
+        "added": "2023-04-10T14:31:45.393418+00:00",
+        "description": "Police respond to 'active shooter' in Kentucky with 'multiple casualties'"
+    },
+    "https://www.msn.com/en-us/news/world/what-do-the-alleged-classified-us-documents-contain-and-who-leaked-them/ar-AA19FvCI": {
+        "title": "What Do Alleged Classified Docs Contain and Who Leaked Them?",
+        "added": "2023-04-10T14:31:45.393418+00:00",
+        "description": "What Do the Alleged Classified US Documents Contain and Who Leaked Them?"
+    },
     "https://www.dailymail.co.uk/news/article-11956823/Mass-casualty-incident-Louisville-bank-active-shooter-opens-fire.html": {
         "title": "Multiple casualites in shooting in downtown Louisville... Developing...",
         "added": "2023-04-10T14:22:18.643906+00:00",
@@ -143,11 +153,6 @@
         "title": "TX Gov. vows to pardon Army sergeant convicted of killing BLM protester...",
         "added": "2023-04-09T10:31:45.833622+00:00",
         "description": "Texas Gov. Abbott vows to pardon Army sergeant convicted of killing BLM protester"
-    },
-    "https://www.msn.com/en-us/news/world/intelligence-leak-exposes-us-spying-on-adversaries-and-allies/ar-AA19DplU": {
-        "title": "Intel leak exposes U.S. spying on adversaries and allies...",
-        "added": "2023-04-09T10:23:49.482855+00:00",
-        "description": "Intelligence leak exposes U.S. spying on adversaries and allies"
     },
     "https://www.cnn.com/2023/04/08/us/christianity-decline-easter-blake-cec/index.html": {
         "title": "Predictions about decline of Christianity in America may be premature...",
