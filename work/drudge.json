@@ -1,4 +1,19 @@
 {
+    "https://www.semafor.com/author/ben-smith": {
+        "title": "BEN SMITH",
+        "added": "2023-04-24T03:32:18.525771+00:00",
+        "description": "Ben Smith | Semafor"
+    },
+    "https://www.semafor.com/": {
+        "title": "SEMAFOR",
+        "added": "2023-04-24T03:32:18.525771+00:00",
+        "description": "Semafor - A global news platform for breaking stories, analysis and video"
+    },
+    "https://www.mediaite.com/news/new-poll-whopping-70-percent-think-biden-shouldnt-run-again-days-before-hes-set-to-announce-reelection-bid/": {
+        "title": "70% DON'T WANT IT!",
+        "added": "2023-04-24T03:32:18.525771+00:00",
+        "description": "NBC Poll: 70% Say Biden Shouldn't Run in 2024,"
+    },
     "https://www.usatoday.com/story/news/politics/2023/04/23/trump-biden-republicans-reelection-2024/11724195002/": {
         "title": "44% of REPUBLICANS don't want Donald to run again;  63% of independents...",
         "added": "2023-04-24T03:23:16.647789+00:00",
