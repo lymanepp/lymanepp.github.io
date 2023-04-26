@@ -1,4 +1,14 @@
 {
+    "https://www.foxbusiness.com/quote?stockTicker=FOXA": {
+        "title": "STOCK UP...",
+        "added": "2023-04-26T16:08:40.452516+00:00",
+        "description": "Quote | Fox Business"
+    },
+    "https://www.cnbc.com/2023/04/26/disney-sues-florida-gov-ron-desantis-alleges-political-effort-to-hurt-its-business.html": {
+        "title": "DISNEY sues DeSantis, alleges political effort to hurt its business...",
+        "added": "2023-04-26T16:08:40.452516+00:00",
+        "description": "Disney sues Florida Gov. Ron DeSantis, alleges political effort to hurt its business"
+    },
     "https://www.dailystar.co.uk/news/us-news/demonic-ms-13-gang-member-29813629": {
         "title": "'Demonic' MS-13 gang member butchers UBER driver...",
         "added": "2023-04-26T15:32:14.284443+00:00",
@@ -293,26 +303,6 @@
         "title": "Tucker 2024?",
         "added": "2023-04-25T16:29:34.293330+00:00",
         "description": ""
-    },
-    "https://www.motherjones.com/politics/2023/04/tucker-carlson-long-con-fox-news-trump/": {
-        "title": "CORN:  WAS IT ALL A CON?",
-        "added": "2023-04-25T16:08:35.633253+00:00",
-        "description": "Tucker Carlson's long con"
-    },
-    "https://www.dailymail.co.uk/news/article-12011433/Why-Tucker-Carlson-unceremoniously-axed-Fox-News-14-years-network.html": {
-        "title": "FOX SEARCH FOR REPLACEMENT",
-        "added": "2023-04-25T16:08:35.633253+00:00",
-        "description": "Why was Tucker Carlson axed from Fox News after 14 years?"
-    },
-    "https://finance.yahoo.com/news/silicon-valley-startups-brace-summer-110009361.html": {
-        "title": "Silicon Valley Startups Brace for a Summer of Pain...",
-        "added": "2023-04-25T16:08:35.633253+00:00",
-        "description": "Silicon Valley Startups Brace for a Summer of Pain"
-    },
-    "https://ca.news.yahoo.com/trump-trial-rape-suit-renews-110000225.html": {
-        "title": "Focus on His Treatment of Women...",
-        "added": "2023-04-25T16:08:35.633253+00:00",
-        "description": "Trump Trial for Rape Suit Renews Focus on Treatment of Women"
     },
     "https://www.semafor.com/author/ben-smith": {
         "title": "BEN SMITH",
