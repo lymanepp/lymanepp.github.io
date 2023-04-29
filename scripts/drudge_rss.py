@@ -71,7 +71,7 @@ def _read_live_links() -> LiveLinksType | None:
     html = response.content.decode("latin-1")
     soup = BeautifulSoup(html, "html.parser")
 
-    return [(tag.attrs["href"], tag.text) for tag in soup.find_all("a")]
+    return [(tag.attrs["href"], tag.text) for tag in soup.find_all("a") if "href" in tag.attrs]
 
 
 def _build_current(
