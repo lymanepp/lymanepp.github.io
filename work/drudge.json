@@ -1,4 +1,9 @@
 {
+    "https://www.drudgereport.com/": {
+        "title": "WORLD EXCLUSIVE:  FOXNEWS SETS NEW SCHEDULE",
+        "added": "2023-05-17T15:22:11.258680+00:00",
+        "description": ""
+    },
     "https://www.newsweek.com/colorado-republicans-lose-conservative-stronghold-45-years-1800846": {
         "title": "Colorado Republicans Lose Conservative Stronghold They've Held for 45 Years...",
         "added": "2023-05-17T15:06:42.768745+00:00",
@@ -283,11 +288,6 @@
         "title": "BOTS TAKING OVER NET; HALF OF TRAFFIC",
         "added": "2023-05-16T15:22:33.417895+00:00",
         "description": "AI-powered bots 'taking over Internet' and mimicking human behaviour"
-    },
-    "https://www.cnbc.com/2023/05/16/doj-charges-former-apple-engineer-with-theft-of-autonomous-car-tech-for-china.html": {
-        "title": "DOJ charges former APPLE engineer with theft of autonomous car tech for China...",
-        "added": "2023-05-16T15:06:51.191935+00:00",
-        "description": "DOJ charges former Apple engineer with alleged theft of autonomous car tech for China"
     },
     "https://www.thefp.com/": {
         "title": "FREE PRESS",
