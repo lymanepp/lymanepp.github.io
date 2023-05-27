@@ -1,4 +1,19 @@
 {
+    "https://finance.yahoo.com/news/1-thorny-issues-remain-us-124217141.html": {
+        "title": "Key Republican Negotiator Says 'Thorny' Issues Unsettled...",
+        "added": "2023-05-27T13:21:44.675119+00:00",
+        "description": "UPDATE 1-Thorny issues remain in US debt-ceiling talks, key Republican says"
+    },
+    "https://apnews.com/article/texas-attorney-general-paxton-impeachment-d0fa9114868adca63d55a21a53765c45": {
+        "title": "TEXAS DIRTY:  Attorney General faces impeachment vote... Developing...",
+        "added": "2023-05-27T13:21:44.675119+00:00",
+        "description": "Texas' GOP-held House set for impeachment proceedings against Attorney General Ken Paxton"
+    },
+    "https://apnews.com/article/henry-kissinger-100th-birthday-565d48b7604ee179d104555490686224": {
+        "title": "Kissinger celebrates 100th birthday, still active in global affairs...",
+        "added": "2023-05-27T13:21:44.675119+00:00",
+        "description": "Former US diplomat Henry Kissinger celebrates 100th birthday, still active in global affairs"
+    },
     "https://www.texastribune.org/2023/05/26/ken-paxton-responds-impeachment/": {
         "title": "TEXAS DIRTY:  Attorney General faces Saturday impeachment vote...",
         "added": "2023-05-26T22:06:01.534379+00:00",
@@ -179,11 +194,6 @@
         "added": "2023-05-26T13:47:00.528200+00:00",
         "description": "More and More Teenagers Are Coming to School High, N.Y.C. Teachers Say"
     },
-    "https://www.ansa.it/english/news/vatican/2023/05/26/pope-cancels-friday-audiences-with-fever_52dd7466-26da-4707-ac94-55ea1f765ab9.html": {
-        "title": "Pope cancels Friday audiences with fever...",
-        "added": "2023-05-26T13:10:40.146844+00:00",
-        "description": "Pope cancels Friday audiences with fever - English"
-    },
     "https://apnews.com/article/hugh-grant-phone-hacking-lawsuit-sun-tabloid-537b9aac9486020ce6317edbc2d06b7e": {
         "title": "Court says Hugh Grant suit alleging illegal snooping by tabloid can go to trial...",
         "added": "2023-05-26T12:56:29.684023+00:00",
@@ -193,16 +203,6 @@
         "title": "SHARK SUMMER: Great white population booming, researchers say...",
         "added": "2023-05-26T12:12:01.885426+00:00",
         "description": "Great white shark population is booming, researchers say"
-    },
-    "https://nypost.com/2023/05/26/south-korean-asiana-airlines-passenger-opens-emergency-exit-door-mid-flight/": {
-        "title": "Pulse-pounding video shows airplane panic as passenger opens door while still in air...",
-        "added": "2023-05-26T11:18:54.295628+00:00",
-        "description": "South Korean passenger plane flies with open door, lands safely"
-    },
-    "https://news.yahoo.com/100-kissinger-basks-us-praise-011905596.html": {
-        "title": "WIRE:  At 100, Kissinger basks in praise with no accountability...",
-        "added": "2023-05-26T03:21:53.572856+00:00",
-        "description": "At 100, Kissinger basks in US praise with no accountability"
     },
     "https://www.the-sun.com/tech/8210972/microsoft-president-ai-fears-deep-fakes/": {
         "title": "New warning of deep fakes spreading misinformation...",
@@ -214,35 +214,15 @@
         "added": "2023-05-26T01:52:27.487875+00:00",
         "description": "Roger Waters probed by cops after performing in 'Nazi-style' uniform in Berlin"
     },
-    "https://www.msn.com/en-us/news/us/state-deploying-30-peacekeepers-in-chicago-over-memorial-day-weekend-in-effort-to-prevent-violence-through-de-escalation/ar-AA1bB37n": {
-        "title": "Chicago Readies 'Peacekeepers' to Prevent Memorial Day Crime Wave...",
-        "added": "2023-05-26T01:52:27.487875+00:00",
-        "description": "State deploying 30 \u2018peacekeepers\u2019 in Chicago over Memorial Day weekend in effort to prevent violence through de-escalation"
-    },
     "https://www.msn.com/en-us/news/politics/house-ethics-panel-recommends-impeachment-for-texas-ag-ken-paxton/ar-AA1bHodC": {
         "title": "'Litany of criminal and ethical offenses'...",
         "added": "2023-05-26T01:52:27.487875+00:00",
         "description": "House ethics panel recommends impeachment for Texas AG Ken Paxton"
     },
-    "https://www.msn.com/en-us/news/crime/nun-accused-of-violating-vow-of-chastity-with-priest-appeals-to-vatican/ar-AA1bH62B": {
-        "title": "Nun accused of violating vow of chastity with priest appeals to Vatican...",
-        "added": "2023-05-26T01:52:27.487875+00:00",
-        "description": "Nun accused of violating vow of chastity with priest appeals to Vatican"
-    },
-    "https://twitter.com/annaknicolaou/status/1661698374796550150": {
-        "title": "The fall of VICE: Private equity's ill-fated bet on media's future...",
-        "added": "2023-05-26T01:52:27.487875+00:00",
-        "description": ""
-    },
     "https://news.yahoo.com/details-texas-ag-ken-paxton-020456091.html": {
         "title": "Details Even Shocked Republican Panel!",
         "added": "2023-05-26T01:52:27.487875+00:00",
         "description": "Details of Texas AG Ken Paxton\u2019s Scandal Shock House Panel\u2019s Conscience"
-    },
-    "https://apnews.com/article/summer-travel-inflation-airlines-hotels-b1ec8b577b6cae248923236b1c8c120c": {
-        "title": "SUMMER KICKOFF: Big crowds for travel season...",
-        "added": "2023-05-25T10:46:46.721863+00:00",
-        "description": "Expect big crowds for the summer travel season -- and big prices, too"
     },
     "https://www.thefp.com/": {
         "title": "FREE PRESS",
