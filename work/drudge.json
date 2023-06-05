@@ -1,4 +1,9 @@
 {
+    "https://www.the-sun.com/news/8286552/prominent-maga-donors-entire-family-plane-crash-dc-area/": {
+        "title": "Prominent MAGA donor onboard...",
+        "added": "2023-06-05T02:56:55.753602+00:00",
+        "description": "MAGA donor's 'entire family' in plane crash after F-16s tried contacting pilot"
+    },
     "https://www.msn.com/en-us/news/us/disney-welcomes-gay-days-in-florida-as-the-feud-with-desantis-rages-on/ar-AA1c6BiT": {
         "title": "DISNEY welcomes Gay Days in Florida as feud with DeSantis rages on...",
         "added": "2023-06-04T23:05:58.948709+00:00",
@@ -159,11 +164,6 @@
         "added": "2023-06-04T02:40:14.384551+00:00",
         "description": "India's worst train crash in decades kills at least 288"
     },
-    "https://www.msn.com/en-us/news/politics/desantis-on-the-trail-combative-with-critics-not-yet-cozy-with-voters/ar-AA1c5rxu": {
-        "title": "DeSantis on the trail: Combative with critics, not yet cozy with voters...",
-        "added": "2023-06-04T02:40:14.384551+00:00",
-        "description": "DeSantis on the trail: Combative with critics, not yet cozy with voters"
-    },
     "https://www.mirror.co.uk/news/us-news/unruly-passenger-breaks-free-restraints-30147296": {
         "title": "DELTA flight diverts to remote island as unruly passenger breaks free of restraints...",
         "added": "2023-06-04T02:40:14.384551+00:00",
@@ -194,35 +194,10 @@
         "added": "2023-06-04T02:40:14.384551+00:00",
         "description": "Christie\u2019s 2024 bid set to make criticism of Trump a central focus"
     },
-    "https://news.yahoo.com/tim-scott-presents-himself-iowa-014532959.html": {
-        "title": "Tim Scott presents himself as candidate of optimism...",
-        "added": "2023-06-04T02:40:14.384551+00:00",
-        "description": "Tim Scott Presents Himself in Iowa as the Candidate of Optimism"
-    },
-    "https://news.yahoo.com/tennessee-drag-ban-struck-down-144841039.html": {
-        "title": "'FREE SPEECH' VICTORY",
-        "added": "2023-06-04T02:40:14.384551+00:00",
-        "description": "Tennessee drag ban is struck down by federal judge: \u2018Unconstitutionally vague and substantially overbroad\u2019"
-    },
     "https://news.yahoo.com/great-white-sharks-more-common-200952888.html": {
         "title": "Great white sharks more common off California coast than previously thought...",
         "added": "2023-06-04T02:40:14.384551+00:00",
         "description": "Great white sharks more common off California coast than previously thought, study says"
-    },
-    "https://kdhnews.com/news/politics/desantis-is-marquee-speaker-at-biker-rally-after-trump-opts-out/article_ebb03924-be7b-5eff-93ed-87e1bb7ca3be.html": {
-        "title": "Is Marquee Speaker at Biker Rally After Trump Opts Out...",
-        "added": "2023-06-04T02:40:14.384551+00:00",
-        "description": "DeSantis is marquee speaker at biker rally after Trump opts out"
-    },
-    "https://apnews.com/article/twitter-musk-ella-irwin-resignation-transgender-f57a98e0c3797f1d93b694fc1bbddc2a": {
-        "title": "TWITTER Loses Another Safety Exec...",
-        "added": "2023-06-04T02:40:14.384551+00:00",
-        "description": "Twitter executive responsible for content safety resigns after Elon Musk criticism"
-    },
-    "https://apnews.com/article/drag-law-unconstitutional-tennessee-lgbtq-ff16eb4bdbd0d69863eef38bf93503cf": {
-        "title": "DRAG BAN RULED UNCONSTITUTIONAL",
-        "added": "2023-06-04T02:40:14.384551+00:00",
-        "description": "Trump-appointed judge rejects Tennessee's anti-drag law as too broad, too vague"
     },
     "https://apnews.com/article/climate-talks-bonn-dubai-uae-jaber-cop28-1e2696a124fce80240539076f480653f": {
         "title": "UAE defends Big Oil's role at UN climate summit it will host...",
