@@ -5,6 +5,11 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>Stock Record High...</title>
+      <link>https://www.cnbc.com/2023/06/05/apple-shares-on-pace-for-record-high-ahead-of-vr-headset-unveiling.html</link>
+      <description>cnbc.com • Apple hits record high ahead of VR headset unveiling</description>
+    </item>
+    <item>
       <title>LICHT TRIES TO SOOTHE STAFF...</title>
       <link>https://variety.com/2023/tv/news/cnn-ceo-chris-licht-atlantic-profile-soothe-staff-1235632883/</link>
       <description>variety.com • CNN CEO Chris Licht Tries To Soothe Restless Staff: ‘I Should Not Be In The News’</description>
@@ -153,11 +158,6 @@
       <title>CNN'S SHAKESPEAREAN DRAMA...</title>
       <link>https://www.axios.com/2023/06/04/cnn-drama-licht-zucker-zaslav</link>
       <description>axios.com • CNN drama, Act 2: Zucker's revenge</description>
-    </item>
-    <item>
-      <title>CHUCK TODD OUT AT NBC'S 'MEET THE PRESS'...</title>
-      <link>https://www.nbcnews.com/news/chuck-todd-will-depart-nbcs-meet-press-kristen-welker-become-host-rcna87618</link>
-      <description>nbcnews.com • Chuck Todd will depart 'Meet the Press.' Kristen Welker will be the next host</description>
     </item>
   </channel>
 </rss>
