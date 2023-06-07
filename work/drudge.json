@@ -1,4 +1,14 @@
 {
+    "https://www.fox5ny.com/news/nyc-air-quality-ground-stop-delay-laguardia-newark-jfk-airport": {
+        "title": "Ground stop, delay at LaGuardia, Newark...",
+        "added": "2023-06-07T18:08:21.646230+00:00",
+        "description": "New York smoke forces ground stop, delay at LaGuardia and Newark airports"
+    },
+    "https://www.cnbc.com/2023/06/07/flights-new-york-smoke-wildfires.html": {
+        "title": "FAA halts flights...",
+        "added": "2023-06-07T18:08:21.646230+00:00",
+        "description": "FAA halts flights bound for New York's LaGuardia Airport amid smoke from Canada wildfires"
+    },
     "https://www.bbc.com/news/science-environment-65834167": {
         "title": "Crocodile made herself pregnant...",
         "added": "2023-06-07T17:46:42.105047+00:00",
@@ -438,21 +448,6 @@
         "title": "DeSantis closes gap in Iowa...",
         "added": "2023-06-06T18:25:35.105828+00:00",
         "description": "Poll: DeSantis CLOSES gap with Trump in Iowa by 14%"
-    },
-    "https://www.newstatesman.com/politics/media/2023/06/prince-harry-court-appearance-mirror": {
-        "title": "Prince Harry Makes Royal Family History With UK Phone Hacking Testimony...",
-        "added": "2023-06-06T18:08:15.569254+00:00",
-        "description": "The prince who fell to earth"
-    },
-    "https://www.cnbc.com/2023/06/06/boeing-warns-of-new-defect-on-787-dreamliners.html": {
-        "title": "NIGHTMARE: BOEING warns of new defect on 787 Dreamliners...",
-        "added": "2023-06-06T18:08:15.569254+00:00",
-        "description": "Boeing warns of new defect on 787 Dreamliners"
-    },
-    "https://www.dailymail.co.uk/health/article-12162513/Promising-vaccine-treat-two-deadliest-fastest-rising-forms-cancer-early-study-shows.html": {
-        "title": "On verge of vaccinating against CANCER?",
-        "added": "2023-06-06T17:46:43.318065+00:00",
-        "description": "Are we on the verge of vaccinating against CANCER?"
     },
     "https://nypost.com/2023/06/06/price-tag-of-apples-newly-unveiled-vision-pro-headset-draws-mockery/": {
         "title": "Hefty price tag of APPLE's new headset draws mockery...",
