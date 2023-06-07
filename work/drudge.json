@@ -1,4 +1,9 @@
 {
+    "https://www.theguardian.com/environment/2023/jun/07/is-eating-local-better-environment": {
+        "title": "Eating local actually worse for planet...",
+        "added": "2023-06-07T18:26:30.431570+00:00",
+        "description": "Is eating local produce actually better for the planet?"
+    },
     "https://www.fox5ny.com/news/nyc-air-quality-ground-stop-delay-laguardia-newark-jfk-airport": {
         "title": "Ground stop, delay at LaGuardia, Newark...",
         "added": "2023-06-07T18:08:21.646230+00:00",
@@ -443,11 +448,6 @@
         "title": "Inside Baseball's Desperate Effort to Save Itself From Irrelevance...",
         "added": "2023-06-06T18:46:48.255682+00:00",
         "description": "The Atlantic\u2019s July/August Cover Story: \u201cHow Baseball Saved Itself\u201d by Mark Leibovich"
-    },
-    "https://www.dailymail.co.uk/news/article-12164843/Poll-DeSantis-CLOSES-gap-Trump-Iowa-14-kicking-campaign.html": {
-        "title": "DeSantis closes gap in Iowa...",
-        "added": "2023-06-06T18:25:35.105828+00:00",
-        "description": "Poll: DeSantis CLOSES gap with Trump in Iowa by 14%"
     },
     "https://nypost.com/2023/06/06/price-tag-of-apples-newly-unveiled-vision-pro-headset-draws-mockery/": {
         "title": "Hefty price tag of APPLE's new headset draws mockery...",
