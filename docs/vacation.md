@@ -1,3 +1,5 @@
+<base target="_blank">
+
 ## Things to do when you visit Southwest Florida.
 
 ### CAPE CORAL ACTIVITIES
