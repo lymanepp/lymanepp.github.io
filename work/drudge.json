@@ -1,4 +1,9 @@
 {
+    "https://www.sfgate.com/news/article/los-angeles-times-cut-74-newsroom-positions-18140434.php": {
+        "title": "Layoffs at LATIMES...",
+        "added": "2023-06-07T19:05:33.536725+00:00",
+        "description": "Los Angeles Times to cut 74 newsroom positions"
+    },
     "https://www.theguardian.com/environment/2023/jun/07/is-eating-local-better-environment": {
         "title": "Eating local actually worse for planet...",
         "added": "2023-06-07T18:26:30.431570+00:00",
@@ -438,21 +443,6 @@
         "title": "Conservatives revolt against Republican leaders on House floor... Developing...",
         "added": "2023-06-06T19:17:06.014467+00:00",
         "description": "Conservatives revolt against GOP leaders on House floor"
-    },
-    "https://news.yahoo.com/trump-special-counsel-summons-florida-174548282.html": {
-        "title": "Florida Witnesses Summoned...",
-        "added": "2023-06-06T19:04:13.251283+00:00",
-        "description": "Trump Special Counsel Summons Florida Witnesses in Classifed Documents Probe"
-    },
-    "https://www.msn.com/en-us/sports/mlb/the-atlantic-s-july-august-cover-story-how-baseball-saved-itself-by-mark-leibovich/ar-AA1cc1uM": {
-        "title": "Inside Baseball's Desperate Effort to Save Itself From Irrelevance...",
-        "added": "2023-06-06T18:46:48.255682+00:00",
-        "description": "The Atlantic\u2019s July/August Cover Story: \u201cHow Baseball Saved Itself\u201d by Mark Leibovich"
-    },
-    "https://nypost.com/2023/06/06/price-tag-of-apples-newly-unveiled-vision-pro-headset-draws-mockery/": {
-        "title": "Hefty price tag of APPLE's new headset draws mockery...",
-        "added": "2023-06-06T16:29:17.425927+00:00",
-        "description": "Price tag of Apple\u2019s newly unveiled \u2018Vision Pro\u2019 headset draws mockery"
     },
     "https://www.thefp.com/": {
         "title": "FREE PRESS",
