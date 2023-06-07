@@ -44,6 +44,7 @@ Phobias are irrational fears that relate to specific objects or situations. Exam
 
 Psych Hub offers this helpful video on anxiety:
 -----------------------------------------------
+[![Watch the video](https://img.youtube.com/vi/BVJkf8IuRjE/default.jpg)](https://www.youtube.com/BVJkf8IuRjE)
 
 Therapy Approaches for Anxiety
 ------------------------------
