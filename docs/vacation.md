@@ -21,7 +21,7 @@
 
 ### LEE COUNTY ACTIVITIES
 
-* [Manatee Park (water temp below 68°)](https://www.leegov.com/parks/parks/manateepark)
+* [Manatee Park (when water temp is below 68°)](https://www.leegov.com/parks/parks/manateepark)
 * [Gulf water temperature](https://seatemperature.info/fort-myers-beach-water-temperature.html)
 * [Lee County Beaches (closed)](https://www.leegov.com/parks/beaches)
 * [Lovers Key State Park (beach closed)](https://www.floridastateparks.org/index.php/parks-and-trails/lovers-key-state-park)
