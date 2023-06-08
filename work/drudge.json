@@ -1,4 +1,9 @@
 {
+    "https://www.dailymail.co.uk/health/article-12174791/J-Js-COVID-vaccine-taken-19-MILLION-Americans-pulled-FDA-plummeting-demand.html": {
+        "title": "J&J's covid vax pulled by FDA...",
+        "added": "2023-06-08T18:32:18.519447+00:00",
+        "description": "J&J's COVID vaccine taken by 19 MILLION Americans is pulled by FDA"
+    },
     "https://nypost.com/2023/06/08/liv-golf-exec-calls-rory-mcilroy-a-little-bch-after-pga-tour-merger/": {
         "title": "LIV Golf exec attacks Rory McIlroy: 'Nobody wants that little b*tch'...",
         "added": "2023-06-08T18:25:27.418352+00:00",
@@ -413,11 +418,6 @@
         "title": "Layoffs at LATIMES...",
         "added": "2023-06-07T19:05:33.536725+00:00",
         "description": "Los Angeles Times to cut 74 newsroom positions"
-    },
-    "https://www.theguardian.com/environment/2023/jun/07/is-eating-local-better-environment": {
-        "title": "Eating local actually worse for planet...",
-        "added": "2023-06-07T18:26:30.431570+00:00",
-        "description": "Is eating local produce actually better for the planet?"
     },
     "https://www.dailystar.co.uk/tech/news/scammers-can-turn-your-profile-30176158": {
         "title": "FBI deepfake porn warning:  Crooks turning profile pictures into explicit images and blackmailing...",
