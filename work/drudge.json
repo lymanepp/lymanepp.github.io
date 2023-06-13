@@ -1,4 +1,9 @@
 {
+    "https://abcnews.go.com/Politics/live-updates/trump-indictment/?id=100010068": {
+        "title": "LIVE UPDATES...",
+        "added": "2023-06-13T13:31:58.334279+00:00",
+        "description": "Trump court appearance live updates: Former president heads to federal court in Miami"
+    },
     "https://www.cbsnews.com/news/woman-declared-dead-knocks-on-coffin-wake-ecuador/": {
         "title": "'Dead' woman knocks on coffin during her own wake...",
         "added": "2023-06-13T13:16:42.643882+00:00",
@@ -453,11 +458,6 @@
         "title": "People who work with machines more likely to be lonely, suffer insomnia, booze...",
         "added": "2023-06-12T13:46:54.793742+00:00",
         "description": "People who work with AI are more likely to be lonely, study finds"
-    },
-    "https://www.nbcnews.com/tech/internet/deepfakes-twitter-tiktok-stars-rcna87295": {
-        "title": "Deepfake porn thrives...",
-        "added": "2023-06-12T13:27:32.298726+00:00",
-        "description": "Deepfake porn of TikTok stars thrives on Twitter even though it breaks the platform\u2019s rules"
     },
     "https://apnews.com/article/trump-indictment-russia-justice-department-special-counsel-3e0c8e5d2ccc35fcb249f6f37f79be81": {
         "title": "Trump, allies escalate attacks on criminal case...",
