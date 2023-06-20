@@ -1,4 +1,9 @@
 {
+    "http://hp2.wright-weather.com/icons/us_heat.gif": {
+        "title": "HEAT MAP...",
+        "added": "2023-06-20T23:32:10.557218+00:00",
+        "description": ""
+    },
     "https://www.yahoo.com/entertainment/maga-melts-down-over-hunter-171621460.html": {
         "title": "MAGA BLASTS 'CORRUPT' DEAL",
         "added": "2023-06-20T23:22:10.671460+00:00",
@@ -308,26 +313,6 @@
         "title": "VIDEO...",
         "added": "2023-06-19T23:46:51.401780+00:00",
         "description": "Tropical Storm Bret Likely to Impact Eastern Caribbean Islands Thursday and Friday"
-    },
-    "https://www.msn.com/en-us/money/technology/mark-zuckerberg-goes-in-for-the-kill-as-elon-musk-s-twitter-bleeds-ad-dollars/ar-AA1cJilU": {
-        "title": "ZUCKERBERG TWITTER KILLER...",
-        "added": "2023-06-19T23:32:06.663666+00:00",
-        "description": "Mark Zuckerberg goes in for the kill as Elon Musk\u2019s Twitter bleeds ad dollars"
-    },
-    "https://www.tropicaltidbits.com/storminfo/03L_tracks_latest.png": {
-        "title": "MODELS...",
-        "added": "2023-06-19T15:31:51.299332+00:00",
-        "description": ""
-    },
-    "https://www.nhc.noaa.gov/storm_graphics/AT03/AL032023_5day_cone_no_line_and_wind.png": {
-        "title": "CONE...",
-        "added": "2023-06-19T15:31:51.299332+00:00",
-        "description": ""
-    },
-    "https://www.accuweather.com/en/hurricane/brewing-tropical-rainstorm-sailing-westward-across-the-atlantic/1543896": {
-        "title": "IT BEGINS! Storm heading towards Caribbbean...",
-        "added": "2023-06-19T15:31:51.299332+00:00",
-        "description": "Newly-formed Atlantic tropical depression to strengthen further"
     },
     "https://www.thefp.com/": {
         "title": "FREE PRESS",
