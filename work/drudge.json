@@ -1,4 +1,9 @@
 {
+    "https://www.axios.com/2023/06/21/schools-students-reading-math-test-scores-decline": {
+        "title": "Reading, math scores plummet...",
+        "added": "2023-06-21T19:46:45.684252+00:00",
+        "description": "Middle schoolers' reading and math scores plummet"
+    },
     "https://www.yahoo.com/entertainment/paris-explosion-rocks-int-l-164335542.html": {
         "title": "Explosion Rocks Central Paris, Injuring at Least 24...",
         "added": "2023-06-21T19:32:02.904848+00:00",
@@ -294,20 +299,10 @@
         "added": "2023-06-20T20:07:55.332178+00:00",
         "description": "Apple Is an AI Company Now"
     },
-    "https://www.theguardian.com/world/2023/jun/20/new-orleans-archdiocese-cover-up-serial-child-molester": {
-        "title": "New Orleans archdiocese concealed serial child molester...",
-        "added": "2023-06-20T19:45:27.484525+00:00",
-        "description": "Revealed: New Orleans archdiocese concealed serial child molester for years"
-    },
     "https://www.msn.com/en-us/news/politics/team-trump-suspects-his-former-chief-of-staff-is-a-rat/ar-AA1cO2J1": {
         "title": "Team Suspects Meadows Is 'Rat'...",
         "added": "2023-06-20T19:45:27.484525+00:00",
         "description": "Team Trump Suspects His Former Chief of Staff Is a \u2018Rat\u2019"
-    },
-    "https://www.mediaite.com/tv/officials-report-search-area-for-missing-sub-is-larger-than-the-state-of-connecticut-as-less-than-two-days-of-oxygen-may-remain/": {
-        "title": "Search Area Larger Than Connecticut...",
-        "added": "2023-06-20T19:45:27.484525+00:00",
-        "description": "Officials Report Search Area For Missing Sub Is \u2018Larger Than The State of Connecticut\u2019 As Less Than Two Days of Oxygen May Remain"
     },
     "https://www.mediaite.com/tv/trump-admitted-to-obstruction-of-justice-on-fox-news-argues-chris-christie/": {
         "title": "Admitted to Obstruction of Justice on FOX, Says Christie...",
@@ -318,11 +313,6 @@
         "title": "POLL: Trump's support softens post-indictment...",
         "added": "2023-06-20T18:31:59.434953+00:00",
         "description": "CNN Poll: Trump's GOP support appears to soften post-indictment, but he holds lead in primary field | CNN Politics"
-    },
-    "https://dnyuz.com/2023/06/20/trump-real-estate-deal-in-oman-underscores-ethics-concerns/": {
-        "title": "Deal with Saudis highlights intersecting business, politics...",
-        "added": "2023-06-20T18:07:36.868554+00:00",
-        "description": "Trump Real Estate Deal in Oman Underscores Ethics Concerns"
     },
     "https://apnews.com/article/texas-oklahoma-louisiana-heat-wave-4b7d6ac50a50ba3386ab03ce720f12b9": {
         "title": "TX power grid says cut electricity use as heat wave scorches...",
