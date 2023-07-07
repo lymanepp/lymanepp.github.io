@@ -1,4 +1,14 @@
 {
+    "https://news.yahoo.com/world-breaks-hottest-day-record-150040261.html": {
+        "title": "CLAIM:  Earth breaks hottest-day record for third time this week...",
+        "added": "2023-07-07T16:47:58.255018+00:00",
+        "description": "World breaks hottest-day record for third time this week - U.S. agency"
+    },
+    "https://news.yahoo.com/robots-wont-steal-jobs-rebel-142646810.html": {
+        "title": "Bots promise they won't steal jobs, rebel against humans...",
+        "added": "2023-07-07T16:47:58.255018+00:00",
+        "description": "Robots say they won't steal jobs, rebel against humans"
+    },
     "https://www.theguardian.com/lifeandstyle/2023/jul/07/one-in-three-vegan-products-found-to-contain-milk-or-egg-analysis-finds": {
         "title": "REVEALED:  One in three vegan products found to contain milk or egg...",
         "added": "2023-07-07T16:32:18.731110+00:00",
@@ -318,26 +328,6 @@
         "title": "REVEALED: Taylor Swift Approved Mega Sponsorship With FTX...",
         "added": "2023-07-06T17:27:26.108610+00:00",
         "description": "Taylor Swift Approved Sponsorship Deal With FTX, Despite Previous Reports: NYT"
-    },
-    "https://www.cnbc.com/2023/07/06/us-treasurys-investors-look-ahead-to-key-economic-reports.html": {
-        "title": "2-year Treasury yield highest in 16 years... Developing...",
-        "added": "2023-07-06T16:34:14.088398+00:00",
-        "description": "2-year Treasury yield hits 16-year high after ADP jobs data shatters expectations"
-    },
-    "https://www.azcentral.com/story/news/local/phoenix-weather/2023/07/05/phoenix-high-temperatures-will-rise-next-week-what-to-know/70385644007/": {
-        "title": "Weather records challenged...",
-        "added": "2023-07-06T16:34:14.088398+00:00",
-        "description": "Phoenix to get even hotter next week. These temps might break 50-year weather records"
-    },
-    "https://news.yahoo.com/trump-begins-sour-spotlight-hound-083010110.html": {
-        "title": "MAGA TURNS:  Trump Begins to Sour on Kari Lake for VP...",
-        "added": "2023-07-06T16:34:14.088398+00:00",
-        "description": "Trump Begins to Sour on \u2018Spotlight Hound\u2019 Kari Lake for VP"
-    },
-    "https://apnews.com/article/global-heat-record-hottest-climate-change-july-483fc8e2a286062773692db1a37efe23": {
-        "title": "Earth hit unofficial all-time high this week?",
-        "added": "2023-07-06T16:34:14.088398+00:00",
-        "description": "Earth hit an unofficial record high temperature this week \u2013 and stayed there"
     },
     "https://www.thefp.com/": {
         "title": "FREE PRESS",
