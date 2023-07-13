@@ -1,4 +1,14 @@
 {
+    "https://www.theverge.com/2023/7/13/23793911/ftc-openai-investigation-consumer-ai-false-information": {
+        "title": "FTC investigate data leak, ChatGPT inaccuracy...",
+        "added": "2023-07-13T22:07:02.667906+00:00",
+        "description": "FTC investigating OpenAI on ChatGPT data collection and publication of false information"
+    },
+    "https://thehill.com/homenews/campaign/4096503-trump-aligned-super-pac-paid-melania-trump-155k-in-2021/": {
+        "title": "Super PAC paid Melania $155K...",
+        "added": "2023-07-13T22:07:02.667906+00:00",
+        "description": "Trump-aligned super PAC paid Melania Trump $155K in 2021"
+    },
     "https://www.politico.com/news/2023/07/13/kavanaugh-supreme-court-speech-partisanship-00106215": {
         "title": "Kavanaugh: No war at Supreme Court...",
         "added": "2023-07-13T21:32:03.437744+00:00",
@@ -373,21 +383,6 @@
         "title": "Is it a new abnormal?",
         "added": "2023-07-13T02:25:43.881800+00:00",
         "description": "Fires, floods, heatwaves. Is the extreme weather from coast to coast 'a new abnormal'?"
-    },
-    "https://www.axios.com/2023/07/12/most-americans-support-abortion-poll": {
-        "title": "Most Americans support abortion year after Roe...",
-        "added": "2023-07-12T22:07:02.644692+00:00",
-        "description": "Most Americans support abortion access one year after Roe v. Wade: poll"
-    },
-    "https://www.theguardian.com/world/2023/jul/12/sloth-jewelry-human-arrive-americas": {
-        "title": "Giant sloth pendants indicate humans settled Americas earlier than thought...",
-        "added": "2023-07-12T21:46:53.075061+00:00",
-        "description": "Giant sloth pendants indicate humans settled Americas much earlier than thought"
-    },
-    "https://nypost.com/2023/07/12/norovirus-outbreaks-on-cruise-ships-skyrocket-to-highest-levels-in-a-decade-cdc-data/": {
-        "title": "Norovirus outbreaks on cruises skyrocket to highest levels in decade...",
-        "added": "2023-07-12T21:46:53.075061+00:00",
-        "description": "Norovirus outbreaks on cruise ships skyrocket to highest levels in a decade: CDC data"
     },
     "https://news.sky.com/watch-live": {
         "title": "LIVE...",
