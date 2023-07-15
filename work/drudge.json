@@ -1,4 +1,24 @@
 {
+    "https://www.nytimes.com/2023/07/15/opinion/writers-actors-strike.html": {
+        "title": "DOWD: Watch Out for Fake Tom Cruise...",
+        "added": "2023-07-15T13:26:52.195887+00:00",
+        "description": "Opinion | Watch Out for the Fake Tom Cruise"
+    },
+    "https://www.nbcnews.com/science/environment/heat-flooding-smoke-us-summer-extremes-rcna94101": {
+        "title": "The summer of extremes...",
+        "added": "2023-07-15T13:26:52.195887+00:00",
+        "description": "Heat, flooding and smoke: The U.S. is in the midst of a summer of extremes"
+    },
+    "https://nypost.com/2023/07/15/rfk-jr-says-covid-was-ethnically-targeted-to-spare-jews/": {
+        "title": "RFK Jr. says COVID was 'ethnically targeted' to spare Jews...",
+        "added": "2023-07-15T13:26:52.195887+00:00",
+        "description": "RFK Jr. says COVID was \u2018ethnically targeted\u2019 to spare Jews"
+    },
+    "https://news.yahoo.com/record-heatwaves-sweep-world-us-093731485.html": {
+        "title": "RECORD HEAT SWEEPS WORLD",
+        "added": "2023-07-15T13:26:52.195887+00:00",
+        "description": "Record heatwaves sweep the world from US to Japan via Europe"
+    },
     "https://www.politico.com/minutes/congress/07-14-2023/online-safety-klobuchar-cruz-transparency/": {
         "title": "Lawmakers push for legal right to scrub personal info...",
         "added": "2023-07-14T22:07:03.875518+00:00",
@@ -169,16 +189,6 @@
         "added": "2023-07-14T14:26:17.486564+00:00",
         "description": "\u2018Stop demonizing government,\u2019 20-year veteran Senate chaplain urges"
     },
-    "https://www.washingtonexaminer.com/news/white-house/biden-stumbles-air-force-one-leaving-finland": {
-        "title": "Biden stumbles up stairs of Air Force One -- again...",
-        "added": "2023-07-14T13:16:14.550002+00:00",
-        "description": "Biden stumbles up stairs of Air Force One leaving Finland"
-    },
-    "https://abcnews.go.com/US/target-letter-trump-organization-staffer-signals-new-push/story?id=101234029": {
-        "title": "Target letter to staffer signals new push in docs probe...",
-        "added": "2023-07-14T13:16:14.550002+00:00",
-        "description": "Target letter to Trump Organization staffer signals new push in classified docs probe: Sources"
-    },
     "https://thehill.com/blogs/blog-briefing-room/4097198-hunter-bidens-lawyer-tells-trump-posts-are-putting-family-in-danger/": {
         "title": "Hunter Biden lawyer tells Trump posts putting family in danger...",
         "added": "2023-07-14T12:48:54.947169+00:00",
@@ -194,35 +204,10 @@
         "added": "2023-07-14T12:14:28.246937+00:00",
         "description": "Trump\u2019s Mar-a-Lago Judge Aileen Cannon Faces Her Moment of Truth"
     },
-    "https://www.mediaite.com/news/just-in-jack-smiths-team-sledgehammers-trump-demand-to-delay-trial-in-blistering-response/": {
-        "title": "Jack Smith Sledgehammers Don's Demand To Delay Trial...",
-        "added": "2023-07-14T11:06:20.977550+00:00",
-        "description": "DOJ Sledgehammers Trump Trial Delay In Blistering Response"
-    },
-    "https://news.yahoo.com/causing-road-rage-incidents-spike-164353342.html": {
-        "title": "Road rage shootings: Warmth causing people to become more violent?",
-        "added": "2023-07-14T11:06:20.977550+00:00",
-        "description": "Road rage shootings: Is North Texas heat causing people to become more violent?"
-    },
-    "https://www.whas11.com/article/news/crime/james-nott-humans-remains-bones-furniture-mount-washington/417-80dc78ef-6c71-4911-908d-cdd196a0056b": {
-        "title": "Kentucky man in skull-filled home arrested, tied to nationwide body part-selling scheme...",
-        "added": "2023-07-14T02:25:24.145827+00:00",
-        "description": "Grisly scene | FBI finds stolen human remains 'decorated' around Mount Washington man's home"
-    },
-    "https://www.msn.com/en-us/weather/other/extreme-u-s-heat-wave-intensifying-with-world-records-in-jeopardy/ar-AA1dORij": {
-        "title": "WEEKEND:  Extreme US heatwave intensifying with world records in jeopardy... Developing...",
-        "added": "2023-07-14T02:25:24.145827+00:00",
-        "description": "Extreme U.S. heat wave intensifying with world records in jeopardy"
-    },
     "https://www.dailymail.co.uk/news/article-12297771/Europe-set-hit-hottest-temperature-48C-double-heatwaves-boil-continent.html": {
         "title": "Europe could reach its hottest temperature EVER...",
         "added": "2023-07-14T02:25:24.145827+00:00",
         "description": "Europe set to hit its hottest temperature EVER in 48C double heatwaves"
-    },
-    "https://apnews.com/article/ukraine-russia-prisons-civilians-torture-detainees-88b4abf2efbf383272eed9378be13c72": {
-        "title": "Ukraine civilians being held in Russian prisons...",
-        "added": "2023-07-14T02:25:24.145827+00:00",
-        "description": "Thousands of Ukraine civilians are being held in Russian prisons. Russia plans to build many more"
     },
     "https://news.sky.com/watch-live": {
         "title": "LIVE...",
