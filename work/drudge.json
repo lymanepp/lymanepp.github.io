@@ -1,4 +1,14 @@
 {
+    "https://www.msn.com/en-us/news/world/4-major-fighter-jet-deals-could-reshape-the-middle-east-s-biggest-militaries-for-decades-to-come/ar-AA1dVTOx": {
+        "title": "4 major fighter-jet deals could reshape Middle East...",
+        "added": "2023-07-16T13:01:36.643364+00:00",
+        "description": "4 major fighter-jet deals could reshape the Middle East's biggest militaries for decades to come"
+    },
+    "https://apnews.com/article/iran-protests-women-morality-police-07815e10f675ad1be53bf4ac7ba499d0": {
+        "title": "Iran Brings Back Morality Police Patrol to Enforce Hijab Law...",
+        "added": "2023-07-16T13:01:36.643364+00:00",
+        "description": "Iran's morality police return after protests in a new campaign to impose Islamic dress on women"
+    },
     "https://www.sfgate.com/politics/article/moms-not-cops-biggest-roadblock-calif-drug-reform-18200005.php": {
         "title": "Moms, not cops, biggest roadblock to California's decriminalizing drug law...",
         "added": "2023-07-16T12:44:09.767545+00:00",
@@ -183,11 +193,6 @@
         "title": "RECORD HEAT SWEEPS WORLD",
         "added": "2023-07-15T13:26:52.195887+00:00",
         "description": "Record heatwaves sweep the world from US to Japan via Europe"
-    },
-    "https://www.theguardian.com/us-news/2023/jul/14/california-death-valley-visit-temperature-record": {
-        "title": "TOURISTS FLOCK TO DEATH VALLEY",
-        "added": "2023-07-14T21:46:53.390944+00:00",
-        "description": "Death Valley threatens temperature records but tourists keep coming"
     },
     "https://www.accuweather.com/en/weather-forecasts/death-valley-could-approach-130-f-as-heat-intensifies-over-southwest/1557277": {
         "title": "EPIC SUNDAY SET FOR AZ...",
