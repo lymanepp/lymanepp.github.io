@@ -5,6 +5,21 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>FOX debuts revamped primetime lineup this week...</title>
+      <link>https://thehill.com/homenews/4101104-fox-news-debuts-revamped-primetime-lineup-this-week/</link>
+      <description>thehill.com • Fox News debuts revamped primetime lineup this week</description>
+    </item>
+    <item>
+      <title>New Saharan Blast...</title>
+      <link>https://finance.yahoo.com/news/saharan-heat-blast-spells-more-082818481.html</link>
+      <description>finance.yahoo.com • New Saharan Heat Blast Spells More Extremes for Europe</description>
+    </item>
+    <item>
+      <title>Wildfire Forces Canary Islands Evacuation...</title>
+      <link>https://dnyuz.com/2023/07/17/wildfire-forces-thousands-to-evacuate-in-canary-islands/</link>
+      <description>dnyuz.com • Wildfire Forces Thousands to Evacuate in Canary Islands</description>
+    </item>
+    <item>
       <title>The Secret to Mozart's Lasting Appeal...</title>
       <link>https://www.msn.com/en-us/news/world/the-secret-to-mozart-s-lasting-appeal/ar-AA1dYeGI</link>
       <description>msn.com • The Secret to Mozart’s Lasting Appeal</description>
@@ -234,11 +249,6 @@
       <title>LIVE:  MAP...</title>
       <link>http://hp2.wright-weather.com/icons/us_heat.gif</link>
       <description>hp2.wright-weather.com</description>
-    </item>
-    <item>
-      <title>TRIPLE DIGIT DANGER</title>
-      <link>https://www.cbsnews.com/news/heat-wave-united-states-nevada-california-texas-arizona/</link>
-      <description>cbsnews.com • Tens of millions across U.S. continue to endure scorching temperatures: "Everyone needs to take this heat seriously"</description>
     </item>
   </channel>
 </rss>
