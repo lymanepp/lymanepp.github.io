@@ -1,4 +1,14 @@
 {
+    "https://ktla.com/news/local-news/in-n-out-burger-employees-barred-from-wearing-masks/": {
+        "title": "IN-N-OUT bans employees from wearing masks...",
+        "added": "2023-07-18T10:46:55.590831+00:00",
+        "description": "In-N-Out Burger employees barred from wearing masks"
+    },
+    "https://apnews.com/article/israel-protest-netanyahu-judicial-overhaul-3f3d7221195121dd74dfd3fe8fed21a8": {
+        "title": "Israeli protesters block highways in 'day of disruption' against judicial overhaul...",
+        "added": "2023-07-18T10:46:55.590831+00:00",
+        "description": "Israeli protesters block highways in 'day of disruption' against Netanyahu's judicial overhaul plan"
+    },
     "https://www.nasdaq.com/articles/texas-power-use-hits-record-high-as-heatwave-lingers-0": {
         "title": "Texas power use hits ANOTHER record...",
         "added": "2023-07-18T02:43:15.547805+00:00",
@@ -284,35 +294,10 @@
         "added": "2023-07-17T11:20:36.989547+00:00",
         "description": "Smoke Pollution From Canadian Wildfires Returns to Parts of U.S."
     },
-    "https://www.msn.com/en-us/news/other/did-killer-sea-drones-just-blow-up-putin-s-beloved-bridge/ar-AA1dXNRZ": {
-        "title": "Did Killer Sea Drones Just Blow Up Putin's Beloved Crimea Bridge?",
-        "added": "2023-07-17T10:46:49.052004+00:00",
-        "description": "Did Killer Sea Drones Just Blow Up Putin\u2019s Beloved Bridge?"
-    },
-    "https://www.msn.com/en-us/money/other/the-housing-market-recession-is-already-ending/ar-AA1dYbUY": {
-        "title": "Housing market recession already ending?",
-        "added": "2023-07-17T10:46:49.052004+00:00",
-        "description": "The housing market recession is already ending"
-    },
     "https://www.independent.co.uk/news/world/europe/europe-heatwave-weather-2023-latest-news-b2376359.html": {
         "title": "Europe hottest EVER?",
         "added": "2023-07-17T10:46:49.052004+00:00",
         "description": "Europe braced for record temperatures as second heat storm hits"
-    },
-    "https://www.france24.com/en/live-news/20230717-scorching-heatwaves-set-to-break-records-around-the-globe": {
-        "title": "HEAT STORM SWEEPS WORLD",
-        "added": "2023-07-17T10:46:49.052004+00:00",
-        "description": "Scorching heatwaves set to break records around the globe"
-    },
-    "https://sports.yahoo.com/animals-become-healing-companions-mexico-162556544.html": {
-        "title": "Animals become healing companions in hospital...",
-        "added": "2023-07-17T10:46:49.052004+00:00",
-        "description": "Animals become healing companions in Mexico hospital"
-    },
-    "https://dnyuz.com/2023/07/17/u-s-heat-wave-shows-no-signs-of-abating/": {
-        "title": "TRIPLE DIGIT DANGERS",
-        "added": "2023-07-17T10:46:49.052004+00:00",
-        "description": "U.S. Heat Wave Shows No Signs of Abating"
     },
     "https://www.seattletimes.com/nation-world/how-a-saudi-firm-tapped-a-gusher-of-water-in-drought-stricken-arizona/": {
         "title": "How Saudi firm tapped gusher of water in drought-stricken Arizona...",
