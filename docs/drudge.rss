@@ -5,6 +5,11 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>Troubled icon...</title>
+      <link>https://www.france24.com/en/live-news/20230726-sinead-o-connor-a-troubled-irish-icon-1</link>
+      <description>france24.com • Sinead O'Connor, a troubled Irish icon</description>
+    </item>
+    <item>
       <title>Tucker claims in FOX firing part of $787.5m settlement...</title>
       <link>https://www.theguardian.com/books/2023/jul/26/tucker-carlson-fox-news-firing-condition-dominion-settlement</link>
       <description>theguardian.com • Tucker Carlson claims in book Fox News firing was part of $787.5m settlement</description>
@@ -329,11 +334,6 @@
       <title>Public libraries latest front in culture battle over books...</title>
       <link>https://www.msn.com/en-us/news/us/public-libraries-are-the-latest-front-in-culture-war-battle-over-books/ar-AA1ek6W4</link>
       <description>msn.com • Public libraries are the latest front in culture war battle over books</description>
-    </item>
-    <item>
-      <title>Nuke scientists consider resigning...</title>
-      <link>https://www.jpost.com/breaking-news/article-752436</link>
-      <description>jpost.com • Israeli nuclear scientists considering resigning over judicial reform</description>
     </item>
   </channel>
 </rss>
