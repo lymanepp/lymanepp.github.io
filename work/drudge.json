@@ -1,4 +1,9 @@
 {
+    "https://www.cbsnews.com/news/heat-dome-forecast-phoenix-temperature/": {
+        "title": "31 days over 110\u2109...",
+        "added": "2023-07-31T11:46:45.891428+00:00",
+        "description": "Phoenix sees temperatures of 110 or higher for 31st straight day"
+    },
     "https://www.msn.com/en-us/news/politics/atlanta-braces-for-possible-indictments-in-2020-election-investigation/ar-AA1eA1cJ": {
         "title": "Atlanta braces for possible indictments in 2020 investigation...",
         "added": "2023-07-31T11:31:57.390461+00:00",
@@ -173,11 +178,6 @@
         "title": "Shady Backstory of FL Slavery Curriculum...",
         "added": "2023-07-30T03:31:43.586202+00:00",
         "description": "The Shady Backstory of Florida\u2019s Outrageous New Slavery Curriculum"
-    },
-    "https://apnews.com/article/southwest-extreme-heat-wave-922e965ba3d3e42cbffc2ece12d5c114": {
-        "title": "30 days over 110\u2109...",
-        "added": "2023-07-30T03:31:43.586202+00:00",
-        "description": "30 days over 110 F in Phoenix. But expected monsoon rains could cool historically hot Southwest"
     },
     "https://apnews.com/article/libraries-books-bans-arkansas-758f28c04c573d03b869ad2738e2b06d": {
         "title": "Judge blocks Arkansas law allowing librarians to be criminally charged over 'harmful' materials...",
