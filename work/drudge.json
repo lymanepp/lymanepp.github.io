@@ -1,4 +1,9 @@
 {
+    "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-biden-trump-poll-20230801-ajujfnji75ggxgimlkylibugaq-story.html": {
+        "title": "POLL: BIDEN, TRUMP DEAD HEAT",
+        "added": "2023-08-01T15:22:11.421001+00:00",
+        "description": "Joe Biden shores up Democratic support, but faces tight race against Donald Trump, New York Times/Siena poll shows"
+    },
     "https://www.dailymail.co.uk/news/article-12360895/Hundreds-migrants-seen-sleeping-outside-Manhattans-Roosevelt-Hotel-second-day-NYC-Mayor-Eric-Adams-says-crisis-not-over.html": {
         "title": "Shocking scenes as Manhattan's Roosevelt Hotel becomes epicenter of refugee crisis...",
         "added": "2023-08-01T15:06:59.686679+00:00",
@@ -268,11 +273,6 @@
         "title": "Pence running against his old boss. Last VP to try that bombed...",
         "added": "2023-07-31T16:39:01.419941+00:00",
         "description": "Pence is running against his old boss. The last VP to try that bombed."
-    },
-    "https://www.msn.com/en-us/news/world/kremlin-steps-up-air-defenses-after-drone-attacks-as-zelenskyy-warns-war-is-returning-to-russia/ar-AA1eAhKc": {
-        "title": "UKRAINE DRONE ATTACK ON MOSCOW",
-        "added": "2023-07-31T15:07:12.635653+00:00",
-        "description": "Kremlin steps up air defenses after drone attacks as Zelenskyy warns war is returning to Russia"
     },
     "https://www.cbsnews.com/news/heat-dome-forecast-phoenix-temperature/": {
         "title": "31 days over 110\u2109...",
