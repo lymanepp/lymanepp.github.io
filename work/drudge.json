@@ -1,4 +1,9 @@
 {
+    "https://ca.finance.yahoo.com/news/wagner-men-exiled-putin-threaten-201406160.html": {
+        "title": "Wagner Men Exiled by Putin Threaten New Firestorm in Europe...",
+        "added": "2023-08-04T21:05:22.152383+00:00",
+        "description": "Wagner Men Exiled by Putin Threaten New Firestorm in Europe"
+    },
     "https://www.dailymail.co.uk/news/article-12374551/Youtuber-Kai-Cenat-sparks-chaos-Union-Square-NYC-promising-free-PS5s-hundreds-youngsters-fighting-throwing-fire-extinguishers.html": {
         "title": "PLAYSTATION giveaway sparks NYC riot, chaos; Police scramble... Developing...",
         "added": "2023-08-04T20:46:52.316181+00:00",
@@ -368,11 +373,6 @@
         "title": "Woman in blackface terrorizes TARGET worker...",
         "added": "2023-08-03T21:05:44.403798+00:00",
         "description": "Woman in blackface terrorizes Target and asks where Pride section is"
-    },
-    "https://www.cnbc.com/2023/08/03/apple-earnings-live-updates.html": {
-        "title": "APPLE iPhone sales come up short -- again...",
-        "added": "2023-08-03T20:47:03.213742+00:00",
-        "description": "Apple beats soft expectations driven by 8% services growth: Live updates"
     },
     "https://www.nasdaq.com/articles/exclusive-about-half-of-us-republicans-could-spurn-trump-if-he-is-convicted-reuters-ipsos": {
         "title": "POLL:  Half Republicans could spurn -- if convicted...",
