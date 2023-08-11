@@ -1,4 +1,19 @@
 {
+    "https://www.theguardian.com/media/2023/aug/01/news-corp-ai-chat-gpt-stories": {
+        "title": "HUMANS NO LONGER NEEDED IN NEWSROOMS?",
+        "added": "2023-08-11T15:32:05.742333+00:00",
+        "description": "News Corp using AI to produce 3,000 Australian local news stories a week"
+    },
+    "https://www.axios.com/2023/08/11/desantis-lawsuits-florida-2024-election": {
+        "title": "DeSantis' policy wins in Florida under siege in courts...",
+        "added": "2023-08-11T15:32:05.742333+00:00",
+        "description": ""
+    },
+    "https://thenewdaily.com.au/news/national/2023/08/11/news-corp-eyes-ai-potential/": {
+        "title": "'IMPORTANT MOMENT IN HISTORY'",
+        "added": "2023-08-11T15:32:05.742333+00:00",
+        "description": "News Corp eyes huge AI potential, 'fatal' consequences"
+    },
     "https://www.dailystar.co.uk/news/us-news/elon-musks-spacex-rocket-rips-30677676": {
         "title": "Musk SPACEX rocket 'rips hole in Earth's atmosphere' creating red glow in sky...",
         "added": "2023-08-11T15:21:01.802730+00:00",
@@ -308,16 +323,6 @@
         "title": "USA Inks Iran Deal: 5 American Detainees for $6B...",
         "added": "2023-08-10T17:23:01.548028+00:00",
         "description": "U.S. Reaches Deal With Iran to Free Americans for Jailed Iranians and Funds"
-    },
-    "https://www.dailymail.co.uk/news/article-12393131/Hawaii-wildfires-HUNDREDS-missing-body-burning-road.html": {
-        "title": "36 DEAD IN BEACH TOWN",
-        "added": "2023-08-10T15:23:18.567423+00:00",
-        "description": "Maui fire destroys Mick Fleetwood's Lahaina restaurant with 36 killed"
-    },
-    "https://apnews.com/article/hawaii-wildfire-maui-lahaina-f5a7047d407f836f89e90dd7f10faa94": {
-        "title": "APOCALYPSE MAUI",
-        "added": "2023-08-10T15:23:18.567423+00:00",
-        "description": "At least 36 killed on Maui as fires burn through Hawaii and thousands race to escape"
     },
     "https://ustvdb.com/ratings/shows/": {
         "title": "TV RATINGS",
