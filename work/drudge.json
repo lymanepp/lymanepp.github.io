@@ -1,4 +1,9 @@
 {
+    "https://www.accuweather.com/en/hurricane/flooding-disaster-threatens-southern-california-as-hilary-takes-aim/1570250": {
+        "title": "Flooding disaster threatens as Hilary takes aim...",
+        "added": "2023-08-20T11:16:51.246616+00:00",
+        "description": "Flooding disaster threatens Southern California as Hilary takes aim"
+    },
     "https://www.cnn.com/style/floating-architecture-future-dfi/index.html": {
         "title": "Floating architecture not the future -- already here...",
         "added": "2023-08-20T11:03:40.940801+00:00",
@@ -199,30 +204,10 @@
         "added": "2023-08-19T11:16:43.113244+00:00",
         "description": "Kansas Newspaper Is Talk of Town, and Not Just for Getting Raided"
     },
-    "https://dnyuz.com/2023/08/19/inside-a-nightmare-lockdown-at-a-wisconsin-prison/": {
-        "title": "Inside 'Nightmare' Lockdown at Wisconsin Prison...",
-        "added": "2023-08-19T11:16:43.113244+00:00",
-        "description": "Inside a \u2018Nightmare\u2019 Lockdown at a Wisconsin Prison"
-    },
     "https://dnyuz.com/2023/08/18/in-warning-to-taiwan-china-announces-military-patrols/": {
         "title": "In Warning to Taiwan, China Announces Military Patrols...",
         "added": "2023-08-19T11:16:43.113244+00:00",
         "description": "In Warning to Taiwan, China Announces Military Patrols"
-    },
-    "https://www.msn.com/en-us/news/us/lolita-the-miami-seaquarium-orca-died-friday-as-hopes-grew-she-would-leave-for-the-sea/ar-AA1fsJL2": {
-        "title": "Lolita, the Miami Seaquarium orca, died Friday as hopes grew she would leave for the sea...",
-        "added": "2023-08-19T11:04:15.076236+00:00",
-        "description": "Lolita, the Miami Seaquarium orca, died Friday as hopes grew she would leave for the sea"
-    },
-    "https://thehill.com/homenews/campaign/4159361-desantis-rivals-sharpen-knives-for-first-debate/": {
-        "title": "DeSantis rivals sharpen knives for first debate...",
-        "added": "2023-08-19T11:04:15.076236+00:00",
-        "description": "DeSantis rivals sharpen knives for first debate"
-    },
-    "https://news.yahoo.com/murdered-candidate-best-friend-urges-090011719.html": {
-        "title": "Murdered Candidate's Best Friend Urges Ecuador to Vote for Dead Man...",
-        "added": "2023-08-19T11:04:15.076236+00:00",
-        "description": "Murdered Candidate\u2019s Best Friend Urges Ecuador to Vote for a Dead Man"
     },
     "https://news.yahoo.com/bolsonaro-mounting-legal-troubles-raise-175349644.html": {
         "title": "Bolsonaro's mounting legal troubles raise prospect of his arrest...",
@@ -234,16 +219,6 @@
         "added": "2023-08-19T11:04:15.076236+00:00",
         "description": "Brazil Found the Last Survivors of an Amazon Tribe. Now What?"
     },
-    "https://weather.com/safety/hurricane/news/2023-08-18-hurricane-hilary-southern-california-flood-tropical-storm-forecast": {
-        "title": "First ever alerts...",
-        "added": "2023-08-18T22:05:27.875202+00:00",
-        "description": "Hurricane Hilary's Remnant: California Flood Danger | Weather.com"
-    },
-    "https://thehill.com/regulation/4159139": {
-        "title": "Bush AG Gonzales:  'Should serve time' if convicted...",
-        "added": "2023-08-18T20:46:47.590659+00:00",
-        "description": "Former US attorney general says Trump \u2018should serve time\u2019 if convicted"
-    },
     "https://www.tropicaltidbits.com/storminfo/09E_tracks_latest.png": {
         "title": "COMPUTER MODELS...",
         "added": "2023-08-17T17:05:24.472420+00:00",
@@ -253,11 +228,6 @@
         "title": "FORECAST CONE...",
         "added": "2023-08-17T17:05:24.472420+00:00",
         "description": ""
-    },
-    "https://www.accuweather.com/en/hurricane/tropical-storm-hilary-to-threaten-flooding-rain-in-california-nevada-and-arizona/1570250": {
-        "title": "Tropical Storm threatens flooding in Southwest...",
-        "added": "2023-08-17T01:58:03.008789+00:00",
-        "description": "Tropical Storm Hilary to threaten flooding rain in California, Nevada and Arizona"
     },
     "https://ustvdb.com/ratings/shows/": {
         "title": "TV RATINGS",
