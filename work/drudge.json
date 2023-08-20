@@ -1,4 +1,24 @@
 {
+    "https://zoom.earth/storms/hilary-2023/": {
+        "title": "SATELLITE...",
+        "added": "2023-08-20T15:31:48.432486+00:00",
+        "description": "Tropical Storm Hilary LIVE Tracker, Updates & Forecast | Zoom Earth"
+    },
+    "https://zoom.earth/maps/radar/#view=33.1644,-115.6745,7z": {
+        "title": "RADAR...",
+        "added": "2023-08-20T15:31:48.432486+00:00",
+        "description": "Live Rain Radar Map | Zoom Earth"
+    },
+    "https://www.dailystar.co.uk/news/latest-news/elon-musk-blocks-users-x-30745707": {
+        "title": "Elon asks how 'the medicine tastes' as he blocks users who complain...",
+        "added": "2023-08-20T15:31:48.432486+00:00",
+        "description": "Elon Musk asks how 'the medicine tastes' as he blocks complaining users"
+    },
+    "https://weather.com/safety/hurricane/news/2023-08-18-hurricane-hilary-southern-california-flood-tropical-storm-forecast": {
+        "title": "Potentially historic amount of rainfall... Developing...",
+        "added": "2023-08-20T15:31:48.432486+00:00",
+        "description": "Tropical Storm Hilary Brings Major Flood Threat To California | Weather.com"
+    },
     "https://www.msn.com/en-us/news/politics/before-investigating-hunter-biden-prosecutor-worked-with-brother-beau/ar-AA1fvKKz": {
         "title": "Prosecutor worked with brother Beau...",
         "added": "2023-08-20T14:20:34.393709+00:00",
@@ -179,11 +199,6 @@
         "added": "2023-08-19T15:18:59.186335+00:00",
         "description": "Donald Trump looks \u2018stressed and unkempt\u2019 as critics speculate about his health"
     },
-    "https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOm51bGwsImNlbnRlciI6Wy0xMTMuMzI0LDMzLjMwM10sImxvY2F0aW9uIjpudWxsLCJ6b29tIjo3fSwiYW5pbWF0aW5nIjpmYWxzZSwiYmFzZSI6InN0YW5kYXJkIiwiYXJ0Y2MiOmZhbHNlLCJjb3VudHkiOmZhbHNlLCJjd2EiOmZhbHNlLCJyZmMiOmZhbHNlLCJzdGF0ZSI6ZmFsc2UsIm1lbnUiOnRydWUsInNob3J0RnVzZWRPbmx5IjpmYWxzZSwib3BhY2l0eSI6eyJhbGVydHMiOjAuOCwibG9jYWwiOjAuNiwibG9jYWxTdGF0aW9ucyI6MC44LCJuYXRpb25hbCI6MC42fX0%3D": {
-        "title": "RADAR...",
-        "added": "2023-08-19T15:18:59.186335+00:00",
-        "description": ""
-    },
     "https://apnews.com/article/hurricane-hilary-mexico-southern-california-7fddeb8c6eaf2e6cb8893dfe4db838fe": {
         "title": "TROPICAL STORM WARNING: SOUTHERN CALIFORNIA",
         "added": "2023-08-19T15:18:59.186335+00:00",
@@ -233,11 +248,6 @@
         "title": "Brazil Finds Last Survivors of Amazon Tribe. Now What?",
         "added": "2023-08-19T11:04:15.076236+00:00",
         "description": "Brazil Found the Last Survivors of an Amazon Tribe. Now What?"
-    },
-    "https://www.tropicaltidbits.com/storminfo/09E_tracks_latest.png": {
-        "title": "COMPUTER MODELS...",
-        "added": "2023-08-17T17:05:24.472420+00:00",
-        "description": ""
     },
     "https://www.nhc.noaa.gov/storm_graphics/EP09/refresh/EP092023_5day_cone_no_line_and_wind+png/150247_5day_cone_no_line_and_wind.png": {
         "title": "FORECAST CONE...",
