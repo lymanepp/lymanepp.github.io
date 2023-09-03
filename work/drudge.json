@@ -1,4 +1,14 @@
 {
+    "https://www.sfgate.com/local/article/18343754.php": {
+        "title": "California transplants unhappy with exodus to Austin...",
+        "added": "2023-09-03T10:24:12.193017+00:00",
+        "description": ""
+    },
+    "https://www.cnn.com/2023/09/02/travel/travel-news-us-families-relocate-europe/index.html": {
+        "title": "Why American families leaving USA for Europe...",
+        "added": "2023-09-03T10:24:12.193017+00:00",
+        "description": "Why American families are leaving the US for Europe | CNN"
+    },
     "https://www.sfgate.com/news/article/18344678.php": {
         "title": "Chaos as 70,000 trapped...",
         "added": "2023-09-03T10:06:17.738081+00:00",
@@ -219,25 +229,10 @@
         "added": "2023-09-02T01:28:14.833329+00:00",
         "description": "Trump\u2019s Georgia trial is readied for TV, while others are hard to see"
     },
-    "https://www.marketwatch.com/story/media-stocks-melt-down-as-spectrum-feuds-with-disney-and-espn-were-on-the-edge-of-a-precipice-37d1ce84": {
-        "title": "'We're on the edge of precipice'...",
-        "added": "2023-09-02T01:28:14.833329+00:00",
-        "description": "Media stocks melt down as Spectrum feuds with Disney and ESPN: 'We're on the edge of a precipice'"
-    },
-    "https://deadline.com/2023/09/kevin-costner-yellowstone-exit-divorce-hearing-testimony-1235534444/": {
-        "title": "Costner tells court he plans to sue over 'YELLOWSTONE' pay...",
-        "added": "2023-09-02T01:28:14.833329+00:00",
-        "description": "Kevin Costner Addresses \u2018Yellowstone\u2019 Exit At Divorce Hearing, Says He Will \u201cProbably Go To Court\u201d Over It"
-    },
     "https://www.politico.com/news/2023/09/01/fourteenth-amendment-insurrection-clause-trump-00113790": {
         "title": "The sleeper legal fight that could define '24: Is Trump even eligible to run?",
         "added": "2023-09-01T21:05:30.474636+00:00",
         "description": "The sleeper legal fight that could define 2024: Is Trump even eligible to run?"
-    },
-    "https://themessenger.com/health/covid-surge-new-jersey-nursing-homes-assisted-living-outbreak-mandates": {
-        "title": "Nursing Homes Slammed by Covid Surge...",
-        "added": "2023-09-01T18:23:54.927531+00:00",
-        "description": "Nursing Homes Slammed by COVID Surge"
     },
     "https://www.the-express.com/news/110540": {
         "title": "MASK UP NEW YORK...",
@@ -253,11 +248,6 @@
         "title": "NO END IN SIGHT FOR HOLLYWOOD STRIKE...",
         "added": "2023-09-01T15:21:45.921076+00:00",
         "description": "Hollywood hoped the writers strike would end with summer. But a deal remains nowhere in sight | CNN Business"
-    },
-    "https://dnyuz.com/2023/09/01/one-of-the-biggest-cable-companies-says-cable-tv-isnt-working/": {
-        "title": "One of Biggest Cable Companies Says Cable TV Isn't Working...",
-        "added": "2023-09-01T15:06:39.558155+00:00",
-        "description": "One of the Biggest Cable Companies Says Cable TV Isn\u2019t Working"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
