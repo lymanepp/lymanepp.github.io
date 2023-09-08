@@ -1,4 +1,9 @@
 {
+    "https://www.theguardian.com/technology/2023/sep/08/elon-musk-committed-evil-starlink-order-ukraine": {
+        "title": "UKRAINE ACCUSES MUSK OF COMMITTING EVIL",
+        "added": "2023-09-08T12:55:43.482137+00:00",
+        "description": "Elon Musk \u2018committed evil\u2019 with Starlink order, says Ukrainian official"
+    },
     "https://www.cbsnews.com/news/phoenix-could-set-record-most-110-degree-days/": {
         "title": "Phoenix on brink of breaking record for most 110-degree days in year...",
         "added": "2023-09-08T12:40:04.402321+00:00",
@@ -403,16 +408,6 @@
         "title": "Philanthropies Pledge $500 Million to Address Crisis in Local News...",
         "added": "2023-09-07T12:56:09.538810+00:00",
         "description": "Philanthropies Pledge $500 Million to Address Crisis in Local News"
-    },
-    "https://www.the-sun.com/news/9027267/explosion-putins-war-command-hq-drones/": {
-        "title": "Massive explosion near Putin's war command HQ as kamikaze drones blast Russian city...",
-        "added": "2023-09-07T12:40:27.424684+00:00",
-        "description": "Massive explosion near Putin's war HQ as kamikaze drones blast city"
-    },
-    "https://www.cnn.com/2023/09/07/politics/cnn-poll-joe-biden-headwinds/index.html": {
-        "title": "BIDEN POLL DANGER",
-        "added": "2023-09-07T10:46:41.156642+00:00",
-        "description": "CNN Poll: Biden faces negative job ratings and concerns about his age as he gears up for 2024 | CNN Politics"
     },
     "https://www.accuweather.com/en/hurricane/accuweather-meteorologists-put-northeast-caribbean-us-on-alert-as-tropoical-storm-lee-forms/1576688": {
         "title": "Caribbean, US on alert as Tropical Storm Lee forms in Atlantic... Developing...",
