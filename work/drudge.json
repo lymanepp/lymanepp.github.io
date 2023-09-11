@@ -1,4 +1,14 @@
 {
+    "https://news.yahoo.com/uk-suspect-denies-being-chinese-122734931.html": {
+        "title": "Suspect denies...",
+        "added": "2023-09-11T16:28:26.049582+00:00",
+        "description": "UK suspect denies being 'Chinese spy' as Beijing slams claims"
+    },
+    "https://news.yahoo.com/look-very-young-bidens-age-111807776.html": {
+        "title": "'YOU LOOK VERY YOUNG'",
+        "added": "2023-09-11T16:28:26.049582+00:00",
+        "description": "'You look very young': Biden's age under scrutiny in Vietnam"
+    },
     "https://news.yahoo.com/lab-grown-meat-kosher-halal-100345861.html": {
         "title": "Lab-grown meat can be kosher and halal?",
         "added": "2023-09-11T16:08:27.240497+00:00",
@@ -279,21 +289,6 @@
         "added": "2023-09-10T17:04:42.670990+00:00",
         "description": "How China spies use \u2018sex & cash to steal secrets\u2019 as \u2018agent\u2019 arrested in UK"
     },
-    "https://thehill.com/homenews/4195015": {
-        "title": "Dems Freaks Over Biden's Bad Polls...",
-        "added": "2023-09-10T13:46:41.804561+00:00",
-        "description": "Democrats express frustration with Biden\u2019s moribund poll numbers"
-    },
-    "https://dnyuz.com/2023/09/10/president-biden-keeps-hunter-close-despite-the-political-peril/": {
-        "title": "President Keeps Hunter Close Despite Political Peril...",
-        "added": "2023-09-10T13:46:41.804561+00:00",
-        "description": "President Biden Keeps Hunter Close Despite the Political Peril"
-    },
-    "https://thehill.com/homenews/4194581": {
-        "title": "Bad polls stoke third-party angst...",
-        "added": "2023-09-10T11:46:42.027831+00:00",
-        "description": "Bad Biden polls stoke third-party angst for Democrats"
-    },
     "https://news.yahoo.com/wheres-melania-banner-flown-over-194514351.html": {
         "title": "'Where's Melania?' banner flown over an football stadium...",
         "added": "2023-09-10T11:03:59.655171+00:00",
@@ -303,16 +298,6 @@
         "title": "Cheers and Jeers for Trump in Iowa...",
         "added": "2023-09-10T10:24:00.676831+00:00",
         "description": "Donald Trump greeted with cheers and chants in Ames at Iowa vs. Iowa State football game"
-    },
-    "https://www.accuweather.com/en/hurricane/hurricane-lee-a-monster-hurricane-as-accuweather-forecasters-up-risk-of-us-impacts/1577689": {
-        "title": "WEEKEND:  HURRICANE LEE CAT 5...",
-        "added": "2023-09-09T01:31:59.683184+00:00",
-        "description": "Hurricane Lee a monster hurricane as AccuWeather forecasters up risk of US impacts"
-    },
-    "https://weather.com/storms/hurricane/news/2023-09-06-hurricane-lee-forecast-atlantic-rapid-intensification": {
-        "title": "TRACK UNCERTAIN...",
-        "added": "2023-09-08T16:08:08.169498+00:00",
-        "description": "Hurricane Lee A Powerful Category 4 | Weather.com"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
