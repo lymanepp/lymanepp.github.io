@@ -1,4 +1,9 @@
 {
+    "https://www.nytimes.com/2023/09/22/nyregion/robert-menendez-indicted.html": {
+        "title": "Federal corruption case...",
+        "added": "2023-09-22T13:46:43.926362+00:00",
+        "description": ""
+    },
     "https://www.cnbc.com/2023/09/22/sen-bob-menendez-of-new-jersey-wife-charged-with-bribery.html": {
         "title": "Senator Menendez, wife charged with bribery...",
         "added": "2023-09-22T13:31:59.475300+00:00",
@@ -318,16 +323,6 @@
         "title": "70 YEAR CAREER IN MEDIA",
         "added": "2023-09-21T13:46:44.552821+00:00",
         "description": "Rupert Murdoch, creator of Fox News, stepping down as head of News Corp. and Fox Corp."
-    },
-    "https://www.hollywoodreporter.com/business/business-news/las-vegas-sphere-design-technology-led-screens-1235594308/": {
-        "title": "Vegas SPHERE Is 'Mind-Boggling' Vision of Future of Entertainment...",
-        "added": "2023-09-21T13:34:09.581351+00:00",
-        "description": "The Las Vegas Sphere Is a \u201cMind-Boggling\u201d Vision of the Future of Entertainment"
-    },
-    "https://www.jpost.com/diaspora/article-759908": {
-        "title": "On track to have its first Jewish, female president...",
-        "added": "2023-09-21T13:15:23.901331+00:00",
-        "description": "Mexico on track to have its first Jewish, female president"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
