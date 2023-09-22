@@ -5,6 +5,12 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>SATELLITE...</title>
+      <link>https://www.ssd.noaa.gov/PS/TROP/floaters/16L/imagery/rb_lalo-animated.gif
+</link>
+      <description>ssd.noaa.gov</description>
+    </item>
+    <item>
       <title>America Keeps Getting Fatter...</title>
       <link>https://www.dailymail.co.uk/health/article-12546933</link>
       <description>dailymail.co.uk • New CDC data shows record 40% of adults are obese in these states</description>
@@ -375,11 +381,6 @@
       <link>https://www.accuweather.com/en/hurricane/brewing-tropical-storm-to-hit-us-east-coast-with-heavy-rain-wind-and-rough-seas/1580931
 </link>
       <description>accuweather.com • Brewing tropical storm to hit US East Coast with heavy rain, wind and rough seas</description>
-    </item>
-    <item>
-      <title>Lizzo preaches self-love, acceptance. Backstage, her team was mocked, bullied...</title>
-      <link>https://www.nbcnews.com/pop-culture/rcna105930</link>
-      <description>nbcnews.com • Lizzo preaches self-love and acceptance. But backstage, her team was mocked and bullied, designer says in a new lawsuit.</description>
     </item>
   </channel>
 </rss>
