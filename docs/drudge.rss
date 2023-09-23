@@ -5,6 +5,36 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>RADAR...</title>
+      <link>https://www.wunderground.com/wundermap?renderer=2&amp;Units=english&amp;zoom=6&amp;lat=36.07779240915349&amp;lon=-75.62511190473674&amp;wxstn=0&amp;wxstnmode=tw&amp;aq=0&amp;aqvalue=NaN&amp;radar=0&amp;radarType=NaN&amp;radaropa=0.7&amp;satellite=0&amp;satelliteopa=0.8&amp;storm-cells=0&amp;severe=0&amp;severeopa=0.9&amp;sst=0&amp;sstopa=0.8&amp;sstanom=0&amp;sstanomopa=0.8&amp;fronts=0&amp;hur=0&amp;models=0&amp;modelsmodel=ecmwf&amp;modelsopa=0.8&amp;modelstype=SURPRE&amp;lightning=0&amp;fire=0&amp;fireopa=0.9&amp;firePerimeter=0&amp;firePerimeterOpacity=0.9&amp;smoke=0&amp;smokeOpacity=0.9&amp;rep=0&amp;surge=0&amp;tor=0&amp;windstr=0&amp;windstrDensity=undefined&amp;windstreamSpeed=undefined&amp;windstreamSpeedFilter=undefined&amp;windstreamPalette=undefined&amp;hurrArch=0&amp;hurrArchBasin=undefined&amp;hurrArchYear=undefined&amp;hurrArchStorm=undefined</link>
+      <description>wunderground.com • Weather Underground’s WunderMap provides interactive weather and radar Maps for weather conditions for locations worldwide.</description>
+    </item>
+    <item>
+      <title>Britain weighs banning smoking altogether!</title>
+      <link>https://www.the-sun.com/health/9157412/smoking-will-be-banned-under-plans/</link>
+      <description>the-sun.com • Smoking BANNED &amp; cigarettes 'phased out' in plans being drawn up by Rishi Sunak</description>
+    </item>
+    <item>
+      <title>ANOTHER woman comes forward...</title>
+      <link>https://www.the-sun.com/entertainment/9158581/russell-brand-ripped-womans-tights-performed-sex-acts/</link>
+      <description>the-sun.com • Russell Brand 'ripped a hole through my tights &amp; wouldn't let me leave'</description>
+    </item>
+    <item>
+      <title>FROM EGYPT WITH LOVE</title>
+      <link>https://www.msn.com/en-us/news/other/menendez-corruption-charges-complicate-tense-ties-with-egypt/ar-AA1h7U2H</link>
+      <description>msn.com • Menendez corruption charges complicate tense ties with Egypt</description>
+    </item>
+    <item>
+      <title>MGM, CAESARS casino hacks point to an alliance of teens and ransomware gangs...</title>
+      <link>https://www.msn.com/en-us/money/companies/mgm-caesars-casino-hacks-point-to-an-alliance-of-teens-and-ransomware-gangs/ar-AA1h7qYy</link>
+      <description>msn.com • MGM, Caesars casino hacks point to an alliance of teens and ransomware gangs</description>
+    </item>
+    <item>
+      <title>Lachlan Murdoch will be fully in charge of FOX. Will viewers notice?</title>
+      <link>https://news.yahoo.com/lachlan-murdoch-charge-fox-corp-232557443.html</link>
+      <description>news.yahoo.com • With Lachlan Murdoch in charge, Fox Corp. shakes up board of directors</description>
+    </item>
+    <item>
       <title>LATEST TRACK, TIMING...</title>
       <link>https://weather.com/safety/hurricane/news/2023-09-22-tropical-storm-ophelia-forecast-mid-atlantic</link>
       <description>weather.com • Ophelia To Strike East Coast With Flooding, Winds | Weather.com</description>
@@ -300,11 +330,6 @@
       <title>WARNINGS ISSUED...</title>
       <link>https://weather.com/storms/hurricane/news/2023-09-21-tropical-storm-watches-warnings-east-coast</link>
       <description>weather.com • Tropical Storm Warning Issued For East Coast | Weather.com</description>
-    </item>
-    <item>
-      <title>Studios and Writers Close To Deal?</title>
-      <link>https://deadline.com/2023/09/writers-strike-talks-progress-studios-1235553025/</link>
-      <description>deadline.com • WGA’s Second Day Of Sit-Down With Studio CEOs Ends; More “Progress” Made</description>
     </item>
   </channel>
 </rss>

@@ -1,4 +1,34 @@
 {
+    "https://www.wunderground.com/wundermap?renderer=2&Units=english&zoom=6&lat=36.07779240915349&lon=-75.62511190473674&wxstn=0&wxstnmode=tw&aq=0&aqvalue=NaN&radar=0&radarType=NaN&radaropa=0.7&satellite=0&satelliteopa=0.8&storm-cells=0&severe=0&severeopa=0.9&sst=0&sstopa=0.8&sstanom=0&sstanomopa=0.8&fronts=0&hur=0&models=0&modelsmodel=ecmwf&modelsopa=0.8&modelstype=SURPRE&lightning=0&fire=0&fireopa=0.9&firePerimeter=0&firePerimeterOpacity=0.9&smoke=0&smokeOpacity=0.9&rep=0&surge=0&tor=0&windstr=0&windstrDensity=undefined&windstreamSpeed=undefined&windstreamSpeedFilter=undefined&windstreamPalette=undefined&hurrArch=0&hurrArchBasin=undefined&hurrArchYear=undefined&hurrArchStorm=undefined": {
+        "title": "RADAR...",
+        "added": "2023-09-23T02:03:57.637859+00:00",
+        "description": "Weather Underground\u2019s WunderMap provides interactive weather and radar Maps for weather conditions for locations worldwide."
+    },
+    "https://www.the-sun.com/health/9157412/smoking-will-be-banned-under-plans/": {
+        "title": "Britain weighs banning smoking altogether!",
+        "added": "2023-09-23T02:03:57.637859+00:00",
+        "description": "Smoking BANNED & cigarettes 'phased out' in plans being drawn up by Rishi Sunak"
+    },
+    "https://www.the-sun.com/entertainment/9158581/russell-brand-ripped-womans-tights-performed-sex-acts/": {
+        "title": "ANOTHER woman comes forward...",
+        "added": "2023-09-23T02:03:57.637859+00:00",
+        "description": "Russell Brand 'ripped a hole through my tights & wouldn't let me leave'"
+    },
+    "https://www.msn.com/en-us/news/other/menendez-corruption-charges-complicate-tense-ties-with-egypt/ar-AA1h7U2H": {
+        "title": "FROM EGYPT WITH LOVE",
+        "added": "2023-09-23T02:03:57.637859+00:00",
+        "description": "Menendez corruption charges complicate tense ties with Egypt"
+    },
+    "https://www.msn.com/en-us/money/companies/mgm-caesars-casino-hacks-point-to-an-alliance-of-teens-and-ransomware-gangs/ar-AA1h7qYy": {
+        "title": "MGM, CAESARS casino hacks point to an alliance of teens and ransomware gangs...",
+        "added": "2023-09-23T02:03:57.637859+00:00",
+        "description": "MGM, Caesars casino hacks point to an alliance of teens and ransomware gangs"
+    },
+    "https://news.yahoo.com/lachlan-murdoch-charge-fox-corp-232557443.html": {
+        "title": "Lachlan Murdoch will be fully in charge of FOX. Will viewers notice?",
+        "added": "2023-09-23T02:03:57.637859+00:00",
+        "description": "With Lachlan Murdoch in charge, Fox Corp. shakes up board of directors"
+    },
     "https://weather.com/safety/hurricane/news/2023-09-22-tropical-storm-ophelia-forecast-mid-atlantic": {
         "title": "LATEST TRACK, TIMING...",
         "added": "2023-09-23T01:32:38.812009+00:00",
@@ -319,11 +349,6 @@
         "added": "2023-09-22T00:32:10.116567+00:00",
         "description": "Migrant encounters at U.S.-Mexico border on pace to reach record highs in September"
     },
-    "https://news.yahoo.com/lachlan-murdoch-happen-fox-news-192507674.html": {
-        "title": "WHAT WILL HAPPEN TO FOX?",
-        "added": "2023-09-22T00:32:10.116567+00:00",
-        "description": "Who is Lachlan Murdoch? What will happen to Fox and News Corp?"
-    },
     "https://news.yahoo.com/hollywood-workers-resort-flea-markets-100840485.html": {
         "title": "Hollywood workers resort to flea markets, bake sales as strikes drag on...",
         "added": "2023-09-22T00:32:10.116567+00:00",
@@ -333,11 +358,6 @@
         "title": "TIKTOK's Strict Data Rules Keeping Researchers From Studying App...",
         "added": "2023-09-22T00:32:10.116567+00:00",
         "description": "TikTok's Rules Deter Researchers From Crunching Data on Users, Misinformation"
-    },
-    "https://www.msn.com/en-us/news/technology/how-big-tech-ai-models-nailed-forecast-for-hurricane-lee-a-week-in-advance/ar-AA1h2TKq": {
-        "title": "How Big Tech AI models nailed forecast for Hurricane week in advance!",
-        "added": "2023-09-21T23:46:35.006413+00:00",
-        "description": "How Big Tech AI models nailed forecast for Hurricane Lee a week in advance"
     },
     "https://news.yahoo.com/trump-team-changes-obscure-gop-100030663.html": {
         "title": "MAGA changes obscure rules in hopes of  Trump clinching nomination early...",
@@ -349,25 +369,10 @@
         "added": "2023-09-21T23:31:57.613840+00:00",
         "description": "DeSantis is in growing trouble. He\u2019s betting big on Iowa to rescue him."
     },
-    "https://www.msn.com/en-us/money/news/rupert-murdoch-hands-control-of-fox-media-empire-to-son-lachlan-murdoch/ar-AA1h3n3M": {
-        "title": "LACHLAN MURDOCH BECOMES BOSS OF NEWS...",
-        "added": "2023-09-21T23:31:57.613840+00:00",
-        "description": "Rupert Murdoch hands control of Fox media empire to son Lachlan Murdoch"
-    },
-    "https://news.yahoo.com/kevin-mccarthy-takes-yet-another-174259080.html": {
-        "title": "Furious McCarthy Takes Yet Another L...",
-        "added": "2023-09-21T23:06:39.942084+00:00",
-        "description": "Furious Kevin McCarthy Takes Yet Another L"
-    },
     "https://www.tropicaltidbits.com/storminfo/16L_tracks_latest.png": {
         "title": "COMPUTER MODELS...",
         "added": "2023-09-21T22:46:47.907955+00:00",
         "description": ""
-    },
-    "https://www.dailymail.co.uk/news/article-12546985/ANDREW-NEIL-global-empire-Rupert-Murdoch-built-survive-founder.html": {
-        "title": "CAN EMPIRE SURVIVE WITHOUT HIM?",
-        "added": "2023-09-21T22:46:47.907955+00:00",
-        "description": "ANDREW NEIL: Can the empire Rupert Murdoch built survive without him?"
     },
     "https://www.accuweather.com/en/hurricane/brewing-tropical-storm-to-hit-us-east-coast-with-heavy-rain-wind-and-rough-seas/1580931": {
         "title": "WEEKEND:  TROPICAL STORM EAST COAST... DEVELOPING...",
@@ -378,11 +383,6 @@
         "title": "CONE...",
         "added": "2023-09-21T18:34:12.618925+00:00",
         "description": ""
-    },
-    "https://apnews.com/article/murdoch-fox-quit-emeritus-30286a4a3107b7bde612adbfc7891958": {
-        "title": "70 YEAR CAREER IN MEDIA",
-        "added": "2023-09-21T13:46:44.552821+00:00",
-        "description": "Rupert Murdoch, creator of Fox News, stepping down as head of News Corp. and Fox Corp."
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
