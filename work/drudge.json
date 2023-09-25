@@ -1,4 +1,14 @@
 {
+    "https://www.newyorker.com/magazine/2023/10/02/the-washington-gerontocracy": {
+        "title": "The Washington Gerontocracy...",
+        "added": "2023-09-25T13:31:53.603338+00:00",
+        "description": "The Washington Gerontocracy"
+    },
+    "https://www.euronews.com/culture/2023/09/25/italian-film-legend-sophia-loren-hospitalised-after-fall-at-her-swiss-home": {
+        "title": "Italian film legend Sophia Loren hospitalized after fall...",
+        "added": "2023-09-25T13:31:53.603338+00:00",
+        "description": "Sophia Loren recovering after breaking her hip and leg"
+    },
     "https://www.the-sun.com/news/9171720/commander-black-sea-fleet-killed/": {
         "title": "Commander of Russia's Black Sea Fleet 'killed in Crimea missile strike'...",
         "added": "2023-09-25T13:15:47.799761+00:00",
@@ -134,16 +144,6 @@
         "added": "2023-09-24T13:46:50.806918+00:00",
         "description": "Deion: No excuses after 'butt kicking' by Ducks"
     },
-    "https://www.msn.com/en-us/news/politics/mccarthy-is-giving-hard-right-republicans-what-they-want-but-it-never-seems-to-be-enough/ar-AA1har0r": {
-        "title": "McCarthy giving hard-right what they want. Never enough...",
-        "added": "2023-09-24T13:20:50.773983+00:00",
-        "description": "McCarthy is giving hard-right Republicans what they want. But it never seems to be enough"
-    },
-    "https://www.cnn.com/2023/09/23/europe/buckingham-palace-protest-intl-gbr/index.html": {
-        "title": "Anti-monarchy campaigners stage protest inside Buckingham Palace...",
-        "added": "2023-09-24T13:20:50.773983+00:00",
-        "description": "Anti-monarchy campaigners stage protest inside Buckingham Palace | CNN"
-    },
     "https://www.dailymail.co.uk/news/article-12553607": {
         "title": "Shocking moment crowd storms across Rio Grande...",
         "added": "2023-09-24T12:52:55.582366+00:00",
@@ -193,11 +193,6 @@
         "title": "Marches up I-95...",
         "added": "2023-09-24T01:38:41.547392+00:00",
         "description": "Ophelia causes widespread flooding as storm marches up East Coast"
-    },
-    "https://www.msn.com/en-us/news/us/amid-rising-antisemitism-the-vivid-language-of-yiddish-makes-a-comeback/ar-AA1h94xU": {
-        "title": "Amid rising antisemitism, Yiddish makes comeback...",
-        "added": "2023-09-24T01:38:41.547392+00:00",
-        "description": "Amid rising antisemitism, the vivid language of Yiddish makes a comeback"
     },
     "https://www.accuweather.com/en/hurricane/tropical-storm-ophelia-wreaks-havoc-with-flooding-power-outages-along-east-coast/1581534": {
         "title": "Storm wreaks havoc with flooding, power outages along East Coast...",
