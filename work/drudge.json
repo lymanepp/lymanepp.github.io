@@ -1,4 +1,9 @@
 {
+    "https://www.cnn.com/2023/09/28/politics/joe-biden-democracy-speech-arizona/index.html": {
+        "title": "Biden previews '24 message: 'Something dangerous happening in America'...",
+        "added": "2023-09-28T21:06:06.869652+00:00",
+        "description": "Biden previews 2024 message by warning that Trump's movement is a threat to American democracy | CNN Politics"
+    },
     "https://www.politico.com/news/2023/09/27/chinese-hackers-nab-60-000-emails-in-state-department-breach-00118547": {
         "title": "Hackers nab 60,000 State Dept. emails in breach...",
         "added": "2023-09-28T20:46:43.512636+00:00",
@@ -363,11 +368,6 @@
         "title": "AMAZON new CEO Jassy 'forced to clean up Bezos' mess'...",
         "added": "2023-09-27T21:32:07.329099+00:00",
         "description": "New Amazon CEO Andy Jassy 'being forced to clean up Jeff Bezos' mess'"
-    },
-    "https://www.morningstar.com/news/marketwatch/20230927444": {
-        "title": "Entire U.S. Treasury yield curve moves toward or above 5%, raising risk something may break...",
-        "added": "2023-09-27T21:06:05.507069+00:00",
-        "description": "Entire U.S. Treasury yield curve moves toward or above 5%, raising risk something may break"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
