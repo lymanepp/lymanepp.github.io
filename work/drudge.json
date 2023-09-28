@@ -1,4 +1,9 @@
 {
+    "https://www.cbsnews.com/live/": {
+        "title": "REPUBLICAN RACE ABOUT TO SHAKE WITH LATE ENTRY?",
+        "added": "2023-09-28T17:31:46.040972+00:00",
+        "description": "CBS News Live"
+    },
     "https://www.newsweek.com/1830730": {
         "title": "Dads Homeschooling Children Surges...",
         "added": "2023-09-28T17:23:39.684534+00:00",
@@ -378,11 +383,6 @@
         "title": "Menendez ordered to turn over passport...",
         "added": "2023-09-27T17:32:03.779585+00:00",
         "description": "Menendez ordered to turn over personal passport at arraignment"
-    },
-    "https://nypost.com/2023/09/27/cory-booker-keeps-an-eye-on-biden-is-he-gonna-doze-off-on-me/": {
-        "title": "Cory Booker keeping eye on Biden: 'He gonna doze off on me?'",
-        "added": "2023-09-27T17:24:22.777205+00:00",
-        "description": "Cory Booker keeping an eye on Biden: \u2018Is he gonna doze off on me?\u2019"
     },
     "https://thehill.com/business/4225363-las-vegas-workers-authorize-strike-against-hotels-casinos/": {
         "title": "Vegas hospitality workers authorize strike against hotels, casinos...",
