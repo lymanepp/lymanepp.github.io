@@ -1,4 +1,14 @@
 {
+    "https://weather.com/weather/radar/interactive/l/Manhattan+NY?canonicalCityId=fc47c333c5d13e34e34c9fdb6e047ceb70f7891e01bc9e1d574b5f93f58aa76d": {
+        "title": "RADAR...",
+        "added": "2023-09-29T15:22:12.528221+00:00",
+        "description": "Manhattan, NY Weather and Radar Map - The Weather Channel | Weather.com"
+    },
+    "https://abc7ny.com/watch/live/": {
+        "title": "LIVE:  WABC...",
+        "added": "2023-09-29T15:22:12.528221+00:00",
+        "description": "Eyewitness News Live Streaming Video"
+    },
     "https://www.accuweather.com/en/severe-weather/coastal-storm-deluging-nyc-with-rain-capable-of-spawning-life-threatening-flash-flooding/1582796": {
         "title": "THE FLOOD OF NYC... DEVELOPING...",
         "added": "2023-09-29T15:07:06.176071+00:00",
