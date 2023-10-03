@@ -1,4 +1,19 @@
 {
+    "https://www.cnbc.com/2023/10/02/stock-market-today-live-updates.html": {
+        "title": "STOCKS PLUNGE",
+        "added": "2023-10-03T18:27:34.974483+00:00",
+        "description": "Dow drops 500 points Tuesday and turns lower for 2023 on interest rate spike: Live updates"
+    },
+    "https://www.barrons.com/articles/rising-interest-rates-bank-stocks-ccf99934": {
+        "title": "INTEREST RATES SOAR",
+        "added": "2023-10-03T18:27:34.974483+00:00",
+        "description": "Banks Wanted Higher Rates. Be Careful What You Wish For."
+    },
+    "https://thehill.com/homenews/4236223": {
+        "title": "GINGRICH:  Republicans must expel Gaetz...",
+        "added": "2023-10-03T18:27:34.974483+00:00",
+        "description": "Gingrich says House GOP should expel \u2018anti-Republican\u2019 Gaetz"
+    },
     "https://www.washingtonpost.com/opinions/2023/10/03/newt-gingrich-matt-gaetz-remove/": {
         "title": "GINGRICH:  Republicans must expel Gaetz...",
         "added": "2023-10-03T18:08:53.005462+00:00",
@@ -298,16 +313,6 @@
         "title": "Ex-ABERCROMBIE boss accused of exploiting men for sex...",
         "added": "2023-10-02T18:46:57.755012+00:00",
         "description": "Ex-Abercrombie & Fitch boss Mike Jeffries is accused of exploiting men"
-    },
-    "https://www.theguardian.com/world/2023/oct/02/scandinavian-spy-drama-the-intelligence-chief-who-came-under-state-surveillance": {
-        "title": "Scandinavian spy drama: Intel chief who came under state surveillance...",
-        "added": "2023-10-02T18:27:20.344631+00:00",
-        "description": "Scandinavian spy drama: the intelligence chief who came under state surveillance"
-    },
-    "https://www.dailymail.co.uk/news/article-12584341": {
-        "title": "Homeless PIRATES marauding through San Francisco Bay...",
-        "added": "2023-10-02T18:08:59.740539+00:00",
-        "description": "Homeless PIRATES are marauding into crime-ridden San Francisco Bay"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
