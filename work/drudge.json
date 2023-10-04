@@ -1,4 +1,14 @@
 {
+    "https://www.newsweek.com/1832157": {
+        "title": "TRUMP STARTS TO CRACK...",
+        "added": "2023-10-04T19:17:10.703800+00:00",
+        "description": "Donald Trump starts to crack"
+    },
+    "https://thehill.com/opinion/4235818": {
+        "title": "Collapse coming -- and he's taking Biden with him?",
+        "added": "2023-10-04T19:17:10.703800+00:00",
+        "description": "The Trump collapse is coming \u2014 and he\u2019s taking Biden down with him"
+    },
     "https://www.theguardian.com/us-news/2023/oct/04/new-york-noise-cameras": {
         "title": "NYC noise cameras to target sound pollution...",
         "added": "2023-10-04T19:05:15.745195+00:00",
@@ -383,21 +393,6 @@
         "title": "Judge Gags Trump After Ex-President Attacks Law Clerk...",
         "added": "2023-10-03T19:31:58.418839+00:00",
         "description": ""
-    },
-    "https://www.msn.com/en-us/health/other/america-s-epidemic-of-chronic-illness-is-killing-us-too-soon/ar-AA1hCsaz": {
-        "title": "Epidemic of chronic illness killing Americans in their prime...",
-        "added": "2023-10-03T19:17:10.680999+00:00",
-        "description": "America\u2019s epidemic of chronic illness is killing us too soon"
-    },
-    "https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants": {
-        "title": "How police use location, search data to find suspects -- not always right ones...",
-        "added": "2023-10-03T19:05:19.082873+00:00",
-        "description": "TechScape: How police use location and search data to find suspects \u2013 and not always the right ones"
-    },
-    "https://www.marketwatch.com/story/how-treasury-market-upheaval-is-rippling-through-global-markets-in-4-charts-d71a9f72\r\n": {
-        "title": "INTEREST RATES SOAR",
-        "added": "2023-10-03T19:05:19.082873+00:00",
-        "description": "How Treasury market upheaval is rippling through global markets in 4 charts"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
