@@ -1,4 +1,14 @@
 {
+    "https://www.jpost.com/breaking-news/article-762037": {
+        "title": "SIRENS IN JERUSALEM, TEL AVIV",
+        "added": "2023-10-07T10:06:13.785265+00:00",
+        "description": "At least 20 Israelis dead as sirens wail in Jerusalem and Tel Aviv"
+    },
+    "https://apnews.com/article/israel-palestinians-gaza-hamas-rockets-airstrikes-tel-aviv-11fb98655c256d54ecb5329284fc37d2": {
+        "title": "HAMAS SURPRISE ATTACK",
+        "added": "2023-10-07T10:06:13.785265+00:00",
+        "description": "Netanyahu tells Israel 'We are at war' after Hamas launches an unprecedented attack on the country"
+    },
     "https://www.the-sun.com/news/9272531/death-thousands-rockets-fired-israel/": {
         "title": "ISRAEL DECLARES WAR AFTER HAMAS ATTACK",
         "added": "2023-10-07T09:46:36.959025+00:00",
@@ -234,40 +244,10 @@
         "added": "2023-10-06T02:27:33.399523+00:00",
         "description": "Heists at sea: Shrimp bandits terrorize Ecuador farmers"
     },
-    "https://news.yahoo.com/red-airwave-americas-conservative-talk-013752685.html": {
-        "title": "Red airwave: America's conservative talk radio saturation...",
-        "added": "2023-10-06T02:27:33.399523+00:00",
-        "description": "Red airwave: America's conservative talk radio saturation"
-    },
-    "https://www.the-sun.com/health/9262277/grail-blood-test-detect-cancer-before-symptoms-study/": {
-        "title": "New blood test that scans for 50 types of cancer...",
-        "added": "2023-10-06T02:07:04.830367+00:00",
-        "description": "Blood test that looks for 50 cancers 'can detect them BEFORE symptoms develop'"
-    },
-    "https://www.msn.com/en-us/news/politics/at-tampa-campaign-stop-desantis-embraces-new-anti-trump-tack/ar-AA1hLd1w": {
-        "title": "RON DOWNLOADS ON DON",
-        "added": "2023-10-06T02:07:04.830367+00:00",
-        "description": "At Tampa campaign stop, DeSantis embraces new anti-Trump tack"
-    },
-    "https://edition.cnn.com/2023/10/05/politics/desantis-attacks-trump/index.html": {
-        "title": "BIGGEST ATTACK YET!",
-        "added": "2023-10-06T02:07:04.830367+00:00",
-        "description": "DeSantis goes off on Trump, says we don't need 'any more presidents' who've 'lost the zip on their fastball' | CNN Politics"
-    },
-    "https://www.politico.com/news/2023/10/05/trump-drops-michael-cohen-00120297": {
-        "title": "Suddenly drops $500M lawsuit against Michael Cohen...",
-        "added": "2023-10-06T01:36:36.150715+00:00",
-        "description": "Trump drops suit against former lawyer Michael Cohen"
-    },
     "https://www.hollywoodreporter.com/movies/movie-news/chris-rock-to-direct-martin-luther-king-jr-biopic-1235609939/": {
         "title": "HE HAS A DREAM:  Chris Rock to Direct Martin Luther King Jr. Biopic...",
         "added": "2023-10-06T01:36:36.150715+00:00",
         "description": "Chris Rock to Direct Martin Luther King Jr. Biopic for Universal"
-    },
-    "http://www.thesmokinggun.com/buster/donald-trump/more-vote-fraud-675903": {
-        "title": "Trump superfan busted for forging dead dad's name on 2020 ballot...",
-        "added": "2023-10-06T01:36:36.150715+00:00",
-        "description": "Kooky MAGA Warrior Busted For Forging Dead Dad\u2019s Name On 2020 Ballot"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
