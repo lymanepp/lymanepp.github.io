@@ -1,4 +1,19 @@
 {
+    "https://www.express.co.uk/news/uk/1821548/": {
+        "title": "London Kosher restaurant windows smashed...",
+        "added": "2023-10-09T19:16:54.059361+00:00",
+        "description": "Latest UK and World News, Sport and Comment - Express.co.uk"
+    },
+    "https://apnews.com/article/570e71ec96575abc92865ad5baf491e6": {
+        "title": "Clergy burnout growing concern in polarized churches...",
+        "added": "2023-10-09T19:16:54.059361+00:00",
+        "description": "Clergy burnout is a growing concern in polarized churches. A summit offers coping strategies"
+    },
+    "https://abc7news.com/13880563/": {
+        "title": "SF rally for Palestine...",
+        "added": "2023-10-09T19:16:54.059361+00:00",
+        "description": "Hundreds gather in SF to rally for freedom for Palestine in wake of Middle East conflict"
+    },
     "https://www.msn.com/en-us/news/world/vietnam-tried-to-hack-us-officials-cnn-with-posts-on-x-probe-finds/ar-AA1hURR8": {
         "title": "Vietnam tried to hack U.S. officials, CNN...",
         "added": "2023-10-09T19:04:48.615397+00:00",
@@ -348,11 +363,6 @@
         "title": "'Worst Massacre of Jews Since the Holocaust'...",
         "added": "2023-10-08T15:20:01.589660+00:00",
         "description": "Palestinian Terror Attack: 'Worst Massacre of Jews Since the Holocaust'"
-    },
-    "https://www.mirror.co.uk/news/uk-news/breaking-met-police-step-up-31133359": {
-        "title": "Celebrations in London...",
-        "added": "2023-10-07T23:46:39.600038+00:00",
-        "description": "Met Police step up patrols amid reports of people 'celebrating attack on Israel'"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
