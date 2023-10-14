@@ -1,4 +1,9 @@
 {
+    "https://www.axios.com/2023/10/14/brain-cell-map": {
+        "title": "New brain map reveals thousands of cell types...",
+        "added": "2023-10-14T12:11:25.162769+00:00",
+        "description": ""
+    },
     "https://www.nbcnews.com/news/rcna120310": {
         "title": "'Top secret' docs show elementary schools targeted...",
         "added": "2023-10-13T22:06:19.959859+00:00",
@@ -239,11 +244,6 @@
         "added": "2023-10-13T11:46:44.294195+00:00",
         "description": "Anti-aging molecule? Potential treatment to revive deteriorating muscles discovered by Stanford scientists"
     },
-    "https://www.msn.com/en-us/news/other/martin-scorsese-isn-t-glorifying-violence-he-s-reckoning-with-it/ar-AA1i9ocU": {
-        "title": "Scorsese isn't glorifying violence. He's reckoning with it...",
-        "added": "2023-10-13T11:31:56.887935+00:00",
-        "description": "Martin Scorsese isn\u2019t glorifying violence. He\u2019s reckoning with it."
-    },
     "https://www.the-sun.com/news/9319985/teacher-stabbed-death-allahu-akbar-france-high-school/": {
         "title": "Teacher stabbed to death by knifeman shouting 'Allahu Akbar' in France...",
         "added": "2023-10-13T11:06:01.418139+00:00",
@@ -279,11 +279,6 @@
         "added": "2023-10-13T05:24:41.124827+00:00",
         "description": "Thieves target a century-old crypt in Colorado, pry open casket, steal portions of body"
     },
-    "https://news.yahoo.com/crime-down-fear-why-l-100003708.html": {
-        "title": "Crime down, fear up: Why LA still perceived as dangerous...",
-        "added": "2023-10-13T05:24:41.124827+00:00",
-        "description": "Crime is down, but fear is up: Why is L.A. still perceived as dangerous?"
-    },
     "https://www.thelocal.fr/20231012/france-bans-pro-palestinian-protests-interior-minister": {
         "title": "France bans pro-Palestinian protests...",
         "added": "2023-10-13T05:06:57.486816+00:00",
@@ -293,16 +288,6 @@
         "title": "Democrats to Pick a Speaker?",
         "added": "2023-10-13T05:06:57.486816+00:00",
         "description": "Top House Republican Wants Help From Democrats to Pick a Speaker"
-    },
-    "https://ca.finance.yahoo.com/news/argentina-central-bank-hikes-rate-204135361.html": {
-        "title": "Argentina Central Bank Hikes Rate to 133% on Inflation Data!",
-        "added": "2023-10-13T05:06:57.486816+00:00",
-        "description": "Argentina Central Bank Hikes Rate to 133% on Inflation Data"
-    },
-    "https://www.the-sun.com/motors/9315865/parking-tickets-stolen-vehicles-san-francisco/": {
-        "title": "San Francisco car theft victims hunting down their own stolen cars...",
-        "added": "2023-10-13T04:46:38.088931+00:00",
-        "description": "My car was stolen, no one could find it - then I checked parking ticket site"
     },
     "https://thehill.com/policy/defense/4252138-israeli-minister-says-trumps-comments-wound-the-spirit-of-israels-fighters/": {
         "title": "Official Rips Shameful Comments...",
@@ -324,11 +309,6 @@
         "added": "2023-10-13T04:25:18.032570+00:00",
         "description": "A 'New Front' In Hamas War Depends On Israel's Actions, Says Iran"
     },
-    "https://www.msn.com/en-us/news/us/former-irs-contractor-pleads-guilty-to-leaking-trump-s-tax-returns/ar-AA1i7Dh6": {
-        "title": "Former IRS contractor pleads guilty to leaking  thousands of individuals' tax returns...",
-        "added": "2023-10-13T04:25:18.032570+00:00",
-        "description": "Former IRS contractor pleads guilty to leaking Trump\u2019s tax returns"
-    },
     "https://news.yahoo.com/mysterious-rise-us-treasury-yields-015927764.html": {
         "title": "Mysterious rise in Treasury yields perturbs markets...",
         "added": "2023-10-13T04:25:18.032570+00:00",
@@ -339,20 +319,10 @@
         "added": "2023-10-13T04:08:38.888982+00:00",
         "description": "Israel uses white phosphorus in Gaza, video shows"
     },
-    "https://nypost.com/2023/10/12/nypd-beefing-up-presence-as-schools-shutter-after-hamas-leader-called-for-day-of-jihad/": {
-        "title": "HAMAS GLOBAL DAY OF JIHAD",
-        "added": "2023-10-13T04:08:38.888982+00:00",
-        "description": "NYPD beefing up patrols as Jewish schools worry over Hamas leader called for \u2018day of Jihad\u2019"
-    },
     "https://www.bbc.com/news/live/world-middle-east-67073970": {
         "title": "UPDATES...",
         "added": "2023-10-11T11:31:52.064431+00:00",
         "description": "Israel Gaza live news: Gaza's power plant almost out of fuel as Israel troops mass at border - BBC News"
-    },
-    "https://apnews.com/live/israel-hamas-war-live-updates": {
-        "title": "WAR ON ISRAEL!",
-        "added": "2023-10-09T00:33:00.870566+00:00",
-        "description": "Live updates | Israel says it's at war after surprise Hamas attack"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
