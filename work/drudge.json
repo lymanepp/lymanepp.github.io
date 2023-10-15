@@ -1,4 +1,14 @@
 {
+    "https://www.sfgate.com/hawaii/article/18422515.php": {
+        "title": "Human remains haunt Hawaiian beach...",
+        "added": "2023-10-15T11:46:47.955299+00:00",
+        "description": ""
+    },
+    "https://thehill.com/homenews/4256729": {
+        "title": "12 journalists killed in war...",
+        "added": "2023-10-15T11:46:47.955299+00:00",
+        "description": "Journalism organization reports at least 12 journalists killed in Israel-Hamas war"
+    },
     "https://www.npr.org/2023/10/14/1205971022": {
         "title": "NETFLIX to open brick and mortar locations...",
         "added": "2023-10-15T11:31:56.489530+00:00",
@@ -253,11 +263,6 @@
         "title": "New brain map reveals thousands of cell types...",
         "added": "2023-10-14T12:11:25.162769+00:00",
         "description": ""
-    },
-    "https://www.israel365news.com/376962/more-air-raid-sirens-sound-in-northern-israel/": {
-        "title": "SIRENS, ROCKETS CONTINUE IN ISRAEL...",
-        "added": "2023-10-13T15:22:31.713277+00:00",
-        "description": "More air-raid sirens sound in northern Israel"
     },
     "https://www.bbc.com/news/live/world-middle-east-67073970": {
         "title": "UPDATES...",
