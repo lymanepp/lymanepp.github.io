@@ -1,4 +1,9 @@
 {
+    "https://thehill.com/homenews/4263568": {
+        "title": "NETFLIX getting more expensive -- again...",
+        "added": "2023-10-18T22:06:30.600393+00:00",
+        "description": "Netflix raising prices \u2018starting today,\u2019 company confirms in letter"
+    },
     "https://www.washingtonian.com/2023/10/18/fox-newss-bret-baier-lists-dc-home-for-32-million-a-potential-record/": {
         "title": "FOX Baier Lists DC Home for $32 Million -- Potential Record...",
         "added": "2023-10-18T21:46:44.645849+00:00",
@@ -458,21 +463,6 @@
         "title": "RAGE SPREADS...",
         "added": "2023-10-18T01:37:24.841369+00:00",
         "description": "After blast kills hundreds at Gaza hospital, Hamas and Israel trade blame as rage spreads in region"
-    },
-    "https://www.jpost.com/breaking-news/article-768908": {
-        "title": "Jordan cancels summit with Egypt, Palestinian leaders...",
-        "added": "2023-10-17T22:06:20.093598+00:00",
-        "description": ""
-    },
-    "https://www.dailymail.co.uk/news/article-12641379": {
-        "title": "IDF blames Islamic Jihad rocket launch for Gaza hospital blast...",
-        "added": "2023-10-17T22:06:20.093598+00:00",
-        "description": "'Hundreds killed in Israeli strike on hospital in Gaza', Hamas claims"
-    },
-    "https://www.dailymail.co.uk/health/article-12641137": {
-        "title": "FDA approves SOUND wave cancer treatment...",
-        "added": "2023-10-17T22:06:20.093598+00:00",
-        "description": "Radical cancer treatment using SOUND waves to blast tumors is approved"
     },
     "https://apnews.com/article/e062825a375d9eb62e95509cab95b80c": {
         "title": "Abbas cancels planned meeting with President after hospital strike...",
