@@ -1,4 +1,9 @@
 {
+    "https://www.newsweek.com/1836257": {
+        "title": "Powell: Inflation Still Too High...",
+        "added": "2023-10-19T21:31:56.651651+00:00",
+        "description": "Fed's Powell says inflation is still too high"
+    },
     "https://www.jpost.com/health-and-wellness/article-769250": {
         "title": "The drugs they used...",
         "added": "2023-10-19T21:18:16.943663+00:00",
@@ -358,26 +363,6 @@
         "title": "Biden to deliver prime-time foreign policy address Thursday...",
         "added": "2023-10-18T21:46:44.645849+00:00",
         "description": "Biden to deliver a prime-time foreign policy address Thursday"
-    },
-    "https://www.the-sun.com/news/9356999": {
-        "title": "In Jewish state, everyone's at a funeral or drafted for war...",
-        "added": "2023-10-18T21:31:55.491290+00:00",
-        "description": "Inside terror-struck Israel, where everyone's at a funeral or drafted for war"
-    },
-    "https://www.mediaite.com/news/tearful-rashida-tlaib-doubles-down-on-blaming-israel-biden-for-gaza-hospital-attack-and-genocide-at-d-c-rally/": {
-        "title": "Tearful Rashida Tlaib Doubles Down on Blaming Israel, Biden for Gaza Hospital Attack...",
-        "added": "2023-10-18T21:31:55.491290+00:00",
-        "description": "Tearful Rashida Tlaib Doubles Down on Blaming Israel, Biden for Gaza Hospital Attack and \u2018Genocide\u2019 At D.C. Rally"
-    },
-    "https://www.the-sun.com/news/9354433": {
-        "title": "MUSK: PAY TO TWEET...",
-        "added": "2023-10-18T21:19:00.611932+00:00",
-        "description": "Elon Musk's X slammed over new 'fee' requiring users to 'pay for basic features'"
-    },
-    "https://www.cnbc.com/2023/10/18/tesla-tsla-earnings-q3-2023.html": {
-        "title": "TESLA misses on earnings as margins drop...",
-        "added": "2023-10-18T21:19:00.611932+00:00",
-        "description": "Tesla misses on earnings as margins drop from last year"
     },
     "https://www.bbc.com/news/live/world-middle-east-67141589": {
         "title": "UPDATES...",
