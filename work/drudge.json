@@ -1,4 +1,19 @@
 {
+    "https://www.cnbc.com/quotes/TSLA": {
+        "title": "Stock shock...",
+        "added": "2023-10-20T00:32:32.667137+00:00",
+        "description": "Check out Tesla's stock price (TSLA) in real time"
+    },
+    "https://news.yahoo.com/silicon-valley-ditches-news-shaking-190436179.html": {
+        "title": "Silicon Valley Ditches News, Shaking Unstable Industry...",
+        "added": "2023-10-20T00:32:32.667137+00:00",
+        "description": "Silicon Valley Ditches News, Shaking an Unstable Industry"
+    },
+    "https://apnews.com/biden-speech-live-oval-office": {
+        "title": "LIVE:  Biden to deliver prime-time address...",
+        "added": "2023-10-20T00:32:32.667137+00:00",
+        "description": "Watch replay: President Joe Biden delivers Oval Office address"
+    },
     "https://www.nbcnews.com/politics/congress/live-blog/house-speaker-vote-live-updates-rudderless-house-enters-15th-day-speak-rcna121146#rcrd22265": {
         "title": "McHenry threatens to quit...",
         "added": "2023-10-19T22:06:06.516468+00:00",
@@ -363,11 +378,6 @@
         "title": "POWDER KEG",
         "added": "2023-10-19T03:07:23.002311+00:00",
         "description": "AP PHOTOS: Anger boils and desperation widens in war\u2019s 12th day"
-    },
-    "https://www.nbcnews.com/politics/rcna121127": {
-        "title": "Biden to deliver prime-time foreign policy address Thursday...",
-        "added": "2023-10-18T21:46:44.645849+00:00",
-        "description": "Biden to deliver a prime-time foreign policy address Thursday"
     },
     "https://www.bbc.com/news/live/world-middle-east-67141589": {
         "title": "UPDATES...",
