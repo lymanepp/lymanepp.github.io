@@ -1,4 +1,14 @@
 {
+    "https://www.bbc.com/news/live/world-middle-east-67185260": {
+        "title": "UPDATES...",
+        "added": "2023-10-23T10:36:28.036993+00:00",
+        "description": "Israel Gaza live news: Israel says soldiers carried out 'limited raids' in Gaza - BBC News"
+    },
+    "https://dnyuz.com/2023/10/22/u-s-advises-israel-to-delay-gaza-invasion-officials-say/": {
+        "title": "USA advises delay of Israeli ground incursion into Gaza...",
+        "added": "2023-10-23T10:36:28.036993+00:00",
+        "description": "U.S. Advises Israel to Delay Gaza Invasion, Officials Say"
+    },
     "https://www.dailymail.co.uk/news/article-12660561/Liz-Cheney-launches-blistering-attack-Kevin-McCarthy-elevating-white-supremacists-anti-Semites-torches-GOP-House-Speaker-chaos.html": {
         "title": "Torches McCarthy for 'elevating white supremacists and anti-Semites'...",
         "added": "2023-10-23T05:06:58.675009+00:00",
@@ -268,11 +278,6 @@
         "title": "House speaker race starts again for Republicans after ousting Jordan...",
         "added": "2023-10-21T00:31:16.891852+00:00",
         "description": "House speaker race starts again for Republicans after ousting Jordan"
-    },
-    "https://www.bbc.com/news/live/world-middle-east-67165505": {
-        "title": "UPDATES...",
-        "added": "2023-10-20T10:34:57.603011+00:00",
-        "description": "Israel Gaza live news: UN: Time running out to get aid into Gaza 'hellhole' - BBC News"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
