@@ -1,4 +1,19 @@
 {
+    "https://www.cbsnews.com/news/hurricane-otis-acapulco-mexico-devastation/": {
+        "title": "Day after hurricane slammed into Acapulco the devastation becomes clear...",
+        "added": "2023-10-26T11:05:17.692505+00:00",
+        "description": "Mexico assessing Hurricane Otis devastation as Acapulco reels"
+    },
+    "https://www.bbc.com/news/live/world-middle-east-67223217": {
+        "title": "UPDATES...",
+        "added": "2023-10-26T11:05:17.692505+00:00",
+        "description": "Israel Gaza live news: Israeli tanks cross into Gaza for 'targeted raid' - BBC News"
+    },
+    "https://apnews.com/article/israel-palestinians-gaza-hamas-raid-2964c54724e0e80382dd29756b3427bf": {
+        "title": "Israeli troops carry out ground raid into Gaza before expected incursion...",
+        "added": "2023-10-26T11:05:17.692505+00:00",
+        "description": "Israeli troops carry out an hourslong ground raid into Gaza before an expected wider incursion"
+    },
     "https://nypost.com/2023/10/25/news/residents-sheltering-in-place-after-maine-gunman-opens-fire-in-two-different-locations/": {
         "title": "Firearms instructor who recently lost job...",
         "added": "2023-10-26T10:46:48.103383+00:00",
@@ -343,36 +358,6 @@
         "title": "Senior Chinese leaders greet Newsom with warm words in rare cordial display...",
         "added": "2023-10-25T11:05:46.548894+00:00",
         "description": "Senior Chinese leaders greet California Gov. Newsom with warm words in a rare cordial display"
-    },
-    "https://thehill.com/homenews/campaign/4272977-desantis-campaign-launches-trump-accident-tracker/": {
-        "title": "DeSantis Roasts Trump for Declining Abilities...",
-        "added": "2023-10-25T02:27:16.779131+00:00",
-        "description": "DeSantis campaign launches \u2018Trump accident tracker\u2019"
-    },
-    "https://www.yahoo.com/news/nearly-425-000-cubans-migrated-192855374.html": {
-        "title": "Nearly 425,000 Cubans have migrated to USA in past two years!",
-        "added": "2023-10-25T02:06:44.442233+00:00",
-        "description": "Nearly 425,000 Cubans have migrated to the U.S. in the past two years, U.S. figures show"
-    },
-    "https://news.yahoo.com/women-strike-iceland-world-most-111129606.html": {
-        "title": "Women Go On Strike in Iceland, the World's Most Gender Equal Society...",
-        "added": "2023-10-25T02:06:44.442233+00:00",
-        "description": "Women Go On Strike in Iceland, the World\u2019s Most Gender Equal Society"
-    },
-    "https://news.yahoo.com/mideast-crisis-russia-china-hope-013730634.html": {
-        "title": "With Mideast crisis, Russia and China hope to turn tables on USA...",
-        "added": "2023-10-25T02:06:44.442233+00:00",
-        "description": "With Mideast crisis, Russia and China hope to turn tables on US"
-    },
-    "https://studyfinds.org/fungus-alzheimers-disease/": {
-        "title": "Common Fungus Linked To Alzheimer's...",
-        "added": "2023-10-25T01:36:22.386359+00:00",
-        "description": "Scientists discover link between common fungus and Alzheimer's disease"
-    },
-    "https://www.bbc.com/news/live/world-middle-east-67201465": {
-        "title": "UPDATES...",
-        "added": "2023-10-24T10:35:44.149779+00:00",
-        "description": "Israel Gaza live news: I went through hell, says 85-year-old hostage Yocheved Lifschitz released by Hamas - BBC News"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
