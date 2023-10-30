@@ -1,4 +1,9 @@
 {
+    "https://www.bbc.com/news/live/world-middle-east-67258466": {
+        "title": "UPDATES...",
+        "added": "2023-10-30T10:35:35.661649+00:00",
+        "description": "Israel Gaza live news: Hundreds of patients stuck in Gaza hospitals, UN says - BBC News"
+    },
     "https://www.timesofisrael.com/israel-said-to-hit-syria-posts-in-response-to-shelling-hezbollah-targets-struck/": {
         "title": "Rockets fired from Lebanon and Syria intensifies...",
         "added": "2023-10-30T03:22:12.885970+00:00",
@@ -244,11 +249,6 @@
         "added": "2023-10-29T00:35:00.574130+00:00",
         "description": "Robo-taxis remain a pipe dream and greedy companies have only themselves to blame"
     },
-    "https://news.yahoo.com/no-joke-russian-comedians-try-100613835.html": {
-        "title": "It's no joke: Russian comedians try to stay relevant in wartime...",
-        "added": "2023-10-29T00:35:00.574130+00:00",
-        "description": "It's no joke: how Russian comedians try to stay relevant in wartime"
-    },
     "https://news.yahoo.com/anxiety-racks-israeli-hostage-families-095104669.html": {
         "title": "Anxiety racks hostage families...",
         "added": "2023-10-29T00:35:00.574130+00:00",
@@ -288,11 +288,6 @@
         "title": "How robotaxi crash got self-driving cars pulled from Californian roads...",
         "added": "2023-10-28T13:20:56.507889+00:00",
         "description": "How a robotaxi crash got Cruise\u2019s self-driving cars pulled from Californian roads"
-    },
-    "https://www.bbc.com/news/live/world-middle-east-67246761": {
-        "title": "UPDATES...",
-        "added": "2023-10-28T13:06:01.744619+00:00",
-        "description": "Israel Gaza live news: Israel pounds Gaza with non-stop strikes after overnight bombing causes 'total chaos' - BBC News"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
