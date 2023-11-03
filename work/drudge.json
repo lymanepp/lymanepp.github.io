@@ -1,4 +1,14 @@
 {
+    "https://www.dailymail.co.uk/news/article-12707803": {
+        "title": "Navy launches missile from robot boat in Middle East...",
+        "added": "2023-11-03T20:07:51.220474+00:00",
+        "description": "Navy launches missile from robot boat in the Middle East"
+    },
+    "https://www.cnn.com/2023/11/03/investing/bank-deposit-outage/index.html": {
+        "title": "US banks hit by deposit delays...",
+        "added": "2023-11-03T20:07:51.220474+00:00",
+        "description": "US banks hit by deposit delays | CNN Business"
+    },
     "https://au.finance.yahoo.com/news/layoffs-maersk-hit-10-000-120336565.html": {
         "title": "Shipping giant laying off 10,000 as pandemic boom turns to bust...",
         "added": "2023-11-03T19:46:41.805252+00:00",
@@ -298,31 +308,6 @@
         "title": "Flood Tunnels With Mediterranean Sea?",
         "added": "2023-11-02T20:21:54.638478+00:00",
         "description": ""
-    },
-    "https://www.yahoo.com/entertainment/second-woman-sues-aerosmith-steven-171636722.html": {
-        "title": "Second Woman Sues AEROSMITH Steven Tyler for Sex Assault...",
-        "added": "2023-11-02T20:07:14.761245+00:00",
-        "description": "Second Woman Sues Aerosmith\u2019s Steven Tyler for Sexual Assault"
-    },
-    "https://www.msn.com/en-us/news/us/the-hollywood-sign-turns-100-this-year-but-l-a-is-in-no-mood-to-party/ar-AA1jgg2j": {
-        "title": "Hollywood sign turns 100. But LA in no mood to party...",
-        "added": "2023-11-02T20:07:14.761245+00:00",
-        "description": "The Hollywood sign turns 100 this year. But L.A. is in no mood to party."
-    },
-    "https://www.upi.com/Top_News/World-News/2023/11/02/3771698919392/": {
-        "title": "STUDY: State of democracy declines worldwide...",
-        "added": "2023-11-02T19:46:44.036790+00:00",
-        "description": "Study: State of democracy declines worldwide amid tainted elections, eroding freedoms - UPI.com"
-    },
-    "https://www.jpost.com/breaking-news/article-771440": {
-        "title": "LA hate crime probe after antisemitic vandalism at deli...",
-        "added": "2023-11-02T19:46:44.036790+00:00",
-        "description": "LA hate crime probe initiated after antisemitic vandalism at Deli"
-    },
-    "https://www.cnbc.com/2023/11/02/jurors-in-sam-bankman-fried-criminal-trial-begin-deliberations.html": {
-        "title": "Jurors in Sam Bankman-Fried criminal trial begin deliberations... Developing...",
-        "added": "2023-11-02T19:46:44.036790+00:00",
-        "description": "Jurors in Sam Bankman-Fried criminal trial begin deliberations"
     },
     "https://www.the-sun.com/health/9505496/all-nighter-missing-sleep-happiness/": {
         "title": "Bad night sleep  -- could actually make you feel better?",
