@@ -1,4 +1,9 @@
 {
+    "https://www.bbc.com/news/live/world-middle-east-67305304": {
+        "title": "UPDATES...",
+        "added": "2023-11-03T10:35:24.687292+00:00",
+        "description": "Israel Gaza live news: Blinken meets Netanyahu to push for 'concrete steps' to protect Gaza civilians - BBC News"
+    },
     "https://www.cnbc.com/2023/11/02/sam-bankman-fried-found-guilty-on-all-seven-criminal-fraud-counts.html": {
         "title": "CRYPTO CREEP FOUND GULITY",
         "added": "2023-11-03T01:37:11.787318+00:00",
@@ -289,11 +294,6 @@
         "added": "2023-11-02T01:36:21.448442+00:00",
         "description": "HBO Bosses Used \u2018Secret\u2019 Fake Accounts to Troll TV Critics"
     },
-    "https://www.the-sun.com/news/9491552/children-hostages-hamas-parents-release/": {
-        "title": "Innocent faces of 32 children held in tunnels by Hamas...",
-        "added": "2023-11-02T01:36:21.448442+00:00",
-        "description": "Innocent faces of 32 kids held by Hamas as parents plead to release them"
-    },
     "https://www.the-sun.com/news/9488860/melania-appearance-mar-lago-donald-trump-first-lady/": {
         "title": "Melania seen in public with Don first time in 7 months...",
         "added": "2023-11-02T01:36:21.448442+00:00",
@@ -333,11 +333,6 @@
         "title": "House rejects effort to censure Tlaib...",
         "added": "2023-11-02T01:36:21.448442+00:00",
         "description": "House rejects effort to censure Rashida Tlaib over the Palestinian-American's rhetoric about Israel"
-    },
-    "https://www.bbc.com/news/live/world-middle-east-67281166": {
-        "title": "UPDATES...",
-        "added": "2023-11-01T10:46:49.484396+00:00",
-        "description": "Israel Gaza live news: Crowds at Gaza crossing as some injured and foreign nationals likely to leave - BBC News"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
