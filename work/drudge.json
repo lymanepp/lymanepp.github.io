@@ -1,4 +1,14 @@
 {
+    "https://www.nbcnews.com/politics/rcna123670": {
+        "title": "Zelensky rejects 'stalemate' claims...",
+        "added": "2023-11-05T14:05:08.667602+00:00",
+        "description": "Russia-Ukraine war not a 'stalemate,' Zelenskyy tells NBC News in exclusive interview"
+    },
+    "https://www.dailymail.co.uk/femail/article-12694447": {
+        "title": "Author comes out as trans man after spouse comes out as trans woman...",
+        "added": "2023-11-05T14:05:08.667602+00:00",
+        "description": "Author comes out as trans man after his wife came out as trans woman"
+    },
     "https://www.nbcnews.com/news/rcna123628": {
         "title": "USA, Europe broach peace negotiations with Kyiv...",
         "added": "2023-11-05T13:46:43.027638+00:00",
@@ -159,16 +169,6 @@
         "added": "2023-11-04T14:22:20.309463+00:00",
         "description": "Russell Brand Accused Of Sexual Assault On Set Of \u2018Arthur\u2019; Film Extra Names Warner Bros In Suit"
     },
-    "https://www.dailymail.co.uk/news/article-12707747/Iranian-group-puts-recruitment-posters-suicide-bombers-willing-attack-targets-Israel.html": {
-        "title": "Iranian group recruiting suicide bombers...",
-        "added": "2023-11-04T14:05:01.776442+00:00",
-        "description": "Iranian group recruiting suicide bombers willing to attack Israel"
-    },
-    "https://www.i24news.tv/en/news/international/americas/1699101260-u-s-secretary-of-state-blinken-to-visit-turkey-after-israel-jordan-stops": {
-        "title": "BLINKEN TO TURKEY",
-        "added": "2023-11-04T13:46:49.963143+00:00",
-        "description": "U.S. Secretary of State Blinken to visit Turkey after Israel, Jordan stops - I24NEWS"
-    },
     "https://www.gazettextra.com/news/nation_world/billionaire-backed-tech-group-says-it-s-bought-all-the-land-it-needs-for-utopian/article_76476326-cf1f-5c53-bff9-30537114d55a.html": {
         "title": "Billionaire-backed tech group says it's bought all the land it needs for utopian city...",
         "added": "2023-11-04T13:46:49.963143+00:00",
@@ -183,11 +183,6 @@
         "title": "ERDOGAN CUTS TIES WITH NETANYAHU",
         "added": "2023-11-04T13:46:49.963143+00:00",
         "description": "Turkey recalls envoy to Israel, blasts Netanyahu"
-    },
-    "https://news.yahoo.com/chief-shocked-israeli-strike-gaza-185257161.html": {
-        "title": "Strike on Gaza ambulance convoy sparks condemnation...",
-        "added": "2023-11-04T13:46:49.963143+00:00",
-        "description": "Deadly Israel strike on Gaza ambulance convoy sparks condemnation"
     },
     "https://www.msn.com/en-us/news/politics/speaker-johnson-and-mitch-mcconnell-are-on-a-collision-course/ar-AA1jnh9T": {
         "title": "Speaker Johnson and McConnell on collision course...",
