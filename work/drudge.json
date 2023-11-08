@@ -1,4 +1,29 @@
 {
+    "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-virginia-state-legislature.html": {
+        "title": "VA legislative control pending...",
+        "added": "2023-11-08T02:11:40.187433+00:00",
+        "description": "Virginia State Legislature Results"
+    },
+    "https://www.nbcnews.com/politics/elections/ohio-voters-enshrine-abortion-rights-state-constitution-fall-roe-v-wad-rcna122077": {
+        "title": "OH abortion right wins...",
+        "added": "2023-11-08T02:11:40.187433+00:00",
+        "description": "Ohio voters enshrine abortion rights in state constitution"
+    },
+    "https://www.nbcnews.com/politics/elections/democratic-governor-andy-beshear-wins-second-term-kentucky-rcna122072": {
+        "title": "KY  Dem governor wins...",
+        "added": "2023-11-08T02:11:40.187433+00:00",
+        "description": "Democratic Gov. Andy Beshear wins re-election in Kentucky"
+    },
+    "https://www.msn.com/en-us/news/world/black-lives-4-palestine-us-activists-find-common-cause/ar-AA1jyS8M": {
+        "title": "'Black Lives 4 Palestine': Activists find common cause...",
+        "added": "2023-11-08T02:11:40.187433+00:00",
+        "description": "'Black Lives 4 Palestine': US activists find common cause"
+    },
+    "https://www.barrons.com/news/us-hospitals-turn-to-gig-platforms-on-nurse-shortage-913fcc59?refsec=topics_afp-news": {
+        "title": "Hospitals turn to gig platforms on nurse shortage...",
+        "added": "2023-11-08T02:11:40.187433+00:00",
+        "description": "US Hospitals Turn To Gig Platforms On Nurse Shortage"
+    },
     "https://www.politico.com/live-updates/2023/11/07/election-day/dems-outspent-gop-00125836": {
         "title": "Dems have outspent Republicans across most of country...",
         "added": "2023-11-08T00:33:01.303783+00:00",
@@ -429,21 +454,6 @@
         "added": "2023-11-07T02:13:50.727239+00:00",
         "description": "Exclusive-Elon Musk's X restructuring curtails disinformation research, spurs legal fears"
     },
-    "https://www.msn.com/en-us/money/other/billionaire-rabbi-in-phony-lord-taylor-bid-gets-8-1-2-years/ar-AA1jujHQ": {
-        "title": "Phony  'Billionaire Rabbi' Gets 8 1/2 Years...",
-        "added": "2023-11-07T01:38:55.013541+00:00",
-        "description": "\u2018Billionaire Rabbi\u2019 in Phony Lord & Taylor Bid Gets 8 1/2 Years"
-    },
-    "https://www.marketwatch.com/story/housing-affordability-hits-a-39-year-low-its-fair-to-expect-prices-to-weaken-expert-says-2e7963ad": {
-        "title": "Housing affordability hits 39-year low...",
-        "added": "2023-11-07T01:38:55.013541+00:00",
-        "description": "Housing affordability hits 39-year low. \u2018It\u2019s fair to expect prices to weaken,\u2019 expert says"
-    },
-    "https://thehill.com/policy/healthcare/4295650-cdc-flu-rsv-surveillance-airports/": {
-        "title": "CDC adding flu surveillance at airports...",
-        "added": "2023-11-07T01:38:55.013541+00:00",
-        "description": "CDC adding flu, RSV surveillance at major US airports"
-    },
     "https://nypost.com/2023/11/06/business/joe-rogan-holds-all-the-cards-as-his-spotify-deal-set-to-expire/": {
         "title": "ROGAN TO DITCH SPOTIFY, JUMP TO X?",
         "added": "2023-11-07T01:38:55.013541+00:00",
@@ -453,21 +463,6 @@
         "title": "STREISAND 'STILL HURT' BY INSULTS...",
         "added": "2023-11-07T01:38:55.013541+00:00",
         "description": "Streisand's new memoir says she's 'still hurt' by insults over looks"
-    },
-    "https://deadline.com/2023/11/actors-strike-new-talks-final-offer-1235594696/": {
-        "title": "DRAMA:  Hollywood Studios Put Last Offer On Table With SAG...",
-        "added": "2023-11-07T01:38:55.013541+00:00",
-        "description": "SAG-AFTRA Says No Agreement On AI Yet As Guild Delivers Latest Response To Studios \u2013 Update"
-    },
-    "https://bnn.network/sports/amazon-prime-video-boosts-nfls-viewership-through-exclusive-streaming-rights/": {
-        "title": "NFL Viewership Rises 6% as AMAZON and ABC Draw in More Viewers...",
-        "added": "2023-11-07T01:38:55.013541+00:00",
-        "description": "Amazon Prime Video Boosts NFL's Viewership through Exclusive Streaming Rights - BNN Breaking"
-    },
-    "https://abcnews.go.com/Politics/netanyahu-abcs-muir-cease-fire-release-hostages/story?id=104661239": {
-        "title": "BIBI:  'No cease-fire' without release of hostages...",
-        "added": "2023-11-07T01:38:55.013541+00:00",
-        "description": "Netanyahu to ABC's Muir: 'No cease-fire' without release of hostages"
     },
     "https://www.desmoinesregister.com/story/news/elections/presidential/caucus/2023/11/06/iowa-gov-kim-reynolds-endorses-ron-desantis-says-trump-cant-win/71473895007/": {
         "title": "ENDORSES DESANTIS",
