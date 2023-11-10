@@ -10,7 +10,7 @@
 * [Wicked Dolphin Rum Distillery](https://wickeddolphinrum.com/home)
 * [Tropical Breeze Fun Park](https://tropicalbreezefunpark.com/package/mini-golf/)
 * [Gator Mike's Family Fun Park](https://gatormikes.com/)
-* [Banana Bay Tour Company] (https://bananabaytourcompany.com/index.html)
+* [Banana Bay Tour Company](https://bananabaytourcompany.com/index.html)
 * [Four Mile Cove Ecological Preserve](https://www.capecoral.gov/department/parks_and_recreationhome/four_mile_cove_eco_preserve.php)
 * [Rotary Park Evironmental Center](https://www.capecoral.gov/department/parks_and_recreationhome/rotary_park_environmental_center/index.php)
 * [Yacht Club Beach](https://www.come-to-cape-coral.com/yacht-club-beach.html)
