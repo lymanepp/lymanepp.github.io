@@ -1,4 +1,14 @@
 {
+    "https://www.sfgate.com/travel/article/18476273.php": {
+        "title": "California's third largest city: Mostly empty, forgotten dream...",
+        "added": "2023-11-12T13:46:38.817237+00:00",
+        "description": ""
+    },
+    "https://www.jpost.com/breaking-news/article-772881": {
+        "title": "White House wants to resume military ties with China...",
+        "added": "2023-11-12T13:46:38.817237+00:00",
+        "description": "White House wants to resume military ties with China, Sullivan tells CBS"
+    },
     "https://www.politico.eu/article/europe-braces-winter-two-wars-energy-price-gas-oil-electricity-hamas-israel-ukraine-russia/": {
         "title": "Europe braces for winter of two wars...",
         "added": "2023-11-12T13:31:55.159844+00:00",
@@ -323,11 +333,6 @@
         "title": "IDF attacks put it at odds with allies...",
         "added": "2023-11-11T14:05:18.766213+00:00",
         "description": "Gaza's main hospital goes dark in intense fighting as Israel's attacks put it at odds with allies"
-    },
-    "https://news.yahoo.com/theyre-clearing-homeless-people-san-202319014.html": {
-        "title": "San Fran clears homeless to get ready...",
-        "added": "2023-11-10T22:24:29.814210+00:00",
-        "description": "'They're clearing out the homeless people': San Francisco gets ready for arrival of world leaders"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
