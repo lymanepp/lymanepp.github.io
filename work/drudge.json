@@ -1,4 +1,9 @@
 {
+    "https://www.newsweek.com/1844043": {
+        "title": "Chinese Flags Filling San Francisco Street Sparks Backlash...",
+        "added": "2023-11-15T18:46:42.254021+00:00",
+        "description": "Video of Chinese flags filling San Francisco street sparks backlash"
+    },
     "https://www.leefang.com/p/newsguards-for-profit-censorship": {
         "title": "'Anti-misinfo' org works with Defense Dept, intel agencies, big marketing firm...",
         "added": "2023-11-15T18:25:47.687461+00:00",
@@ -344,30 +349,10 @@
         "added": "2023-11-14T19:03:52.100993+00:00",
         "description": "Another fire breaks out underneath L.A. freeway"
     },
-    "https://www.statnews.com/2023/11/13/life-expectancy-men-women/": {
-        "title": "Life expectancy for U.S. men falls to 73 years -- six years less than women...",
-        "added": "2023-11-14T18:46:34.902845+00:00",
-        "description": "Life expectancy for men in U.S. falls to 73 years \u2014 six years less than for women, per study"
-    },
     "https://www.mediaite.com/news/her-behavior-has-been-disgraceful-ben-shapiro-destroys-colleague-candace-owens-for-ridiculous-israel-rhetoric/": {
         "title": "Ben Shapiro Slams 'Disgraceful' Colleague Candace Owens...",
         "added": "2023-11-14T18:31:49.700869+00:00",
         "description": "Ben Shapiro Slams 'Disgraceful' Candace Owens Over Israel"
-    },
-    "https://www.the-express.com/news/us-news/118365/san-francisco-crime-jinping-biden-summit-apec": {
-        "title": "News crew robbed at gunpoint in San Fran ahead of summit...",
-        "added": "2023-11-14T17:32:01.574758+00:00",
-        "description": "News crew robbed at gunpoint while filming in San Francisco ahead of summit"
-    },
-    "https://www.cnbc.com/2023/11/14/edith-piaf-biopic-will-be-made-with-ai.html": {
-        "title": "La Vie en robots...",
-        "added": "2023-11-14T17:32:01.574758+00:00",
-        "description": "As Hollywood reckons with AI, Warner Music will use the tech to make an Edith Piaf biopic"
-    },
-    "https://marketwatch.com/story/business-insider-reverts-to-original-name-and-henry-blodget-is-out-as-ceo-e048bcee": {
-        "title": "BUSINESS INSIDER reverts to earlier name; Blodget out as CEO...",
-        "added": "2023-11-14T17:32:01.574758+00:00",
-        "description": "Business Insider reverts to earlier name and Henry Blodget is out as CEO"
     },
     "https://www.cnn.com/2023/11/13/us/china-online-disinformation-invs/index.html": {
         "title": "Online disinfo operation harasses citizens...",
@@ -393,11 +378,6 @@
         "title": "Parents furious at school 'Satan club'...",
         "added": "2023-11-14T16:24:06.421707+00:00",
         "description": "Parents fume at 'sick' after school Satan club \u2013 but no goats will be sacrificed"
-    },
-    "https://variety.com/2023/digital/news/edith-piaf-ai-biopic-warner-music-1235790327/": {
-        "title": "Edith Piaf Recreated by AI in New Biopic...",
-        "added": "2023-11-14T16:24:06.421707+00:00",
-        "description": "Edith Piaf AI-Generated Biopic in the Works at Warner Music"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
