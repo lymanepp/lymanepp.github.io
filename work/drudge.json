@@ -1,4 +1,14 @@
 {
+    "https://www.bbc.com/news/live/world-middle-east-67423274": {
+        "title": "UPDATES...",
+        "added": "2023-11-15T11:46:38.117307+00:00",
+        "description": "Israel-Gaza live news: Eyewitness says Israeli forces interrogating people inside key Gaza hospital - BBC News"
+    },
+    "https://apnews.com/article/israel-hamas-war-news-11-15-2023-b85e828db648f5f911278fa217e827e7": {
+        "title": "IDF raid Gaza's largest hospital...",
+        "added": "2023-11-15T11:46:38.117307+00:00",
+        "description": "Israeli forces raid Gaza's largest hospital, where hundreds of patients are stranded by fighting"
+    },
     "https://www.thewrap.com/slade-sohmer-the-recount-editor-in-chief-child-pornography-arrest/": {
         "title": "Editor in Chief of Political News Site THE RECOUNT Arrested for Child Porn...",
         "added": "2023-11-15T00:34:10.144902+00:00",
@@ -423,21 +433,6 @@
         "title": "Big bang: Firm eyes space baby...",
         "added": "2023-11-14T12:12:53.593280+00:00",
         "description": "Big bang: Dutch firm eyes space baby"
-    },
-    "https://www.msn.com/en-us/news/politics/house-speaker-moves-past-hard-right-concerns-in-effort-to-avoid-government-shutdown/ar-AA1jTbYi": {
-        "title": "House speaker moves past hard-right concerns in effort to avoid shutdown...",
-        "added": "2023-11-14T11:46:37.292266+00:00",
-        "description": "House speaker moves past hard-right concerns in effort to avoid government shutdown"
-    },
-    "https://news.yahoo.com/10-freeway-closure-greets-monday-164124371.html": {
-        "title": "UPDATE:  Fire that closed I-10 freeway in Los Angeles was arson...",
-        "added": "2023-11-14T04:32:18.385534+00:00",
-        "description": "Arson is behind the massive fire that shut down the 10 Freeway, officials say"
-    },
-    "https://www.bbc.com/news/live/world-middle-east-67400490": {
-        "title": "UPDATES...",
-        "added": "2023-11-13T11:46:40.469914+00:00",
-        "description": "Israel-Gaza live news: Heavy fighting in northern Gaza as concern grows over babies at key hospital - BBC News"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
