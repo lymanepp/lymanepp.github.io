@@ -1,4 +1,14 @@
 {
+    "https://www.bbc.com/news/live/world-middle-east-67466779": {
+        "title": "UPDATES...",
+        "added": "2023-11-20T11:46:42.005514+00:00",
+        "description": "Israel Gaza live news: Premature babies evacuated from besieged Gaza hospital arrive in Egypt - BBC News"
+    },
+    "https://apnews.com/article/israel-houthi-rebels-hijacked-ship-red-sea-dc9b6448690bcf5c70a0baf7c7c34b09": {
+        "title": "Houthi rebels hijack ship in Red Sea...",
+        "added": "2023-11-20T11:46:42.005514+00:00",
+        "description": "Yemen's Houthi rebels hijack an Israeli-linked ship in the Red Sea and take 25 crew members hostage"
+    },
     "https://www.msn.com/en-us/news/world/argentina-elects-shock-therapy-libertarian-javier-milei-as-president/ar-AA1kctku": {
         "title": "'Shock therapy' libertarian...",
         "added": "2023-11-20T00:35:14.819112+00:00",
@@ -124,20 +134,10 @@
         "added": "2023-11-19T11:31:58.408817+00:00",
         "description": "Democrat doxxed as dominatrix bolsters congressional campaign with Playboy profile"
     },
-    "https://www.msn.com/en-us/news/world/california-democratic-party-convention-locked-down-amid-anti-israel-protests/ar-AA1kaiwM": {
-        "title": "California Dem convention locked down amid protests...",
-        "added": "2023-11-19T11:17:22.138585+00:00",
-        "description": "California Democratic Party convention locked down amid anti-Israel protests"
-    },
     "https://www.dailymail.co.uk/news/article-12766887": {
         "title": "Millennials, Gen-Z sharing embrace in wake of war...",
         "added": "2023-11-19T11:04:50.656290+00:00",
         "description": "Millennials and Gen-Z women convert to ISLAM amid Israel-Hamas war"
-    },
-    "https://www.dailymail.co.uk/femail/article-12746743": {
-        "title": "Why Bezos ex-wife getting last laugh...",
-        "added": "2023-11-19T11:04:50.656290+00:00",
-        "description": "Jeff Bezos' changing look: from his impressive physique to shaved head"
     },
     "https://www.canberratimes.com.au/story/8428552/erdogan-calls-israel-terror-state-after-germany-visit/": {
         "title": "Erdogan calls Israel 'terror state'...",
@@ -174,11 +174,6 @@
         "added": "2023-11-19T00:37:23.368446+00:00",
         "description": "Airlines brace for record Thanksgiving air travel"
     },
-    "https://pagesix.com/2023/11/18/entertainment/taylor-swifts-fans-begged-for-water-during-brazil-concert-where-extreme-temperatures-caused-swifties-death/": {
-        "title": "Taylor Swift fan dies at Rio concert as fans complain about high temps, lack of water...",
-        "added": "2023-11-19T00:37:23.368446+00:00",
-        "description": "Taylor Swift\u2019s fans begged for water during Brazil concert where \u2018extreme temperatures\u2019 caused Swiftie\u2019s death"
-    },
     "https://www.dailymail.co.uk/news/article-12765671/elon-musk-x-advertisement-companies-boycott-list.html": {
         "title": "MORE ADVERTISERS FLEE X",
         "added": "2023-11-18T23:46:43.077946+00:00",
@@ -204,20 +199,10 @@
         "added": "2023-11-18T23:20:29.572344+00:00",
         "description": "Blue-eyed 'AI Jesus' threatens damnation if his TikTok commandments are ignored"
     },
-    "https://www.msn.com/en-us/news/politics/latino-backlash-grows-over-donald-trump-s-friendly-univision-interview/ar-AA1k7WcE": {
-        "title": "Latino backlash grows over Trump's friendly UNIVISION interview...",
-        "added": "2023-11-18T19:04:24.798915+00:00",
-        "description": "Latino backlash grows over Donald Trump\u2019s friendly Univision interview"
-    },
     "https://dnyuz.com/2023/11/18/the-axe-is-sharp/": {
         "title": "DOWD: The Axe Is Sharp...",
         "added": "2023-11-18T18:25:21.436043+00:00",
         "description": "The Axe Is Sharp"
-    },
-    "https://www.jpost.com/israel-news/article-773872": {
-        "title": "Generals: IDF conduct in Gaza endangers forces...",
-        "added": "2023-11-18T18:08:10.514768+00:00",
-        "description": "IDF generals warn: Israeli soldiers' conduct in Gaza endangers forces"
     },
     "https://unherd.com/2023/11/inside-the-american-redoubt/": {
         "title": "Christian survivalists preparing for war in Idaho...",
@@ -253,21 +238,6 @@
         "title": "Former porn star Ron Jeremy to be released to 'private residence' with rape case frozen and health deteriorating...",
         "added": "2023-11-18T14:31:43.493575+00:00",
         "description": "Former porn actor Ron Jeremy to be released to 'private residence' with rape case frozen, health deteriorating"
-    },
-    "https://www.the-sun.com/news/9657820/elon-musk-dad-errol-fears-movie-biopic-director/": {
-        "title": "Musk dad fears son will 'be crucified' in biopic...",
-        "added": "2023-11-18T14:22:40.353271+00:00",
-        "description": "Elon Musk's dad fears he's 'going to be crucified' in movie biopic"
-    },
-    "https://variety.com/2023/music/news/kanye-west-new-song-vultures-antisemitic-1235798725/": {
-        "title": "KANYE RELEASES FIRST NEW SONG AFTER REMARKS PRAISING HITLER...",
-        "added": "2023-11-18T05:06:35.227950+00:00",
-        "description": "Kanye West Drops New Song \u2018Vultures,\u2019 First Track Since Antisemitic Meltdowns Ruined His Career"
-    },
-    "https://www.bbc.com/news/live/world-middle-east-67446662": {
-        "title": "UPDATES...",
-        "added": "2023-11-17T11:46:46.769324+00:00",
-        "description": "Israel finds second hostage body as UN says it cannot take aid into Gaza - BBC News"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
