@@ -1,4 +1,29 @@
 {
+    "https://www.rasmussenreports.com/public_content/politics/biden_administration/biden_approval_index_history": {
+        "title": "RASMUSSEN:   BIDEN APPROVAL 45%...",
+        "added": "2023-11-28T04:26:31.285690+00:00",
+        "description": ""
+    },
+    "https://www.politico.com/news/2023/11/27/trump-immunity-appeal-00128786": {
+        "title": "COURT BATTLE OVER J6 LIABILITY",
+        "added": "2023-11-28T04:26:31.285690+00:00",
+        "description": "Bid to hold Trump accountable for Jan. 6 violence stalls at appeals court"
+    },
+    "https://thehill.com/regulation/transportation/4329005-sunday-air-travel-record/": {
+        "title": "TSA:  SUNDAY WAS BUSIEST DAY IN HISTORY OF AIR TRAVEL...",
+        "added": "2023-11-28T04:26:31.285690+00:00",
+        "description": "Sunday air travel set record: TSA"
+    },
+    "https://thehill.com/newsletters/health-care/4329922-obamacare-fight-biden-trump/": {
+        "title": "ObamaCare fight reignites...",
+        "added": "2023-11-28T04:26:31.285690+00:00",
+        "description": "Biden campaign jumps into ObamaCare fight"
+    },
+    "https://thehill.com/changing-america/respect/equality/4328885-some-californians-leaving-for-texas-could-be-replaced-by-texans-leaving-for-california/": {
+        "title": "Texans are moving to California in droves?",
+        "added": "2023-11-28T04:26:31.285690+00:00",
+        "description": "Some Californians leaving for Texas could be replaced by Texans leaving for California"
+    },
     "https://www.the-sun.com/tech/9726577/alien-like-figures-giant-heads-painted-african-cave/": {
         "title": "Alien-like figures found painted in African cave...",
         "added": "2023-11-28T04:09:15.706573+00:00",
@@ -283,11 +308,6 @@
         "title": "China has acquired global network of strategically vital ports...",
         "added": "2023-11-27T04:35:02.555745+00:00",
         "description": ""
-    },
-    "https://www.theguardian.com/us-news/2023/nov/22/trump-revenge-game-plan-alarm": {
-        "title": "REVENGE OR REJECTION?",
-        "added": "2023-11-27T01:41:35.519087+00:00",
-        "description": "\u2018Openly authoritarian campaign\u2019: Trump\u2019s threats of revenge fuel alarm"
     },
     "https://www.jpost.com/international/article-775131": {
         "title": "'Jordan is Palestine,' claims Wilders...",
