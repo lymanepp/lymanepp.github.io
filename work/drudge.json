@@ -1,4 +1,14 @@
 {
+    "https://www.bbc.com/news/live/world-middle-east-67605703": {
+        "title": "UPDATES...",
+        "added": "2023-12-04T11:46:42.655157+00:00",
+        "description": "Israel-Gaza live news: Israel army 'in all areas of Gaza' as new evacuations ordered - BBC News"
+    },
+    "https://www.axios.com/2023/12/04/jared-kushner-jewish-business-leaders-qatar": {
+        "title": "Kushner, Jewish business leaders huddle with Qatari PM...",
+        "added": "2023-12-04T11:46:42.655157+00:00",
+        "description": ""
+    },
     "https://variety.com/2023/music/news/billie-eilish-coming-out-hitmakers-1235818929/": {
         "title": "BILLIE EILISH:  I'M GAY...",
         "added": "2023-12-04T06:10:19.340848+00:00",
@@ -199,11 +209,6 @@
         "added": "2023-12-03T11:46:33.435501+00:00",
         "description": "\u2018To hell with this place\u2019: George Santos sharpens attacks after expulsion"
     },
-    "https://dnyuz.com/2023/12/03/ego-fear-and-money-how-the-a-i-fuse-was-lit/": {
-        "title": "Ego, Fear and Money: How A.I. Fuse Was Lit...",
-        "added": "2023-12-03T11:31:53.650623+00:00",
-        "description": "Ego, Fear and Money: How the A.I. Fuse Was Lit"
-    },
     "https://www.cnn.com/2023/12/03/middleeast/israel-peace-activists-reevaluate-war-hamas-gaza-intl/index.html": {
         "title": "Why peace activists are re-evaluating their position...",
         "added": "2023-12-03T11:05:11.930405+00:00",
@@ -274,25 +279,10 @@
         "added": "2023-12-02T15:20:32.739135+00:00",
         "description": "The U.S. government can\u2019t quit Elon Musk \u2014 even amid erratic behavior"
     },
-    "https://dnyuz.com/2023/12/02/how-american-evangelicalism-became-mister-rogers-with-a-blowtorch/": {
-        "title": "How American Evangelicalism Became 'Mister Rogers With Blowtorch'...",
-        "added": "2023-12-02T15:20:32.739135+00:00",
-        "description": "How American Evangelicalism Became \u2018Mister Rogers With a Blowtorch\u2019"
-    },
-    "https://dnyuz.com/2023/12/02/sam-altman-sugarcoating-the-apocalypse/": {
-        "title": "DOWD: Sam Altman, Sugarcoating the Apocalypse...",
-        "added": "2023-12-02T15:06:17.806458+00:00",
-        "description": "Sam Altman, Sugarcoating the Apocalypse"
-    },
     "https://www.barrons.com/news/russian-police-raid-gay-bars-in-moscow-media-says-c2c8f250": {
         "title": "Russian police raid gay bars in Moscow...",
         "added": "2023-12-02T14:31:51.459247+00:00",
         "description": "Russian Police Raid Gay Bars In Moscow, Media Says"
-    },
-    "https://www.bbc.com/news/live/world-middle-east-67584895": {
-        "title": "UPDATES...",
-        "added": "2023-12-01T11:46:39.884648+00:00",
-        "description": "Israel-Gaza live news: IDF resumes strikes as ceasefire with Hamas ends - BBC News"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
