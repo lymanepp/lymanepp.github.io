@@ -1,4 +1,14 @@
 {
+    "https://www.dailymail.co.uk/news/article-12827837": {
+        "title": "Famous poet had secret life as 'serial cheater'...",
+        "added": "2023-12-05T20:08:05.927297+00:00",
+        "description": "Famous poet Molly Brodak had a secret life as a 'serial cheater'"
+    },
+    "https://www.bbc.com/future/article/20231204-human-intelligence-its-how-your-brain-is-wired-rather-than-size-that-matters": {
+        "title": "With human brain, size isn't everything...",
+        "added": "2023-12-05T20:08:05.927297+00:00",
+        "description": "Human intelligence: it\u2019s how your brain is wired rather than size that matters"
+    },
     "https://www.msn.com/en-us/news/crime/an-airbnb-host-s-son-secretly-filmed-a-guest-in-the-shower-then-tried-to-blackmail-her-into-sending-him-a-sex-video-prosecutors/ar-AA1l2UbF": {
         "title": "AIRBNB host's son secretly filmed guest in shower, then tried to blackmail for sex video...",
         "added": "2023-12-05T19:46:40.059209+00:00",
@@ -293,11 +303,6 @@
         "title": "Struggling CA region suddenly poised to become very, very rich...",
         "added": "2023-12-04T20:22:55.992057+00:00",
         "description": ""
-    },
-    "https://www.newsweek.com/1849139": {
-        "title": "Hanukkah Celebrations Canceled in Towns...",
-        "added": "2023-12-04T19:17:56.212869+00:00",
-        "description": "Hanukkah celebration canceled as Jewish symbols removed in towns"
     },
     "https://www.theguardian.com/business/2023/dec/04/sellafield-nuclear-site-hacked-groups-russia-china": {
         "title": "UK nuke nuclear site hacked by groups linked to Moscow, Beijing...",
