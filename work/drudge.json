@@ -1,4 +1,9 @@
 {
+    "http://www.drudgereport.com": {
+        "title": "NORMAN LEAR DEAD AT 101",
+        "added": "2023-12-06T13:31:50.278946+00:00",
+        "description": ""
+    },
     "https://www.telegraph.co.uk/news/2023/12/05/flash-car-driver-attractive/": {
         "title": "It's true: Owning flashy car does make you more attractive...",
         "added": "2023-12-06T13:16:33.282156+00:00",
@@ -368,16 +373,6 @@
         "title": "Swedish TESLA Strike Spreads To Neighboring Denmark...",
         "added": "2023-12-05T13:46:33.685025+00:00",
         "description": "Swedish Tesla Strike Spreads To Neighbouring Denmark"
-    },
-    "https://www.express.co.uk/news/world/1842136/poland-warning-russia-nato-attack": {
-        "title": "Poland issues shocking warning of upcoming attack on NATO countries...",
-        "added": "2023-12-05T13:31:47.809411+00:00",
-        "description": "Poland issues concerning warning of upcoming Russian attack on NATO countries"
-    },
-    "https://www.usatoday.com/story/news/politics/elections/2023/12/05/liz-cheney-third-party-trump-threat/71750947007/": {
-        "title": "CHENEY WEIGHS THIRD-PARTY RUN",
-        "added": "2023-12-05T12:13:07.988796+00:00",
-        "description": "Liz Cheney says she's ready to consider a third party, warns of 'grave' threat of Trump-led GOP"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
