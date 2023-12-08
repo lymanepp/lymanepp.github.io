@@ -1,4 +1,9 @@
 {
+    "https://www.cnbc.com/2023/12/07/stock-market-today-live-updates.html": {
+        "title": "STOCK HIGHS...",
+        "added": "2023-12-08T21:32:04.565223+00:00",
+        "description": "S&P 500 notches new high for 2023 Friday, on six-week hot streak after solid economic data: Live updates"
+    },
     "https://www.axios.com/2023/12/08/gop-primary-presidential-debates-rnc-host": {
         "title": "Rolling over for Don: No more RNC debates...",
         "added": "2023-12-08T21:19:44.718716+00:00",
@@ -338,11 +343,6 @@
         "title": "LOWEST RATED DEBATE IN HISTORY?",
         "added": "2023-12-07T21:46:36.661766+00:00",
         "description": ""
-    },
-    "https://finance.yahoo.com/news/elon-musk-says-disney-ceo-bob-iger-should-be-fired-immediately-192920823.html": {
-        "title": "MUSK DEMANDS IGER BE 'FIRED'...",
-        "added": "2023-12-07T21:31:54.173217+00:00",
-        "description": "Elon Musk says Disney CEO Bob Iger should be 'fired immediately'"
     },
     "https://www.thesun.co.uk/news/24982154": {
         "title": "100 Hamas terror suspects stripped, blindfolded after surrendering to IDF...",
