@@ -1,4 +1,9 @@
 {
+    "https://www.cnbc.com/2023/12/08/jobs-report-november-2023-us-payrolls-rose-199000-in-november-unemployment-rate-falls-to-3point7percent.html": {
+        "title": "Jobs show resilience despite signs of labor market softening...",
+        "added": "2023-12-08T13:46:40.009719+00:00",
+        "description": "U.S. payrolls rose 199,000 in November, unemployment rate falls to 3.7%"
+    },
     "https://dnyuz.com/2023/12/08/iran-looks-to-houthi-proxies-to-escalate-fight-with-israel/": {
         "title": "Iran Looks to Houthi Proxies to Escalate Fight With Israel...",
         "added": "2023-12-08T13:11:52.277993+00:00",
@@ -348,11 +353,6 @@
         "title": "WASH POST journalists launch historic 24-hour strike...",
         "added": "2023-12-07T13:46:48.841840+00:00",
         "description": ""
-    },
-    "https://www.mirror.co.uk/3am/us-celebrity-news/oprah-winfrey-wows-fans-shows-31617145": {
-        "title": "Oprah shows off slim frame after years of weight struggles...",
-        "added": "2023-12-07T13:35:08.327757+00:00",
-        "description": "Oprah Winfrey shows off her slim figure after years of weight struggles"
     },
     "https://thehill.com/homenews/house/4345522-marjorie-taylor-greene-shrinking-gop-majority/": {
         "title": "'HOPEFULLY NO ONE DIES'",
