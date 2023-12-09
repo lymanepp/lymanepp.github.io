@@ -1,4 +1,24 @@
 {
+    "https://www.yahoo.com/news/jewish-man-beaten-robbed-mocked-132300196.html": {
+        "title": "Jewish man beaten, robbed and mocked in Brooklyn hate attack...",
+        "added": "2023-12-09T14:31:54.746155+00:00",
+        "description": "Jewish man beaten, robbed and mocked in Brooklyn hate attack on first day of Hanukkah: NYPD"
+    },
+    "https://www.msn.com/en-us/news/world/israel-wants-civilians-to-arm-up-gun-permit-applications-are-soaring/ar-AA1ldM0P": {
+        "title": "Gun permit applications soaring...",
+        "added": "2023-12-09T14:31:54.746155+00:00",
+        "description": "Israel wants civilians to arm up. Gun permit applications are soaring."
+    },
+    "https://www.msn.com/en-us/news/us/texas-supreme-court-temporarily-halts-order-that-allowed-pregnant-woman-to-have-abortion/ar-AA1lelW4": {
+        "title": "Texas high court blocks woman from emergency abortion...",
+        "added": "2023-12-09T14:31:54.746155+00:00",
+        "description": "Texas Supreme Court temporarily halts order that allowed pregnant woman to have abortion"
+    },
+    "https://news.yahoo.com/brazils-idyllic-copacabana-rocked-crime-013920036.html": {
+        "title": "Brazil's idyllic Copacabana rocked by crime, vigilantes...",
+        "added": "2023-12-09T14:31:54.746155+00:00",
+        "description": "Brazil's idyllic Copacabana rocked by crime, vigilantes"
+    },
     "https://www.the-sun.com/news/9822595/israel-needs-months-end-war-hamas/": {
         "title": "Israel says give us two months to finish the job...",
         "added": "2023-12-09T14:22:53.007166+00:00",
@@ -234,30 +254,10 @@
         "added": "2023-12-08T14:47:02.141949+00:00",
         "description": "Never seeing family or friends can lead to an early death"
     },
-    "https://www.theguardian.com/science/2023/dec/08/archaeologists-unearth-most-shocking-example-of-roman-slavery-at-pompeii": {
-        "title": "Archaeologists unearth 'most shocking example of Roman slavery' at Pompeii...",
-        "added": "2023-12-08T14:25:27.093996+00:00",
-        "description": "Archaeologists unearth \u2018most shocking example of Roman slavery\u2019 at Pompeii"
-    },
-    "https://www.cnbc.com/2023/12/08/us-issues-strongest-criticism-of-israel-yet-as-civilian-deaths-in-gaza-surge.html": {
-        "title": "USA issues strongest criticism of Israel yet as civilian deaths in Gaza surge...",
-        "added": "2023-12-08T14:25:27.093996+00:00",
-        "description": "U.S. issues strongest criticism of Israel yet as civilian deaths in Gaza surge"
-    },
     "https://www.cnbc.com/2023/12/08/musks-scandinavian-woes-deepen-as-tesla-loses-swedish-court-case.html": {
         "title": "Woes deepen as TESLA loses Swedish case, Finnish union joins blockade...",
         "added": "2023-12-08T14:25:27.093996+00:00",
         "description": "Musk's Scandinavian woes deepen as Tesla loses Swedish court case, Finnish union joins port blockade"
-    },
-    "https://www.cnbc.com/2023/12/08/google-weighing-project-ellmann-uses-gemini-ai-to-tell-life-stories.html": {
-        "title": "GOOGLE Gemini to tell people their life story using phone data, photos...",
-        "added": "2023-12-08T14:25:27.093996+00:00",
-        "description": "Google weighs Gemini AI project to tell people their life story using phone data, photos"
-    },
-    "https://dnyuz.com/2023/12/08/iran-looks-to-houthi-proxies-to-escalate-fight-with-israel/": {
-        "title": "Iran Looks to Houthi Proxies to Escalate Fight With Israel...",
-        "added": "2023-12-08T13:11:52.277993+00:00",
-        "description": "Iran Looks to Houthi Proxies to Escalate Fight With Israel"
     },
     "https://dnyuz.com/2023/12/08/zombie-tv-has-come-for-cable/": {
         "title": "Zombie TV Has Come for Cable...",
@@ -283,11 +283,6 @@
         "title": "Locusts swarm skies of Mexico; Residents fear world ending...",
         "added": "2023-12-07T16:46:44.058014+00:00",
         "description": "Locusts swarm skies of Mexico leaving people fearing the world is ending"
-    },
-    "https://www.barrons.com/news/us-announces-military-air-exercises-in-guyana-amid-venezuela-tensions-3bca2752": {
-        "title": "US Holds Military Exercises In Guyana As Border Tensions Soar...",
-        "added": "2023-12-07T15:07:31.716478+00:00",
-        "description": "US Holds Military Exercises In Guyana As Border Tensions Soar"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
