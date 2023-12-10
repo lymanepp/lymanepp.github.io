@@ -1,4 +1,44 @@
 {
+    "https://www.the-sun.com/news/9826636/tennessee-tornado-multiple-dead-buildings-clarksville/": {
+        "title": "AT LEAST 6 DEAD...",
+        "added": "2023-12-10T01:45:13.896053+00:00",
+        "description": "Tornado leaves at least six people dead as buildings torn to pieces"
+    },
+    "https://www.mediaite.com/news/tucker-carlson-launches-new-subscription-based-site/": {
+        "title": "PAY FOR PLAY:  Tucker Carlson Launches New Subscription-Based Site...",
+        "added": "2023-12-10T01:45:13.896053+00:00",
+        "description": "Tucker Carlson Launches New Subscription-Based Site"
+    },
+    "https://weather.com/news/weather/news/2023-12-09-tornado-tennessee-kentucky-mississippi": {
+        "title": "TORNADOES PATH OF DESTRUCTION IN TN...",
+        "added": "2023-12-10T01:45:13.896053+00:00",
+        "description": "Tennessee Tornadoes Leave At Least 3 Dead | Weather.com"
+    },
+    "https://thehill.com/policy/international/4351624-olena-zelenska-ukraine-first-lady-calls-more-aid/": {
+        "title": "Ukraine's first lady pleads for aid...",
+        "added": "2023-12-10T01:45:13.896053+00:00",
+        "description": "Ukraine\u2019s first lady pleads for aid: \u2018If the world gets tired, they will simply let us die\u2019"
+    },
+    "https://news.yahoo.com/government-no-way-abu-dhabi-144146907.html": {
+        "title": "Ex-head of MI6 claims security danger in sale...",
+        "added": "2023-12-10T01:45:13.896053+00:00",
+        "description": "Government should say \u2018no way\u2019 to Abu Dhabi-backed takeover of The Telegraph, says ex-head of MI6"
+    },
+    "https://news.yahoo.com/abu-dhabi-takeover-telegraph-puts-190000632.html": {
+        "title": "Abu Dhabi takeover of TELEGRAPH puts press freedom at risk...",
+        "added": "2023-12-10T01:45:13.896053+00:00",
+        "description": "Abu Dhabi\u2019s takeover of The Telegraph puts press freedom at risk"
+    },
+    "https://finance.yahoo.com/news/decisive-moment-arrives-4-trillion-150000837.html": {
+        "title": "Decisive Moment Arrives With $4 Trillion Stocks Rally at Stake...",
+        "added": "2023-12-10T01:45:13.896053+00:00",
+        "description": "Decisive Moment Arrives With $4 Trillion Stocks Rally at Stake"
+    },
+    "https://finance.yahoo.com/news/canadas-surging-cost-living-fuels-110338281.html": {
+        "title": "Canada's surging cost of living fuels REVERSE immigration...",
+        "added": "2023-12-10T01:45:13.896053+00:00",
+        "description": "Canada's surging cost of living fuels reverse immigration"
+    },
     "https://www.msn.com/en-us/sports/mlb/shohei-ohtani-joining-dodgers-on-10-year-700m-contract/ar-AA1lg15x": {
         "title": "World's highest-paid athlete...",
         "added": "2023-12-09T22:24:06.503907+00:00",
@@ -169,11 +209,6 @@
         "added": "2023-12-09T14:22:53.007166+00:00",
         "description": "The Many Faces of the Woman Taking German Far-Right Politics Mainstream"
     },
-    "https://variety.com/2023/tv/news/netflix-ted-sarandos-greg-peters-pay-packages-2024-1235831537/": {
-        "title": "NETFLIX'S SARANDOS GETS $40 MILLION PAY!",
-        "added": "2023-12-08T23:46:38.012175+00:00",
-        "description": "Netflix Co-CEOs Ted Sarandos, Greg Peters Set to Each Receive Pay Packages Worth $40 Million in 2024"
-    },
     "https://twitter.com/DavidRozado/status/1733225837992849901": {
         "title": "CLAIM:  GROK's political preferences similar to those of ChatGPT...",
         "added": "2023-12-08T23:06:58.354971+00:00",
@@ -184,16 +219,6 @@
         "added": "2023-12-08T22:46:40.540065+00:00",
         "description": "Defiant Hunter Biden says Republican 'motherf---ers' are 'trying to kill me'"
     },
-    "https://www.tmz.com/2023/12/08/ryan-oneal-dead-dies-love-story/": {
-        "title": "RYAN O'NEAL DEAD AT 82...",
-        "added": "2023-12-08T22:06:46.729286+00:00",
-        "description": "Ryan O'Neal Dead at 82"
-    },
-    "https://www.hollywoodreporter.com/movies/movie-news/ryan-oneal-dead-love-story-paper-moon-1235730468/": {
-        "title": "Star of 'LOVE STORY,' 'WHAT'S UP, DOC?' & 'PAPER MOON'...",
-        "added": "2023-12-08T22:06:46.729286+00:00",
-        "description": "Ryan O\u2019Neal, Star of \u2018Love Story,\u2019 \u2018What\u2019s Up, Doc?\u2019 and \u2018Paper Moon,\u2019 Dies at 82"
-    },
     "https://finance.yahoo.com/news/neighbors-reveal-live-next-jeff-101301043.html": {
         "title": "Neighbors dish on living next to Bezos...",
         "added": "2023-12-08T21:06:14.211928+00:00",
@@ -203,11 +228,6 @@
         "title": "Megyn Kelly:  Trump Has Lost 'Multiple Steps' Mentally...",
         "added": "2023-12-08T20:07:56.101743+00:00",
         "description": "Megyn Kelly Declares That Trump Has Lost \u2018Multiple Steps\u2019 Mentally: \u2018This Is What Happens When You\u2019re 77-Years-Old!\u2019"
-    },
-    "https://www.theguardian.com/us-news/2023/dec/08/teen-passes-bar-exam-youngest-attorney-california": {
-        "title": "Teen who passed bar exam at 17 now practicing attorney...",
-        "added": "2023-12-08T18:27:08.536507+00:00",
-        "description": "California teenager who passed bar exam at 17 is now practicing attorney"
     },
     "https://www.semafor.com/article/12/08/2023/ghana-masked-presidential-contender": {
         "title": "Masked mystery man closes in on presidency of Ghana...",
