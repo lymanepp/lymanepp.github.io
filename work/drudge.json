@@ -1,4 +1,9 @@
 {
+    "https://www.the-sun.com/news/9857524/in-n-out-idaho-opening-line-camping/": {
+        "title": "Customers camp overnight, wait in 8-hour lines as IN-N-OUT Burger opens in Idaho...",
+        "added": "2023-12-14T02:16:24.661024+00:00",
+        "description": "In-N-Out opening day ends in chaos with 8-hour lines & diners camping all night"
+    },
     "https://www.msn.com/en-us/money/other/dow-jones-hits-an-all-time-high-as-investors-cheer-progress-on-inflation/ar-AA1lswM7": {
         "title": "STOCKS HIT RECORD HIGH",
         "added": "2023-12-14T01:40:31.881008+00:00",
@@ -369,11 +374,6 @@
         "added": "2023-12-13T02:18:34.858543+00:00",
         "description": "Florida School Board urges Moms for Liberty co-founder to resign in GOP sex scandal"
     },
-    "https://www.wmur.com/article/chris-sununu-new-hampshire-primary-endorsement/46101497": {
-        "title": "Haley Draws Endorsement From New Hampshire's Sununu...",
-        "added": "2023-12-13T01:41:54.554428+00:00",
-        "description": "Gov. Chris Sununu endorses former UN Ambassador Nikki Haley in Republican presidential race"
-    },
     "https://www.reuters.com/investigates/special-report/global-poy-2023/": {
         "title": "2023 through the lens of REUTERS photographers...",
         "added": "2023-12-13T01:41:54.554428+00:00",
@@ -383,31 +383,6 @@
         "title": "Woman fighting Kentucky's abortion laws says her embryo isn't viable...",
         "added": "2023-12-13T01:41:54.554428+00:00",
         "description": "Woman fighting Kentucky\u2019s abortion laws says her embryo isn\u2019t viable"
-    },
-    "https://www.msn.com/en-us/money/technology/musk-s-x-2023-ad-sales-projected-to-slump-to-about-2-5-billion/ar-AA1lp3Iy": {
-        "title": "TWITTER ads continue slump...",
-        "added": "2023-12-13T01:41:54.554428+00:00",
-        "description": "Musk\u2019s X 2023 Ad Sales Projected to Slump to About $2.5 Billion"
-    },
-    "https://www.marketwatch.com/story/s-p-500-futures-hover-at-2023-highs-ahead-of-inflation-report-b497917f": {
-        "title": "STOCKS NEAR HISTORIC HIGH...",
-        "added": "2023-12-13T01:41:54.554428+00:00",
-        "description": "Dow Jones records third highest close in history after inflation report, with eyes on Fed decision"
-    },
-    "https://www.leefang.com/p/newsguards-ministry-of-truth": {
-        "title": "NEWSGUARD Ministry of Truth:  Anti-misinfo company works closely with intelligence agencies, and govt officials...",
-        "added": "2023-12-13T01:41:54.554428+00:00",
-        "description": "NewsGuard's Ministry of Truth"
-    },
-    "https://fr.finance.yahoo.com/news/1-us-agency-not-reinstate-001806801.html": {
-        "title": "X MESS:  Feds cut $1 billion subsidy for Musk STARLINK...",
-        "added": "2023-12-13T01:41:54.554428+00:00",
-        "description": "UPDATE 1-US agency will not reinstate $900 mln subsidy for SpaceX Starlink unit"
-    },
-    "https://financialpost.com/pmn/business-pmn/mileis-shock-therapy-already-leaves-investors-craving-more": {
-        "title": "Leaves Investors Craving More...",
-        "added": "2023-12-13T01:41:54.554428+00:00",
-        "description": "Milei's Shock Therapy Already Leaves Investors Craving More"
     },
     "https://finance.yahoo.com/news/argentina-milei-devalues-peso-54-224352309.html": {
         "title": "Argentina's Milei Devalues Peso by 54% in First Batch of Shock Measures...",
