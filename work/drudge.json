@@ -1,4 +1,14 @@
 {
+    "https://www.the-express.com/news/us-news/122092": {
+        "title": "Mississippi, Kentucky turn hotspot...",
+        "added": "2023-12-22T21:18:48.018934+00:00",
+        "description": "Covid maps show two states where cases have DOUBLED in a week"
+    },
+    "https://dnyuz.com/2023/12/22/apple-explores-a-i-deals-with-news-publishers/": {
+        "title": "APPLE Explores A.I. Deals With News Publishers...",
+        "added": "2023-12-22T21:18:48.018934+00:00",
+        "description": "Apple Explores A.I. Deals With News Publishers"
+    },
     "https://www.theguardian.com/business/2023/dec/22/inflation-christmas-europe-rising-cost-food-drink": {
         "title": "How inflation stole holiday across Europe...",
         "added": "2023-12-22T21:06:07.688799+00:00",
@@ -318,21 +328,6 @@
         "title": "Prominent prof whom Gay allegedly copied calls for her to be fired...",
         "added": "2023-12-21T21:31:45.109118+00:00",
         "description": "Prominent professor whom Claudine Gay allegedly copied calls for her to be fired, says Harvard needs to get \u2018back towards sanity\u2019"
-    },
-    "https://www.usatoday.com/story/news/politics/2023/12/21/71997364007/": {
-        "title": "Congress investigating plagiarism allegations against HARVARD President...",
-        "added": "2023-12-21T21:06:27.539811+00:00",
-        "description": "House Republicans investigating plagiarism allegations against Harvard President Claudine Gay"
-    },
-    "https://www.dailymail.co.uk/news/article-12886827": {
-        "title": "UFO caught hovering over Air Force 1 near LAX...",
-        "added": "2023-12-21T21:06:27.539811+00:00",
-        "description": "UFO caught on camera hovering above Air Force 1 in Los Angeles"
-    },
-    "https://www.the-express.com/news/us-news/122092/Covid-maps-deaths-doubled": {
-        "title": "Mississippi and Kentucky turn hotspot...",
-        "added": "2023-12-21T16:28:21.538309+00:00",
-        "description": "Covid maps show two states where cases have DOUBLED in a week"
     },
     "https://www.gazettextra.com/news/nation_world/does-covid-prefer-the-gut-now-surging-virus-detections-in-wastewater-prompt-scientific-debate/article_1279119c-fba9-513d-88a6-751d9b047198.html": {
         "title": "Does COVID prefer gut now? Surging virus detections in wastewater prompt debate...",
