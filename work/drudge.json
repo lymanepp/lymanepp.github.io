@@ -1,4 +1,24 @@
 {
+    "https://www.dailymail.co.uk/news/article-12899741": {
+        "title": "Could build very specific profiles on individuals...",
+        "added": "2023-12-25T20:21:51.936636+00:00",
+        "description": "FBI fears China is stealing AI tech to ramp up data theft"
+    },
+    "https://www.bbc.com/news/world-asia-china-67818872": {
+        "title": "Beijing shivers through coldest December on record...",
+        "added": "2023-12-25T20:21:51.936636+00:00",
+        "description": "Beijing shivers through coldest December on record"
+    },
+    "https://studyfinds.org/caffeine-athlete-decision-making/": {
+        "title": "STUDY: Caffeine Negatively Affects Decisions, Problem-Solving Skills...",
+        "added": "2023-12-25T20:21:51.936636+00:00",
+        "description": "Caffeine can negatively impact an athlete's decisions"
+    },
+    "https://nypost.com/2023/12/24/news/scientists-exploring-if-deploying-nuke-could-stop-catastrophic-asteroid/": {
+        "title": "Scientists explore firing nuke 'millions of miles' into space to stop catastrophic asteroid...",
+        "added": "2023-12-25T20:21:51.936636+00:00",
+        "description": "Scientists explore firing nuke \u2018millions of miles\u2019 into space to stop catastrophic asteroid"
+    },
     "https://www.cbsnews.com/news/pope-francis-christmas-peace-message-weapons-industry/": {
         "title": "Francis blasts weapons industry...",
         "added": "2023-12-25T20:07:30.433541+00:00",
@@ -189,25 +209,10 @@
         "added": "2023-12-24T17:22:43.437155+00:00",
         "description": "Elon Musk Wants You to Use Neuralink to Lose Weight. That\u2019s a Bad Idea."
     },
-    "https://thehill.com/policy/4375103": {
-        "title": "IRAN THREATENS TO CLOSE MED SEA...",
-        "added": "2023-12-24T15:06:28.235865+00:00",
-        "description": "Iran threatens to close Mediterranean Sea citing US \u2018crimes\u2019 in Gaza"
-    },
     "https://dnyuz.com/2023/12/24/what-went-wrong-for-ron-desantis-in-2023/": {
         "title": "What Went Wrong for DeSantis...",
         "added": "2023-12-24T15:06:28.235865+00:00",
         "description": "What Went Wrong for Ron DeSantis in 2023"
-    },
-    "https://www.express.co.uk/news/world/1848410": {
-        "title": "World War III warning: Super AI weapons to enter warfare...",
-        "added": "2023-12-24T14:46:50.842935+00:00",
-        "description": "World War 3 warning as super AI weapons to enter warfare by end of the decade"
-    },
-    "https://www.usatoday.com/story/news/health/2023/12/24/71971896007/": {
-        "title": "Americans lonely and it's killing them. How to combat new epidemic...",
-        "added": "2023-12-24T14:22:53.822334+00:00",
-        "description": "Americans are lonely and it\u2019s killing them. How the US can combat this new epidemic."
     },
     "https://www.newsweek.com/1855249": {
         "title": "Russian Black Sea Fleet Brigade Apparently Using Chemical Weapons...",
@@ -219,11 +224,6 @@
         "added": "2023-12-24T12:11:19.316265+00:00",
         "description": "What an independent Texas would look like"
     },
-    "https://www.bbc.com/news/world-asia-india-67811929": {
-        "title": "TANKER HIT BY DRONE OFF INDIA",
-        "added": "2023-12-24T11:17:39.768384+00:00",
-        "description": "Tanker hit off India coast by drone from Iran, says US"
-    },
     "https://www.msn.com/en-us/news/world/lost-civilization-discovered-off-coast-of-australia/ar-AA1lWTyi": {
         "title": "Lost Civilization Discovered Off Coast of Australia...",
         "added": "2023-12-23T17:24:25.941035+00:00",
@@ -234,11 +234,6 @@
         "added": "2023-12-23T16:27:29.430613+00:00",
         "description": "Many prehistoric handprints show a finger missing. What if this was not accidental?"
     },
-    "https://www.msn.com/en-us/money/markets/biden-s-economy-vs-trump-s-in-12-charts/ar-AA1lWtg0": {
-        "title": "Biden economy vs. Trump in 12 charts...",
-        "added": "2023-12-23T16:07:40.112817+00:00",
-        "description": "Biden\u2019s economy vs. Trump\u2019s in 12 charts"
-    },
     "https://dnyuz.com/2023/12/23/putin-quietly-signals-he-is-open-to-a-cease-fire-in-ukraine/": {
         "title": "Quietly Signals He Is Open to Cease-Fire...",
         "added": "2023-12-23T14:46:34.801404+00:00",
@@ -248,16 +243,6 @@
         "title": "Putin faces 'Black Swan' coup, says ex-CIA spy...",
         "added": "2023-12-23T14:22:39.359923+00:00",
         "description": "Putin will be ousted in 'Black Swan' coup - he could vanish tomorrow"
-    },
-    "https://www.marketwatch.com/story/consumer-sentiment-finishes-2023-on-high-note-as-inflation-wanes-b878d532": {
-        "title": "Consumer sentiment finishes year on high...",
-        "added": "2023-12-23T01:35:47.588676+00:00",
-        "description": "Consumer sentiment finishes 2023 on high note as inflation wanes"
-    },
-    "https://www.cnbc.com/2023/12/21/stock-market-today-live-updates.html": {
-        "title": "Stocks longest weekly win streak since 2017...",
-        "added": "2023-12-23T01:35:47.588676+00:00",
-        "description": "S&P 500 closes higher Friday, registers longest weekly win streak since 2017: Live updates"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
