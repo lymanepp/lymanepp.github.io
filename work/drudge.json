@@ -1,4 +1,14 @@
 {
+    "https://www.yahoo.com/news/north-korean-nuclear-reactor-reaches-145620366.html": {
+        "title": "Second N Korean nuke reactor appears to be operational...",
+        "added": "2023-12-26T20:21:35.088624+00:00",
+        "description": "Second North Korean nuclear reactor appears to be operational, UN warns"
+    },
+    "https://ktla.com/news/california/california-pizza-hut-operators-laying-off-all-delivery-drivers/": {
+        "title": "California PIZZA HUTS laying off all delivery drivers...",
+        "added": "2023-12-26T20:21:35.088624+00:00",
+        "description": "California Pizza Hut operators laying off all delivery drivers"
+    },
     "https://www.yahoo.com/news/clarence-thomas-clerks-extended-family-173801048.html": {
         "title": "Clarence Thomas' Clerks: 'Extended Family' With Reach, Power...",
         "added": "2023-12-26T20:07:23.516209+00:00",
@@ -299,21 +309,6 @@
         "added": "2023-12-25T20:21:51.936636+00:00",
         "description": "Scientists explore firing nuke \u2018millions of miles\u2019 into space to stop catastrophic asteroid"
     },
-    "https://www.cbsnews.com/news/pope-francis-christmas-peace-message-weapons-industry/": {
-        "title": "Francis blasts weapons industry...",
-        "added": "2023-12-25T20:07:30.433541+00:00",
-        "description": "Pope Francis blasts the weapons industry, appeals for peace in Christmas message"
-    },
-    "https://nypost.com/2023/12/25/news/pro-palestinian-protests-near-homes-of-lloyd-austin-jake-sullivan": {
-        "title": "Pro-Palestinian protesters at homes of Defense Secretary, National Security Adviser...",
-        "added": "2023-12-25T20:07:30.433541+00:00",
-        "description": "Pro-Palestinian protesters demonstrate near homes of Secretary of Defense Lloyd Austin, National Security Adviser Jake Sullivan"
-    },
-    "https://www.msn.com/en-us/news/us/young-us-muslims-are-rising-up-against-israel-in-unlikely-places/ar-AA1m12A0": {
-        "title": "Young U.S. Muslims rising up against Israel in unlikely places...",
-        "added": "2023-12-25T17:31:52.672597+00:00",
-        "description": "Young U.S. Muslims are rising up against Israel in unlikely places"
-    },
     "https://news.yahoo.com/israeli-airstrikes-kill-100-one-130350077.html": {
         "title": "Airstrike outside Damascus kills senior Iran Revolutionary Guard...",
         "added": "2023-12-25T17:22:52.821057+00:00",
@@ -333,11 +328,6 @@
         "title": "Five hostages found dead in tunnel...",
         "added": "2023-12-24T21:46:38.165262+00:00",
         "description": "Israel says five Gaza hostages found dead in tunnel, circumstances being probed"
-    },
-    "https://dnyuz.com/2023/12/24/elon-musk-wants-you-to-use-neuralink-to-lose-weight-thats-a-bad-idea/": {
-        "title": "MUSK BRAIN CHIP FOR WEIGHT LOSS...",
-        "added": "2023-12-24T17:22:43.437155+00:00",
-        "description": "Elon Musk Wants You to Use Neuralink to Lose Weight. That\u2019s a Bad Idea."
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
