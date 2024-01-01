@@ -1,4 +1,9 @@
 {
+    "https://finance.yahoo.com/news/1-iranian-warship-alborz-enters-125419679.html": {
+        "title": "Iranian warship enters Red Sea...",
+        "added": "2024-01-01T14:24:33.069849+00:00",
+        "description": "UPDATE 2-Iranian warship Alborz enters the Red Sea - Tasnim"
+    },
     "https://www.vice.com/en/article/wxjk4z/stop-filming-in-the-gym": {
         "title": "'Stop Filming in the Gym, You Weirdos'...",
         "added": "2024-01-01T14:06:38.631131+00:00",
@@ -133,21 +138,6 @@
         "title": "Taylor Greene creates multiple headaches for new Speaker...",
         "added": "2023-12-31T14:31:55.632739+00:00",
         "description": "Marjorie Taylor Greene creates multiple headaches for new Speaker"
-    },
-    "https://www.the-sun.com/news/9971127": {
-        "title": "Zuckerberg's new apocalypse bunker sparks conspiracies...",
-        "added": "2023-12-31T14:23:03.118896+00:00",
-        "description": "Mark Zuckerberg's new apocalypse bunker sparks Doomsday conspiracy theory"
-    },
-    "https://www.newsweek.com/1853565": {
-        "title": "SUPREME NEW YEAR...",
-        "added": "2023-12-31T14:23:03.118896+00:00",
-        "description": "The Supreme Court's biggest 2024 decisions"
-    },
-    "https://www.cnn.com/2023/12/31/europe/russia-strikes-kharkiv-after-belgorod-attack/index.html": {
-        "title": "Kremlin retaliates...",
-        "added": "2023-12-31T14:23:03.118896+00:00",
-        "description": "Russia retaliates against Ukraine after 24 killed in border city | CNN"
     },
     "https://news.yahoo.com/large-numbers-americans-want-strong-133349404.html": {
         "title": "Large numbers of Americans want strong, rough, anti-democratic leader...",
