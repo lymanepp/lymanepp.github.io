@@ -1,4 +1,39 @@
 {
+    "https://www.the-sun.com/news/9982935/japan-earthquake-tsunami-warning-issued-magnitude/": {
+        "title": "EVACUATIONS",
+        "added": "2024-01-01T12:12:50.994054+00:00",
+        "description": "Tsunami hits Japan and coasts evacuated in Russia & both Koreas after 7.6 quake"
+    },
+    "https://www.msn.com/en-us/news/world/us-firefight-with-houthi-gunmen-heightens-shipping-risk-in-red-sea/ar-AA1mhKay": {
+        "title": "Firefight heightens shipping risk in Red Sea...",
+        "added": "2024-01-01T12:12:50.994054+00:00",
+        "description": "U.S. firefight with Houthi gunmen heightens shipping risk in Red Sea"
+    },
+    "https://www.msn.com/en-us/news/world/iran-showcases-its-reach-with-militia-attacks-across-middle-east/ar-AA1mio5L": {
+        "title": "Iran showcases reach with militia attacks across Middle East...",
+        "added": "2024-01-01T12:12:50.994054+00:00",
+        "description": "Iran showcases its reach with militia attacks across Middle East"
+    },
+    "https://www.msn.com/en-us/news/us/we-are-not-that-how-one-florida-county-is-defying-desantis-at-the-2024-rose-parade/ar-AA1mgD5a": {
+        "title": "'We are not that': How Florida county is defying DeSantis at Rose Parade...",
+        "added": "2024-01-01T12:12:50.994054+00:00",
+        "description": "'We are not that': How one Florida county is defying DeSantis at the 2024 Rose Parade"
+    },
+    "https://www.msn.com/en-us/news/politics/chief-justice-roberts-says-ai-will-transform-how-the-courts-work/ar-AA1mhGZS": {
+        "title": "Chief Justice Roberts Says AI Will Transform How Courts Work...",
+        "added": "2024-01-01T12:12:50.994054+00:00",
+        "description": "Chief Justice Roberts Says AI Will Transform How the Courts Work"
+    },
+    "https://www.msn.com/en-us/news/other/doom-dominates-2024-messaging-as-trump-and-biden-trade-dire-warnings/ar-AA1mgDP6": {
+        "title": "Doom dominates 2024 messaging as Trump and Biden trade dire warnings...",
+        "added": "2024-01-01T12:12:50.994054+00:00",
+        "description": "Doom dominates 2024 messaging as Trump and Biden trade dire warnings"
+    },
+    "https://nypost.com/2023/12/31/news/bill-clinton-to-be-identified-as-doe-36-and-named-over-50-times-in-upcoming-epstein-doc-dump/": {
+        "title": "Bill Clinton to be unmasked as 'Doe 36' and identified more than 50 times in Epstein doc dump...",
+        "added": "2024-01-01T12:12:50.994054+00:00",
+        "description": "Bill Clinton to be unmasked as \u2018Doe 36\u2019 and identified more than 50 times in Jeffrey Epstein doc dump"
+    },
     "https://www.the-sun.com/news/9971127/": {
         "title": "Zuckerberg's new apocalypse bunker sparks conspiracies...",
         "added": "2024-01-01T11:46:40.018564+00:00",
@@ -114,11 +149,6 @@
         "added": "2023-12-31T12:37:31.704819+00:00",
         "description": "Dave Chappelle abruptly ends show, walks off stage after fan pulls out phone during Florida gig: report"
     },
-    "https://www.jpost.com/breaking-news/article-780154": {
-        "title": "Chinese-made weapons being used by Hamas in Gaza...",
-        "added": "2023-12-31T12:11:45.458461+00:00",
-        "description": "Israel-Hamas war: IDF finds Chinese weapons used in Gaza - report"
-    },
     "https://www.foxnews.com/politics/mlb-great-steve-garvey-looks-revive-heartbeat-california-people-senate-run": {
         "title": "DODGERS great's plan to save CA from crime, squalor and Adam Schiff...",
         "added": "2023-12-31T12:11:45.458461+00:00",
@@ -129,20 +159,10 @@
         "added": "2023-12-31T11:46:33.695163+00:00",
         "description": "How the Saudi crown prince used oil and political cunning to overturn his pariah status"
     },
-    "https://www.dailymail.co.uk/news/article-12912337": {
-        "title": "The Don Fears Justices He Appointed Will Keep Him Off Ballots...",
-        "added": "2023-12-31T11:31:52.211765+00:00",
-        "description": "Trump 'fears Supreme Court could BACK Colorado's decision'"
-    },
     "https://abcnews.go.com/International/story?id=106016731": {
         "title": "US NAVY SINKS 3 HOUTHI BOATS",
         "added": "2023-12-31T11:17:36.425645+00:00",
         "description": "US Navy sinks 3 Houthi boats attacking merchant ship in Red Sea, US says"
-    },
-    "https://abcnews.go.com/US/story?id=105993160": {
-        "title": "President Clinton, Prince Andrew expected to be named in unsealed Jeffrey Epstein docs...",
-        "added": "2023-12-31T11:05:25.952801+00:00",
-        "description": "Court documents naming Jeffrey Epstein's associates to be unsealed: What to know"
     },
     "https://www.the-sun.com/entertainment/9977540/american-idol-nigel-lythgoe-paula-abdul-sexual-assault/": {
         "title": "Lythgoe denies...",
@@ -159,20 +179,10 @@
         "added": "2023-12-30T16:46:46.615712+00:00",
         "description": "Tucker Carlson Launches Stunning Attack on Ben Shapiro: He \u2018Obviously\u2019 Doesn\u2019t \u2018Care About America\u2019"
     },
-    "https://www.politico.com/news/magazine/2023/12/30/ai-psychologist-chatbot-00132682": {
-        "title": "New Kind of AI Copy Can Fully Replicate Famous People...",
-        "added": "2023-12-30T16:28:08.924102+00:00",
-        "description": "A New Kind of AI Copy Can Fully Replicate Famous People. The Law Is Powerless."
-    },
     "https://studyfinds.org/death-rates-rare-heart-condition-infective-endocarditis/": {
         "title": "STUDY: Death Rates From Heart Condition Surging Among Young Adults...",
         "added": "2023-12-30T15:31:43.696573+00:00",
         "description": "Death rates from rare heart condition surging among young Americans"
-    },
-    "https://dnyuz.com/2023/12/30/mutiny-erupts-in-a-michigan-g-o-p-overtaken-by-chaos/": {
-        "title": "Mutiny Erupts in Michigan GOP Overtaken by Chaos...",
-        "added": "2023-12-30T15:20:47.526032+00:00",
-        "description": "Mutiny Erupts in a Michigan G.O.P. Overtaken by Chaos"
     },
     "https://www.tmz.com/2023/12/29/paula-abdul-lawsuit-nigel-lythgoe-sexual-assault-american-idol-so-you-think-you-can-dance/": {
         "title": "PAULA ABDUL ACCUSES 'IDOL' PRODUCER OF SEX ASSAULT...",
