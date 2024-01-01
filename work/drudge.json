@@ -1,4 +1,9 @@
 {
+    "https://www.dailymail.co.uk/news/article-12915907/Tsunami-warning-7-4-magnitude-earthquake-Japan.html": {
+        "title": "JAPAN QUAKE TERROR",
+        "added": "2024-01-01T11:31:41.640969+00:00",
+        "description": "Japan braces for 16ft tsunami after huge 7.6-magnitude earthquake"
+    },
     "https://www.themirror.com/news/world-news/uae-show-record-breaking-1000-262821": {
         "title": "UAE show off record-breaking 1,000 drone fireworks spectacle...",
         "added": "2023-12-31T22:06:13.407398+00:00",
@@ -124,11 +129,6 @@
         "added": "2023-12-31T11:31:52.211765+00:00",
         "description": "Trump 'fears Supreme Court could BACK Colorado's decision'"
     },
-    "https://www.newsweek.com/1856685": {
-        "title": "Ukraine Faces Growing Calls From USA to Cede Land...",
-        "added": "2023-12-31T11:17:36.425645+00:00",
-        "description": "Ukraine faces growing calls from US to cede land to Russia"
-    },
     "https://abcnews.go.com/International/story?id=106016731": {
         "title": "US NAVY SINKS 3 HOUTHI BOATS",
         "added": "2023-12-31T11:17:36.425645+00:00",
@@ -148,16 +148,6 @@
         "title": "Lythgoe denies...",
         "added": "2023-12-31T00:37:20.260552+00:00",
         "description": "Idol producer Nigel Lythgoe denies Paula Abdul\u2019s 'shocking' sexual assault claim"
-    },
-    "https://deadline.com/2023/12/new-years-eve-security-times-square-1235683801/": {
-        "title": "Networks Planning For Worst...",
-        "added": "2023-12-31T00:37:20.260552+00:00",
-        "description": "\u201cWe Are Going To Be Ready\u201d: NYPD Out In Full Force For Expected NYE Gaza War Protests; Networks Put Safety Measures In Place"
-    },
-    "https://www.msn.com/en-us/news/world/russia-says-14-dead-after-indiscriminate-ukrainian-attack-on-belgorod/ar-AA1mfknR": {
-        "title": "RUSSIA CLAIMS CLUSTER BOMBS KILLED CIVILIANS",
-        "added": "2023-12-30T18:46:40.509041+00:00",
-        "description": "Russia says 14 dead after 'indiscriminate' Ukrainian attack on Belgorod"
     },
     "https://www.msn.com/en-us/news/other/director-christopher-nolan-reckons-with-ai-s-oppenheimer-moment/ar-AA1meFw0": {
         "title": "Director Christopher Nolan reckons with AI's 'Oppenheimer moment'...",
@@ -199,35 +189,15 @@
         "added": "2023-12-30T15:20:47.526032+00:00",
         "description": "ANALYSIS-Sweeping Chinese military purge exposes weakness, could widen"
     },
-    "https://dnyuz.com/2023/12/30/where-was-the-israeli-military/": {
-        "title": "Oct. 7: Where Was  Israeli Military?",
-        "added": "2023-12-30T15:20:47.526032+00:00",
-        "description": "Where Was the Israeli Military?"
-    },
     "https://dnyuz.com/2023/12/30/mutiny-erupts-in-a-michigan-g-o-p-overtaken-by-chaos/": {
         "title": "Mutiny Erupts in Michigan GOP Overtaken by Chaos...",
         "added": "2023-12-30T15:20:47.526032+00:00",
         "description": "Mutiny Erupts in a Michigan G.O.P. Overtaken by Chaos"
     },
-    "https://nypost.com/2023/12/30/news/porn-star-michael-lucas-facing-boycott-for-supporting-israel/": {
-        "title": "Porn star facing boycott over support for Israel...",
-        "added": "2023-12-30T15:06:14.430350+00:00",
-        "description": "Porn producer Michael Lucas signs Israeli rocket, faces boycott from adult film stars"
-    },
     "https://dnyuz.com/2023/12/30/new-spin-on-a-revolving-door-pentagon-officials-turned-venture-capitalists/": {
         "title": "New Spin on Revolving Door: Pentagon Officials Turned Venture Capitalists...",
         "added": "2023-12-30T15:06:14.430350+00:00",
         "description": "New Spin on a Revolving Door: Pentagon Officials Turned Venture Capitalists"
-    },
-    "https://news.yahoo.com/nypd-prepared-large-pro-palestine-015300449.html": {
-        "title": "NYPD preps for large pro-Palestine protests...",
-        "added": "2023-12-30T14:23:07.441178+00:00",
-        "description": "NYPD \u2018prepared\u2019 for large pro-Palestine protests during New Year\u2019s Eve bash at Times Square"
-    },
-    "https://www.yahoo.com/news/authorities-beef-security-years-eve-023513034.html": {
-        "title": "Authorities beef up security for NYE celebrations after FBI warnings...",
-        "added": "2023-12-30T14:05:52.515241+00:00",
-        "description": "Authorities beef up security for New Years Eve celebrations across US after FBI warnings"
     },
     "https://www.tmz.com/2023/12/29/paula-abdul-lawsuit-nigel-lythgoe-sexual-assault-american-idol-so-you-think-you-can-dance/": {
         "title": "PAULA ABDUL ACCUSES 'IDOL' PRODUCER OF SEX ASSAULT...",
@@ -258,11 +228,6 @@
         "title": "Seizure of smartphone data puts special counsel in uncharted legal waters...",
         "added": "2023-12-30T01:36:45.047066+00:00",
         "description": "Seizure of Trump\u2019s smartphone data puts special counsel in uncharted legal waters"
-    },
-    "https://www.mirror.co.uk/news/us-news/elon-musk-breaks-silence-claims-31765828 ": {
-        "title": "MUSK DEFENDS ROBOTS: OPTIMUS DIDN'T MAIM...",
-        "added": "2023-12-29T16:29:56.429125+00:00",
-        "description": "Elon Musk breaks silence on claims Tesla robot 'attacked worker and drew blood'"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
