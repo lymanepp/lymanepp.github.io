@@ -1,4 +1,9 @@
 {
+    "https://www.the-sun.com/news/9971127/": {
+        "title": "Zuckerberg's new apocalypse bunker sparks conspiracies...",
+        "added": "2024-01-01T11:46:40.018564+00:00",
+        "description": "Mark Zuckerberg's new apocalypse bunker sparks Doomsday conspiracy theory"
+    },
     "https://www.dailymail.co.uk/news/article-12915907/Tsunami-warning-7-4-magnitude-earthquake-Japan.html": {
         "title": "JAPAN QUAKE TERROR",
         "added": "2024-01-01T11:31:41.640969+00:00",
@@ -134,11 +139,6 @@
         "added": "2023-12-31T11:17:36.425645+00:00",
         "description": "US Navy sinks 3 Houthi boats attacking merchant ship in Red Sea, US says"
     },
-    "https://www.cnn.com/travel/2023-worst-destinations-overtourism-avoid-crowds/index.html": {
-        "title": "The worst destinations for overtourism...",
-        "added": "2023-12-31T11:05:25.952801+00:00",
-        "description": "These were 2023\u2019s worst destinations for overtourism. Here\u2019s how to avoid the crowds | CNN"
-    },
     "https://abcnews.go.com/US/story?id=105993160": {
         "title": "President Clinton, Prince Andrew expected to be named in unsealed Jeffrey Epstein docs...",
         "added": "2023-12-31T11:05:25.952801+00:00",
@@ -154,50 +154,25 @@
         "added": "2023-12-30T18:08:36.866979+00:00",
         "description": "Director Christopher Nolan reckons with AI\u2019s \u2018Oppenheimer moment\u2019"
     },
-    "https://www.axios.com/2023/12/30/elon-musk-tesla-spacex-twitter-2024": {
-        "title": "The Musk industrial complex...",
-        "added": "2023-12-30T17:05:44.582966+00:00",
-        "description": ""
-    },
     "https://www.mediaite.com/news/tucker-carlson-launches-stunning-attack-on-ben-shapiro-he-obviously-doesnt-care-about-america/": {
         "title": "Tucker Launches Stunning Attack on Shapiro...",
         "added": "2023-12-30T16:46:46.615712+00:00",
         "description": "Tucker Carlson Launches Stunning Attack on Ben Shapiro: He \u2018Obviously\u2019 Doesn\u2019t \u2018Care About America\u2019"
-    },
-    "https://www.theguardian.com/tv-and-radio/2023/dec/30/global-giants-gear-up-to-build-streaming-model-20": {
-        "title": "Global giants gear up to build streaming model 2.0...",
-        "added": "2023-12-30T16:28:08.924102+00:00",
-        "description": "Global giants gear up to build streaming model 2.0"
     },
     "https://www.politico.com/news/magazine/2023/12/30/ai-psychologist-chatbot-00132682": {
         "title": "New Kind of AI Copy Can Fully Replicate Famous People...",
         "added": "2023-12-30T16:28:08.924102+00:00",
         "description": "A New Kind of AI Copy Can Fully Replicate Famous People. The Law Is Powerless."
     },
-    "https://apnews.com/article/eurostar-paris-london-canceled-flooding-938caf3a803ed8014ef2ef324a44e86c": {
-        "title": "'Unprecedented' flooding in Eurostar tunnel cancels trains between Paris and London...",
-        "added": "2023-12-30T15:46:38.621057+00:00",
-        "description": "Eurostar cancels trains due to flooding, stranding hundreds of travelers in Paris and London"
-    },
     "https://studyfinds.org/death-rates-rare-heart-condition-infective-endocarditis/": {
         "title": "STUDY: Death Rates From Heart Condition Surging Among Young Adults...",
         "added": "2023-12-30T15:31:43.696573+00:00",
         "description": "Death rates from rare heart condition surging among young Americans"
     },
-    "https://www.nasdaq.com/articles/analysis-sweeping-chinese-military-purge-exposes-weakness-could-widen": {
-        "title": "Sweeping Chinese military purge exposes weakness, could widen...",
-        "added": "2023-12-30T15:20:47.526032+00:00",
-        "description": "ANALYSIS-Sweeping Chinese military purge exposes weakness, could widen"
-    },
     "https://dnyuz.com/2023/12/30/mutiny-erupts-in-a-michigan-g-o-p-overtaken-by-chaos/": {
         "title": "Mutiny Erupts in Michigan GOP Overtaken by Chaos...",
         "added": "2023-12-30T15:20:47.526032+00:00",
         "description": "Mutiny Erupts in a Michigan G.O.P. Overtaken by Chaos"
-    },
-    "https://dnyuz.com/2023/12/30/new-spin-on-a-revolving-door-pentagon-officials-turned-venture-capitalists/": {
-        "title": "New Spin on Revolving Door: Pentagon Officials Turned Venture Capitalists...",
-        "added": "2023-12-30T15:06:14.430350+00:00",
-        "description": "New Spin on a Revolving Door: Pentagon Officials Turned Venture Capitalists"
     },
     "https://www.tmz.com/2023/12/29/paula-abdul-lawsuit-nigel-lythgoe-sexual-assault-american-idol-so-you-think-you-can-dance/": {
         "title": "PAULA ABDUL ACCUSES 'IDOL' PRODUCER OF SEX ASSAULT...",
@@ -208,26 +183,6 @@
         "title": "MAKES CLAIM 20 YEARS LATER...",
         "added": "2023-12-30T05:24:01.342298+00:00",
         "description": "Paula Abdul Accuses \u2018American Idol\u2019 Producer Nigel Lythgoe of Sexual Assault"
-    },
-    "https://variety.com/2023/tv/news/most-watched-shows-2023-ncis-oscars-blue-bloods-super-bowl-yellowstone-1235854795/": {
-        "title": "100 MOST-WATCHED TELECASTS OF 2023: NFL, NFL, NFL, NFL... MORE",
-        "added": "2023-12-30T02:13:55.564265+00:00",
-        "description": "The 100 Most-Watched Telecasts of 2023: NFL, Oscars, Gordon Ramsay, \u2018NCIS\u2019 and a Single \u2018Yellowstone\u2019 Episode"
-    },
-    "https://observer.com/2023/12/rex-reeds-best-worst-films-of-2023/": {
-        "title": "REX REED:  Best and Worst Films of Year...",
-        "added": "2023-12-30T02:13:55.564265+00:00",
-        "description": "Rex Reed\u2019s Best & Worst Films of 2023"
-    },
-    "http://www.thesmokinggun.com/documents/crime/pastor-assault-charge-729613": {
-        "title": "Pastor tried to deep-fry MCDONALD'S cook, cops say...",
-        "added": "2023-12-30T02:13:55.564265+00:00",
-        "description": "Cops: Pastor Tried To Deep-Fry McDonald's Cook"
-    },
-    "https://washingtontimes.com/news/2023/dec/29/seizure-of-trumps-smartphone-data-puts-special-cou": {
-        "title": "Seizure of smartphone data puts special counsel in uncharted legal waters...",
-        "added": "2023-12-30T01:36:45.047066+00:00",
-        "description": "Seizure of Trump\u2019s smartphone data puts special counsel in uncharted legal waters"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
