@@ -1,4 +1,19 @@
 {
+    "https://www.dailymail.co.uk/news/article-12915437": {
+        "title": "'DISTURBING CLAIMS'...",
+        "added": "2024-01-02T18:09:39.013043+00:00",
+        "description": "Judge set to reveal claims about Ghislaine Maxwell and Jeffrey Epstein"
+    },
+    "https://www.bostonglobe.com/2024/01/02/metro/claudine-gay-resignation/": {
+        "title": "HARVARD PRESIDENT GAY RESIGNS",
+        "added": "2024-01-02T18:09:39.013043+00:00",
+        "description": "Harvard University President Claudine Gay is resigning, source says - The Boston Globe"
+    },
+    "https://www.axios.com/2024/01/02/trump-fox-news-iowa-republican-debate": {
+        "title": "FOX will host town hall during CNN primary debate...",
+        "added": "2024-01-02T18:09:39.013043+00:00",
+        "description": ""
+    },
     "https://www.express.co.uk/news/world/1851175/israel-bombs-hamas-beirut-hezbollah": {
         "title": "Israel kills top Hamas leader in Beirut...",
         "added": "2024-01-02T17:46:40.351899+00:00",
@@ -268,11 +283,6 @@
         "title": "Blake Shelton slammed for 'embarrassing' NYE performance...",
         "added": "2024-01-01T18:26:38.531037+00:00",
         "description": "Blake Shelton slammed over 'embarrassing' New Year's Eve performance"
-    },
-    "https://www.dailymail.co.uk/news/article-12915437/Judge-reveal-claims-Ghislaine-Maxwell-Jeffrey-Epstein-Prince-Andrew-sex-accuser-Johanna-Sjoberg.html": {
-        "title": "Judge set to reveal 'disturbing' claims...",
-        "added": "2024-01-01T15:46:43.258156+00:00",
-        "description": "Judge set to reveal claims about Ghislaine Maxwell and Jeffrey Epstein"
     },
     "https://finance.yahoo.com/news/1-iranian-warship-alborz-enters-125419679.html": {
         "title": "Iranian warship enters Red Sea...",
