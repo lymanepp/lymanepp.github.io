@@ -1,4 +1,9 @@
 {
+    "https://www.sfgate.com/bayarea/article/18589002.php": {
+        "title": "UC Berkeley takes over People's Park with walls of shipping containers...",
+        "added": "2024-01-04T23:07:17.258105+00:00",
+        "description": ""
+    },
     "https://www.jpost.com/breaking-news/article-780879": {
         "title": "Jordan airstrikes target Syria...",
         "added": "2024-01-04T22:46:42.955407+00:00",
@@ -318,11 +323,6 @@
         "title": "Vegas judge attacked in court...",
         "added": "2024-01-03T23:07:47.426752+00:00",
         "description": "Las Vegas judge attacked in court during sentencing"
-    },
-    "https://www.nbcnews.com/politics/rcna130606": {
-        "title": "Trump asks Supreme Court to overturn Colorado ballot ruling...",
-        "added": "2024-01-03T22:46:45.301644+00:00",
-        "description": "Trump asks Supreme Court to overturn Colorado ballot eligibility ruling"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
