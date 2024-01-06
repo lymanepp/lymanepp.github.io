@@ -1,4 +1,9 @@
 {
+    "https://www.the-sun.com/news/10027131/boeing-737-max-9-planes-grounded/": {
+        "title": "FAA GROUNDS BOEING MAX",
+        "added": "2024-01-06T18:32:35.534467+00:00",
+        "description": "Boeing 737 airliners grounded by FAA after window blown out in mid-air horror"
+    },
     "https://www.dailymail.co.uk/news/article-12928975/cyber-kidnapping-utah-chinese-ransom-photos.html": {
         "title": "Sinister 'cyber' kidnapping scam perfected by Chinese gangs has come to America...",
         "added": "2024-01-06T18:25:34.448269+00:00",
@@ -258,11 +263,6 @@
         "title": "Life on Saturn's moon?",
         "added": "2024-01-05T18:33:51.904452+00:00",
         "description": "Is there life on Saturn's moon?"
-    },
-    "https://www.axios.com/2024/01/05/white-house-press-secretary-jean-pierre-kirby-tension": {
-        "title": "White House's tense podium battle...",
-        "added": "2024-01-05T18:26:25.208358+00:00",
-        "description": ""
     },
     "https://www.barrons.com/news/global-maritime-trade-sails-into-geopolitical-storm-004dc7ed": {
         "title": "Global maritime trade sails into geopolitical storm...",
