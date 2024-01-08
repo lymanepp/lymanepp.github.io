@@ -5,6 +5,7 @@
 ### CAPE CORAL ACTIVITIES
 
 * [Farmers Market](https://capecoralfarmersmarket.com)
+    * [Three Little Birds Food Truck](https://www.threelittlebirdstruck.com/)
 * [Banana Bay Tour Company](https://bananabaytourcompany.com)
 * [History Museum](https://www.capecoralhistoricalmuseum.org)
 * [Wicked Dolphin Rum Distillery](https://wickeddolphinrum.com/home)
