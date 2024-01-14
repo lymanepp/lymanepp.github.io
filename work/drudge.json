@@ -1,4 +1,34 @@
 {
+    "https://www.newsweek.com/1860531": {
+        "title": "Iceland Hit by Fresh Volcano Eruption...",
+        "added": "2024-01-14T12:12:09.337313+00:00",
+        "description": "Iceland hit by fresh volcano eruption"
+    },
+    "https://www.nbcnews.com/news/rcna133597": {
+        "title": "Taiwan defies China, electing 'troublemaker' new president...",
+        "added": "2024-01-14T12:12:09.337313+00:00",
+        "description": "Taiwan defies China, electing a new president Beijing labeled a separatist"
+    },
+    "https://www.desmoinesregister.com/story/news/politics/iowa-poll/caucus/2024/01/13/72216523007/": {
+        "title": "Final poll:  Trump 48%, Haley 20%, Desantis 16%...",
+        "added": "2024-01-14T12:12:09.337313+00:00",
+        "description": "Iowa Poll shows Nikki Haley leads Ron DeSantis in Iowa Caucuses. Donald Trump far ahead"
+    },
+    "https://www.dailymail.co.uk/news/article-12959485/": {
+        "title": "DeSantis mocks Don for hanging out at Mar-a-Lago instead of frigid Iowa...",
+        "added": "2024-01-14T12:12:09.337313+00:00",
+        "description": "DeSantis says Trump 'phoned it in' by nixing events in frigid Iowa"
+    },
+    "https://www.dailymail.co.uk/news/article-12952121": {
+        "title": "UPDATE: Chinese billionaire's purchase of $85 million of Oregon timberland sparks outcry...",
+        "added": "2024-01-14T12:12:09.337313+00:00",
+        "description": "Chinese buy up of $85m of US land kept hidden for eight years"
+    },
+    "https://news.yahoo.com/ballot-iowa-fear-anxiety-hopelessness-161731859.html": {
+        "title": "Voters feel 'dramatic sense of inevitable doom'...",
+        "added": "2024-01-14T12:12:09.337313+00:00",
+        "description": "On the Ballot in Iowa: Fear. Anxiety. Hopelessness."
+    },
     "https://nypost.com/2024/01/13/news/pro-palestinian-protesters-chant-anti-biden-slogans-outside-white-house/": {
         "title": "Pro-Palestinian protesters chant 'f**k Joe Biden,' damage White House fence...",
         "added": "2024-01-14T11:46:52.178337+00:00",
@@ -278,11 +308,6 @@
         "title": "Will Texas grid hold up in freeze?",
         "added": "2024-01-12T22:24:41.027566+00:00",
         "description": "Will the Texas grid hold up in the freeze? Experts give their confidence scores"
-    },
-    "https://www.reuters.com/breakingviews/spectre-donald-trump-hangs-over-davos-2024-01-12/": {
-        "title": "The spectre of Donald Trump hangs over Davos...",
-        "added": "2024-01-12T17:06:36.824528+00:00",
-        "description": ""
     },
     "https://www.dailymail.co.uk/news/article-12956389/Big-freeze-causes-chaos-coldest-Iowa-caucus-Nikki-Haley-cancels-events-three-days-voters-warned-FROSTBITE-10-minutes-wind-chills-minus-45-degrees-expected-Monday.html": {
         "title": "'LIFE-THREATENING' CONDITIONS",
