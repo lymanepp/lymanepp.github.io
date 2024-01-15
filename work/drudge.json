@@ -1,4 +1,29 @@
 {
+    "https://www.politico.com/news/magazine/2024/01/15/what-foreign-diplomats-say-about-u-s-politics-behind-closed-doors-00135326": {
+        "title": "Why The World Is Betting Against American Democracy...",
+        "added": "2024-01-15T15:07:43.056958+00:00",
+        "description": "Why The World Is Betting Against American Democracy"
+    },
+    "https://www.msn.com/en-us/news/world/biden-and-netanyahu-have-not-spoken-in-three-weeks-amid-growing-split-over-war/ar-AA1n01u9": {
+        "title": "Biden and Netanyahu 'have not spoken' in three weeks amid growing split over war...",
+        "added": "2024-01-15T15:07:43.056958+00:00",
+        "description": "Biden and Netanyahu \u2018have not spoken\u2019 in three weeks amid split over war"
+    },
+    "https://www.msn.com/en-us/music/news/sobriety-colonoscopies-and-fighting-the-maga-agenda-green-day-on-making-a-racket-in-2024/ar-AA1mZB7o": {
+        "title": "Sobriety, colonoscopies and fighting MAGA: GREEN DAY on making a racket in '24...",
+        "added": "2024-01-15T15:07:43.056958+00:00",
+        "description": "Sobriety, colonoscopies and fighting the MAGA agenda: Green Day on making a racket in 2024"
+    },
+    "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-01-15-24/index.html": {
+        "title": "1 dead and at least 17 injured in twin attacks in central Israel, authorities say...",
+        "added": "2024-01-15T15:07:43.056958+00:00",
+        "description": "Live updates: Israel-Hamas war, Yemen missile shot down by US fighter aircraft"
+    },
+    "https://apnews.com/article/houthis-us-yemen-israel-palestinians-gaza-fa2aefc86ae002e73081e6ac1b772610": {
+        "title": "Missile strikes US-owned vessel off Yemen as Houthi attacks continue...",
+        "added": "2024-01-15T15:07:43.056958+00:00",
+        "description": "Missile fire strikes a ship just off the coast of Yemen in the Gulf of Aden, UK military says"
+    },
     "https://www.cnn.com/politics/live-news/iowa-caucuses-01-15-24/index.html": {
         "title": "LIVE UPDATES",
         "added": "2024-01-15T14:34:23.433601+00:00",
@@ -174,35 +199,10 @@
         "added": "2024-01-14T15:21:22.720226+00:00",
         "description": "The flip side of the drone boom: Airports, stadiums and power plants need defending"
     },
-    "https://www.msn.com/en-us/news/world/the-crown-jewel-of-the-chinese-military-appears-to-have-a-serious-corruption-problem-but-the-us-can-t-afford-to-bet-on-its-missiles-all-being-defective/ar-AA1mWQYk": {
-        "title": "'Crown jewel' of Chinese military appears to have serious corruption problem...",
-        "added": "2024-01-14T15:06:32.276533+00:00",
-        "description": "The 'crown jewel' of the Chinese military appears to have a serious corruption problem, but the US can't afford to bet on its missiles all being defective"
-    },
-    "https://www.dailymail.co.uk/news/article-12956389": {
-        "title": "'LIFE-THREATENING' CONDITIONS",
-        "added": "2024-01-14T15:06:32.276533+00:00",
-        "description": "FROSTBITE warning issued for Iowa caucus night"
-    },
-    "https://thehill.com/homenews/4408026": {
-        "title": "Billionaire megadonor Ackman to donate $1M to Biden challenger Phillips...",
-        "added": "2024-01-14T15:06:32.276533+00:00",
-        "description": "Billionaire megadonor Bill Ackman to donate $1M to Biden challenger Dean Phillips"
-    },
     "https://apnews.com/article/1e6505fc57c2f4e6c1ebf1c1746171ca": {
         "title": "RECORD COLD CHAOS AT CAUCUS",
         "added": "2024-01-14T15:06:32.276533+00:00",
         "description": "Iowa's winter blast could make an unrepresentative way of picking presidential nominees even more so"
-    },
-    "https://www.nbcnews.com/business/rcna132944": {
-        "title": "EVs to sell for as little as $10,000?",
-        "added": "2024-01-14T14:46:35.817900+00:00",
-        "description": "As EV sales slow, some drivers could buy one for as little as $10,000 this year"
-    },
-    "https://www.axios.com/2024/01/14/biden-netanyahu-israel-gaza-war-tensions": {
-        "title": "President 'running out' of patience with Netanyahu...",
-        "added": "2024-01-14T14:46:35.817900+00:00",
-        "description": ""
     },
     "https://www.msn.com/en-us/news/politics/elizabeth-warren-says-lawmakers-need-a-raise-so-that-congress-isn-t-the-plaything-of-multimillionaires-and-billionaires/ar-AA1mWLAp": {
         "title": "Elizabeth Warren says lawmakers need raise!",
@@ -263,11 +263,6 @@
         "title": "Ecuador arrests hundreds in bid to halt eruption of cartel violence...",
         "added": "2024-01-13T16:08:06.815299+00:00",
         "description": "Ecuador\u00a0arrests\u00a0hundreds in bid to halt eruption of gang-based violence | CNN"
-    },
-    "https://finance.yahoo.com/news/tesla-gets-94-billion-reality-133000964.html": {
-        "title": "TESLA Gets $94 Billion Reality Check as EV Winter Sets In...",
-        "added": "2024-01-13T15:21:35.982664+00:00",
-        "description": "Tesla Gets a $94 Billion Reality Check as EV Winter Sets In"
     },
     "https://news.yahoo.com/trump-lofty-iowa-expectations-set-100000203.html": {
         "title": "TRUMP SET FOR BLOWOUT?",
