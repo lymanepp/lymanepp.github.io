@@ -1,4 +1,29 @@
 {
+    "https://www.themirror.com/news/us-news/6ft-7ins-barron-trump-towers-293756": {
+        "title": "6' 7\" Barron towers over Donald at funeral...",
+        "added": "2024-01-18T17:07:00.824876+00:00",
+        "description": "6ft 7ins Barron Trump, 17, towers over dad Donald at Melania's mom's funeral"
+    },
+    "https://www.the-sun.com/tech/10127943/london-drone-ufo-show-samsung/": {
+        "title": "SAMSUNG drone show mistaken for UFO...",
+        "added": "2024-01-18T17:07:00.824876+00:00",
+        "description": "Massive Samsung drone show with colourful whirring lights 'mistaken for UFO'"
+    },
+    "https://www.the-sun.com/tech/10127702/berkeley-university-art-of-fighting-games/": {
+        "title": "University of California, Berkeley teaching students -- how to play video games?",
+        "added": "2024-01-18T17:07:00.824876+00:00",
+        "description": "World top university is teaching students how to \u2018git gud\u2019 at video games"
+    },
+    "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/cheryl-hines-interview-larry-david-marriage-robert-f-kennedy-jr-1235790790/": {
+        "title": "RFK Jr.'s 'First Lady' Speaks Out, Defends Conspiracy Thinking...",
+        "added": "2024-01-18T17:07:00.824876+00:00",
+        "description": "Cheryl Hines \u2026 as First Lady? The \u2018Curb\u2019 Star on Life After Larry and Marriage to RFK Jr."
+    },
+    "https://www.dailymail.co.uk/news/article-12979405/mitt-romney-donald-trump-2024-rape-carroll-court.html": {
+        "title": "Romney Rips Voters Who Don't Care...",
+        "added": "2024-01-18T17:07:00.824876+00:00",
+        "description": "Mitt Romney is baffled by Donald Trump's grip on the 2024 nomination"
+    },
     "https://www.outkick.com/las-vegas-photo-pedestrian-bridges-law-reaction/": {
         "title": "VEGAS LAW MIGHT JAIL TOURISTS OVER PHOTOS...",
         "added": "2024-01-18T16:39:39.723423+00:00",
@@ -373,46 +398,6 @@
         "title": "'Abdominal surgery'...",
         "added": "2024-01-17T17:25:30.491257+00:00",
         "description": "Kate Middleton has had surgery and will be out of action for months"
-    },
-    "https://www.themirror.com/sport/american-football/nfl-hypothermia-frostbite-dolphins-chiefs-291557": {
-        "title": "NFL fans hospitalized after game...",
-        "added": "2024-01-17T17:06:33.191950+00:00",
-        "description": "Fans hospitalized with hypothermia and frostbite at Dolphins-Chiefs playoff game"
-    },
-    "https://www.the-sun.com/news/10117620/putin-riots-war-clash-cops/": {
-        "title": "10,000 take to streets, clash with cops...",
-        "added": "2024-01-17T17:06:33.191950+00:00",
-        "description": "Putin faces biggest riots since war as 10k take to streets & clash with cops"
-    },
-    "https://www.mediaite.com/tv/im-scared-as-heck-kamala-harris-tells-joy-behar-how-she-plans-to-run-against-the-crazies/": {
-        "title": "Kamala Harris: 'I'm Scared As Heck!' running  Against 'The Crazies'...",
-        "added": "2024-01-17T16:47:58.021692+00:00",
-        "description": "\u2018I\u2019m Scared As Heck!\u2019 Kamala Harris Tells Joy Behar How She Plans to Run Against \u2018The Crazies\u2019"
-    },
-    "https://variety.com/2024/film/news/richard-simmons-movie-pauly-shore-1235875359/": {
-        "title": "RICHARD SIMMONS BIOPIC TO STAR PAULY SHORE...",
-        "added": "2024-01-17T16:41:16.594515+00:00",
-        "description": "Pauly Shore to Play Richard Simmons in New Biopic"
-    },
-    "https://www.hollywoodreporter.com/business/business-news/cnn-mark-thompson-digital-plan-tv-memo-1235790692/": {
-        "title": "CNN Chief Outlines a Digital Future For Cable Channel...",
-        "added": "2024-01-17T16:29:55.292067+00:00",
-        "description": "CNN\u2019s Mark Thompson Outlines Digital Future For Cable Channel, Unveils New Org Structure"
-    },
-    "https://apnews.com/article/winter-weather-snow-freezing-low-temperatures-ee5d887918db60698e3bed54e111ca4f": {
-        "title": "RECORD LOWS TESTED...",
-        "added": "2024-01-16T16:46:35.653787+00:00",
-        "description": "Dangerously cold temps blast much of the US, keeping schools closed and flights grounded"
-    },
-    "http://hp2.wright-weather.com/icons/us_chill.gif": {
-        "title": "LIVE:  CHILL MAP...",
-        "added": "2024-01-12T16:29:36.052865+00:00",
-        "description": ""
-    },
-    "https://weather.com/forecast/national/news/2024-01-10-arctic-cold-outbreak-south-plains-midwest": {
-        "title": "RECORD LOWS TESTED...",
-        "added": "2024-01-12T03:08:00.911828+00:00",
-        "description": "Arctic Cold Outbreak Could Smash Records | Weather.com"
     },
     "https://fivethirtyeight.com/": {
         "title": "FIVETHIRTYEIGHT",
