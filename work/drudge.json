@@ -1,4 +1,9 @@
 {
+    "https://www.espn.com/nfl/game?gameId=401547380": {
+        "title": "VS SAN FRAN!",
+        "added": "2024-01-29T02:33:29.709816+00:00",
+        "description": "Lions vs. 49ers (Jan 28, 2024) Live Score - ESPN"
+    },
     "https://www.cbssports.com/nfl/news/chiefs-vs-ravens-score-kansas-city-ousts-baltimore-advances-to-super-bowl-for-fourth-time-in-five-years/live/": {
         "title": "KANSAS CITY SUPER BOWL BOUND...",
         "added": "2024-01-28T23:46:45.733899+00:00",
@@ -279,35 +284,10 @@
         "added": "2024-01-28T02:26:55.182736+00:00",
         "description": "Latest From The Post - The Washington Post"
     },
-    "https://www.nbcnews.com/politics/2024-election/white-house-hopes-rise-strong-economy-will-sell-rcna135765": {
-        "title": "White House confidence grows that strong economy will sell itself...",
-        "added": "2024-01-28T02:26:55.182736+00:00",
-        "description": "Inside the White House, confidence grows that a strong economy will sell itself"
-    },
-    "https://www.msn.com/en-us/news/world/russia-projects-confidence-as-it-pursues-alliances-to-undermine-west/ar-BB1hkNz5": {
-        "title": "Russia projects confidence as it pursues alliances to undermine West...",
-        "added": "2024-01-28T02:26:55.182736+00:00",
-        "description": "Russia projects confidence as it pursues alliances to undermine West"
-    },
     "https://www.msn.com/en-us/news/politics/trump-brags-about-efforts-to-stymie-border-talks-please-blame-it-on-me/ar-BB1hmtzK": {
         "title": "'Please blame it on me'...",
         "added": "2024-01-28T02:26:55.182736+00:00",
         "description": "Trump brags about efforts to stymie border talks: \u2018Please blame it on me\u2019"
-    },
-    "https://www.espn.com/nfl/story/_/id/39402784/san-francisco-49ers-puppy-therapy-nfc-championship-game": {
-        "title": "San Francisco 49ers undergo puppy therapy before Championship Game...",
-        "added": "2024-01-28T02:26:55.182736+00:00",
-        "description": "San Francisco 49ers welcome furry animals for therapy before NFC Championship Game"
-    },
-    "https://thehill.com/opinion/technology/4432313-sex-robots-go-to-court-testing-the-limits-of-privacy-and-sexual-freedom/": {
-        "title": "Sex robots go to court: Testing limits of privacy and sexual freedom...",
-        "added": "2024-01-28T02:26:55.182736+00:00",
-        "description": "Sex robots go to court: Testing the limits of privacy and sexual freedom"
-    },
-    "https://link.motherjones.com/public/34140656": {
-        "title": "Dilemma of Anti-MAGA Conservatives...",
-        "added": "2024-01-28T02:26:55.182736+00:00",
-        "description": ""
     },
     "https://finance.yahoo.com/news/musks-x-aims-hire-100-183801246.html": {
         "title": "Musk pledges 100-person office to police content...",
