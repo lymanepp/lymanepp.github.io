@@ -1,4 +1,9 @@
 {
+    "https://news.yahoo.com/trump-tariffs-hurt-u-jobs-123936378.html": {
+        "title": "STUDY: Trump Tariffs Hurt U.S. Employment...",
+        "added": "2024-02-02T16:25:29.056318+00:00",
+        "description": "Trump\u2019s Tariffs Hurt U.S. Jobs but Swayed American Voters, Study Says"
+    },
     "https://news.bloomberglaw.com/tech-and-telecom-law/zuckerberg-to-get-700-million-a-year-from-metas-new-dividend": {
         "title": "Zuckerberg's Wealth Surges By $27 Billion as META Rallies...",
         "added": "2024-02-02T16:07:26.128261+00:00",
@@ -448,16 +453,6 @@
         "title": "Hear Billy Joel's 'TURN THE LIGHTS BACK ON,' His First Song in 17 Years...",
         "added": "2024-02-01T16:26:52.985283+00:00",
         "description": "Listen: Billy Joel's Poignant, Gorgeous \"Turn the Lights Back On\" Picks Up Seamlessly from Singer's Stellar Career"
-    },
-    "https://www.vanityfair.com/news/tim-cook-apple-vision-pro": {
-        "title": "Why Tim Cook Is Going All In on APPLE Vision Pro...",
-        "added": "2024-02-01T16:08:24.642256+00:00",
-        "description": "Why Tim Cook Is Going All In on the Apple Vision Pro"
-    },
-    "https://www.politico.com/news/2024/02/01/kevin-mccarthy-vengeance-challengers-00138897": {
-        "title": "Inside McCarthy's vengeance operation against Republicans who fired him...",
-        "added": "2024-02-01T16:08:24.642256+00:00",
-        "description": "Inside Kevin McCarthy\u2019s vengeance operation against the Republicans who fired him"
     },
     "https://www.cbsnews.com/news/us-strikes-iran-personnel-facilities-in-iraq-syria-approved-jordan-drone-attack/": {
         "title": "Plans for U.S. strikes on Iranian personnel and facilities approved...",
