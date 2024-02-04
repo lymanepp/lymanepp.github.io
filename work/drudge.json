@@ -1,4 +1,14 @@
 {
+    "https://www.nbcnews.com/politics/rcna137087": {
+        "title": "HOW CONVICTION CHANGES EVERYTHING",
+        "added": "2024-02-04T14:46:45.423883+00:00",
+        "description": "How a Trump conviction changes the 2024 race in our latest poll"
+    },
+    "https://thehill.com/opinion/4443480": {
+        "title": "GOLDBERG: Is Trump trying to lose?",
+        "added": "2024-02-04T14:46:45.423883+00:00",
+        "description": "Is Trump trying to lose?"
+    },
     "https://www.nbcnews.com/politics/rcna137140": {
         "title": "National security adviser Sullivan refuses to rule out strikes inside Iran...",
         "added": "2024-02-04T14:31:38.371168+00:00",
@@ -204,11 +214,6 @@
         "added": "2024-02-03T15:06:09.594221+00:00",
         "description": "USGS records 5.1 magnitude earthquake in Oklahoma"
     },
-    "https://www.msn.com/en-us/news/us/james-dean-made-his-last-stop-at-this-lonely-gas-station-memories-of-him-are-fading/ar-BB1hFfSj": {
-        "title": "James Dean made his last stop at this lonely gas station. Memories of him fading...",
-        "added": "2024-02-03T14:46:37.916255+00:00",
-        "description": "James Dean made his last stop at this lonely gas station. Memories of him are fading"
-    },
     "https://www.yahoo.com/entertainment/deliberately-cruel-staffers-torch-sociopath-021054257.html": {
         "title": "Staffers Torch 'Sociopath' Finkelstein Over MESSENGER Implosion...",
         "added": "2024-02-03T14:21:48.476095+00:00",
@@ -228,11 +233,6 @@
         "title": "LIVE:  TRENDING...",
         "added": "2024-02-03T03:46:55.803848+00:00",
         "description": "Google Trends"
-    },
-    "https://news.yahoo.com/happened-trumps-trials-january-110030389.html": {
-        "title": "What happened with trials in January?",
-        "added": "2024-02-03T03:46:55.803848+00:00",
-        "description": "What happened with Trump's trials in January"
     },
     "https://www.msn.com/en-us/news/world/the-most-popular-man-in-ukraine-has-become-a-problem-for-zelenskiy/ar-BB1hGc2F": {
         "title": "The most popular man in Ukraine has become a problem for Zelensky...",
@@ -254,20 +254,10 @@
         "added": "2024-02-03T02:46:51.812129+00:00",
         "description": "Apple\u2019s Vision Pro is \u2018spatial computing.\u2019 Nobody knows what it means."
     },
-    "https://www.msn.com/en-us/news/politics/most-republicans-aren-t-aware-of-trump-s-various-legal-issues/ar-BB1hGL7u": {
-        "title": "Most Republicans aren't aware of The Don's various legal issues...",
-        "added": "2024-02-03T02:32:01.362392+00:00",
-        "description": "Most Republicans aren\u2019t aware of Trump\u2019s various legal issues"
-    },
     "https://www.msn.com/en-us/news/politics/joe-madison-radio-host-who-merged-talk-format-and-activism-dies-at-74/ar-BB1hHa21": {
         "title": "Joe Madison, radio host who merged talk format and activism, dies at 74...",
         "added": "2024-02-03T02:23:13.794107+00:00",
         "description": "Joe Madison, radio host who merged talk format and activism, dies at 74"
-    },
-    "https://thehill.com/opinion/campaign/4443480-is-trump-trying-to-lose/": {
-        "title": "GOLDBERG: Is Trump trying to lose?",
-        "added": "2024-02-03T02:23:13.794107+00:00",
-        "description": "Is Trump trying to lose?"
     },
     "https://www.marketwatch.com/livecoverage/jobs-report-for-january-employment-growth-seen-slowing-in-report-vital-to-fed-outlook": {
         "title": "Reaccelerating!",
