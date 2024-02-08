@@ -1,4 +1,54 @@
 {
+    "https://www.the-sun.com/news/10320994": {
+        "title": "Diner fury as restaurant sells scrambled eggs on toast for $73...",
+        "added": "2024-02-08T20:07:02.880588+00:00",
+        "description": "Diners' fury as posh London restaurant sells scrambled eggs on toast for \u00a358"
+    },
+    "https://www.msn.com/en-us/sports/nfl/ar-BB1hYh53": {
+        "title": "How Taylor Swift has driven far-right pundits to do unthinkable: Cheer for San Francisco...",
+        "added": "2024-02-08T20:07:02.880588+00:00",
+        "description": "How Taylor Swift has driven some far-right pundits to do the unthinkable: Cheer for San Francisco"
+    },
+    "https://www.msn.com/en-us/news/us/ar-BB1hYSTJ": {
+        "title": "Billionaires Want to Bring Vegas to Deeply Resistant Texas...",
+        "added": "2024-02-08T20:07:02.880588+00:00",
+        "description": "Billionaires Want to Bring Las Vegas to Deeply Resistant Texas"
+    },
+    "https://www.msn.com/en-us/news/politics/ar-BB1hY8cP": {
+        "title": "Dems sound alarm, take action against third-party threats...",
+        "added": "2024-02-08T20:07:02.880588+00:00",
+        "description": "Democrats sound alarm, take action against Biden\u2019s third-party threats"
+    },
+    "https://www.msn.com/en-us/news/politics/ar-BB1hWo60": {
+        "title": "Why the border is such an impossible political issue...",
+        "added": "2024-02-08T20:07:02.880588+00:00",
+        "description": "Why the border is such an impossible political issue"
+    },
+    "https://www.msn.com/en-us/news/other/ar-BB1hZ0D5": {
+        "title": "Divided brothers? Britain's press pounces on Harry's fleeting visit...",
+        "added": "2024-02-08T20:07:02.880588+00:00",
+        "description": "Divided brothers? Britain\u2019s press pounces on Harry\u2019s fleeting visit."
+    },
+    "https://www.dailymail.co.uk/femail/article-13061863": {
+        "title": "Sophie Trudeau 'moved on with surgeon' months before separation from Canadian PM...",
+        "added": "2024-02-08T20:07:02.880588+00:00",
+        "description": "Sophie\u00a0Trudeau 'moved on with surgeon' months before her separation"
+    },
+    "https://thehill.com/homenews/4456523": {
+        "title": "Top Rep. Retires...",
+        "added": "2024-02-08T20:07:02.880588+00:00",
+        "description": "GOP committee chair announces retirement from House"
+    },
+    "https://thehill.com/homenews/4454599": {
+        "title": "Republicans point fingers after embarrassing defeats...",
+        "added": "2024-02-08T20:07:02.880588+00:00",
+        "description": "Republicans point fingers after embarrassing defeats"
+    },
+    "https://nypost.com/2024/02/08/news/special-counsel-robert-hur-issues-report-on-bidens-mishandling-of-classified-documents": {
+        "title": "Special counsel: Biden 'willfully retained and disclosed' classified info...",
+        "added": "2024-02-08T20:07:02.880588+00:00",
+        "description": "Special counsel says Biden \u2018willfully retained and disclosed\u2019 classified info, recommends no charges"
+    },
     "https://www.cnn.com/2024/02/08/politics/peter-navarro-prison/index.html": {
         "title": "Navarro ordered to report to prison...",
         "added": "2024-02-08T19:46:38.752588+00:00",
@@ -399,30 +449,10 @@
         "added": "2024-02-07T20:20:53.847896+00:00",
         "description": "Nikki Haley is trounced by the 'none of these candidates' option in Nevada's Republican primary"
     },
-    "https://www.vice.com/en/article/k7z5x9/trump-criminal-case-verdict-election": {
-        "title": "Might Be Convicted in D.C. Just Days Before Election...",
-        "added": "2024-02-07T20:06:25.037470+00:00",
-        "description": "Trump Might Be Convicted in D.C. Just Days Before the Election"
-    },
-    "https://www.msn.com/en-us/news/us/ar-BB1hUTUh": {
-        "title": "Section 3 aimed to keep Confederates from office -- and future insurrectionists too...",
-        "added": "2024-02-07T20:06:25.037470+00:00",
-        "description": "Section 3 aimed to keep Confederates from office \u2014 and future insurrectionists too"
-    },
-    "https://www.thesun.co.uk/news/25775786": {
-        "title": "Inside 'UFO cult': Sex slaves, cloned babies, naked alien worship...",
-        "added": "2024-02-07T19:46:40.210356+00:00",
-        "description": "Sex slaves & naked worship - inside \u2018UFO cult\u2019 of prophet who 'bedded thousands'"
-    },
     "https://dnyuz.com/2024/02/07/crazy-days-and-nights-gossip-blogger-unmasked-by-furious-ex-mistress/": {
         "title": "'CRAZY DAYS AND NIGHTS' Gossip Blogger Unmasked -- by Furious Ex-Mistress...",
         "added": "2024-02-07T19:17:00.272559+00:00",
         "description": "\u2018Crazy Days and Nights\u2019 Gossip Blogger Unmasked\u2014by Furious Ex-Mistress"
-    },
-    "https://www.dailymail.co.uk/news/article-13056657": {
-        "title": "Airline will now weigh PASSENGERS with their carry-on luggage...",
-        "added": "2024-02-07T19:04:50.927831+00:00",
-        "description": "Airline says it will now weigh PASSENGERS as well as their luggage"
     },
     "https://dnyuz.com/2024/02/07/inside-donald-trumps-incredible-cash-crunch/": {
         "title": "Inside The Don's Incredible Cash Crunch...",
