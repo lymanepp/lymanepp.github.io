@@ -1,4 +1,9 @@
 {
+    "https://earthquake.usgs.gov/earthquakes/eventpage/hv74103036/map": {
+        "title": "MAP...",
+        "added": "2024-02-09T20:46:42.685842+00:00",
+        "description": ""
+    },
     "https://www.the-sun.com/news/10342055": {
         "title": "China Microwave Cannon to 'Down SATELLITES'...",
         "added": "2024-02-09T20:31:59.168886+00:00",
@@ -443,11 +448,6 @@
         "title": "'Did Not Remember When He Was VP'...",
         "added": "2024-02-08T20:46:49.481055+00:00",
         "description": "Devastating DOJ Report Says Biden 'Did Not Remember When He Was Vice President'"
-    },
-    "https://www.nbcnews.com/news/rcna137877": {
-        "title": "Alabama station in disbelief after 200-foot radio tower stolen...",
-        "added": "2024-02-08T20:31:59.558350+00:00",
-        "description": "Alabama station in disbelief after 200-foot radio tower stolen"
     },
     "https://trends.google.com/trends/trendingsearches/realtime?geo=US&hl=en-US&category=all": {
         "title": "LIVE:  TRENDING...",

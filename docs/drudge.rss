@@ -5,6 +5,11 @@
     <link>http://www.drudgereport.com</link>
     <description />
     <item>
+      <title>MAP...</title>
+      <link>https://earthquake.usgs.gov/earthquakes/eventpage/hv74103036/map</link>
+      <description>earthquake.usgs.gov</description>
+    </item>
+    <item>
       <title>China Microwave Cannon to 'Down SATELLITES'...</title>
       <link>https://www.the-sun.com/news/10342055</link>
       <description>the-sun.com • China makes chilling Microwave Cannon 'that can down SATELLITES'</description>
@@ -448,11 +453,6 @@
       <title>'Did Not Remember When He Was VP'...</title>
       <link>https://www.mediaite.com/biden/elderly-man-with-a-poor-memory-devastating-doj-report-says-biden-did-not-remember-when-he-was-vice-president-and-when-his-son-died/</link>
       <description>mediaite.com • Devastating DOJ Report Says Biden 'Did Not Remember When He Was Vice President'</description>
-    </item>
-    <item>
-      <title>Alabama station in disbelief after 200-foot radio tower stolen...</title>
-      <link>https://www.nbcnews.com/news/rcna137877</link>
-      <description>nbcnews.com • Alabama station in disbelief after 200-foot radio tower stolen</description>
     </item>
   </channel>
 </rss>
