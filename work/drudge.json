@@ -1,4 +1,44 @@
 {
+    "https://www.theguardian.com/world/2024/feb/09/biden-criticises-israel-gaza-military-campaign-over-the-top": {
+        "title": "Invasion of Gaza-Egypt Border City Looms With Warning of Bloodbath ..",
+        "added": "2024-02-10T00:31:48.928592+00:00",
+        "description": "Gaza: Israel moves closer to Rafah offensive despite \u2018bloodbath\u2019 warning"
+    },
+    "https://www.theguardian.com/uk?INTCMP=CE_UK": {
+        "title": "[UK] GUARDIAN",
+        "added": "2024-02-10T00:31:48.928592+00:00",
+        "description": "Latest news, sport, business, comment, analysis and reviews from the Guardian, the world's leading liberal voice"
+    },
+    "https://www.nbclosangeles.com/news/earthquakes/earthquake-shaking-los-angeles-malibu/3335663/": {
+        "title": "4.6 mag quake hits metro LA... Developing...",
+        "added": "2024-02-10T00:31:48.928592+00:00",
+        "description": "Magnitude-4.6 Malibu earthquake shakes Southern California from coast to inland areas"
+    },
+    "https://www.marketwatch.com/story/u-s-stocks-are-about-to-accomplish-something-that-hasnt-happened-since-1972-6bebd418": {
+        "title": "BULLS RUN WILD: STOCKS CLOSE AT ANOTHER RECORD HIGH...",
+        "added": "2024-02-10T00:31:48.928592+00:00",
+        "description": "U.S. stocks have just accomplished something that hasn\u2019t happened since 1972"
+    },
+    "https://www.independent.co.uk/news/world/middle-east/netanyahu-olmert-gaza-offensive-israel-b2493430.html": {
+        "title": "Ex-PM Olmert  slams Netanyahu...",
+        "added": "2024-02-10T00:31:48.928592+00:00",
+        "description": "Ex-Israeli PM makes devastating condemnation of Netanyahu\u2019s war in Gaza"
+    },
+    "https://www.cnbc.com/2024/02/08/stock-market-today-live-updates.html": {
+        "title": "Strong economic news...",
+        "added": "2024-02-10T00:31:48.928592+00:00",
+        "description": "S&P 500 closes above 5,000 for first time ever, notches fifth straight winning week: Live updates"
+    },
+    "https://news.yahoo.com/prince-harry-agrees-hacking-settlement-123626522.html": {
+        "title": "Says Piers Morgan 'knew perfectly well what was going on'...",
+        "added": "2024-02-10T00:31:48.928592+00:00",
+        "description": "Mirror hacking: Prince Harry says Piers Morgan \u2018knew perfectly well what was going on\u2019"
+    },
+    "https://deadline.com/2024/02/earthquake-malibu-felt-across-los-angeles-4-7-1235820769/": {
+        "title": "Malibu Fault...",
+        "added": "2024-02-10T00:31:48.928592+00:00",
+        "description": "4.6 Earthquake Hits Malibu, Felt Across Los Angeles, Interrupts Live TV Broadcast"
+    },
     "https://www.msn.com/en-us/travel/news/ar-BB1i3f2R": {
         "title": "Will she be able to park private jet? Vegas airports full...",
         "added": "2024-02-09T23:07:00.525137+00:00",
@@ -718,11 +758,6 @@
         "title": "H'WOOD REPORTER",
         "added": "2022-05-03T19:19:16.303374+00:00",
         "description": ""
-    },
-    "http://www.guardian.co.uk/world": {
-        "title": "[UK] GUARDIAN",
-        "added": "2022-05-03T19:19:16.303374+00:00",
-        "description": "Latest World news news, comment and analysis from the Guardian, the world's leading liberal voice"
     },
     "http://www.france24.com/en/timeline/global/": {
         "title": "AGENCE FRANCE-PRESSE",
