@@ -1,4 +1,14 @@
 {
+    "https://www.nbcnews.com/politics/rcna138848": {
+        "title": "'NO REASON TO PANIC'",
+        "added": "2024-02-14T18:27:00.434945+00:00",
+        "description": "House Intel chair warns of 'serious national security threat' ahead of planned White House briefing"
+    },
+    "https://www.axios.com/2024/02/14/congress-national-security-threat-classified-biden": {
+        "title": "REPUBLICAN COMMOTION",
+        "added": "2024-02-14T18:27:00.434945+00:00",
+        "description": ""
+    },
     "https://www.the-sun.com/tech/10388161/mark-zuckerberg-criticises-apple-vision-pro-competition-meta-quest/": {
         "title": "Zuckerberg slams APPLE Vision Pro...",
         "added": "2024-02-14T18:08:42.744640+00:00",
@@ -383,26 +393,6 @@
         "title": "San Diego health threat amid sewage flow from Mexico...",
         "added": "2024-02-13T18:27:15.610259+00:00",
         "description": "San Diego County faces multifront health threat amid transboundary sewage flow from Mexico"
-    },
-    "https://www.washingtonexaminer.com/news/campaigns/2845574": {
-        "title": "SANTOS SPECIAL:  Republican defeat today could be first in string of red dominoes to topple...",
-        "added": "2024-02-13T18:09:48.518560+00:00",
-        "description": "Apple of their eye: Red dominoes could start to fall with Santos special election"
-    },
-    "https://www.the-express.com/news/us-news/127719/ms-13-venezuelan-gang-nyc-phone-thefts-alliance": {
-        "title": "MS-13 and Venezuelan gang to team up wreaking havoc in NYC, FBI warns...",
-        "added": "2024-02-13T18:09:48.518560+00:00",
-        "description": "FBI warns MS-13 and brutal Venezuelan migrant gang could join forces in NYC"
-    },
-    "https://www.msn.com/en-us/news/world/ar-BB1idS9g": {
-        "title": "Things going badly for Ukraine -- really badly...",
-        "added": "2024-02-13T18:09:48.518560+00:00",
-        "description": "Things are going badly for Ukraine \u2014 really badly"
-    },
-    "https://unherd.com/newsroom/success-of-vultures-1-shows-kanye-west-cant-be-cancelled/": {
-        "title": "Uncancellable: Kanye West album reaches #1...",
-        "added": "2024-02-13T18:09:48.518560+00:00",
-        "description": "'Uncancellable' \u2014 Kanye West album reaches number one"
     },
     "https://www.nbcnews.com/specials/israel-hamas-war-spread-gaza-pakistan-middle-east-region/index.html": {
         "title": "MAP:  How Israel-Hamas conflict has spread...",
