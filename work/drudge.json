@@ -1,4 +1,14 @@
 {
+    "https://www.rawstory.com/": {
+        "title": "RAW STORY",
+        "added": "2024-02-28T23:07:59.565617+00:00",
+        "description": "Raw Story - Celebrating 20 Years of Independent Journalism"
+    },
+    "https://www.mediaite.com/sports/anonymous-nfl-survey-reveals-shocking-details-of-team-facilities-across-the-league-50-of-the-showers-dont-work/": {
+        "title": "Anonymous NFL Survey Reveals Shocking Details of Team Facilities...",
+        "added": "2024-02-28T23:07:59.565617+00:00",
+        "description": "Anonymous NFL Survey Reveals Shocking Details of Team Facilities Across the League: \u201850% of the Showers Don\u2019t Work\u2019"
+    },
     "https://newrepublic.com/post/179382": {
         "title": "POSTPONES TRIAL PAST NOVEMBER?",
         "added": "2024-02-28T22:46:37.416710+00:00",
@@ -448,26 +458,6 @@
         "title": "As Voting Ends, Oscars Member Reveals Brutally Honest Ballot...",
         "added": "2024-02-28T01:34:25.679056+00:00",
         "description": "Brutally Honest Oscar Ballot No. 1: \u2018Zone of Interest\u2019 Is Best Picture, \u2018Poor Things\u2019 Deserves Makeup Oscar for \u201cWillem Dafoe\u2019s Face Alone \u2014\u00a0Holy Sh*t\u201d"
-    },
-    "https://www.sfgate.com/bayarea/article/18691130.php": {
-        "title": "MACY'S closing 150 stores, including major flagship...",
-        "added": "2024-02-27T23:06:38.997287+00:00",
-        "description": ""
-    },
-    "https://www.jpost.com/israel-hamas-war/article-789231": {
-        "title": "'October 7, part two:' Iran plans for terror during Ramadan, Israel charges...",
-        "added": "2024-02-27T23:06:38.997287+00:00",
-        "description": "'October 7, part two:' Iran plans for terror during Ramadan, Israel charges"
-    },
-    "https://www.newsweek.com/1873668": {
-        "title": "Trump Says He's Too Rich to Put Up $90 Million Bond...",
-        "added": "2024-02-27T22:46:41.068040+00:00",
-        "description": "Donald Trump says he's too rich to put up $90 million bond"
-    },
-    "https://www.nbcnews.com/politics/rcna140685": {
-        "title": "Congress nears partial spending deal, but ticking clock raises shutdown fears...",
-        "added": "2024-02-27T22:46:41.068040+00:00",
-        "description": "Congress nears a partial spending deal, but ticking clock raises fears of a shutdown"
     },
     "https://www.thewrap.com/": {
         "title": "WRAP",
