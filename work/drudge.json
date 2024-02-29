@@ -1,4 +1,14 @@
 {
+    "https://www.sfgate.com/weather/article/18696462.php": {
+        "title": "Meteorologists forecasting staggering amount of snow for NorCal storm...",
+        "added": "2024-02-29T22:24:23.898161+00:00",
+        "description": ""
+    },
+    "https://news.yahoo.com/news/texts-show-witness-readily-helped-184252106.html": {
+        "title": "Texts Show Witness Readily Helped Build Case to Disqualify Fani Willis...",
+        "added": "2024-02-29T22:24:23.898161+00:00",
+        "description": "Texts Show Witness Readily Helped Build a Case to Disqualify Trump Prosecutors"
+    },
     "https://www.texastribune.org/2024/02/28/abandoned-oil-wells-west-texas-railroad-commission/": {
         "title": "Leaking, exploding abandoned wells wreak havoc in Texas...",
         "added": "2024-02-29T22:06:17.156046+00:00",
@@ -458,21 +468,6 @@
         "title": "HARVARD Eyes 'No Hot Takes' Policy...",
         "added": "2024-02-28T22:31:52.858625+00:00",
         "description": "Harvard Eyes a \u2018No Hot Takes\u2019 Policy To Avoid Wading Into Deeply Divisive Political Issues of the Day"
-    },
-    "https://thehill.com/regulation/4477031": {
-        "title": "Supreme Court will hear Trump presidential immunity in election interference case...",
-        "added": "2024-02-28T22:23:29.691089+00:00",
-        "description": "Supreme Court agrees to weigh Trump\u2019s criminal immunity in historic case"
-    },
-    "https://www.newsweek.com/1874210": {
-        "title": "Ukraine's Frontline Collapsing...",
-        "added": "2024-02-28T22:06:37.806292+00:00",
-        "description": "Ukraine's frontline is collapsing"
-    },
-    "https://www.jpost.com/breaking-news/article-789492": {
-        "title": "Joe 'fit for duty,' physician says after president's physical...",
-        "added": "2024-02-28T22:06:37.806292+00:00",
-        "description": "Biden 'fit for duty,' physician says after president's physical"
     },
     "https://news.yahoo.com/ft-leaked-files-reveal-russian-072838412.html": {
         "title": "FT: Leaked files reveal Russian military's criteria for nuke strike...",
