@@ -1,4 +1,9 @@
 {
+    "https://www.cnbc.com/2024/03/03/top-10-states-with-the-most-stressed-out-people-in-america.html": {
+        "title": "LIST:  Tennessee most stressed state...",
+        "added": "2024-03-04T17:26:31.839398+00:00",
+        "description": "Residents of these 10 states are the most stressed out in America\u00e2\u20ac\u201dNew York and California didn't make the list"
+    },
     "https://www.themirror.com/entertainment/celebrity-news/taylor-swift-fan-hits-out-370527": {
         "title": "Taylor Swift fan buys $700 ticket  -- with no view of stage!",
         "added": "2024-03-04T16:46:34.002768+00:00",
@@ -534,11 +539,6 @@
         "added": "2022-05-03T19:19:16.303374+00:00",
         "description": "America is Watching."
     },
-    "http://www.forbes.com/": {
-        "title": "FORBES",
-        "added": "2022-05-03T19:19:16.303374+00:00",
-        "description": "Forbes is a global media company, focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle."
-    },
     "http://www.express.co.uk": {
         "title": "[UK] EXPRESS",
         "added": "2022-05-03T19:19:16.303374+00:00",
@@ -649,11 +649,6 @@
         "added": "2022-03-28T00:51:26.047283+00:00",
         "description": "Metro.co.uk: News, Sport, Showbiz, Celebrities from Metro"
     },
-    "https://nypost.com/author/piers-morgan/": {
-        "title": "PIERS MORGAN",
-        "added": "2022-03-16T23:57:59.101648+00:00",
-        "description": "Read the latest articles from on the New York Post."
-    },
     "https://zoom.earth/": {
         "title": "ZOOM EARTH",
         "added": "2021-11-30T01:36:47.089768+00:00",
@@ -703,11 +698,6 @@
         "title": "CHARLES HURT",
         "added": "2021-04-27T00:06:34.876047+00:00",
         "description": "Read the latest stories and columns from staff writer Charles Hurt in The Washington Times."
-    },
-    "https://www.nydailynews.com/ny-se-cupp-staff.html": {
-        "title": "S.E. CUPP",
-        "added": "2021-04-27T00:06:34.876047+00:00",
-        "description": "S.E. Cupp is a political commentator and host of \"SE Cupp Unfiltered\" on CNN. She's co-author of \"Why You're Wrong About the Right\" and author of \"Losing Our Religion: The Liberal Media's Attack on Christianity.\" She was also a consultant on the HBO show \"The Newsroom.\""
     },
     "https://thebulwark.com/author/billkristol/": {
         "title": "KRISTOL",
@@ -764,11 +754,6 @@
         "added": "2021-01-17T19:05:32.742473+00:00",
         "description": "Smart, efficient news worthy of your time, attention, and trust. Covering local news, politics, health, climate, tech, media, business, sports, world, science and more."
     },
-    "https://reason.com/search?f[author][]=nick-gillespie&q=*&s=-pubdate": {
-        "title": "NICK GILLESPIE",
-        "added": "2021-01-17T19:05:32.742473+00:00",
-        "description": ""
-    },
     "https://play.google.com/store/apps/details?id=com.idrudgereport.iDrudgeReportUniversal": {
         "title": "ANDROID...",
         "added": "2021-01-17T19:05:32.742473+00:00",
@@ -808,11 +793,6 @@
         "title": "VANITY FAIR",
         "added": "2021-01-17T19:05:32.742473+00:00",
         "description": "Entertainment, TV, politics, celebrity, fashion, and beauty news and commentary."
-    },
-    "http://www.upi.com/NewsTrack/": {
-        "title": "UPI",
-        "added": "2021-01-17T19:05:32.742473+00:00",
-        "description": "UPI delivers the latest headlines from around the world: Top News, Entertainment, Health, Business, Science and Sports News - United Press International"
     },
     "http://www.theatlantic.com/": {
         "title": "ATLANTIC",
@@ -988,11 +968,6 @@
         "title": "CBS NEWS",
         "added": "2021-01-17T19:05:32.742473+00:00",
         "description": "Watch CBS News live and get the latest, breaking news headlines of the day for national news and world news today."
-    },
-    "http://www.buzzfeed.com/": {
-        "title": "BUZZFEED",
-        "added": "2021-01-17T19:05:32.742473+00:00",
-        "description": "BuzzFeed has breaking news, vital journalism, quizzes, videos, celeb news, Tasty food videos, recipes, DIY hacks, and all the trending buzz you\u2019ll want to share with your friends. Copyright BuzzFeed, Inc. All rights reserved."
     },
     "http://www.businessinsider.com/": {
         "title": "BUSINESS INSIDER",
