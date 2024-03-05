@@ -1,4 +1,9 @@
 {
+    "https://www.cnbc.com/quotes/TSLA": {
+        "title": "STOCK -30% SINCE JAN...",
+        "added": "2024-03-05T16:34:13.634763+00:00",
+        "description": "Check out Tesla's stock price (TSLA) in real time"
+    },
     "https://www.the-express.com/tech/tech-news/130077/facebook-instagram-down-meta-hack": {
         "title": "HACKING FEARS...",
         "added": "2024-03-05T16:25:50.702547+00:00",
@@ -413,31 +418,6 @@
         "title": "AP:  Settlement in WI fake elector case offers new details on strategy by Trump lawyers...",
         "added": "2024-03-04T16:37:20.405151+00:00",
         "description": "Settlement in Wisconsin fake elector case offers new details on the strategy by Trump lawyers"
-    },
-    "https://www.themirror.com/entertainment/celebrity-news/inside-billionaire-heirs-150million-pre-370536": {
-        "title": "Inside Indian Billionaire's absurd $150 million pre-wedding party!",
-        "added": "2024-03-04T16:28:29.062921+00:00",
-        "description": "Billionaire heir's $150m pre-wedding party with 9-page dress code and 100 chefs"
-    },
-    "https://www.the-express.com/news/politics/129958/donald-trump-colorado-january-6-joe-biden-election": {
-        "title": "Ruling sparks fear of 'second January 6'...",
-        "added": "2024-03-04T16:28:29.062921+00:00",
-        "description": "Donald Trump's Colorado win sparks fear of 'second January 6'"
-    },
-    "https://www.semafor.com/article/03/04/2024/supreme-court-rules-colorado-cant-keep-trump-off-ballot": {
-        "title": "Only Congress can ballot block...",
-        "added": "2024-03-04T16:28:29.062921+00:00",
-        "description": "US Supreme Court allows Trump to remain on primary ballots | Semafor"
-    },
-    "https://wisevoter.com/country-rankings/poverty-rate-by-country/#india": {
-        "title": "22% of nation lives in poverty...",
-        "added": "2024-03-04T16:28:29.062921+00:00",
-        "description": "Poverty Rate by Country 2023 - Wisevoter"
-    },
-    "https://metro.co.uk/2024/03/04/mini-organs-grown-stem-cells-first-time-20396034/": {
-        "title": "Mini-organs grown from stem cells for first time!",
-        "added": "2024-03-04T16:28:29.062921+00:00",
-        "description": "Mini-organs grown from stem cells for the first time"
     },
     "https://www.rawstory.com/": {
         "title": "RAW STORY",
