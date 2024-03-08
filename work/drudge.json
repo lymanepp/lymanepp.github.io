@@ -1,4 +1,14 @@
 {
+    "https://www.newsweek.com/1877456": {
+        "title": "Republican Leaving Congress Over 'Rumors'...",
+        "added": "2024-03-08T19:06:24.014250+00:00",
+        "description": "Republican leaving Congress over 'rumors'"
+    },
+    "https://www.cnn.com/2024/03/08/middleeast/gaza-airdropped-aid-deaths-intl/index.html": {
+        "title": "5 killed after airdropped aid falls on them in Gaza...",
+        "added": "2024-03-08T19:06:24.014250+00:00",
+        "description": "At least 5 killed after airdropped aid falls on them in Gaza | CNN"
+    },
     "https://nypost.com/2024/03/08/us-news/tearful-ronna-mcdaniel-hands-rnc-reins-over-to-lara-trump-michael-whatley-at-houston-coronation/": {
         "title": "Tearful Ronna McDaniel hands RNC over to Lara Trump, Michael Whatley at 'coronation'...",
         "added": "2024-03-08T18:46:56.527232+00:00",
@@ -383,26 +393,6 @@
         "title": "Congress explores new bill to force sale or ban TIKTOK...",
         "added": "2024-03-07T19:16:33.266867+00:00",
         "description": "Congress explores new bill to force a sale or ban of TikTok in America | CNN Business"
-    },
-    "https://www.msn.com/en-us/news/politics/ar-BB1jtXM1": {
-        "title": "'WATCH ME'...",
-        "added": "2024-03-07T19:05:56.872491+00:00",
-        "description": "Biden, on his age, says, \u2018Watch me.\u2019 On Thursday night, they will."
-    },
-    "https://www.msn.com/en-us/money/other/ar-BB1jtAxF": {
-        "title": "Elon lashes out at Bezos ex for donating to charities for women and minorities...",
-        "added": "2024-03-07T19:05:56.872491+00:00",
-        "description": "Elon Musk is lashing out at MacKenzie Scott, Jeff Bezos' ex, for donating billions to charities for women and minorities"
-    },
-    "https://www.msn.com/en-us/money/markets/ar-BB1jtYLK": {
-        "title": "Trump Facing Serious Financial Troubles...",
-        "added": "2024-03-07T19:05:56.872491+00:00",
-        "description": "Trump\u2019s Money Problems Are Very Real and Very Bad"
-    },
-    "https://nypost.com/2024/03/07/sports/pat-mcafee-stephen-a-smith-had-explosive-espn-argument/": {
-        "title": "ESPN stars' explosive confrontation over secret project: 'Motherf***er'...",
-        "added": "2024-03-07T19:05:56.872491+00:00",
-        "description": "ESPN stars Pat McAfee, Stephen A. Smith had explosive confrontation over secret project: \u2018Motherf\u2013ker\u2019"
     },
     "https://www.sfgate.com/bayarea/article/18707997.php": {
         "title": "'Apocalypse-proof' Cybertruck defeated by sand...",
