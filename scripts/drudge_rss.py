@@ -108,6 +108,7 @@ def _build_current(
                 fuzz_ratio = fuzz.ratio(title, prior_value["title"])
                 if fuzz_ratio > 90:
                     skip_link = True
+                    print(f"{fuzz_ratio}% similar; dropping:", link, flush=True)
                     break
             if skip_link:
                 continue
