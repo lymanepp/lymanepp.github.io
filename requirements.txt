@@ -1,4 +1,5 @@
 beautifulsoup4==4.12.3
+fuzzywuzzy==0.18.0
 html5lib==1.1
 requests==2.31.0
 yarl==1.9.4

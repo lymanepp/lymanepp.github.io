@@ -1,4 +1,5 @@
 """Scrape drudgereport.com into RSS feed."""
+
 from datetime import datetime, timedelta, timezone
 from http import HTTPStatus
 import json
@@ -6,6 +7,7 @@ import sys
 from typing import Any, Final
 from urllib.parse import urlparse
 import xml.etree.ElementTree as etree
+from fuzzywuzzy import fuzz
 
 from bs4 import BeautifulSoup, element
 import requests
@@ -65,38 +67,59 @@ def _write_json(file_name: str, obj: JsonType) -> None:
 def _read_live_links() -> LiveLinksType | None:
     response = requests.get(DRUDGE_BASE_URL, headers=HTTP_HEADERS, timeout=10)
     if response.status_code != HTTPStatus.OK:
-        print(f"Received HTTP status {response.status_code} reading from {DRUDGE_BASE_URL}")
+        print(
+            f"Received HTTP status {response.status_code} reading from {DRUDGE_BASE_URL}"
+        )
         return None
 
     html = response.content.decode("latin-1")
     soup = BeautifulSoup(html, "html.parser")
 
-    return [(tag.attrs["href"], tag.text) for tag in soup.find_all("a") if "href" in tag.attrs]
+    return [
+        (tag.attrs["href"], tag.text)
+        for tag in soup.find_all("a")
+        if "href" in tag.attrs
+    ]
 
 
 def _build_current(
     current_links: LiveLinksType, prior: DataModelType, now: datetime
 ) -> DataModelType:
-
     current: DataModelType = {}
 
     for link, title in current_links:
         if _is_pay_wall(link):
             continue
 
-        url = URL(link)
-        if not url.scheme:
+        prior_link = URL(link)
+        if not prior_link.scheme:
             link = DRUDGE_BASE_URL + link
-        elif url.scheme not in ("http", "https"):
+        elif prior_link.scheme not in ("http", "https"):
             continue
 
-        current[link] = prior.get(link) or {
-            "title": title.split("\n")[0].strip(),
-            "added": now.isoformat(),
-            "description": _get_description(link),
-        }
+        if prior_value := prior.get(link):
+            current[link] = prior_value
+        else:
+            title = title.split("\n")[0].strip()
 
-        if link not in prior:
+            # ignore new items that have title 90% same as existing
+            skip_link = False
+            for prior_value in prior.values():
+                fuzz_ratio = fuzz.ratio(title, prior_value["title"])
+                if fuzz_ratio > 90:
+                    skip_link = True
+                    break
+            if skip_link:
+                continue
+
+        if link not in current:
+            current[link] = {
+                "title": title,
+                "added": now.isoformat(),
+                "description": _get_description(link),
+            }
+
+        if link not in prior and not skip_link:
             print("New link:", link, flush=True)
 
     # Add missing items that are less than 24 hours old
@@ -106,7 +129,11 @@ def _build_current(
         if link not in current and added > keep_if_newer:
             current[link] = meta
 
-    return dict(sorted(current.items(), key=lambda item: (item[1]["added"], item[0]), reverse=True))
+    return dict(
+        sorted(
+            current.items(), key=lambda item: (item[1]["added"], item[0]), reverse=True
+        )
+    )
 
 
 def _is_pay_wall(link: str) -> bool:
