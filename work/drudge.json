@@ -1,4 +1,9 @@
 {
+    "https://www.newsweek.com/1882008": {
+        "title": "Leprosy Spreading in Florida...",
+        "added": "2024-03-21T19:31:56.195732+00:00",
+        "description": "Leprosy is spreading in Florida"
+    },
     "https://dnyuz.com/2024/03/21/the-psychedelic-evangelist/": {
         "title": "The Psychedelic Evangelist...",
         "added": "2024-03-21T19:19:03.756615+00:00",
@@ -378,11 +383,6 @@
         "title": "MORE RECORDS SMASHED...",
         "added": "2024-03-20T19:46:51.099897+00:00",
         "description": "Dow rallies 400 points to record after Fed reiterates rate cut guidance: Live updates"
-    },
-    "https://www.cnbc.com/2024/03/20/fed-meeting-today-live-updates-on-march-fed-rate-decision.html": {
-        "title": "Fed maintains outlook for 3 rate cuts this year...",
-        "added": "2024-03-20T19:31:44.255864+00:00",
-        "description": "Fed meeting recap: Everything Powell said during Wednesday's market-moving news conference"
     },
     "https://www.the-express.com/news/world-news/131715": {
         "title": "World on brink as Taiwan admits US troops now stationed on Chinese border...",
