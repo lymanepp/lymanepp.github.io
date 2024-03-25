@@ -1,4 +1,14 @@
 {
+    "https://www.newsweek.com/1883139": {
+        "title": "Florida AIRBNB Crackdown Sparks Anger...",
+        "added": "2024-03-25T18:09:38.590429+00:00",
+        "description": "Florida's Airbnb crackdown sparks anger"
+    },
+    "https://www.msn.com/en-us/health/other/ar-BB1kvwQZ": {
+        "title": "CHICK-FIL-A drops 'no antibiotics' pledge on chicken...",
+        "added": "2024-03-25T18:09:38.590429+00:00",
+        "description": "Chick-fil-A drops \u2018no antibiotics\u2019 pledge on chicken, citing supply"
+    },
     "https://www.ynetnews.com/article/skf7lxkj0": {
         "title": "Hamas praises...",
         "added": "2024-03-25T17:46:43.634328+00:00",
@@ -244,11 +254,6 @@
         "added": "2024-03-24T22:24:29.229419+00:00",
         "description": "China and Russia \u2018spreading slurs against Princess of Wales\u2019"
     },
-    "https://finance.yahoo.com/news/us-faa-weighs-curbing-routes-174107188.html": {
-        "title": "FAA Weighs Curbing New Routes for UNITED After Safety Incidents...",
-        "added": "2024-03-24T18:09:37.420389+00:00",
-        "description": "US FAA boosting oversight of United, may delay airline projects"
-    },
     "https://www.axios.com/2024/03/24/apple-secrets-antitrust-suit": {
         "title": "Antitrust suit could force APPLE to reveal secrets...",
         "added": "2024-03-24T13:22:09.197756+00:00",
@@ -263,16 +268,6 @@
         "title": "Lisa Murkowski, done with Trump, won't rule out leaving Republican party...",
         "added": "2024-03-24T11:18:28.881001+00:00",
         "description": "Murkowski, done with Trump, won\u2019t rule out leaving GOP | CNN Politics"
-    },
-    "https://www.nbcnews.com/news/rcna144815": {
-        "title": "Skips homily during Palm Sunday Mass amid increasingly frail health...",
-        "added": "2024-03-24T11:04:25.500589+00:00",
-        "description": "Pope skips homily at start of busy Holy Week during Palm Sunday Mass in St. Peter\u2019s Square"
-    },
-    "https://www.newsweek.com/1882379": {
-        "title": "POPE FACES GROWING REVOLT...",
-        "added": "2024-03-24T10:24:52.853437+00:00",
-        "description": "Pope Francis faces growing revolt"
     },
     "https://www.yahoo.com/news/princess-reveals-diagnosis-doctors-warn-171346589.html": {
         "title": "Doctors warn of mysterious 'epidemic'...",
