@@ -1,4 +1,14 @@
 {
+    "https://www.cnn.com/travel/california-highway-1-damage-big-sur/index.html": {
+        "title": "Part of famed California highway crumbles into ocean...",
+        "added": "2024-04-01T19:04:59.966536+00:00",
+        "description": "Part of famed California highway crumbles into the ocean | CNN"
+    },
+    "https://nypost.com/2024/04/01/business/vince-mcmahon-accuser-wrote-love-letter-to-ex-wwe-ceo-claims-she-was-coerced": {
+        "title": "McMahon accuser wrote 'love letter' to ex-WWE CEO after alleged sex abuse -- but claims coerced...",
+        "added": "2024-04-01T19:04:59.966536+00:00",
+        "description": "Vince McMahon accuser Janel Grant wrote \u2018love letter\u2019 to ex-WWE CEO after alleged sex abuse \u2014 but claims she was coerced"
+    },
     "https://www.politico.com/news/2024/04/01/first-human-avian-flu-case-texas-00149949": {
         "title": "First human case of avian flu in Texas raises alarm...",
         "added": "2024-04-01T18:46:35.861054+00:00",
@@ -243,11 +253,6 @@
         "title": "Obamacare once cost Dems elections. Now Joe's hoping to win on it...",
         "added": "2024-03-31T12:35:38.874620+00:00",
         "description": "Obamacare once cost Democrats elections. Now Biden\u2019s hoping to win on it."
-    },
-    "https://apnews.com/article/e3c816373344d54b2e6bdb4be5ed999a": {
-        "title": "Who wouldn't like prices to start falling? Careful what you wish for, economists say...",
-        "added": "2024-03-30T21:46:42.831959+00:00",
-        "description": "Who wouldn't like prices to start falling? Careful what you wish for, economists say"
     },
     "https://www.cnn.com/profiles/oliver-darcy": {
         "title": "OLIVER DARCY",
