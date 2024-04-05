@@ -1,4 +1,19 @@
 {
+    "https://nypost.com/2024/04/05/us-news/earthquake-rocks-nyc-tri-state-area/": {
+        "title": "4.7 MAG QUAKE ROCKS TRI-STATE",
+        "added": "2024-04-05T14:46:51.467826+00:00",
+        "description": "Magnitude 4.7 earthquake rocks NYC, tri-state area"
+    },
+    "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ma74/map": {
+        "title": "MAP",
+        "added": "2024-04-05T14:46:51.467826+00:00",
+        "description": ""
+    },
+    "https://apnews.com/article/east-coast-earthquake-7d03f7a44a6c1a1ea877820515808bee": {
+        "title": "SHAKES NYC",
+        "added": "2024-04-05T14:46:51.467826+00:00",
+        "description": "Earthquake shakes New York City area"
+    },
     "https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive": {
         "title": "4.8 MAG QUAKE ROCKS NJ...",
         "added": "2024-04-05T14:32:38.321930+00:00",
