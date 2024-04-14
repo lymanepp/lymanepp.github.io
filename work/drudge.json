@@ -1,4 +1,14 @@
 {
+    "https://www.dailymail.co.uk/news/article-13298869": {
+        "title": "Seedy world of super sperm donors...",
+        "added": "2024-04-14T22:13:17.999440+00:00",
+        "description": "Inside America's seedy world of black market sperm donation"
+    },
+    "https://apnews.com/article/9d3a579b9bdb6f4d879b14b153174102": {
+        "title": "Bird flu spreading to more farm animals. Are milk and eggs safe?",
+        "added": "2024-04-14T22:13:17.999440+00:00",
+        "description": "Bird flu is spreading to more farm animals. Are milk and eggs safe?"
+    },
     "https://www.nbcnews.com/news/rcna147686": {
         "title": "Stabbing rampage at Sydney mall leaves at least seven dead, including attacker...",
         "added": "2024-04-14T15:10:34.864458+00:00",
@@ -269,145 +279,30 @@
         "added": "2024-04-13T22:06:03.173475+00:00",
         "description": ""
     },
-    "https://www.dailymail.co.uk/news/article-13305423/biden-iran-israel-attack-emergency-meeting.html": {
-        "title": "Biden emergency national security meeting...",
-        "added": "2024-04-13T22:06:03.173475+00:00",
-        "description": "President Biden holds emergency meeting as Iran attacks Israel"
-    },
-    "https://www.axios.com/2024/04/13/iran-israel-attack": {
-        "title": "Unprecedented strike...",
-        "added": "2024-04-13T22:06:03.173475+00:00",
-        "description": ""
-    },
     "https://www.yahoo.com/news/west-must-remember-fight-may-180000719.html?fr=sycsrp_catchall": {
         "title": "PAPER: The West must remember how to fight. It may already be too late...",
         "added": "2024-04-13T21:46:41.222454+00:00",
         "description": "The West must remember how to fight. It may already be too late"
-    },
-    "https://www.cnbc.com/2024/04/13/jordan-israel-close-airspace-amid-report-of-drone-attack-from-iran.html": {
-        "title": "AIRSPACE CLOSED THROUGHOUT MIDEAST",
-        "added": "2024-04-13T21:46:41.222454+00:00",
-        "description": "Airspace closures throughout the Middle East ground, divert flights as Iran launches drone attack on Israel"
-    },
-    "https://www.bloomberg.com/news/articles/2024-04-13/israel-says-it-s-under-attack-by-iranian-drones-as-risk-surges": {
-        "title": "Mideast Enters Perilous New Phase...",
-        "added": "2024-04-13T21:46:41.222454+00:00",
-        "description": "Israel Says It\u2019s Under Attack by Iranian Drones as Risk Surges"
-    },
-    "https://abcnews.go.com/International/live-updates/israel-gaza-hamas-war/?id=108860743": {
-        "title": "Up to 500 drones, missiles will be launched...",
-        "added": "2024-04-13T21:31:52.758342+00:00",
-        "description": "Israel-Gaza live updates: Iran begins retaliatory attack against Israel"
-    },
-    "https://english.alarabiya.net/News/middle-east/2024/04/14/dozens-of-iranian-launched-uavs-en-route-to-israel": {
-        "title": "OPERATION 'TRUE PROMISE'",
-        "added": "2024-04-13T21:17:29.826048+00:00",
-        "description": ""
-    },
-    "http://www.drudgereport.com": {
-        "title": "Biden to address nation tonight...",
-        "added": "2024-04-13T21:17:29.826048+00:00",
-        "description": ""
-    },
-    "https://www.gazettextra.com/news/nation_world/assisted-suicide-in-minnesota-critics-point-to-canada-as-cautionary-tale/article_d5f04392-55e1-50a5-af71-5b5f07a569c7.html": {
-        "title": "Assisted suicide in Minnesota? Critics point to Canada as cautionary tale...",
-        "added": "2024-04-13T21:05:44.312222+00:00",
-        "description": "Assisted suicide in Minnesota? Critics point to Canada as cautionary tale"
-    },
-    "https://apnews.com/article/strait-of-hormuz-vessel-33fcffde2d867380e98c89403776a8ac": {
-        "title": "USA WILL PROVIDE SUPPORT",
-        "added": "2024-04-13T21:05:44.312222+00:00",
-        "description": "U.S. says it will provide unspecified support for Israel's defense in Iran drone attack"
-    },
-    "https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/13/statement-from-nsc-spokesperson-adrienne-watson-on-attacks-against-israel/": {
-        "title": "Assault likely to unfold over number of hours...",
-        "added": "2024-04-13T20:46:39.531130+00:00",
-        "description": "Statement from NSC Spokesperson Adrienne Watson on Attacks Against Israel | The White House"
     },
     "https://www.timesofisrael.com/liveblog_entry/netanyahu-says-israel-ready-for-direct-attack-from-iran-will-respond-in-kind/": {
         "title": "Netanyahu says will respond in kind...",
         "added": "2024-04-13T20:46:39.531130+00:00",
         "description": "Netanyahu says Israel ready for direct attack from Iran, will respond in kind"
     },
-    "https://www.the-sun.com/news/11083865/iran-launches-massive-drone-attack-against-israel/": {
-        "title": "CITIZENS WARNED TO TAKE COVER",
-        "added": "2024-04-13T20:46:39.531130+00:00",
-        "description": "Iran launches drones in strike as Israel warns citizens to find cover"
-    },
-    "https://www.jpost.com/breaking-news/article-796838": {
-        "title": "Radical change from usual use of proxies...",
-        "added": "2024-04-13T20:46:39.531130+00:00",
-        "description": "Iran launches hundreds of drones toward Israel"
-    },
     "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-04-13-24/index.html": {
         "title": "UPDATES...",
         "added": "2024-04-13T20:46:39.531130+00:00",
         "description": "Live updates: Iran launches dozens of drones toward Israel"
-    },
-    "https://www.jpost.com/israel-hamas-war/2024-04-13/live-updates-796759": {
-        "title": "Israeli schools and airspace close...",
-        "added": "2024-04-13T20:32:06.353695+00:00",
-        "description": "Iran launches drones toward Israel, Israeli schools and airspace close"
-    },
-    "https://www.dailymail.co.uk/news/article-13305287/Israel-puts-military-alert-amid-fears-Iran-launch-attack-moment-School-trips-youth-activities-called-public-gathering-limited-dozens-warplanes-scrambled-air.html": {
-        "title": "IDF ON FULL ALERT",
-        "added": "2024-04-13T20:32:06.353695+00:00",
-        "description": "Iran launches a wave of drone attacks at Israel"
-    },
-    "https://www.cnbc.com/2024/04/13/iran-has-launched-drone-attacks-at-israel-idf-military-says.html": {
-        "title": "IRAN LAUNCHES DRONE ATTACKS ON ISRAEL",
-        "added": "2024-04-13T20:32:06.353695+00:00",
-        "description": "Iran has launched drone attacks at Israel, U.S. officials say"
-    },
-    "https://www.yahoo.com/news/israel-calls-off-school-trips-174350049.html": {
-        "title": "ISRAEL ON ALERT",
-        "added": "2024-04-13T18:07:27.349554+00:00",
-        "description": "Israel calls off school trips, puts forces on full alert amid Iran threat"
-    },
-    "https://www.dailymail.co.uk/news/article-13305011/biden-white-house-iran-missiles-drones-israel-strike.html": {
-        "title": "BIDEN RUSHES BACK TO WHITE HOUSE",
-        "added": "2024-04-13T18:07:27.349554+00:00",
-        "description": "Biden leaves beach for the White House to deal with Middle East crisis"
-    },
-    "https://www.msn.com/en-us/news/politics/supreme-court-to-weigh-if-jan-6-rioters-can-be-charged-with-obstruction/ar-BB1lyL1L": {
-        "title": "Supreme Court set to hear case that could undo many convictions...",
-        "added": "2024-04-13T17:46:48.776084+00:00",
-        "description": "Supreme Court to weigh if Jan. 6 rioters can be charged with obstruction"
-    },
-    "https://apnews.com/article/israel-palestinians-gaza-west-bank-7e75e1ef8f5307946d24f8b9a190fd66": {
-        "title": "West Bank sees some of worst violence since war began as Israeli teen's body found...",
-        "added": "2024-04-13T17:46:48.776084+00:00",
-        "description": "West Bank sees biggest settler rampage since war in Gaza began as Israeli teen's body is found"
-    },
-    "https://www.msn.com/en-us/news/other/death-valley-is-alive-this-year-a-super-bloom-is-the-latest-sign/ar-BB1lywk2": {
-        "title": "Death Valley alive this year. Super bloom is latest sign...",
-        "added": "2024-04-13T17:03:42.241075+00:00",
-        "description": "Death Valley is alive this year. A super bloom is the latest sign."
-    },
-    "https://www.barrons.com/news/biden-cuts-weekend-trip-short-for-urgent-middle-east-consultations-4bf8ed68": {
-        "title": "BIDEN CUTS WEEKEND TRIP SHORT",
-        "added": "2024-04-13T17:03:42.241075+00:00",
-        "description": "Biden Cuts Weekend Trip Short For Urgent Middle East Consultations"
     },
     "https://www.yahoo.com/entertainment/argentine-leader-javier-milei-splits-140000509.html": {
         "title": "Argentina Milei splits with 'lioness' girlfriend over work pressure...",
         "added": "2024-04-13T16:09:17.388203+00:00",
         "description": "Javier Milei splits with \u2018lioness\u2019 girlfriend over work pressure"
     },
-    "https://www.cnn.com/2024/04/13/us/pittsburgh-barges-bridges-ohio-river/index.html": {
-        "title": "26 barges break loose and float down Ohio River, causing damage and bridge closures...",
-        "added": "2024-04-13T16:09:17.388203+00:00",
-        "description": "26 barges break loose and float down Ohio River, causing damage and prompting bridge closures in Pittsburgh, officials say | CNN"
-    },
     "https://www.yahoo.com/news/melania-trump-cautious-return-spotlight-153113855.html": {
         "title": "For Melania, cautious return to spotlight?",
         "added": "2024-04-13T15:46:48.901574+00:00",
         "description": "For Melania Trump, a cautious return to the spotlight?"
-    },
-    "https://thehill.com/homenews/senate/4591178-greene-johnson-motion-to-vacate-senate-gop/": {
-        "title": "Greene threat to oust Johnson has Senate anxious...",
-        "added": "2024-04-13T15:46:48.901574+00:00",
-        "description": "Greene threat to oust Speaker Johnson has Senate Republicans anxious"
     },
     "https://www.hollywoodreporter.com/movies/movie-features/civil-war-movie-liberals-1235873335/": {
         "title": "Why Movie Is Making Audiences So Uncomfortable...",
