@@ -1,4 +1,59 @@
 {
+    "https://www.yahoo.com/news/us-russia-set-showdown-un-221254377.html": {
+        "title": "USA, Russia set for showdown at UN over nuclear weapons in space...",
+        "added": "2024-04-24T01:39:37.744507+00:00",
+        "description": "US, Russia set for a showdown at UN over nuclear weapons in space"
+    },
+    "https://www.yahoo.com/news/trump-faces-potential-punishment-violating-192500495.html": {
+        "title": "The Don faces potential punishment for violating gag...",
+        "added": "2024-04-24T01:39:37.744507+00:00",
+        "description": "Trump faces potential punishment for violating gag order as hush money trial resumes"
+    },
+    "https://www.the-independent.com/news/world/americas/us-politics/trump-taylor-greene-trial-murder-b2533420.html": {
+        "title": "Marjorie Taylor Greene warns will be murdered in jail...",
+        "added": "2024-04-24T01:39:37.744507+00:00",
+        "description": "Marjorie Taylor Greene claims Democrats want Trump to be \u2018murdered in jail\u2019"
+    },
+    "https://www.msn.com/en-us/news/crime/chaotic-prison-closure-in-northern-california-leads-to-fighting-crying-cutting-inmates-say/ar-AA1nxgG7": {
+        "title": "Chaotic prison closure in California leads to fighting, crying, cutting, inmates say...",
+        "added": "2024-04-24T01:39:37.744507+00:00",
+        "description": "Chaotic prison closure in Northern California leads to fighting, crying, cutting, inmates say"
+    },
+    "https://www.dailystar.co.uk/sport/football/saudi-pro-league-low-attendances-32653733": {
+        "title": "Saudi Pro League suffers more embarrassment as only 560 fans turn up for game...",
+        "added": "2024-04-24T01:39:37.744507+00:00",
+        "description": "Saudi Pro League suffers more embarrassment as only 560 fans turn up for game"
+    },
+    "https://www.atr.org/biden-calls-for-44-6-capital-gains-tax-rate-highest-capital-gains-tax-since-its-creation-in-1922/": {
+        "title": "Biden Calls for 44.6% Capital Gains Tax, Highest Since 1922...",
+        "added": "2024-04-24T01:39:37.744507+00:00",
+        "description": "Biden Calls for 44.6% Capital Gains Tax Rate, Highest Capital Gains Tax Since Its Creation in 1922 - Americans for Tax Reform"
+    },
+    "https://thehill.com/business/4615452-ftc-votes-to-ban-non-compete-agreements/": {
+        "title": "FTC votes to ban noncompete agreements...",
+        "added": "2024-04-24T01:39:37.744507+00:00",
+        "description": "FTC votes to ban noncompete agreements"
+    },
+    "https://news.yahoo.com/google-pulls-news-search-fate-120000477.html": {
+        "title": "As GOOGLE pulls news from search, fate of Journalism Preservation Act is unclear...",
+        "added": "2024-04-24T01:39:37.744507+00:00",
+        "description": "As Google pulls news from search, fate of California Journalism Preservation Act is unclear"
+    },
+    "https://news.yahoo.com/desantis-blames-congressional-republicans-failure-203501553.html": {
+        "title": "DeSantis blames Republicans for failure on border...",
+        "added": "2024-04-24T01:39:37.744507+00:00",
+        "description": "DeSantis blames congressional Republicans for failure on U.S. southern border"
+    },
+    "https://financialpost.com/investing/tesla-accelerate-launch-cheaper-cars-sales-miss": {
+        "title": "Company may let go 20% staff...",
+        "added": "2024-04-24T01:39:37.744507+00:00",
+        "description": "Tesla to accelerate launch of cheaper cars after sales miss"
+    },
+    "https://finance.yahoo.com/news/jpmorgan-ceo-dimon-says-us-163316868.html": {
+        "title": "JAMIE DIMON DECLARES ECONOMY IS BOOMING....",
+        "added": "2024-04-24T01:39:37.744507+00:00",
+        "description": "JPMorgan CEO Dimon says US economy is booming"
+    },
     "https://www.newsweek.com/1893071": {
         "title": "Ex-president's Poll Numbers Plummet With Independents...",
         "added": "2024-04-24T00:34:20.281313+00:00",
@@ -344,40 +399,10 @@
         "added": "2024-04-23T02:46:46.212915+00:00",
         "description": "Bizarre Las Vegas conference where Trump fans vow to form militias"
     },
-    "https://www.the-sun.com/news/11163390/student-protests-palestine-nyu-arrests-at-encampment/": {
-        "title": "NYU  in chaos as cops make arrests and clear tents...",
-        "added": "2024-04-23T01:38:07.423756+00:00",
-        "description": "NYU pro-Palestine protests in chaos as cops 'make arrests & clear tents'"
-    },
-    "https://www.yahoo.com/news/australia-pm-calls-musk-arrogant-000735753.html": {
-        "title": "PM calls out 'arrogant billionaire'...",
-        "added": "2024-04-23T00:34:40.554554+00:00",
-        "description": "Australia PM calls Musk 'arrogant billionaire' after court orders X to hide church stabbing posts"
-    },
-    "https://www.sbs.com.au/news/article/court-orders-elon-musks-x-to-block-sydney-church-stabbing-footage/5qbsf0rmb": {
-        "title": "Musk slams Australia ban on church stabbing videos...",
-        "added": "2024-04-23T00:34:40.554554+00:00",
-        "description": "Court orders Elon Musk's X to block Sydney church stabbing footage"
-    },
-    "https://www.marketwatch.com/story/technology-stocks-show-signs-of-breaking-down-ahead-of-big-tech-earnings-7ca854a0": {
-        "title": "Street frets earnings... Developing...",
-        "added": "2024-04-23T00:34:40.554554+00:00",
-        "description": ""
-    },
     "https://www.yahoo.com/news/north-koreas-kim-guides-nuclear-213722257.html": {
         "title": "NKorea conducts first 'nuclear trigger' drills...",
         "added": "2024-04-22T23:22:15.575913+00:00",
         "description": "North Korea conducts first \"nuclear trigger\" simulation drills, state media says"
-    },
-    "https://yahoo.com/entertainment/coachella-became-world-worst-music-162941418.html": {
-        "title": "How COACHELLA became world's worst music fest...",
-        "added": "2024-04-22T23:07:01.797036+00:00",
-        "description": "How Coachella became the world\u2019s worst music festival"
-    },
-    "https://www.yahoo.com/news/maduro-crossroads-venezuela-opposition-joins-201511033.html": {
-        "title": "Maduro at Crossroads as Venezuela Opposition Joins Together...",
-        "added": "2024-04-22T22:46:35.128125+00:00",
-        "description": "Maduro at Crossroads as Venezuela Opposition Joins Together"
     },
     "https://projects.fivethirtyeight.com/polls/president-general/": {
         "title": "538...",
