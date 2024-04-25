@@ -1,4 +1,14 @@
 {
+    "https://projects.fivethirtyeight.com/polls/president-general/2024/national/": {
+        "title": "538...",
+        "added": "2024-04-25T23:32:08.964158+00:00",
+        "description": "National : President: general election : 2024 Polls"
+    },
+    "https://finance.yahoo.com/news/treasuries-drop-first-quarter-price-124356183.html": {
+        "title": "Fed Rate Cuts Slipping Away...",
+        "added": "2024-04-25T23:32:08.964158+00:00",
+        "description": "US Yields Soar as Traders See Fed Delaying First Cut to December"
+    },
     "https://www.yahoo.com/news/germany-takes-aims-spain-greece-140846983.html": {
         "title": "Germany takes aims at Spain and Greece for not giving Ukraine Patriot missiles...",
         "added": "2024-04-25T23:22:20.898213+00:00",
@@ -393,36 +403,6 @@
         "title": "Pope says of Ukraine, Gaza: Negotiated peace better than war without end...",
         "added": "2024-04-25T00:36:57.120871+00:00",
         "description": "Pope Francis says of Ukraine, Gaza: \"A negotiated peace is better than a war without end\""
-    },
-    "https://www.msn.com/en-us/news/politics/bleach-blond-biden-mocks-trumps-hair-in-personal-barb/ar-AA1nBdoZ": {
-        "title": "BIDEN MOCKS 'BEACH BLOND' HAIR",
-        "added": "2024-04-24T23:31:53.767926+00:00",
-        "description": "Bleach blond? Biden mocks Trump's hair in personal barb"
-    },
-    "https://www.barrons.com/news/trump-took-part-in-michigan-fake-elector-plot-but-not-charged-official-92cf574b": {
-        "title": "President took part in Michigan plot but not charged:  Official...",
-        "added": "2024-04-24T23:31:53.767926+00:00",
-        "description": "Trump Took Part In Michigan 'Fake Elector' Plot But Not Charged: Official"
-    },
-    "https://www.yahoo.com/news/columbia-vows-more-talks-pro-135657656.html": {
-        "title": "Pro-Palestinian protests spread at universities...",
-        "added": "2024-04-24T23:24:19.258965+00:00",
-        "description": "Pro-Palestinian protests spread at US universities"
-    },
-    "https://www.nbcnews.com/politics/2024-election/trumps-2020-fake-electors-charged-state-crimes-arizona-rcna149214": {
-        "title": "Trump's 2020 'fake electors' charged with state crimes in Arizona...",
-        "added": "2024-04-24T23:24:19.258965+00:00",
-        "description": "Trump\u2019s 2020 'fake electors' charged with state crimes in Arizona"
-    },
-    "https://www.msn.com/en-us/travel/news/airlines-must-now-pay-automatic-refunds-for-canceled-flights/ar-AA1nzAAv": {
-        "title": "Airlines Must Now Pay Automatic Refunds for Canceled Flights!",
-        "added": "2024-04-24T23:24:19.258965+00:00",
-        "description": "Airlines Must Now Pay Automatic Refunds for Canceled Flights"
-    },
-    "https://www.msn.com/en-us/news/politics/the-right-starts-to-reckon-with-its-marjorie-taylor-greene-problem/ar-AA1nAZ0H": {
-        "title": "The right starts to reckon with its Marjorie Taylor Greene problem...",
-        "added": "2024-04-24T23:24:19.258965+00:00",
-        "description": "The right starts to reckon with its Marjorie Taylor Greene problem"
     },
     "https://www.barrons.com/news/use-of-alcohol-and-e-cigarettes-among-youth-alarming-who-83f69af6": {
         "title": "WHO:  Use of alcohol and e-cigarettes among youth 'alarming'...",
