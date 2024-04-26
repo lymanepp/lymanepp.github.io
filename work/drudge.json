@@ -1,4 +1,14 @@
 {
+    "https://www.cnbc.com/2024/04/26/pce-inflation-march-2024-key-fed-inflation-measure-rose-2point8percent.html": {
+        "title": "Key Fed inflation measure rises more than expected...",
+        "added": "2024-04-26T12:53:46.548337+00:00",
+        "description": "Key Fed inflation measure rose 2.8% in March from a year ago, more than expected"
+    },
+    "https://apnews.com/article/investigation-police-use-of-force-sedation-injections-demetrio-jackson-621909ba7491abc2af8ad2e33ba3415b": {
+        "title": "How 911 call for trespassing escalated to injection of sedative and man's death...",
+        "added": "2024-04-26T12:53:46.548337+00:00",
+        "description": "Dozens of deaths reveal risks of injecting sedatives into people restrained by police"
+    },
     "https://www.france24.com/en/live-news/20240426-french-barber-still-trimming-at-90": {
         "title": "French barber still trimming at 90...",
         "added": "2024-04-26T12:39:52.295237+00:00",
@@ -433,11 +443,6 @@
         "title": "META sparks tech selloff as AI splurge spooks Wall St...",
         "added": "2024-04-25T13:06:34.218090+00:00",
         "description": "Meta sparks tech selloff as AI splurge spooks Wall Street"
-    },
-    "https://www.cnbc.com/2024/04/25/gdp-q1-2024-increased-at-a-1point6percent-rate.html": {
-        "title": "GDP increased at 1.6% rate in first quarter, less than expected...",
-        "added": "2024-04-25T12:47:51.708395+00:00",
-        "description": "GDP increased at a 1.6% rate in the first quarter, less than expected"
     },
     "https://www.yahoo.com/news/macron-aims-cement-french-influence-051225284.html": {
         "title": "'Europe could die': Macron urges stronger defenses, economic reforms...",
