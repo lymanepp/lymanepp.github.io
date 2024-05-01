@@ -1,4 +1,24 @@
 {
+    "https://www.yahoo.com/news/activists-occupy-columbia-building-us-130814603.html": {
+        "title": "UNREST ROCKS CAMPUSES",
+        "added": "2024-05-01T01:43:56.727257+00:00",
+        "description": "Heavy police presence at Columbia as more unrest rocks US campuses"
+    },
+    "https://www.the-sun.com/news/11235617/marijuana-reclassification-dea-joe-biden-news/": {
+        "title": "Faces criticism...",
+        "added": "2024-05-01T01:43:56.727257+00:00",
+        "description": "Joe Biden slammed for decision to classify marijuana as less dangerous drug"
+    },
+    "https://www.dailymail.co.uk/news/article-13369349/Columbia-University-protest-NYPD-police-arrests.html": {
+        "title": "SHOWDOWN COLUMBIA!",
+        "added": "2024-05-01T01:43:56.727257+00:00",
+        "description": "NYPD officers dressed in riot gear swarm Columbia University"
+    },
+    "https://nypost.com/2024/04/29/us-news/columbia-university-anti-israel-protests-live-updates-photos-from-student-encampment/": {
+        "title": "NYPD SURROUND ENCAMPMENT",
+        "added": "2024-05-01T01:43:56.727257+00:00",
+        "description": "Columbia University anti-Israel protests live updates: Columbia faculty blames school\u2019s leadership for \u2018disastrous lapses of judgment\u2019 amid anti-Israel protests"
+    },
     "https://www.yahoo.com/news/us-republicans-vote-remove-wolf-234426031.html": {
         "title": "MOVE OVER, NOEM:  Republicans vote to remove wolf protections...",
         "added": "2024-05-01T00:37:38.996267+00:00",
@@ -428,71 +448,6 @@
         "title": "Face shields, dry suits, showers: Lifeguards in California adapt to sewage contamination...",
         "added": "2024-04-30T02:31:05.577023+00:00",
         "description": "Face shields, dry suits, showers: Lifeguards in South County, Calif., adapt to persistent sewage contamination"
-    },
-    "https://www.yahoo.com/news/university-protests-dominate-media-coverage-100035992.html": {
-        "title": "University demos dominate media coverage, obscuring true horror of war...",
-        "added": "2024-04-30T01:38:08.841047+00:00",
-        "description": "University protests dominate media coverage, obscuring the true horror of Gaza war"
-    },
-    "https://www.yahoo.com/news/nato-chief-says-ukraine-still-191307352.html": {
-        "title": "NATO chief says Ukraine can still win war...",
-        "added": "2024-04-30T01:38:08.841047+00:00",
-        "description": "NATO chief says Ukraine can still win war despite Russian advances"
-    },
-    "https://www.yahoo.com/news/haiti-oldest-newspaper-forced-stop-211840262.html": {
-        "title": "Oldest newspaper forced to stop printing after attack...",
-        "added": "2024-04-30T01:38:08.841047+00:00",
-        "description": "Haiti\u2019s oldest newspaper forced to stop printing after armed gangs attack premises"
-    },
-    "https://www.yahoo.com/lifestyle/forget-paleo-diet-fad-study-170550972.html": {
-        "title": "Forget paleo diet fad --  study shows cavemen dined on plants...",
-        "added": "2024-04-30T01:38:08.841047+00:00",
-        "description": "Forget the paleo diet fad \u2013 study shows cavemen dined on plants"
-    },
-    "https://www.the-sun.com/news/11217826": {
-        "title": "REPORT:  Moscow has lost 450,000 soldiers, 3,000 tanks and 500 aircraft...",
-        "added": "2024-04-30T01:38:08.841047+00:00",
-        "description": "Putin has lost 450k soldiers and 13k tanks & vehicles, says UK intelligence"
-    },
-    "https://www.the-sun.com/entertainment/11221818/britney-spears-life-in-freefall/": {
-        "title": "Britney Spears life back into free fall...",
-        "added": "2024-04-30T01:38:08.841047+00:00",
-        "description": "Bitter love split, spats with sons & blowing fortune - Britney's in free fall"
-    },
-    "https://www.msn.com/en-us/news/other/ar-AA1nRXem": {
-        "title": "Parties see hope for Gaza cease-fire: Maybe this time it will work...",
-        "added": "2024-04-30T01:38:08.841047+00:00",
-        "description": "Parties see hope for a Gaza cease-fire: \u2018Maybe this time it will work\u2019"
-    },
-    "https://www.msn.com/en-us/health/other/dallas-church-opens-pregnancy-center-with-abortion-resources/ar-AA1nSle3": {
-        "title": "DEFIANT:  Dallas church opens pregnancy center with abortion resources...",
-        "added": "2024-04-30T01:38:08.841047+00:00",
-        "description": "Dallas church opens pregnancy center with abortion resources"
-    },
-    "https://www.mirror.co.uk/news/world-news/vladimir-putin-flaunts-captured-tanks-32699714": {
-        "title": "Putin flaunts captured US tanks...",
-        "added": "2024-04-30T01:38:08.841047+00:00",
-        "description": "Putin flaunts captured US tanks and Brit armoured cars in chilling show of force"
-    },
-    "https://dnyuz.com/2024/04/29/hope-rises-for-new-talks-on-gaza-cease-fire-as-israel-scales-back-demands/": {
-        "title": "HOPES RISE FOR GAZA CEASE-FIRE",
-        "added": "2024-04-30T01:38:08.841047+00:00",
-        "description": "Hope Rises for New Talks on Gaza Cease-fire as Israel Scales Back Demands"
-    },
-    "https://deadline.com/2024/04/bob-bakish-leaving-paramount-global-division-heads-office-of-ceo-1235898125/": {
-        "title": "How Bob Bakish, the Anti-Mogul CEO, Struggled to Rescue PARAMOUNT...",
-        "added": "2024-04-30T01:38:08.841047+00:00",
-        "description": "It\u2019s Official: Bob Bakish Is Out At Paramount Global, Trio Of Division Heads Form New Office Of The CEO"
-    },
-    "https://dailycaller.com/2024/04/29/white-house-transcript-corrections-joe-biden-speech-pause-laken-riley-donald-trump/": {
-        "title": "White House Officially Claims Biden Has Made 148 Mistakes During Public Remarks So far This Year...",
-        "added": "2024-04-30T01:38:08.841047+00:00",
-        "description": "White House Officially Claims Biden Has Made 148 Mistakes During 2024 Public Remarks"
-    },
-    "http://www.drudgereport.comv": {
-        "title": "The long history of older and younger people not seeing eye to eye...",
-        "added": "2024-04-30T01:38:08.841047+00:00",
-        "description": ""
     },
     "https://projects.fivethirtyeight.com/polls/president-general/2024/national/": {
         "title": "538...",
