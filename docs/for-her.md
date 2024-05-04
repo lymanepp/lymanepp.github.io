@@ -1,59 +1,59 @@
-* https://www.the-generous-wife.com/2009/06/05/just-a-minute/
-* https://www.the-generous-wife.com/2009/06/27/just-a-peek/
-* https://www.the-generous-wife.com/2009/07/01/touch-me/
-* https://www.the-generous-wife.com/2009/07/02/top-of-the-list/
-* https://www.the-generous-wife.com/2009/07/08/compliment/
-* https://www.the-generous-wife.com/2009/07/22/hmmm-nice/
-* https://www.the-generous-wife.com/2009/08/11/shhhh/
-* https://www.the-generous-wife.com/2009/08/14/good-fun/
-* https://www.the-generous-wife.com/2009/09/11/friends/
-* https://www.the-generous-wife.com/2009/09/15/listen-up-2/
-* https://www.the-generous-wife.com/2009/09/16/color-me-red/
-* https://www.the-generous-wife.com/2009/09/24/forgiven-forgiven-forgiven/
-* https://www.the-generous-wife.com/2009/09/29/touch-junkie/
-* https://www.the-generous-wife.com/2009/10/06/attitude-choice/
-* https://www.the-generous-wife.com/2009/10/17/give-him-a-choice/
-* https://www.the-generous-wife.com/2009/10/20/well-done/
-* https://www.the-generous-wife.com/2009/10/24/creativity/
-* https://www.the-generous-wife.com/2009/10/25/baby-steps/
-* https://www.the-generous-wife.com/2009/10/31/find-me/
-* https://www.the-generous-wife.com/2009/11/12/kindness/
-* https://www.the-generous-wife.com/2009/11/14/signals/
-* https://www.the-generous-wife.com/2009/11/18/pass-go-and-collect/
-* https://www.the-generous-wife.com/2009/11/19/tough-one/
-* https://www.the-generous-wife.com/2009/11/21/stocking-fun/
-* https://www.the-generous-wife.com/2009/11/23/volunteer-together/
-* https://www.the-generous-wife.com/2009/12/02/a-little-tease/
-* https://www.the-generous-wife.com/2009/12/04/around-town/
-* https://www.the-generous-wife.com/2009/12/12/hon-i-need-a-little-help/
-* https://www.the-generous-wife.com/2009/12/15/water-conservation/
-* https://www.the-generous-wife.com/2009/12/21/hug-break/
-* https://www.the-generous-wife.com/2009/12/31/lazy-day/
-* https://www.the-generous-wife.com/2010/01/03/new-years-resolutions-3/
-* https://www.the-generous-wife.com/2010/01/11/very-important-person/
-* https://www.the-generous-wife.com/2010/01/12/im-all-ears/
-* https://www.the-generous-wife.com/2010/01/15/10-dreams/
-* https://www.the-generous-wife.com/2010/01/21/buttons/
-* https://www.the-generous-wife.com/2010/01/22/common-ground/
-* https://www.the-generous-wife.com/2010/01/29/listen-well/
-* https://www.the-generous-wife.com/2010/02/12/girl-time/
-* https://www.the-generous-wife.com/2010/02/22/sneak/
-* https://www.the-generous-wife.com/2010/02/23/stop-look-and-listen/
-* https://www.the-generous-wife.com/2010/02/24/you-are-more-important/
-* https://www.the-generous-wife.com/2010/02/27/play-the-edge/
-* https://www.the-generous-wife.com/2010/03/02/let-it-go/
-* https://www.the-generous-wife.com/2010/03/13/allover-blessing/
-* https://www.the-generous-wife.com/2010/03/16/processing-speed/
-* https://www.the-generous-wife.com/2010/03/17/couple-kindness/
-* https://www.the-generous-wife.com/2010/03/23/take-notes/
-* https://www.the-generous-wife.com/2010/03/27/sensuous-moments/
-* https://www.the-generous-wife.com/2010/03/31/would-you-want-to-be-married-to-you/
-* https://www.the-generous-wife.com/2010/04/03/as-you-wish/
-* https://www.the-generous-wife.com/2010/04/21/find-the-spot/
-* https://www.the-generous-wife.com/2010/04/24/take-your-time-2/
-* https://www.the-generous-wife.com/2010/05/04/take-note/
-* https://www.the-generous-wife.com/2010/05/07/i-am-better-because-of-you/
-* https://www.the-generous-wife.com/2010/05/10/appreciation-2/
-* https://www.the-generous-wife.com/2010/05/11/fixing-stuff/
-* https://www.the-generous-wife.com/2010/05/14/generosity/
-* https://www.the-generous-wife.com/2010/05/22/hungry/
+* [Just a Minute](https://www.the-generous-wife.com/2009/06/05/just-a-minute/)
+* [Just a Peek](https://www.the-generous-wife.com/2009/06/27/just-a-peek/)
+* [Touch Me](https://www.the-generous-wife.com/2009/07/01/touch-me/)
+* [Top of the List](https://www.the-generous-wife.com/2009/07/02/top-of-the-list/)
+* [Compliment](https://www.the-generous-wife.com/2009/07/08/compliment/)
+* [Hmmm Nice](https://www.the-generous-wife.com/2009/07/22/hmmm-nice/)
+* [Shhhh!](https://www.the-generous-wife.com/2009/08/11/shhhh/)
+* [Good Fun](https://www.the-generous-wife.com/2009/08/14/good-fun/)
+* [Friends](https://www.the-generous-wife.com/2009/09/11/friends/)
+* [Listen Up](https://www.the-generous-wife.com/2009/09/15/listen-up-2/)
+* [Color Me Red](https://www.the-generous-wife.com/2009/09/16/color-me-red/)
+* [Forgiven, forgiven, forgiven ...](https://www.the-generous-wife.com/2009/09/24/forgiven-forgiven-forgiven/)
+* [Touch Junkie](https://www.the-generous-wife.com/2009/09/29/touch-junkie/)
+* [Attitude & Choice](https://www.the-generous-wife.com/2009/10/06/attitude-choice/)
+* [Give Him a Choice](https://www.the-generous-wife.com/2009/10/17/give-him-a-choice/)
+* [Well Done!](https://www.the-generous-wife.com/2009/10/20/well-done/)
+* [Creativity](https://www.the-generous-wife.com/2009/10/24/creativity/)
+* [Baby Steps](https://www.the-generous-wife.com/2009/10/25/baby-steps/)
+* [Find Me](https://www.the-generous-wife.com/2009/10/31/find-me/)
+* [Kindness](https://www.the-generous-wife.com/2009/11/12/kindness/)
+* [Signals](https://www.the-generous-wife.com/2009/11/14/signals/)
+* [Pass Go and Collect ...](https://www.the-generous-wife.com/2009/11/18/pass-go-and-collect/)
+* [Tough One](https://www.the-generous-wife.com/2009/11/19/tough-one/)
+* [Stocking Fun](https://www.the-generous-wife.com/2009/11/21/stocking-fun/)
+* [Volunteer Together](https://www.the-generous-wife.com/2009/11/23/volunteer-together/)
+* [A Little Tease](https://www.the-generous-wife.com/2009/12/02/a-little-tease/)
+* [Around Town](https://www.the-generous-wife.com/2009/12/04/around-town/)
+* [Hon, I Need a Little Help](https://www.the-generous-wife.com/2009/12/12/hon-i-need-a-little-help/)
+* [Water Conservation ;)](https://www.the-generous-wife.com/2009/12/15/water-conservation/)
+* [Hug Break](https://www.the-generous-wife.com/2009/12/21/hug-break/)
+* [Lazy Day](https://www.the-generous-wife.com/2009/12/31/lazy-day/)
+* [New Year's Resolutions 3](https://www.the-generous-wife.com/2010/01/03/new-years-resolutions-3/)
+* [Very Important Person](https://www.the-generous-wife.com/2010/01/11/very-important-person/)
+* [I'm All Ears](https://www.the-generous-wife.com/2010/01/12/im-all-ears/)
+* [10 Dreams](https://www.the-generous-wife.com/2010/01/15/10-dreams/)
+* [Buttons](https://www.the-generous-wife.com/2010/01/21/buttons/)
+* [Common Ground](https://www.the-generous-wife.com/2010/01/22/common-ground/)
+* [Listen Well](https://www.the-generous-wife.com/2010/01/29/listen-well/)
+* [Girl Time](https://www.the-generous-wife.com/2010/02/12/girl-time/)
+* [Sneak](https://www.the-generous-wife.com/2010/02/22/sneak/)
+* [Stop, Look and Listen](https://www.the-generous-wife.com/2010/02/23/stop-look-and-listen/)
+* [You Are More Important](https://www.the-generous-wife.com/2010/02/24/you-are-more-important/)
+* [Play the Edge](https://www.the-generous-wife.com/2010/02/27/play-the-edge/)
+* [Let It Go](https://www.the-generous-wife.com/2010/03/02/let-it-go/)
+* [Allover Blessing](https://www.the-generous-wife.com/2010/03/13/allover-blessing/)
+* [Processing Speed](https://www.the-generous-wife.com/2010/03/16/processing-speed/)
+* [Couple Kindness](https://www.the-generous-wife.com/2010/03/17/couple-kindness/)
+* [Take Notes](https://www.the-generous-wife.com/2010/03/23/take-notes/)
+* [Sensuous Moments](https://www.the-generous-wife.com/2010/03/27/sensuous-moments/)
+* [Would You Want to be Married to You?](https://www.the-generous-wife.com/2010/03/31/would-you-want-to-be-married-to-you/)
+* [As You Wish](https://www.the-generous-wife.com/2010/04/03/as-you-wish/)
+* [Find the Spot](https://www.the-generous-wife.com/2010/04/21/find-the-spot/)
+* [Take Your Time](https://www.the-generous-wife.com/2010/04/24/take-your-time-2/)
+* [Take Note](https://www.the-generous-wife.com/2010/05/04/take-note/)
+* [I Am Better Because of You](https://www.the-generous-wife.com/2010/05/07/i-am-better-because-of-you/)
+* [Appreciation](https://www.the-generous-wife.com/2010/05/10/appreciation-2/)
+* [Fixing Stuff](https://www.the-generous-wife.com/2010/05/11/fixing-stuff/)
+* [Be a Student](https://www.the-generous-wife.com/2010/05/14/generosity/)
+* [Hungry](https://www.the-generous-wife.com/2010/05/22/hungry/)
