@@ -1,4 +1,19 @@
 {
+    "https://www.newsweek.com/1897602": {
+        "title": "Threatens UK With Strikes on British Targets...",
+        "added": "2024-05-06T20:08:01.675787+00:00",
+        "description": "Russia threatens UK with strikes on British targets"
+    },
+    "https://www.dailymail.co.uk/news/article-13387481": {
+        "title": "Luxury beach town goes to war with locals renting out homes to tourists...",
+        "added": "2024-05-06T20:08:01.675787+00:00",
+        "description": "Beach town goes to war with locals renting out their homes to tourists"
+    },
+    "https://www.cnn.com/2024/05/05/business/retailers-cutting-prices/index.html": {
+        "title": "Retailers jacked up prices, squeezed consumers. They might have just blinked...",
+        "added": "2024-05-06T20:08:01.675787+00:00",
+        "description": "Retailers jacked up prices and squeezed consumers. They might have just blinked | CNN Business"
+    },
     "https://www.jpost.com/breaking-news/article-800163": {
         "title": "IDF strikes terror targets in Rafah...",
         "added": "2024-05-06T19:46:38.744316+00:00",
@@ -342,11 +357,6 @@
     "https://www.axios.com/2024/05/05/satellites-crowded-orbit-spacex": {
         "title": "Thanks, Elon:  Congestion in Earth orbit getting even worse...",
         "added": "2024-05-06T00:35:51.269597+00:00",
-        "description": ""
-    },
-    "https://www.axios.com/2024/05/04/bird-flu-wildlife-mammals": {
-        "title": "BIRD FLU FEARS RISE",
-        "added": "2024-05-04T13:07:41.356098+00:00",
         "description": ""
     },
     "https://projects.fivethirtyeight.com/polls/president-general/2024/national/": {
