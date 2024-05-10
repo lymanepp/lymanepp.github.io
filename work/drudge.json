@@ -1,4 +1,24 @@
 {
+    "https://www.dailymail.co.uk/sciencetech/article-13402759/Severe-solar-storm-watch-alert-NOAA.html": {
+        "title": "World told to brace for 'severe geomagnetic storm'...",
+        "added": "2024-05-10T10:46:44.132637+00:00",
+        "description": "'Severe geomagnetic storm watch' issued"
+    },
+    "https://www.cnn.com/2024/05/09/weather/us-tornado-reports-streak-climate-dg/index.html": {
+        "title": "USA in middle of exceptional tornado streak...",
+        "added": "2024-05-10T10:46:44.132637+00:00",
+        "description": "The US is in the middle of an exceptional tornado streak. Here\u2019s what it looks like | CNN"
+    },
+    "https://www.cnn.com/2024/05/09/tech/apple-apologizes-for-ipad-pro-ad/index.html": {
+        "title": "UPDATE: APPLE apologizes for controversial iPad Pro ad...",
+        "added": "2024-05-10T10:46:44.132637+00:00",
+        "description": "Apple apologizes for its controversial iPad Pro ad | CNN Business"
+    },
+    "https://metro.co.uk/2024/05/10/rare-powerful-solar-storm-hit-today-impact-worlds-power-grid-20811258/": {
+        "title": "Knock out internet?",
+        "added": "2024-05-10T10:46:44.132637+00:00",
+        "description": "Earth to be pounded by rare solar storm that could wipe out the internet"
+    },
     "https://www.msn.com/en-us/news/world/ar-BB1m5PVP": {
         "title": "Protesters flood EUROVISION...",
         "added": "2024-05-10T10:36:12.689420+00:00",
@@ -274,55 +294,15 @@
         "added": "2024-05-09T11:06:52.222532+00:00",
         "description": "Trump hush money trial live updates: Stormy Daniels is set to return to the witness stand"
     },
-    "https://www.msn.com/en-us/news/world/emboldened-russia-marks-victory-day-with-parade-of-nuclear-capable-weapons/ar-BB1m5tGg": {
-        "title": "Emboldened Russia marks Victory Day with parade of nuke-capable weapons...",
-        "added": "2024-05-09T10:46:44.094535+00:00",
-        "description": "Emboldened Russia marks Victory Day with parade of nuclear-capable weapons"
-    },
-    "https://www.dailymail.co.uk/news/article-13397589/suicides-wyoming-town-casper-fourth-highest-world.html": {
-        "title": "Inside rural town where suicide rate has exploded...",
-        "added": "2024-05-09T10:46:44.094535+00:00",
-        "description": "Inside the rural town where suicide rate has exploded"
-    },
     "https://www.independent.co.uk/news/uk/home-news/allergies-children-sure-peanut-milk-b2541415.html": {
         "title": "Scientists first step in making food allergies history...",
         "added": "2024-05-09T01:41:47.416650+00:00",
         "description": "Scientists celebrate \u2018first step\u2019 in making food allergies history"
     },
-    "https://www.independent.co.uk/arts-entertainment/tv/news/travis-kelce-ryan-murphy-grotesque-b2541687.html": {
-        "title": "Travis Kelce to make acting debut in new Ryan Murphy series...",
-        "added": "2024-05-09T01:41:47.416650+00:00",
-        "description": "Travis Kelce to make acting debut in new Ryan Murphy horror series"
-    },
     "https://www.yahoo.com/lifestyle/upf-became-dietary-devil-time-070000971.html": {
         "title": "Eating ultra-processed meat linked to greater risk of early death...",
         "added": "2024-05-09T00:35:22.083976+00:00",
         "description": "Ultra-processed foods (UPFs) are harming our health \u2013 here\u2019s what to eat instead"
-    },
-    "https://www.axios.com/2024/05/08/schumer-bipartisan-border-deal-vote-republicans": {
-        "title": "Schumer to revive border deal to challenge Republicans...",
-        "added": "2024-05-08T23:32:02.031535+00:00",
-        "description": ""
-    },
-    "https://deadline.com/2024/05/ipad-ad-backlash-crushinghugh-grant-justine-bateman-1235909002/": {
-        "title": "APPLE's Crushing iPad Ad Trashed...",
-        "added": "2024-05-08T23:32:02.031535+00:00",
-        "description": "Apple\u2019s Crushing iPad Ad Trashed By Hugh Grant, Justine Bateman & Almost Everyone Else"
-    },
-    "https://weather.com/storms/tornado/news/2024-05-02-severe-weather-tornado-forecast-plains-midwest-south-may": {
-        "title": "DAY 3:  Severe Weather Outbreak Packs Tornado, Wind, Hail, Flood Threats In Midwest, South, East...",
-        "added": "2024-05-08T23:22:46.623871+00:00",
-        "description": "Severe Weather Outbreak Brings Tornado, Wind Threat | Weather.com"
-    },
-    "https://www.msn.com/en-us/health/other/ar-BB1m3RmK": {
-        "title": "NEURALINK First Brain-Chip Implant in Human Appeared Flawless. There Was a Problem...",
-        "added": "2024-05-08T21:46:51.108927+00:00",
-        "description": "Neuralink\u2019s First Brain-Chip Implant in a Human Appeared Flawless. There Was a Problem."
-    },
-    "https://finance.yahoo.com/news/google-deepmind-unveils-next-generation-150340750.html": {
-        "title": "GOOGLE AI TO DEVELOP BETTER DRUGS...",
-        "added": "2024-05-08T15:46:38.548311+00:00",
-        "description": "Google DeepMind unveils next generation of drug discovery AI model"
     },
     "https://theintercept.com/": {
         "title": "INTERCEPT",
