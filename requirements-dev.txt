@@ -1,1 +1,1 @@
-types-beautifulsoup4==4.12.0.20240504
+types-beautifulsoup4==4.12.0.20240511
