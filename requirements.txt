@@ -2,5 +2,5 @@ beautifulsoup4==4.12.3
 fuzzywuzzy==0.18.0
 html5lib==1.1
 python-Levenshtein==0.25.1
-requests==2.31.0
+requests==2.32.0
 yarl==1.9.4
