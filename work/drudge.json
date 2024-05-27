@@ -1,4 +1,14 @@
 {
+    "https://www.yahoo.com/news/israeli-army-exchange-fire-border-144749739.html": {
+        "title": "Rafah border crossing becomes hotspot in war...",
+        "added": "2024-05-27T15:46:43.804745+00:00",
+        "description": "Israeli army: Exchange of fire at the border with Egypt"
+    },
+    "https://www.dailymail.co.uk/news/article-13464019/Rishi-Sunak-National-Service-election-teenagers-boomers.html": {
+        "title": "'Political suicide'...",
+        "added": "2024-05-27T15:46:43.804745+00:00",
+        "description": "PM defends 'bold' National Service plan amid Tory election row"
+    },
     "https://www.the-sun.com/news/11470138/israel-hamas-war-rafah-egypt-soldier-dead-shooting/": {
         "title": "At least 1 dead after IDF and EGYPTIAN soldiers exchange fire...",
         "added": "2024-05-27T15:31:55.715932+00:00",
@@ -298,11 +308,6 @@
         "title": "America's secretive $745M nuke bomber takes flight in first test...",
         "added": "2024-05-26T16:08:21.331152+00:00",
         "description": "America's secretive $745M nuclear bomber makes its first aerial test"
-    },
-    "https://www.msn.com/en-us/news/other/ar-BB1n2HeP": {
-        "title": "Mexico City's water 'Day Zero' may come even for wealthiest residents...",
-        "added": "2024-05-26T15:31:57.860837+00:00",
-        "description": "Mexico City\u2019s water \u2018Day Zero\u2019 may come even for the wealthiest residents"
     },
     "https://www.youtube.com/watch?v=Ls8tmlhjN58": {
         "title": "VIDEO...",
@@ -1043,11 +1048,6 @@
         "title": "QUAKE SHEET",
         "added": "2021-01-17T19:05:32.742473+00:00",
         "description": ""
-    },
-    "http://www.dpa-international.com/news/international/": {
-        "title": "DEUTSCHE PRESSE-AGENTUR",
-        "added": "2021-01-17T19:05:32.742473+00:00",
-        "description": "The dpa is the independent service provider for day-topical, multimedia contents. The news agency supplies media and enterprises from the home and foreign countries."
     },
     "http://www.deadline.com/hollywood/": {
         "title": "DEADLINE HOLLYWOOD",
