@@ -1,4 +1,9 @@
 {
+    "https://www.france24.com/en/live-news/20240605-israel-police-deploy-ahead-of-flashpoint-jerusalem-march": {
+        "title": "Police deploy ahead of flashpoint Jerusalem march...",
+        "added": "2024-06-05T13:17:07.149507+00:00",
+        "description": ""
+    },
     "https://www.usatoday.com/story/news/politics/elections/2024/06/05/trump-indicted-candidates-shouldnt-run/73960851007/": {
         "title": "When Trump said indicted president 'would cripple' govt...",
         "added": "2024-06-05T12:58:55.528152+00:00",
@@ -348,11 +353,6 @@
         "title": "Can money conquer death?",
         "added": "2024-06-04T13:31:37.720016+00:00",
         "description": "Can money conquer death? How wealthy people are trying to live forever"
-    },
-    "https://www.cnbc.com/2024/06/04/elon-musk-told-nvidia-to-ship-ai-chips-reserved-for-tesla-to-x-xai.html": {
-        "title": "Musk ordered NVIDIA to ship thousands of AI chips reserved for TESLA to X...",
-        "added": "2024-06-04T13:16:27.595611+00:00",
-        "description": "Elon Musk ordered Nvidia to ship thousands of AI chips reserved for Tesla to X and xAI"
     },
     "https://dnyuz.com/2024/06/04/openai-insiders-warn-of-a-reckless-race-for-dominance/": {
         "title": "OPENAI Insiders Warn of 'Reckless' Race for Dominance...",
