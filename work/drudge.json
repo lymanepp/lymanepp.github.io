@@ -1,4 +1,14 @@
 {
+    "https://www.cnbc.com/2024/06/05/nvidia-passes-apple-in-market-cap.html": {
+        "title": "NVIDIA passes APPLE for second most valuable public U.S. company...",
+        "added": "2024-06-05T19:31:54.797314+00:00",
+        "description": "Nvidia briefly passes Apple as second most valuable public U.S. company"
+    },
+    "https://apnews.com/585114c43cc5be4867d8ff7861ea7d5f": {
+        "title": "HISTORIC HEAT:  Record highs to fall as Southwest bakes...",
+        "added": "2024-06-05T19:31:54.797314+00:00",
+        "description": "Record highs expected to fall as Southwest US bakes in first heat wave of season earlier than usual"
+    },
     "https://www.cnn.com/2024/06/04/politics/cannon-trump-special-counsel-hearing/index.html": {
         "title": "Cannon rips up court schedule in Mar-a-Lago case in ways that benefit Don...",
         "added": "2024-06-05T19:18:54.675238+00:00",
@@ -354,16 +364,6 @@
         "added": "2024-06-04T19:46:47.102599+00:00",
         "description": "Vinod Khosla, Marc Andreessen And The Billionaire Battle For AI's Future"
     },
-    "https://www.npr.org/nx-s1-4992306": {
-        "title": "The-Dream, Hitmaker for Beyonce and Rihanna, Accused of Rape...",
-        "added": "2024-06-04T19:31:46.145492+00:00",
-        "description": "The-Dream, R&B star and Beyonc\u00e9 songwriter, accused of rape"
-    },
-    "https://heartlandsignal.com/2024/06/04/rnc-website-featured-image-of-ho-chi-minh-city-instead-of-milwaukee/": {
-        "title": "RNC website featured image of Ho Chi Minh City instead of Milwaukee...",
-        "added": "2024-06-04T19:20:06.701146+00:00",
-        "description": "RNC website featured image of Ho Chi Minh City instead of Milwaukee"
-    },
     "https://nypost.com/2024/06/04/lifestyle/remote-amazon-tribe-connects-to-elon-musks-starlink-internet-service-become-hooked-on-porn-social-media/": {
         "title": "Remote Amazon tribe connects to Musk's STARLINK: Now hooked on porn, socials...",
         "added": "2024-06-04T19:06:30.389475+00:00",
@@ -373,11 +373,6 @@
         "title": "Colon cancer crisis in young people could be fueled by energy drinks...",
         "added": "2024-06-04T18:38:26.674461+00:00",
         "description": "Cancer crisis in young people may be fueled by drinks adored by teens"
-    },
-    "https://apnews.com/article/record-heat-southwest-arizona-california-vegas-585114c43cc5be4867d8ff7861ea7d5f": {
-        "title": "Heat Dome To Scorch West With Record Highs...",
-        "added": "2024-06-04T11:32:18.504129+00:00",
-        "description": "Southwest US to bake in first heat wave of season and records may fall"
     },
     "https://www.dw.com/en/top-stories/s-9097": {
         "title": "DEUTCHE WELLE",
