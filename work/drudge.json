@@ -1,4 +1,19 @@
 {
+    "https://www.msn.com/en-us/weather/topstories/string-of-earthquakes-rattles-southern-california-are-they-telling-us-something-bigger/ar-BB1nWAGD": {
+        "title": "String of quakes rattles SoCal. Are they telling us something bigger?",
+        "added": "2024-06-10T12:45:33.121587+00:00",
+        "description": "String of earthquakes rattles Southern California. Are they telling us something bigger?"
+    },
+    "https://www.msn.com/en-us/entertainment/news/why-hollywoods-jobs-picture-remains-bleak/ar-BB1nWz6g": {
+        "title": "Tinseltown jobs picture remains bleak...",
+        "added": "2024-06-10T12:45:33.121587+00:00",
+        "description": "Why Hollywood's jobs picture remains bleak"
+    },
+    "https://www.cnn.com/2024/06/09/us/tren-de-aragua-venezuela-gang/index.html": {
+        "title": "The dangerous Venezuelan gang infiltrating USA...",
+        "added": "2024-06-10T12:45:33.121587+00:00",
+        "description": "This is the dangerous Venezuelan gang infiltrating the US that you probably know nothing about but should | CNN"
+    },
     "https://www.zerohedge.com/economics/there-financial-crisis-bubbling-under-surface": {
         "title": "Is Financial Crisis Bubbling Under Surface?",
         "added": "2024-06-10T12:14:37.505857+00:00",
@@ -224,21 +239,6 @@
         "added": "2024-06-09T12:55:46.286563+00:00",
         "description": "Glamorous Atlanta prosecutor jailed for stealing $15m of Covid funds"
     },
-    "https://www.nbcnews.com/news/rcna156204": {
-        "title": "European Parliament poised for rightward shift after final voting... Developing...",
-        "added": "2024-06-09T12:42:03.849469+00:00",
-        "description": "European Parliament poised for rightward shift after final voting"
-    },
-    "https://www.dailymail.co.uk/news/article-13509789": {
-        "title": "Billionaire arrested for sexually assaulting multiple women...",
-        "added": "2024-06-09T12:42:03.849469+00:00",
-        "description": "Auto parts billionaire, 91, arrested on sexual assault charges"
-    },
-    "https://sg.news.yahoo.com/bill-maher-shocks-audience-trump-214945273.html": {
-        "title": "Maher Shocks Audience With Trump Prison-Rape Joke...",
-        "added": "2024-06-09T12:42:03.849469+00:00",
-        "description": "Bill Maher Shocks Audience With Trump Prison-Rape Joke"
-    },
     "https://www.politico.com/news/magazine/2024/06/07/independent-voters-american-politics-00162095": {
         "title": "Americans Leaving Both Parties. Colorado City Shows Why...",
         "added": "2024-06-09T12:13:49.593771+00:00",
@@ -258,11 +258,6 @@
         "title": "Texas towns try to close roads to abortion-seekers...",
         "added": "2024-06-09T10:46:39.059684+00:00",
         "description": ""
-    },
-    "https://www.dailymail.co.uk/sciencetech/article-13502357": {
-        "title": "The haunting connection between UFOs and nuclear weapons...",
-        "added": "2024-06-09T10:26:46.609734+00:00",
-        "description": "Why do UFOs appear to study nuclear sites?"
     },
     "https://www.stripes.com/theaters/europe/2024-06-08/russia-breakthrough-window-narrowing-ukraine-14121489.html": {
         "title": "Putin running out of time to achieve breakthrough in Ukraine...",
