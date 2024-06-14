@@ -1,4 +1,24 @@
 {
+    "https://www.reuters.com/investigates/special-report/usa-covid-propaganda/": {
+        "title": "Pentagon ran secret anti-vax campaign to undermine China during pandemic...",
+        "added": "2024-06-14T11:46:52.009516+00:00",
+        "description": ""
+    },
+    "https://www.msn.com/en-us/news/world/ar-BB1o7OhR": {
+        "title": "How Iran-Backed Militia Ties Down U.S. Naval Forces in Red Sea...",
+        "added": "2024-06-14T11:46:52.009516+00:00",
+        "description": "How an Iranian-Backed Militia Ties Down U.S. Naval Forces in the Red Sea"
+    },
+    "https://www.msn.com/en-us/music/other/ar-BB1o7Dcp": {
+        "title": "Why Pop Music Is So 'Meh' Right Now...",
+        "added": "2024-06-14T11:46:52.009516+00:00",
+        "description": "Why Pop Music Is So \u2018Meh\u2019 Right Now"
+    },
+    "https://www.axios.com/2024/06/14/trump-milwaukee-billboards-dnc": {
+        "title": "Dems launching billboards hitting Trump over Milwaukee comments...",
+        "added": "2024-06-14T11:46:52.009516+00:00",
+        "description": ""
+    },
     "https://www.theguardian.com/world/article/2024/jun/14/bird-flu-testing-cdc": {
         "title": "Top CDC officials warns US needs more tests in face of bird flu fears...",
         "added": "2024-06-14T11:32:01.893831+00:00",
@@ -418,11 +438,6 @@
         "title": "'Dyson spheres' were theorized as way to detect alien life. Scientists say they've found evidence...",
         "added": "2024-06-13T12:14:41.599203+00:00",
         "description": "Dyson spheres: Could alien megastructures exist in the Milky Way? Scientists found 7 places to look | CNN"
-    },
-    "https://www.yahoo.com/news/eating-luxury-argentina-inflation-falls-110609713.html": {
-        "title": "'Eating is luxury'...",
-        "added": "2024-06-13T11:46:40.498637+00:00",
-        "description": "'Eating is a luxury': Argentina inflation falls but shoppers still feel squeezed"
     },
     "https://www.jpost.com/middle-east/article-806019": {
         "title": "Hezbollah leadership shaken after Israeli elimination...",
