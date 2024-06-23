@@ -76,7 +76,7 @@ As Christianity grew and spread, many pagan rituals and symbols were absorbed in
 
 The veneration of saints in Catholicism has parallels with the pagan practice of honoring heroes and deities. Many early Christian saints were venerated at sites previously dedicated to pagan gods. The concept of intercession by saints mirrors the role of pagan gods and demigods who were believed to intervene in human affairs.
 
-### The Cult of Mary
+### Worship of Mary
 
 The elevation of the Virgin Mary in Catholicism shares similarities with the veneration of mother goddesses in pagan traditions, such as Isis in Egyptian religion and Cybele in Roman tradition. Mary's portrayal as the "Queen of Heaven" and the practices surrounding her worship, including feasts and processions, can be seen as continuations of these older traditions.
 
@@ -100,7 +100,7 @@ The Protestant Reformation, which began in the early 16th century, was a respons
 
 ### Critique of Pagan Elements
 
-Reformers criticized the Catholic Church for retaining what they saw as pagan elements and practices. They argued that the veneration of saints, the use of religious relics, and the celebration of certain feast days had no basis in the Bible and were remnants of pagan worship. This critique extended to the elaborate rituals and the hierarchical structure of the Catholic Church, which they believed obscured the simplicity of the Gospel.
+Reformers criticized the Catholic Church for retaining the pagan elements and practices. They argued that the veneration of saints, the use of religious relics, and the celebration of certain feast days had no basis in the Bible and were remnants of pagan worship. This critique extended to the elaborate rituals and the hierarchical structure of the Catholic Church, which they believed obscured the simplicity of the Gospel.
 
 ### Iconoclasm
 
@@ -112,7 +112,7 @@ Reformers sought to simplify Christian worship, stripping away what they conside
 
  holy water, and other elements derived from pagan practices. The architecture of Protestant churches also reflected this simplicity, moving away from the grandiose designs of Catholic cathedrals to more austere and functional spaces.
 
-### Rejection of the Cult of Saints and Mary
+### Rejection of Veneration of Saints and Mary
 
 One of the most profound shifts was the rejection of the veneration of saints and the Virgin Mary. Reformers argued that Christ alone should be the mediator between God and humans, rendering the intercession of saints unnecessary. This rejection was a direct challenge to the Catholic Church’s integration of pagan hero worship into its veneration of saints.
 
