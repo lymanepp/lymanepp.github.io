@@ -82,7 +82,7 @@ The elevation of the Virgin Mary in Catholicism shares similarities with the ven
 
 ### Religious Festivals and Holy Days
 
-Many Catholic holy days coincide with former pagan festivals, reinterpreted through a Christian lens. The timing of Easter, which coincides with the spring equinox, reflects the integration of pagan spring festivals celebrating renewal and rebirth. Similarly, All Saints' Day and All Souls' Day, celebrated in early November, align with the pagan festival of Samhain, marking a time of honoring the dead.
+Many Catholic holy days coincide with former pagan festivals, reinterpreted through a Christian lens. All Saints' Day and All Souls' Day, celebrated in early November, align with the pagan festival of Samhain, marking a time of honoring the dead.
 
 ### Rituals and Sacraments
 
