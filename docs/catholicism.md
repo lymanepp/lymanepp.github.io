@@ -108,9 +108,7 @@ A significant aspect of the Reformation was iconoclasm, the rejection and destru
 
 ### Simplification of Worship
 
-Reformers sought to simplify Christian worship, stripping away what they considered extraneous rituals and focusing on preaching and the reading of Scripture. They eliminated the use of incense,
-
- holy water, and other elements derived from pagan practices. The architecture of Protestant churches also reflected this simplicity, moving away from the grandiose designs of Catholic cathedrals to more austere and functional spaces.
+Reformers sought to simplify Christian worship, stripping away what they considered extraneous rituals and focusing on preaching and the reading of Scripture. They eliminated the use of incense, holy water, and other elements derived from pagan practices. The architecture of Protestant churches also reflected this simplicity, moving away from the grandiose designs of Catholic cathedrals to more austere and functional spaces.
 
 ### Rejection of Veneration of Saints and Mary
 
@@ -128,7 +126,7 @@ Even after the Reformation, the Roman Catholic Church continued to evolve and in
 
 ### Marian Apparitions and Devotions
 
-One significant development was the increasing prominence of Marian apparitions and the resulting devotions. Apparitions such as those at Lourdes (1858) and Fatima (1917) led to the establishment of new feast days and devotions centered on the Virgin Mary. These events, while not explicitly rooted in Scripture, have become central to Catholic piety and practice.
+One significant development was the increasing prominence of Marian apparitions and the resulting devotions. Apparitions such as those at Lourdes (1858) and Fatima (1917) led to the establishment of new feast days and devotions centered on the Virgin Mary. These events, while not based on Scripture, have become central to Catholic piety and practice.
 
 ### The Rosary
 
@@ -136,7 +134,7 @@ The Rosary, a form of prayer involving the repetition of Hail Marys, Our Fathers
 
 ### The Doctrine of Papal Infallibility
 
-The First Vatican Council (1869-1870) proclaimed the doctrine of papal infallibility, asserting that the Pope is preserved from error when proclaiming doctrines of faith and morals. This doctrine, while rooted in the Church’s tradition of apostolic succession, is not explicitly detailed in Scripture.
+The First Vatican Council (1869-1870) proclaimed the doctrine of papal infallibility, asserting that the Pope is preserved from error when proclaiming doctrines of faith and morals. This doctrine, while rooted in the Church’s tradition of apostolic succession, is not based on Scripture.
 
 ### Sacred Heart Devotion
 
