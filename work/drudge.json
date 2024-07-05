@@ -1,4 +1,14 @@
 {
+    "https://www.cnbc.com/2024/07/05/jobs-report-june-2024.html": {
+        "title": "Economy adds 206,000 jobs in June, unemployment rate rises to 4.1%...",
+        "added": "2024-07-05T12:44:00.153990+00:00",
+        "description": "U.S. economy added 206,000 jobs in June, unemployment rate rises to 4.1%"
+    },
+    "https://weather.com/storms/hurricane/news/2024-07-02-hurricane-beryl-forecast-jamaica-mexico-texas": {
+        "title": "Evacuation Warning...",
+        "added": "2024-07-05T12:44:00.153990+00:00",
+        "description": "Hurricane Beryl Targets Yucatan Peninsula | Weather.com"
+    },
     "https://www.msn.com/en-us/news/world/france-braces-for-potential-political-earthquake-a-far-right-surge-what-to-know-about-the-election/ar-BB1psvyS": {
         "title": "WEEKEND: France braces for potential political earthquake: Far-right surge...",
         "added": "2024-07-05T12:14:18.701672+00:00",
@@ -268,16 +278,6 @@
         "title": "Destroys more than 90% of buildings on some Caribbean islands...",
         "added": "2024-07-04T12:45:01.064559+00:00",
         "description": "Some Caribbean islands see almost 'total destruction' after Hurricane Beryl"
-    },
-    "https://www.msn.com/en-us/news/politics/the-partisan-gap-in-views-of-american-greatness/ar-BB1poRAU": {
-        "title": "The partisan gap in views of American greatness...",
-        "added": "2024-07-04T12:14:53.820151+00:00",
-        "description": "The partisan gap in views of American greatness"
-    },
-    "https://news.gallup.com/poll/646655/american-pride-remains-near-record-low.aspx": {
-        "title": "US Pride Remains Near Record Low...",
-        "added": "2024-07-04T12:14:53.820151+00:00",
-        "description": "American Pride Remains Near Record Low"
     },
     "https://www.nbcnews.com/news/investigations/sean-combs-subject-federal-criminal-investigation-rcna160196": {
         "title": "Diddy Combs subject of federal criminal investigation...",
