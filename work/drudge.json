@@ -1,4 +1,49 @@
 {
+    "https://www.yahoo.com/news/france-turmoil-prepares-host-world-103026377.html": {
+        "title": "Nation in turmoil as it prepares to host Olympics...",
+        "added": "2024-07-08T11:07:46.756279+00:00",
+        "description": "France in turmoil as it prepares to 'host the world' for Olympics"
+    },
+    "https://www.msn.com/en-us/weather/topstories/motorcycle-tour-of-death-valley-turns-fatal-as-thermometer-cracks-128-degrees/ar-BB1pzBUU": {
+        "title": "Motorcycle tour of Death Valley turns fatal...",
+        "added": "2024-07-08T11:07:46.756279+00:00",
+        "description": "Motorcycle tour of Death Valley turns fatal as thermometer cracks 128 degrees"
+    },
+    "https://www.msn.com/en-us/news/world/nato-meets-at-a-moment-of-peak-uncertainty-in-the-west/ar-BB1pA81B": {
+        "title": "NATO meets at moment of peak uncertainty in West...",
+        "added": "2024-07-08T11:07:46.756279+00:00",
+        "description": "NATO meets at a moment of peak uncertainty in the West"
+    },
+    "https://www.msn.com/en-us/news/politics/democrats-focus-attacks-on-right-wing-project-2025-pushed-by-trump-allies/ar-BB1pB2Pn": {
+        "title": "Dems focus attacks on right-wing Project 2025 pushed by MAGA...",
+        "added": "2024-07-08T11:07:46.756279+00:00",
+        "description": "Democrats focus attacks on right-wing Project 2025 pushed by Trump allies"
+    },
+    "https://www.msn.com/en-us/news/other/a-billionaire-is-boosting-a-major-defamation-lawsuit-against-fox-news/ar-BB1pATAa": {
+        "title": "Billionaire boosting major defamation lawsuit against FOX...",
+        "added": "2024-07-08T11:07:46.756279+00:00",
+        "description": "A billionaire is boosting a major defamation lawsuit against Fox News"
+    },
+    "https://www.click2houston.com/news/local/2024/07/08/entergy-reporting-435-outages-as-hurricane-beryl-makes-texas-landfall/": {
+        "title": "POWER OUTAGES GROWING...",
+        "added": "2024-07-08T11:07:46.756279+00:00",
+        "description": "Entergy reporting 1,818 outages as Hurricane Beryl makes Texas landfall"
+    },
+    "https://www.axios.com/2024/07/08/stds-rise-among-seniors-syphilis-hpv-hiv-aids-gonorrhea": {
+        "title": "STDs rise among seniors...",
+        "added": "2024-07-08T11:07:46.756279+00:00",
+        "description": ""
+    },
+    "https://www.axios.com/2024/07/08/cloudflare-bot-vs-bot-future": {
+        "title": "The future is all bot vs. bot...",
+        "added": "2024-07-08T11:07:46.756279+00:00",
+        "description": ""
+    },
+    "https://www.axios.com/2024/07/08/biden-braces-tough-week-dc-campaign-2024": {
+        "title": "President braces for brutal week in DC...",
+        "added": "2024-07-08T11:07:46.756279+00:00",
+        "description": ""
+    },
     "https://www.msn.com/en-us/news/world/putin-s-multipolar-world-takes-shape-with-orban-in-beijing-modi-in-moscow/ar-BB1pB9al": {
         "title": "Putin's multipolar world takes shape with Orban in Beijing, Modi in Moscow...",
         "added": "2024-07-08T10:46:46.162239+00:00",
@@ -194,11 +239,6 @@
         "added": "2024-07-07T11:06:35.385622+00:00",
         "description": "Former Trump Staffer Reveals New Texts Alleging More Secret Payoffs and Settlements"
     },
-    "https://www.jpost.com/israel-hamas-war/article-809201": {
-        "title": "Day of disruption: Protests erupt around Israel marking 9 months since Oct. 7...",
-        "added": "2024-07-07T11:06:35.385622+00:00",
-        "description": "Day of disruption: Protests to erupt around Israel marking 9 months since Oct. 7"
-    },
     "https://www.msn.com/en-us/news/world/ar-BB1py2DH": {
         "title": "Democracy in bad health, Pope Francis says...",
         "added": "2024-07-07T10:46:44.363626+00:00",
@@ -234,16 +274,6 @@
         "added": "2024-07-06T20:31:56.071624+00:00",
         "description": "Jill Biden\u2019s Momentous Choice"
     },
-    "https://thehill.com/homenews/4757210": {
-        "title": "HERITAGE faces blowback after 'bloodless' revolution comment...",
-        "added": "2024-07-06T20:08:11.598137+00:00",
-        "description": ""
-    },
-    "https://thehill.com/policy/4754825": {
-        "title": "Faster spreading strain of mpox raises alarm...",
-        "added": "2024-07-06T18:28:12.826576+00:00",
-        "description": ""
-    },
     "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/hamptons-restaurants-nightclubs-hotels-wellness-petcare-1235937820/": {
         "title": "Clash of Hamptons Cultures: 'Don't Want People Wearing Shorts'...",
         "added": "2024-07-06T18:09:25.666543+00:00",
@@ -258,11 +288,6 @@
         "title": "AI-Powered Vending Machines Selling Bullets...",
         "added": "2024-07-06T18:09:25.666543+00:00",
         "description": "Oklahoma, Alabama Now Have AI-Powered Vending Machines That Sell Bullets"
-    },
-    "https://www.msn.com/en-us/news/technology/ar-BB1pvBzm": {
-        "title": "What would happen if Russia detonated nuke bomb in space?",
-        "added": "2024-07-06T17:46:47.397599+00:00",
-        "description": "What would happen if Russia detonated a nuclear bomb in space?"
     },
     "https://nypost.com/2024/07/06/us-news/president-bidens-physician-met-with-parkinsons-disease-specialist-in-white-house": {
         "title": "President's physician met with Parkinson's specialist in White House...",
