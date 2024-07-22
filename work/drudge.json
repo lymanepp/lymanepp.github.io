@@ -1,4 +1,9 @@
 {
+    "https://projects.fivethirtyeight.com/polls/favorability/donald-trump/": {
+        "title": "41.7% Have Favorable Opinion of The Don...",
+        "added": "2024-07-22T00:40:24.162290+00:00",
+        "description": "Donald Trump : Favorability Polls"
+    },
     "https://www.yahoo.com/news/exclusive-50-democratic-party-us-231854254.html": {
         "title": "All 50 Dem party state chairs back Harris...",
         "added": "2024-07-21T23:46:50.185966+00:00",
@@ -258,11 +263,6 @@
         "title": "UPDATE: Fire at First Baptist Dallas causes historic secondary chapel to collapse...",
         "added": "2024-07-20T15:07:10.671205+00:00",
         "description": "Fire at First Baptist Dallas causes historic secondary chapel to \u2018largely\u2019 collapse"
-    },
-    "https://www.yahoo.com/news/trump-hold-first-campaign-rally-100354688.html": {
-        "title": "Trump to hold first campaign rally after assassination attempt...",
-        "added": "2024-07-20T14:46:45.565549+00:00",
-        "description": "Trump to hold first campaign rally after assassination attempt"
     },
     "https://www.france24.com/en/technology/20240720-online-conspiracy-theories-abound-after-major-global-it-crash": {
         "title": "Conspiracy theories abound after IT crash...",
