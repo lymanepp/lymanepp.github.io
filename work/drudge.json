@@ -1,4 +1,14 @@
 {
+    "https://www.washingtonpost.com/technology/2024/07/22/ai-chatbots-breaking-news/": {
+        "title": "Week of nonstop breaking political news stumps AI chatbots...",
+        "added": "2024-07-22T12:15:24.780521+00:00",
+        "description": ""
+    },
+    "https://www.france24.com/en/live-news/20240722-lebron-james-to-be-team-usa-flagbearer-for-paris-olympics": {
+        "title": "LeBron to be Team USA flagbearer...",
+        "added": "2024-07-22T12:15:24.780521+00:00",
+        "description": ""
+    },
     "https://www.cnn.com/2024/07/22/us/microsoft-power-outage-crowdstrike-it/index.html": {
         "title": "TRAVEL HELL: Hundreds of flights canceled for 4th day after tech outage...",
         "added": "2024-07-22T11:46:35.908096+00:00",
@@ -228,36 +238,6 @@
         "title": "Shooter 'flew drone over grounds' hours before event...",
         "added": "2024-07-21T12:43:24.141470+00:00",
         "description": "Trump shooter 'flew drone over rally grounds' hours before ex-president spoke"
-    },
-    "https://www.thebulwark.com/p/enough-with-the-biden-psychodrama": {
-        "title": "MAG: Enough With the Psychodrama...",
-        "added": "2024-07-21T12:14:41.842525+00:00",
-        "description": "Enough With the Biden Psychodrama"
-    },
-    "https://www.mediaite.com/news/bill-and-hillary-clinton-stand-by-biden-amid-mounting-calls-for-him-to-end-campaign-report/": {
-        "title": "Bill and Hillary Clinton Stand by Biden Amid Mounting Calls for Him to End Campaign...",
-        "added": "2024-07-21T12:14:41.842525+00:00",
-        "description": "Bill and Hillary Clinton Stand by Biden Amid Mounting Calls for Him to End Campaign: Report"
-    },
-    "https://dnyuz.com/2024/07/21/campus-protests-led-to-more-than-3100-arrests-but-many-charges-have-been-dropped/": {
-        "title": "Campus Protests Led to More Than 3,100 Arrests. But Many Charges Dropped...",
-        "added": "2024-07-21T12:14:41.842525+00:00",
-        "description": "Campus Protests Led to More Than 3,100 Arrests, but Many Charges Have Been Dropped"
-    },
-    "https://www.the-express.com/news/143726/": {
-        "title": "Apocalyptic 150\u2109 heat dome smashes temp records...",
-        "added": "2024-07-21T11:46:45.844575+00:00",
-        "description": "Apocalyptic 150F heat dome smashes temperature records as the world bakes"
-    },
-    "https://www.msn.com/en-us/weather/topstories/ar-BB1qeCBT": {
-        "title": "Persian Gulf enduring life-threatening season...",
-        "added": "2024-07-21T11:46:45.844575+00:00",
-        "description": "The Persian Gulf is enduring life-threatening heat indexes above 140 degrees"
-    },
-    "https://apnews.com/a78ef6ed281e106d6699f4a044394571": {
-        "title": "89-year-old comedian randomly punched on NY street...",
-        "added": "2024-07-21T11:46:45.844575+00:00",
-        "description": "89-year-old comedian recovering after she was randomly punched on New York street"
     },
     "https://apnews.com/34b168e7a511e22ce7119a91932d2759": {
         "title": "With AI, jets, police squadrons, Paris securing Olympics -- and worrying critics...",
