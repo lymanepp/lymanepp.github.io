@@ -14,9 +14,9 @@ By the late 16th century, many Mennonites began migrating to the Vistula Delta r
 
 #### Hostility and Challenges in Prussia
 
-Despite the initial welcome and privileges, the Mennonites faced various forms of hostility and challenges during their time in Prussia. Local populations often viewed them with suspicion and resentment, partly due to their distinctiveness and the special privileges they enjoyed. The Mennonites’ exemption from military service was particularly contentious, as other citizens were required to serve.
+Despite the initial welcome and privileges, the Mennonites faced various forms of hostility and challenges during their time in Prussia. Local populations often viewed them with suspicion and resentment, partly due to their distinctiveness and the special privileges they enjoyed. The Mennonites' exemption from military service was particularly contentious, as other citizens were required to serve.
 
-The Mennonites’ German dialect, Plautdietsch, their traditional clothing, and their self-segregation in farming communities further accentuated their differences. These factors often led to social isolation and tension with their neighbors. Local authorities and residents sometimes accused the Mennonites of being unpatriotic or aloof, fueling animosity.
+The Mennonites' German dialect, Plautdietsch, their traditional clothing, and their self-segregation in farming communities further accentuated their differences. These factors often led to social isolation and tension with their neighbors. Local authorities and residents sometimes accused the Mennonites of being unpatriotic or aloof, fueling animosity.
 
 Economic competition also played a role in the hostility they encountered. The Mennonites' advanced agricultural techniques and industrious nature led to significant economic success, which bred jealousy and resentment among other local farmers. This economic rivalry occasionally resulted in discriminatory policies and actions aimed at curbing Mennonite prosperity.
 
