@@ -1,3 +1,7 @@
+---
+layout: base
+---
+
 ## The Journey of the Mennonites: From the Netherlands to Henderson, Nebraska
 
 The story of the Mennonites is one of faith, perseverance, and migration. This journey, which spans several centuries and thousands of miles, reflects their desire for religious freedom, community integrity, and agricultural prosperity. The Mennonites' path from the Netherlands to Henderson, Nebraska, traverses significant historical landscapes, including Prussia and South Russia, each leaving a unique imprint on their cultural and spiritual identity.
