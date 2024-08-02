@@ -2,7 +2,7 @@
 layout: base
 ---
 
-### Understanding Transgenderism from a Biblical Perspective
+## Understanding Transgenderism from a Biblical Perspective
 
 The rise of transgenderism presents significant challenges for the Christian church, both in maintaining biblical fidelity and in showing Christ-like compassion. In responding to transgenderism, the church must navigate complex cultural issues while staying grounded in the truth of Scripture. Here's a framework for how the church can respond effectively.
 

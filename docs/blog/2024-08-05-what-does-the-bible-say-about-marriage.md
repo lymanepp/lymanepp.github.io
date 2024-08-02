@@ -6,7 +6,7 @@ layout: base
 
 Same-sex marriage has become a significant cultural and political issue in recent years, with many advocating for its acceptance and legalization. However, from a biblical perspective, the concept of marriage is rooted in Scripture and has specific, God-given parameters. This blog post will explore the biblical view of marriage, why same-sex marriage is inconsistent with this view, and the implications for Christians seeking to uphold biblical truth.
 
-### **The Biblical Definition of Marriage**
+## **The Biblical Definition of Marriage**
 
 The Bible defines marriage as a sacred covenant between one man and one woman, instituted by God at the beginning of creation.
 

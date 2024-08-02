@@ -2,7 +2,7 @@
 layout: base
 ---
 
-### What the Bible Says About Homosexuality
+## What the Bible Says About Homosexuality
 
 The topic of homosexuality is one that has garnered significant attention in recent years, both within and outside of Christian circles. For those seeking to understand the biblical perspective on homosexuality, it's important to approach the Scriptures with clarity and context. This blog post aims to provide a thorough examination of what the Bible says about homosexuality, focusing on key passages and their interpretations.
 

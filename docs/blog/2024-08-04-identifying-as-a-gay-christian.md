@@ -2,7 +2,7 @@
 layout: base
 ---
 
-### Why It’s Problematic to Identify as a "Gay Christian"
+## Why It’s Problematic to Identify as a "Gay Christian"
 
 The term "Gay Christian" has emerged in contemporary discussions around sexuality and faith, reflecting an attempt to reconcile same-sex attraction with Christian identity. However, this term raises significant theological and doctrinal concerns within traditional Christian teachings. This blog post explores why identifying as a "Gay Christian" is problematic from a biblical perspective, considering the implications for both personal faith and the broader Christian community.
 

@@ -2,7 +2,7 @@
 layout: base
 ---
 
-### The Role of LGBT Individuals as Leaders in the Church: A Biblical Perspective
+## The Role of LGBT Individuals as Leaders in the Church: A Biblical Perspective
 
 The topic of LGBT individuals serving as leaders in the church has become increasingly prominent in recent years. As society's views on sexuality and gender evolve, the church faces important questions about leadership qualifications and the authority of Scripture. This blog post will explore the biblical perspective on church leadership, the implications for LGBT individuals in these roles, and how Christians can approach this issue with both truth and love.
 

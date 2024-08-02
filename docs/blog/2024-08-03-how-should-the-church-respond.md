@@ -2,7 +2,7 @@
 layout: base
 ---
 
-### How Should the Church Respond to Christians Who Experience Same-Sex Attraction
+## How Should the Church Respond to Christians Who Experience Same-Sex Attraction
 
 For Christians who experience same-sex attraction, the challenge of aligning their desires with their faith can be difficult. The biblical response offers guidance that is both compassionate and rooted in Scriptural truth. Here is a framework for responding to Christians facing this issue, centered on key biblical principles.
 
