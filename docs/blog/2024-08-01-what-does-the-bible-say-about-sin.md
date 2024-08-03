@@ -2,6 +2,10 @@
 layout: base
 ---
 
+## The Fall of Man
+
+The Fall of Man, or simply The Fall, describes the event in the Garden of Eden where Adam and Eve disobeyed God, introducing sin into the world. In Genesis 3:1-7, the serpent tempts Eve to eat from the Tree of the Knowledge of Good and Evil, which God had forbidden. Adam, who was with Eve, also partook of the forbidden fruit. Their disobedience immediately opened their eyes to their nakedness, leading to feelings of shame and guilt. As a consequence, God pronounced a curse upon the earth and humanity, resulting in pain, toil, and death, and fundamentally altering the relationship between God and mankind (Genesis 3:16-19). The Fall serves as the foundation for understanding the broken state of the world and the need for humanity's reconciliation with God.
+
 ## What the Bible Says About Sin
 
 One of the significant questions in Christian theology is whether merely desiring sinful things is itself sinful, or if sin only occurs when these desires are acted upon. This issue has profound implications for how Christians understand sin, temptation, and personal responsibility. In this blog post, we'll explore the biblical view on this topic, drawing from Scripture and historical theological perspectives, and examining the concepts of ordered versus disordered desires.
@@ -38,4 +42,4 @@ When we consent to or dwell on these desires, they transition from being merely 
 
 The biblical view holds that desiring sinful things is itself sinful when those desires are entertained, nurtured, or consented to. These desires are considered disordered because they deviate from God’s intended plan. Sin is deeply connected to our inner life—our thoughts, desires, and intentions—and not just our outward actions.
 
-However, Christians are not without hope. Through the gospel, believers are given the power to resist and overcome sinful, disordered desires. The church must be vigilant in teaching the seriousness of sin, including the sinfulness of wrongful desires, while also extending the grace of Christ to all who struggle. As believers, we are called to pursue holiness, trusting in the transformative work of the Holy Spirit to renew our minds and hearts.
+However, Christians are not without hope. Through the gospel, believers are given the power to resist and overcome sinful, disordered desires. The Church must be vigilant in teaching the seriousness of sin, including the sinfulness of wrongful desires, while also extending the grace of Christ to all who struggle. As believers, we are called to pursue holiness, trusting in the transformative work of the Holy Spirit to renew our minds and hearts.
