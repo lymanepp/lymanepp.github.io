@@ -29,7 +29,7 @@ These two verses in Leviticus provide direct prohibitions against same-sex relat
 - Leviticus 18:22: "You shall not lie with a male as with a woman; it is an abomination."
 - Leviticus 20:13: "If a man lies with a male as with a woman, both of them have committed an abomination; they shall surely be put to death; their blood is upon them."
 
-These verses are part of the Holiness Code, a section of Leviticus that outlines various laws meant to distinguish the Israelites from the surrounding nations. The use of the word "abomination" (Hebrew: to'ebah) indicates that this behavior is seen as morally detestable in God's eyes.
+These verses are part of the Holiness Code, a section of Leviticus that outlines various laws meant to distinguish the Israelites from the surrounding nations. The use of the word "abomination" (Hebrew: to'evá) indicates that this behavior is seen as morally detestable in God's eyes.
 
 ### New Testament Passages
 
