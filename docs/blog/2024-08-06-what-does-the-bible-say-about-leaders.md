@@ -12,7 +12,7 @@ The Bible outlines specific qualifications for those who serve as leaders within
 
 1. **Moral Integrity and Above Reproach**: In 1 Timothy 3:1-7, the Apostle Paul provides a list of qualifications for overseers (elders or pastors), emphasizing that they must be "above reproach," "faithful to his wife," "temperate, self-controlled, respectable, hospitable, able to teach," and "not given to drunkenness." Titus 1:6-9 echoes these requirements, stressing the importance of moral integrity and sound doctrine.
 
-2. **Biblical Sexual Ethics**: The Bible teaches that sexual immorality, which includes same-sex desires and acts, is incompatible with Christian living (1 Corinthians 6:9-10, Romans 1:26-27). Therefore, those who engage in or affirm behaviors contrary to biblical sexual ethics would not meet the qualifications for church leadership.
+2. **Biblical Sexual Ethics**: The Bible teaches that sexual immorality, which includes same-sex relations, is incompatible with Christian living (1 Corinthians 6:9-10, Romans 1:26-27). Jesus emphasizes that even harboring lustful thoughts is considered sinful, stating, "But I say to you that everyone who looks at a woman with lustful intent has already committed adultery with her in his heart" (Matthew 5:28). Therefore, those who engage in or affirm behaviors contrary to biblical sexual ethics would not meet the qualifications for church leadership.
 
 3. **Teaching and Upholding Sound Doctrine**: Church leaders are called to uphold and teach sound doctrine (Titus 1:9). This includes adhering to the biblical teachings on marriage and sexuality. Leaders who promote or practice views that conflict with these teachings would undermine the church’s adherence to Scripture.
 

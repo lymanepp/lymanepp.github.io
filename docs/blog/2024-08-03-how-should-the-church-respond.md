@@ -26,7 +26,7 @@ For Christians who experience same-sex attraction, the challenge of aligning the
 
   In Galatians 2:20 Paul writes, "I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave Himself for me." This verse highlights that the Christian life involves a daily dying to self and living in the power of Christ, which includes resisting sinful desires.
 
-- **Repentance and Transformation**: The Bible calls all believers to repentance, which involves turning away from sin and embracing God's ways. 1 Corinthians 6:9-11 lists various sins, including same-sex sexual acts, but also offers hope: "And such were some of you. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God." This passage highlights that transformation is possible through the power of Christ.
+- **Repentance and Transformation**: The Bible calls all believers to repentance, which involves turning away from sin and embracing God's ways. 1 Corinthians 6:9-11 lists various sins, including same-sex relations, but also offers hope: "And such were some of you. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God." This passage highlights that transformation is possible through the power of Christ.
 
 ### **Offering Support and Community**
 
