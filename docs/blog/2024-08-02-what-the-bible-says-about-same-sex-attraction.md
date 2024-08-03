@@ -2,7 +2,7 @@
 layout: base
 ---
 
-## What the Bible Says About Homosexuality
+## What the Bible Says About Same-Sex Attraction
 
 The topic of same-sex attraction has garnered significant attention in recent years, both within and outside Christian circles. For those seeking to understand the biblical perspective, it's important to approach the Scriptures with clarity and context. This blog post aims to provide a thorough examination of what the Bible says about same-sex attraction, focusing on key passages and their interpretations.
 
@@ -13,10 +13,10 @@ The biblical view holds that same-sex attraction, while not chosen, is a result 
 - **Genesis 19:1-29 – The Story of Sodom and Gomorrah**  
   The account of Sodom and Gomorrah is one of the earliest references to same-sex attraction in the Bible. In Genesis 19, two angels visit the city of Sodom, and the men of the city surround Lot’s house, demanding to have sexual relations with the visitors. Lot’s refusal and the subsequent destruction of the city are often cited in discussions on same-sex attraction.
 
-  While this passage clearly depicts same-sex intent as part of the wickedness of Sodom, it is important to note that the sin of Sodom was multifaceted, including arrogance, lack of hospitality, and social injustice (Ezekiel 16:49-50). However, the specific act of same-sex aggression is highlighted as a grievous sin.
+  While this passage clearly depicts same-sex sexual intent as part of the wickedness of Sodom, it is important to note that the sin of Sodom was multifaceted, including arrogance, lack of hospitality, and social injustice (Ezekiel 16:49-50). However, the specific act of same-sex sexual intent is highlighted as a grievous sin.
 
 - **Leviticus 18:22 and Leviticus 20:13**  
-  These two verses in Leviticus provide direct prohibitions against same-sex acts:
+  These two verses in Leviticus provide direct prohibitions against same-sex sexual acts:
 
   Leviticus 18:22: "You shall not lie with a male as with a woman; it is an abomination."
 
@@ -34,7 +34,7 @@ The biblical view holds that same-sex attraction, while not chosen, is a result 
 - **1 Corinthians 6:9-10**  
   In this passage, Paul lists behaviors that are incompatible with inheriting the kingdom of God: "Or do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice homosexuality, nor thieves, nor the greedy, nor drunkards, nor revilers, nor swindlers will inherit the kingdom of God."
 
-  The phrase "men who practice homosexuality" is translated from two Greek words: *malakoi* and *arsenokoitai*. While there is debate about the precise meanings, it is generally understood that these terms refer to different aspects of same-sex behavior.
+  The phrase "men who practice homosexuality" is translated from two Greek words: *malakoi* and *arsenokoitai*. While there is debate about the precise meanings, it is generally understood that these terms refer to different aspects of same-sex sexual behavior.
 
 - **1 Timothy 1:9-10**  
   Another Pauline passage lists "those who strike their fathers and mothers, for murderers, the sexually immoral, men who practice homosexuality, enslavers, liars, perjurers, and whatever else is contrary to sound doctrine." Here, acting on same-sex desires is grouped with other sins, emphasizing its incompatibility with Christian teaching.

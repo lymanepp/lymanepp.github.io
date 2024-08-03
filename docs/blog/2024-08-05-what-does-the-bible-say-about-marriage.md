@@ -24,7 +24,7 @@ Same-sex marriage, by its very nature, does not align with the biblical definiti
 
 2. **Procreation and Family Structure**: One of the primary purposes of marriage in the Bible is procreation—the bearing and raising of children within a stable family unit. Genesis 1:28 commands, "Be fruitful and multiply; fill the earth and subdue it." Same-sex unions, by their nature, cannot fulfill this procreative purpose.
 
-3. **Biblical Condemnation of Homosexual Acts**: Scripture consistently views homosexual behavior as sinful (Romans 1:26-27, 1 Corinthians 6:9-10, 1 Timothy 1:10). Since marriage is designed to be a holy and pure relationship, a union that includes or legitimizes sinful behavior cannot be considered a biblical marriage.
+3. **Biblical Condemnation of Same-Sex Sexual Acts**: Scripture consistently views same-sex sexual acts as sinful (Romans 1:26-27, 1 Corinthians 6:9-10, 1 Timothy 1:10). Since marriage is designed to be a holy and pure relationship, a union that includes or legitimizes sinful behavior cannot be considered a biblical marriage.
 
 ### **Theological and Moral Implications for Christians**
 
