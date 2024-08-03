@@ -24,7 +24,7 @@ The rise of transgenderism presents significant challenges for the Christian Chu
 
 ### **Offering Counseling and Support**
 
-- **Providing Biblical Counseling**: Individuals experiencing gender dysphoria need sensitive and wise pastoral care. The Church should be equipped to provide counseling that affirms God’s design for gender while helping individuals work through their struggles. Biblical counseling for gender dysphoria involves:
+- **Providing Biblical Counseling**: Individuals identifying as transgender need sensitive and wise pastoral care. The Church should be equipped to provide counseling that affirms God’s design for gender while helping individuals work through their struggles. Biblical counseling involves:
 
   - Compassionate listening and understanding, recognizing each individual's struggles while aligning with Biblical principles.
   - Guide individuals to find their primary identity in Christ, as emphasized in Colossians 3:3 and 2 Corinthians 5:17, rather than their gender feelings.
