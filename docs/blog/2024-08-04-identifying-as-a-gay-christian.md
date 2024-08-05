@@ -36,7 +36,7 @@ The concept of a "Gay Christian" intersects with the Christian call to balance g
 
 For Christians who experience same-sex attraction, the challenge is to align their lives with biblical teachings while seeking support and transformation. This involves several steps:
 
-1. **Embrace Biblical Teaching**: Accepting the Bible’s teachings on sexuality and living in accordance with them is essential. This may include seeking guidance through prayer, study of Scripture, and counsel from mature Christians.
+1. **Embrace Biblical Teaching**: Accepting the Bible's teachings on sexuality and living in accordance with them is essential. This may include seeking guidance through prayer, study of Scripture, and counsel from mature Christians.
 
 2. **Seek Support and Accountability**: Engaging in supportive communities, such as faith-based groups or counseling, can provide help in navigating personal struggles while upholding Christian values.
 

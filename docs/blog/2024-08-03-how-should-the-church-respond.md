@@ -20,7 +20,7 @@ Ephesians 1:4-5 reminds us that God chose us before the foundation of the world 
 
 - **Living a Life of Holiness**: Christians are called to live holy lives, set apart for God. 1 Peter 1:15-16 says, "But as He who called you is holy, you also be holy in all your conduct, because it is written, 'Be holy, for I am holy.'" This includes submitting all desires, including sexual ones, to God's will.
 
-- **Dying to Sin**: The concept of "dying to sin" is central to the Christian life. Romans 6:6-7 teaches, "For we know that our old self was crucified with Him so that the body ruled by sin might be done away with, that we should no longer be slaves to sin—because anyone who has died has been set free from sin." This passage emphasizes that believers, through union with Christ in His death, are called to put to death their sinful nature and live in the freedom that comes from being freed from sin’s power.
+- **Dying to Sin**: The concept of "dying to sin" is central to the Christian life. Romans 6:6-7 teaches, "For we know that our old self was crucified with Him so that the body ruled by sin might be done away with, that we should no longer be slaves to sin—because anyone who has died has been set free from sin." This passage emphasizes that believers, through union with Christ in His death, are called to put to death their sinful nature and live in the freedom that comes from being freed from sin's power.
 
   In Galatians 2:20 Paul writes, "I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave Himself for me." This verse highlights that the Christian life involves a daily dying to self and living in the power of Christ, which includes resisting sinful desires.
 
@@ -36,7 +36,7 @@ Ephesians 1:4-5 reminds us that God chose us before the foundation of the world 
 
 - **Celibacy as a Calling**: For those who do not feel called to heterosexual marriage, celibacy is a biblical and honorable option. 1 Corinthians 7:7-8 speaks to the value of celibacy, with Paul himself affirming that this can be a calling that allows for greater devotion to the Lord.
 
-- **Pursuing Heterosexual Marriage**: For some, God may lead them toward heterosexual marriage. This path should not be pursued out of pressure but out of a genuine transformation and calling. The Church should support individuals through counseling and prayer as they seek God’s will in this area.
+- **Pursuing Heterosexual Marriage**: For some, God may lead them toward heterosexual marriage. This path should not be pursued out of pressure but out of a genuine transformation and calling. The Church should support individuals through counseling and prayer as they seek God's will in this area.
 
 ### **Communicating Hope in the Gospel**
 
