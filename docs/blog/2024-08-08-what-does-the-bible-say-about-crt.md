@@ -1,4 +1,5 @@
 ---
+layout: base
 ---
 
 ### The Influence of Marxist Ideology on Christian Leadership
