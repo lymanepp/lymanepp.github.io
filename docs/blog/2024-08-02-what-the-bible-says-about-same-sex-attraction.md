@@ -6,7 +6,7 @@ layout: base
 
 The topic of same-sex attraction has garnered significant attention in recent years, both within and outside Christian circles. To understand the biblical perspective on this issue, it is crucial to approach the Scriptures with clarity and context. This blog post aims to provide a thorough examination of what the Bible says about same-sex attraction, focusing on key passages and their interpretations.
 
-The biblical view holds that same-sex attraction, while not chosen, is a result of the Fall and contrary to God's design for human sexuality. These desires are considered disordered because they seek fulfillment outside the natural order established by God for human relationships. Romans 1:26-27 refers to same-sex desires and relations as "dishonorable passions" and "contrary to nature," framing them as disordered in relation to God's intended order.
+The biblical view holds that same-sex attraction is contrary to God's design for human sexuality, as outlined in Scripture. Romans 1:26-27 describes same-sex desires and relations as "dishonorable passions" and "contrary to nature," indicating that they deviate from the natural order established by God. The Bible emphasizes that such desires do not align with the intended order for human relationships.
 
 To ensure a clear and consistent understanding of the concepts discussed, it is essential to define key terms used in this discussion:
 
