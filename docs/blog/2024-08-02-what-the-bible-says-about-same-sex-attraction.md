@@ -10,7 +10,7 @@ The biblical view holds that same-sex attraction is contrary to God's design for
 
 To ensure a clear and consistent understanding of the concepts discussed, it is essential to define key terms used in this discussion:
 
-- **Same-sex attraction**: Refers to the natural inclination or temptation to engage in same-sex behaviors. In the biblical context, attraction itself is not considered sinful but represents a challenge to align one's actions with God's commands. James 1:14 says, "but each person is tempted when they are dragged away by their own evil desire and enticed."
+- **Same-sex attraction**: Refers to the temptation to engage in same-sex behaviors. In the biblical context, attraction itself is not considered sinful but represents a challenge to align one's actions with God's commands. James 1:14 says, "but each person is tempted when they are dragged away by their own evil desire and enticed."
 
 - **Same-sex desires**: Describes when a person not only experiences same-sex attraction but also consents to, entertains, or nurtures thoughts and feelings related to it. James 1:15 says, "then, after desire has conceived, it gives birth to sin".
 
@@ -37,7 +37,7 @@ The Bible’s teachings on same-sex attraction must also be understood within th
 
 Sanctification, the process by which believers are made holy and conformed to the image of Christ, is central to this discussion. As Christians grow in their faith, they are called to align their lives more closely with God’s will, which includes rejecting sinful desires and behaviors. This transformative journey involves continuous repentance, renewal, and living out God's commands (Romans 6:11; Ephesians 4:22-24). 
 
-Thus, while the Bible's teachings on same-sex attraction are clear, it also emphasizes the transformative power of sanctification. Believers are invited to seek personal holiness and growth through the Holy Spirit, striving to overcome sinful inclinations and live according to God's design. In this process, Christians are called to respond to all sin with both truth and grace, upholding biblical teachings while extending love and compassion to individuals. This recognizes that everyone is in need of God's grace and the sanctifying work of Christ.
+Thus, while the Bible's teachings on same-sex attraction are clear, it also emphasizes the transformative power of sanctification. Believers are invited to seek personal holiness and growth through the Holy Spirit, striving to overcome sinful temptations and live according to God's design. In this process, Christians are called to respond to all sin with both truth and grace, upholding biblical teachings while extending love and compassion to individuals. This recognizes that everyone is in need of God's grace and the sanctifying work of Christ.
 
 In a world where views on sexuality are rapidly changing, Christians are called to stand firm in biblical truth while embodying Christ's love. The Bible's message is not just about condemning sin but about offering redemption and new life to all who turn to God in repentance and faith.
 
