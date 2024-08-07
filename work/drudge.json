@@ -1,4 +1,9 @@
 {
+    "https://maristpoll.marist.edu/polls/the-2024-presidential-contest-august-2024/": {
+        "title": "A+ POLL:  HARRIS 51% TRUMP 48%...",
+        "added": "2024-08-07T00:39:47.496037+00:00",
+        "description": "The Marist Institute for Public Opinion (MIPO) is a survey research center. MIPO is home to the Marist Poll and conducts polls on politics, the economy, sports, technology and more at the local, state, and national level."
+    },
     "https://www.realclearpolitics.com/video/2024/08/06/tim_walz_cant_wait_to_debate_jd_vance_if_hes_willing_to_get_off_the_couch_--_see_what_i_did_there.html": {
         "title": "He makes 'couch' reference to JD Vance!",
         "added": "2024-08-06T23:46:45.683333+00:00",
@@ -299,21 +304,6 @@
         "added": "2024-08-06T10:39:45.971970+00:00",
         "description": "S&P 500 futures rise after index posts worst day in nearly two years: Live updates"
     },
-    "https://www.msn.com/en-us/sports/other/ar-AA1odJoY": {
-        "title": "World records tumble...",
-        "added": "2024-08-06T00:39:12.446774+00:00",
-        "description": "Olympics-Swimming-World records tumble as US rule the Paris pool"
-    },
-    "https://www.cnbc.com/2024/08/06/asia-stock-markets-japan-household-spending-rba-rate-decision.html": {
-        "title": "JAPAN UP 8%",
-        "added": "2024-08-06T00:39:12.446774+00:00",
-        "description": "Japan stocks rebound 8% after historic losses; other Asia markets also open higher"
-    },
-    "https://finance.yahoo.com/news/us-judge-describes-google-built-224025324.html": {
-        "title": "Judge describes how it built and defended illegal monopoly...",
-        "added": "2024-08-06T00:39:12.446774+00:00",
-        "description": "US judge describes how Google built and defended illegal search monopoly"
-    },
     "https://finance.yahoo.com/news/google-loses-doj-antitrust-suit-184845811.html": {
         "title": "GARLAND:  'Historic win for American people'...",
         "added": "2024-08-06T00:39:12.446774+00:00",
@@ -324,11 +314,6 @@
         "added": "2024-08-06T00:39:12.446774+00:00",
         "description": "Big Tech Traders Brace for More Swings as Selloff Turns Violent"
     },
-    "https://deadline.com/2024/08/kamala-harris-vp-pick-josh-shapiro-first-hollywood-favorite-1236031889/": {
-        "title": "Hollywood Donors Want Shapiro...",
-        "added": "2024-08-06T00:39:12.446774+00:00",
-        "description": "Hollywood Loves Drama Of Kamala Harris\u2019 Veepstakes Decision, But Has A Clear Favorite"
-    },
     "https://www.yahoo.com/news/secretaries-state-urge-musk-fix-124039504.html": {
         "title": "X's AI chatbot spreading election misinformation, officials say...",
         "added": "2024-08-05T23:46:50.937210+00:00",
@@ -338,11 +323,6 @@
         "title": "White House in 'around-the-clock' push against Mideast war...",
         "added": "2024-08-05T23:46:50.937210+00:00",
         "description": "US in 'around-the-clock' push against Mideast war"
-    },
-    "https://finance.yahoo.com/news/global-markets-reeling-economists-don-165440802.html": {
-        "title": "'DON'T PANIC'",
-        "added": "2024-08-05T23:46:50.937210+00:00",
-        "description": "Global markets are reeling, but economists say: Don\u2019t panic yet"
     },
     "https://www.yahoo.com/news/water-power-could-helped-egyptians-180000716.html": {
         "title": "Water power could have helped Egyptians build the pyramids...",
